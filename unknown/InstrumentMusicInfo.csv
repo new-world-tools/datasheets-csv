@@ -1,0 +1,7 @@
+Song,DisplayName,FileName,Instruments,BuffName,BuffEquipSpeed,BuffMaxStack
+NewWorldMarch,Damage \n Buff,Music/NewWorldMarch.abc,Fife,inspired,5,5
+Beethoven5th,Defense \n Buff,Music/beesym5.abc,Fife,,,
+supmar,Test Super Mario,Music/supmar.abc,Fife,,,
+flintstones,Test Flinstones,Music/flintstones.abc,Fife,,,
+chopsticks,TestChopsticks,Music/chopsticks.abc,Fife,,,
+NewWorldDrums,Damage\nBuff,Music/NewWorldMarchDrums.abc,Snare,inspired,5,5

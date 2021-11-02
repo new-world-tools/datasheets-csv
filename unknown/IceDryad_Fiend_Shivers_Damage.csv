@@ -1,0 +1,10 @@
+DamageID,WeaponCategory,IgnoreInvulnerable,NoReaction,IsRanged,SurfaceImpactEffect,AttackType,DamageType,Affixes,StatusEffect,EffectOnlyOnDamage,DeflectDamageID,CanCrit,DmgCoef,DmgCoefHead,DmgCoefCrit,PowerLevel,BlockPowerLevel,CritPowerLevel,HitStun,BlockHitStun,CritHitStun,ImpactDistanceX,ImpactDistanceY,ImpactDistanceZ,ImpactDecayRate,CritImpactDistanceX,CritImpactDistanceY,CritImpactDistanceZ,CritImpactDecayRate,BlockImpactDistanceX,BlockImpactDistanceY,BlockImpactDistanceZ,BlockImpactDecayRate,AddDmg,StaggerDmgModifier,StaggerResistModifier,CameraShakeID,ImpactRating,BlockStaminaDmgMod,BlockAbsorptionModifier
+FrostBelch,Unarmed,0,0,,Bullet,Light,Ice,,,true,Default,false,0.5,0.5,0.5,2,0,2,10,2,0,0,0.3,0,0.4,0,0,0,0.4,0,0.25,0,0,0,1,1,Small,3,0.1,1
+Attack,Unarmed,0,0,,Bullet,Light,Slash,,,,Deflect_Default,false,0.35,1,1,0,1,0,15,10,15,0,1,0,0.8,0,1,0,0.8,0,0.8,0,0.8,0,1,0.1,Small ,1,0.1,1
+Attack_Rampage,Unarmed,0,0,,Bullet,Light,Slash,,,,Deflect_Default,false,0.2,1,1,0,1,0,15,10,15,0,1,0,0.8,0,1,0,0.8,0,0.8,0,0.8,0,1,0.1,Small ,1,0,1
+Attack_Leap,Unarmed,0,0,,Bullet,Heavy,Strike,,,,Deflect_Default,false,1,1,1,2,1,2,20,12,20,0,3,0,0.8,0,3,0,0.8,0,1.5,0,0.8,0,3,0.7,Small ,1,1,1
+Reaction_Breakout,Fall,1,1,,Fall,Fall,Strike,,,,Default,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Small,1,1,0
+Reaction_BreakoutAttack_Light,Sword,1,1,,Bullet,Light,Slash,,,,Default,false,0.05,0.05,0,0,1,0,15,5,0,0,0.6,0,0.4,0,0,0,0.4,0,0.5,0,0,0,1,1,Small,1,1,0
+Reaction_BreakoutAttack_Heavy,Sword,1,1,,Bullet,Heavy,Thrust,,,,Default,false,0.1,0.1,0,1,2,0,25,15,0,0,0.4,0,0.4,0,0,0,0.4,0,0.35,0,0,0,1,2,Large,1,1,0
+Frostfang_Grit_StaggerResist,Fall,0,0,,Bullet,,,,,,Default,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Small,0,0,0
+Fall,Fall,1,1,,Falling,,Falling,,,,,,1,1,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,1
