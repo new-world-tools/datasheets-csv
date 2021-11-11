@@ -1,16 +1,23 @@
 Index,Name,Color,Category,IsEntitlement,ColorAmount,ColorOverride,SpecColor,SpecAmount,MaskGlossShift
 4,PrimeBlue,#00A8E1,Reserved,1,1,0.1,#31608c,1,0.5
 22,AmazonOrange,#FF9900,Reserved,1,1,0.05,#FF9900,0.15,0.5
+23,TwitchPurple,#9472c8,Reserved,1,1,0.1,#40365f,1,0.5
+27,Ship Gray,#403d44,Reserved,1,1,0.5,#1d1b21,1,0.5
 30,Sublime Bone,#b1b6be,Reserved,1,1,0.05,#7d7f85,0.7,0.5
 32,Bleached Cofee,#9d826e,Reserved,1,1,0.1,#533b2c,1,0.5
 34,Blood,#6c1201,Reserved,1,1,0.4,#2c0b06,1,0.5
 36,Viola,#c88ba8,Reserved,1,1,0.1,#8e4d64,1,0.5
 38,Burnt Sienna,#e5824b,Reserved,1,1,0.1,#e5824b,0.3,0.5
+39,Silt,#b1a63d,Reserved,1,1,0.1,#b1a63d,0.3,0.5
+42,Key Lime,#b6be6b,Reserved,1,1,0.05,#4b4c22,1,0.5
 43,Forest Green,#204705,Reserved,1,1,0.5,#040f00,1,0.5
 47,Tradewind,#54b2ac,Reserved,1,1,0.1,#54b2ac,0.3,0.5
+48,Hidden Stream,#84baac,Reserved,1,1,0.1,#84baac,0.3,0.5
 49,Blued Steel,#2d4483,Reserved,1,1,0.3,#19274e,1,0.5
 52,Spring Grape,#5c4686,Reserved,1,1,0.2,#5c4686,0.3,0.5
+55,Deep Velvet,#3e234e,Reserved,1,1,0.3,#3e234e,0.3,0.5
 57,Lavender,#ac7db3,Reserved,1,1,0.05,#ac7db3,0.3,0.5
+58,Silver,#d0d9e1,Reserved,1,1,0.2,#929697,1,0.75
 100,Frozen Basalt,#384952,Grey,0,1,0.5,#192228,1,0.5
 101,Crumbled Rock,#5b5a61,Grey,0,1,0.2,#262629,1,0.45
 102,Dove Gray,#6c6869,Grey,0,1,0.2,#2c292b,1,0.5
