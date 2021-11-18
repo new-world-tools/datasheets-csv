@@ -4,8 +4,8 @@ Spear_Flurry_Bump,Spear_AI,,,,,Light,Thrust,,,,,false,0.285,1,1,0,1,0,15,15,15,0
 Spear_Swipe,Spear_AI,,,,,Light,Slash,,,,,false,0.7,1,1,0,1,0,15,10,25,0,0.5,0,0.8,0,0.5,0,0.8,0,0.5,0,0.8,0,0.6,,Small,,,0.5,1,0.5,,
 Spear_Swipe_Wave,Spear_AI,,,,,Light,Slash,,,,,false,0.4,1,1,0,1,0,15,10,25,0,0.5,0,0.8,0,0.5,0,0.8,0,0.5,0,0.8,0,0.6,,Small,,,0.5,1,0.5,,
 Spear_Lunge,Spear_AI,,,,,Heavy,Thrust,,,,,false,0.8,1,1,2,2,2,25,20,25,0,1.5,0,0.8,0,1.5,0,0.8,0,1,0,0.8,0,0.6,,Small,,,1,1,1,,
-Spear_Throw,Spear_Throw,1,,,,Ranged,Thrust,,,,,false,0.65,1,1,4,4,4,35,30,35,0,5.5,0,0.8,0,5.5,0,0.8,0,4,0,0.8,0,1.2,,Small,,,0.8,1,1,,
-Spear_Throw_Arc,Spear_Throw,1,,,,Ranged,Thrust,,AI_Naga_AncientGuardian_Arc_StatusEffect,true,,false,0.3,1,1,4,4,4,35,30,35,0,5.5,0,0.8,0,5.5,0,0.8,0,4,0,0.8,0,0,,Small,,,0.8,1,1,,
+Spear_Throw,Spear_Throw,1,,,,Heavy,Thrust,,,,,false,0.65,1,1,4,4,4,35,30,35,0,5.5,0,0.8,0,5.5,0,0.8,0,4,0,0.8,0,1.2,,Small,,,0.8,1,1,,
+Spear_Throw_Arc,Spear_Throw,1,,,,Heavy,Thrust,,AI_Naga_AncientGuardian_Arc_StatusEffect,true,,false,0.3,1,1,4,4,4,35,30,35,0,5.5,0,0.8,0,5.5,0,0.8,0,4,0,0.8,0,0,,Small,,,0.8,1,1,,
 Arcane_Bomb,AncientMagic,1,1,,,Magic,Arcane,,,,,false,1,1,1,4,4,4,35,30,35,0,5.5,0,0.8,0,5.5,0,0.8,0,5.5,0,0.8,0,3,,Small,,,2,1,1,,true
 Arcane_Wave,AncientMagic,1,,,,Magic,Arcane,,AI_Snare_4sec,,,false,0.4,1,1,0,0,0,15,10,15,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,1,,Small,,,0.6,1,0,,
 Arcane_Bolt,AncientMagic,1,,,,Magic,Arcane,,,,,false,0.25,1,1,0,0,0,15,10,15,0,0.5,0,0.8,0,0.5,0,0.8,0,0.5,0,0.8,0,0.6,,Small,,,0.5,1,0,,
