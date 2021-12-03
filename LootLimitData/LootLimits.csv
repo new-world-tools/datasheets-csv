@@ -1,0 +1,8 @@
+LootLimitID,IsItem,MinLimitSeconds,MaxLimitSeconds,CountLimit,MinLimitMult,MaxLimitMult,LimitExpireSeconds
+ORGypsum,FALSE,840,900,2,100,100,72000
+GypsumBlue,FALSE,170,180,2,400,400,72000
+PostCapGypsum,FALSE,3500,3600,1,20,20,72000
+GypsumBlack,FALSE,900,1200,3,60,60,72000
+GypsumYellow,FALSE,60,180,10,240,240,72000
+ArenaGypsum,FALSE,3500,3600,1,20,20,72000
+BreachGypsum,FALSE,120,240,7,300,300,72000

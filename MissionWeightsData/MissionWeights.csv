@@ -3,6 +3,7 @@ RAID_slot_1,1,,Raid,9000
 EXPEDITION_RAID_slot_1,1,,Log,1000
 LOOT_slot_1,1,,Loot,1
 HUNT_slot_1,1,,Hunt,1
+BREACH_slot_1,1,,Craft,6000
 LOOT_slot_2,2,,Loot,9000
 EXPEDITION_LOOT_slot_2,2,,Harvest,1500
 RAID_slot_2,2,,Raid,1
