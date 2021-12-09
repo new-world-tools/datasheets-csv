@@ -342,7 +342,7 @@ Ent_Housing_Winter21_PackagePile,462,true,,,,,HousingItem,House_HousingItem_Enti
 Ent_Housing_Winter21_Poinsettia,463,true,,,,,HousingItem,House_HousingItem_Entitlement_Winter2021_Poinsettia,,Store,
 Ent_Housing_Winter21_Snowman,464,true,,,,,HousingItem,House_HousingItem_Entitlement_Winter2021_Snowman,,Store,
 Ent_Housing_Winter21_Wreath,465,true,,,,,HousingItem,House_HousingItem_Entitlement_Winter2021_Wreath_A,,Store,
-Ent_Housing_Winter21_Bundle,466,true,,,,,Entitlement,Ent_Housing_Winter21_Chandelier+Ent_Housing_Winter21_Garland+Ent_Housing_Winter21_GingerbreadHouse+Ent_Housing_Winter21_HolidayTree+Ent_Housing_Winter21_Mistletoe+Ent_Housing_Winter21_PackagePile+Ent_Housing_Winter21_Poinsettia+Ent_Housing_Winter21_Snowman+Ent_Housing_Winter21_Wreath,,Store,
+Ent_Housing_Winter21_Bundle,466,true,,,,,Entitlement,Ent_Housing_Winter21_Chandelier+Ent_Housing_Winter21_Garland+Ent_Housing_Winter21_GingerbreadHouse+Ent_Housing_Winter21_HolidayTree+Ent_Housing_Winter21_PackagePile+Ent_Housing_Winter21_Snowman,,Store,
 Ent_Pet_RednoseDeer,467,true,,,,,HousingItem,House_HousingItem_Pet_Entitlement_Deer_RedNose,,Store,
 EntitlementSkin_Chest_WinterWanderer,472,true,,,,,ItemSkin,Skin_Chest_WC_Cloak,,Store,
 Ent_Venetian_Crest_Pack,491,true,,,,,Entitlement,icon_crest_096_Twitch+icon_crest_097_Twitch+icon_crest_098_Twitch,,Prime,

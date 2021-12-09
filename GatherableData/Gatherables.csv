@@ -324,7 +324,7 @@ DyePlantWhite,@DyePlantWhite_DisplayName,Cutting,Cutting,DyePlantWhite,,900,1800
 DyePlantBrown,@DyePlantBrown_DisplayName,Cutting,Cutting,DyePlantBrown,,900,1800,Harvesting,0,,12,false,ToolRequired,false,Gather_HarvestingT1,,,,,,,Pigment,,,,,,
 DyePlantBlack,@DyePlantBlack_DisplayName,Cutting,Cutting,DyePlantBlack,,900,1800,Harvesting,0,,12,false,ToolRequired,false,Gather_HarvestingT1,,,,,,,Pigment,,,,,,
 DyePlantMagenta,@DyePlantMagenta_DisplayName,Cutting,Cutting,DyePlantMagenta,,900,1800,Harvesting,0,,12,false,ToolRequired,false,Gather_HarvestingT1,,,,,,,Pigment,,,,,,
-LostPresent00,@LostPresent00_DisplayName,None,None,WinterConv_LostPresent_Standard,,900,1800,None,,,2.5,false,NoToolNecessary,true,Gather_WinterConv_LostPresent_Standard,,,,,,,,true,,,,,
+LostPresent00,@LostPresent00_DisplayName,None,None,WinterConv_LostPresent_Standard,,900,1800,None,,,2.5,false,NoToolNecessary,false,Gather_WinterConv_LostPresent_Standard,,,,,,,,true,,,,,
 LostPresent01,@LostPresent01_DisplayName,None,None,WinterConv_LostPresent_Rare,,900,1800,None,,,2.5,false,NoToolNecessary,true,Gather_WinterConv_LostPresent_Rare,,,,,,,,true,,,,,
 LootSmallT1,@LootContainer_DisplayName_Small,None,None,Empty,,0,0,None,,,2.5,false,NoToolNecessary,true,,,,true,true,true,,,,,,,,
 LootSmallT1_Standing,@LootContainer_DisplayName_Small,Handcrafting,None,Empty,,0,0,None,,,2.5,false,NoToolNecessary,true,,,,true,true,true,,,,,,,,
