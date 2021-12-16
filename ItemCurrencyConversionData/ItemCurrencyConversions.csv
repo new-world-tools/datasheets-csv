@@ -729,7 +729,7 @@ WE_MediumFeetT5,MediumFeet_HollyKingT5_Shop,,,,,,1,0,1,37,EventProgress,EventPro
 WE_HeavyFeetT5,HeavyFeet_OakKingT5_Shop,,,,,,1,0,1,38,EventProgress,EventProgress,4,,,WCPToken,2,,,,
 WE_FurnitureBed,House_HousingItem_Bed_HolidayConv2021_Bed01_A,,,,,,1,0,1,39,EventProgress,EventProgress,4,,,WCPToken,5,,,,
 WE_FurnitureBookcase,House_HousingItem_HolidayConv2021_Bookcase01_A,,,,,,1,0,1,40,EventProgress,EventProgress,4,,,WCPToken,3,,,,
-WE_StatueStag,House_HousingItem_HolidayConv2021_Statue_Stag,,,,,,1,0,1,41,EventProgress,EventProgress,4,,,WCPToken,1,,,,
+WE_StatueStag,House_HousingItem_HolidayConv2021_Statue_Stag,,,,,,1,0,1,41,EventProgress,EventProgress,4,,,WCPToken,10,,,,
 WE_ArtifactSwordT5,Artifact_WCWeaponSwordT5,,,,,,1,0,1,42,EventProgress,EventProgress,4,,,WCToken,1,,,,
 WE_ArtifactRoundShieldT5,Artifact_WCWeaponRShieldT5,,,,,,1,0,1,43,EventProgress,EventProgress,4,,,WCToken,1,,,,
 WE_ArtifactKiteShieldT5,Artifact_WCWeaponKShieldT5,,,,,,1,0,1,44,EventProgress,EventProgress,4,,,WCToken,1,,,,
