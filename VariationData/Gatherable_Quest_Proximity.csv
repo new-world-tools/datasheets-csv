@@ -20,3 +20,5 @@ MSQ_0017_Corruption,slices\WorldEvents\MainStoryQuest\EbonrockCavern\WorldEvent_
 MSQ_0090_FindYrsa1_Proximity,,,,,MSQ_0090_FindYrsa1_Proximity,4,3.25,3.25,,,,cFX_Loot.Loot_Quest_Small,,cFX_Loot.Loot_Quest_Small_Depleted,,,,,,IO_MSQ_0090_FindYrsa1_Proximity,true,,,3.25,
 MSQ_0090_FindYrsa2_Proximity,,,,,MSQ_0090_FindYrsa2_Proximity,4,3.25,3.25,,,,cFX_Loot.Loot_Quest_Small,,cFX_Loot.Loot_Quest_Small_Depleted,,,,,,IO_MSQ_0090_FindYrsa2_Proximity,true,,,3.25,
 MSQ_0090_FindYrsa3_Optional_Proximity,slices\WorldEvents\MainStoryQuest\FindYrsa\WorldEvent_Object_MSQ_FindYrsa2_Optional_VisualHealthy.dynamicslice,,,,MSQ_0090_FindYrsa3_Optional_Proximity,4,3.25,3.25,,,,cFX_Loot.Loot_Quest_Small,,cFX_Loot.Loot_Quest_Small_Depleted,,,,,,IO_MSQ_0090_FindYrsa3_Optional_Proximity,true,,,3.25,
+CyclicExample_Black_Prisma,slices\Test\CyclicExample_Prisma_Black.dynamicslice,,,,CyclicExample_Black_Prisma,4,3.25,5,,,,cFX_Loot.Loot_Quest_Small,,,,,,,,,,,,,true
+ProximityExample_Black_Prisma,slices\Test\CyclicExample_Prisma_Black.dynamicslice,,,,CyclicExample_Black_Prisma,4,3.25,5,,,,cFX_Loot.Loot_Quest_Small,,,,,,,,,,,,,
