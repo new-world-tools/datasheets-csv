@@ -221,8 +221,6 @@ MSQ_0090_FindYrsa2,,,,,MSQ_0090_FindYrsa2,0.3,3.25,2.5,5,,,,cFX_Loot.Loot_Quest_
 1124_VistaPoint2,,,,,1124_VistaPoint2,1,3.25,2.5,5,,Play_Gather_Chest_Small,,cFX_Loot.Loot_Quest_Small,,cFX_Loot.Loot_Quest_Small_Depleted,,,,,,IO_1124_VistaPoint2,true,,,
 1124_VistaPoint3,,,,,1124_VistaPoint3,1,3.25,2.5,5,,Play_Gather_Chest_Small,,cFX_Loot.Loot_Quest_Small,,cFX_Loot.Loot_Quest_Small_Depleted,,,,,,IO_1124_VistaPoint3,true,,,
 1124_VistaPoint4,,,,,1124_VistaPoint4,1,3.25,2.5,5,,Play_Gather_Chest_Small,,cFX_Loot.Loot_Quest_Small,,cFX_Loot.Loot_Quest_Small_Depleted,,,,,,IO_1124_VistaPoint4,true,,,
-1132_GrampasGun,,,,,1132_GrampasGun,1,3.25,2.5,5,,Play_Gather_Chest_Small,,cFX_Loot.Loot_Quest_Small,,cFX_Loot.Loot_Quest_Medium_Depleted,,,,,,IO_1132_GrampasGun,true,,,
-1132_Digby,,,,,1132_Digby,1,3.25,2.5,5,,Play_Gather_Chest_Small,,cFX_Loot.Loot_Quest_Small,,cFX_Loot.Loot_Quest_Small_Depleted,,,,,,IO_1132_Digby,true,,,
 SliceSwap_1124_PierresNote,,,,,SliceSwap_NonInstanced,1,3.25,2.5,5,,,,,,,,,,,,,false,SwapActive_1124_Pierre_Town_off,Depleted,
 SliceSwap_1129_Jaansen_Note,,,,,SliceSwap_NonInstanced,1,3.25,2.5,5,,,,,,,,,,,,,false,11_Jaansen_1,Depleted,
 PVP_0001_DeadDropGiveItem,slices\WorldEvents\Missions\Interact\DeadDrop\WorldEvent_Object_PVP_0001_DeadDropGiveItem_00.dynamicslice,slices\WorldEvents\Missions\Interact\DeadDrop\WorldEvent_Object_PVP_0002_DeadDropTakeItem_00.dynamicslice,slices\WorldEvents\Missions\Interact\DeadDrop\WorldEvent_Object_PVP_0001_DeadDropGiveItem_00.dynamicslice,,PVP_0001_DeadDropGiveItem,1,3.25,2.5,5,,,,cFX_Loot.Loot_Quest_Small,,cFX_Loot.Loot_Quest_Small_Depleted,,,,,,IO_PVP_0001_DeadDropGiveItem,true,,,
@@ -341,7 +339,6 @@ SwapSlice_Harunobu_Pork,,,,,SliceSwap_NonInstanced,1,3.25,2.5,5,,,,,,,,,,,,,fals
 SwapSlice_Perils1,,,,,SliceSwap_NonInstanced,1,3.25,2.5,5,,,,,,,,,,,,,false,SwapActive_1124_Pierre_Town_off,Depleted,
 SwapSlice_Perils2,,,,,SliceSwap_NonInstanced,1,3.25,2.5,5,,,,,,,,,,,,,false,SwapActive_1124_Pierre_Town_off,Depleted,
 SwapSlice_Perils3,,,,,SliceSwap_NonInstanced,1,3.25,2.5,5,,,,,,,,,,,,,false,SwapActive_1124_Pierre_Town_off,Depleted,
-1130_CursedAxe,slices\POIs\Assembly\Crafting\Props\Lighting\Lights\Candles\Candle_SM_Group_Yellow_Mstr.dynamicslice,,,,1130_CursedAxe,2,5,5,5,,,,cFX_Loot.Loot_Quest_Small,,cFX_Loot.Loot_Quest_Small_Depleted,,,,-1,,IO_1130_CursedAxe,true,,,
 0726_Gravestone,slices\WorldEvents\ShatteredMountain\Interact\IsabellasLair\WorldEvent_Object_0726_Gravestone.dynamicslice,slices\WorldEvents\ShatteredMountain\Interact\IsabellasLair\WorldEvent_Object_0726_Gravestone01.dynamicslice,,,0726_Gravestone,0.3,3.25,2.5,5,,,,ENV_Dungeon_ShatterMtn.Memory_Idle,,,,,,,,IO_0726_Gravestone,true,,,
 0726_BookOfIsabella,slices\Housing\Items\Furniture\Decor\House_Writing_OpenBook.dynamicslice,slices\Housing\Items\Furniture\Decor\House_Writing_OpenBook.dynamicslice,,,0726_BookOfIsabella,4,5,6,5,,,,cFX_Loot.Loot_Quest_Small,,cFX_Loot.Chest_Big_Celebration01,,,,-1.25,,IO_0726_BookOfIsabella,false,SwapActive_MSQ_MaraBook,Depleted,
 CyclicExample_White_Prisma,slices\Test\CyclicExample_Prisma_White.dynamicslice,,,,CyclicExample_White_Prisma,4,3.25,2.5,5,,,,cFX_Loot.Loot_Quest_Small,,,,,,,,,,,,true
