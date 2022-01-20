@@ -13,3 +13,4 @@ AI_Neutral,,,0,0,0,0,
 NonDispellableDebuff,,,0,0,0,0,
 MutatorEmpower,,,,,,,"DMGStandard:5.0,DMGSiege:5.0,DMGStrike:5.0,DMGSlash:5.0,DMGThrust:5.0,DMGArcane:5.0,DMGFire:5.0,DMGIce:5.0,DMGNature:5.0,DMGLightning:5.0,DMGCorruption:5.0"
 MutatorHearty,,,,,,,MaxHealthMod:5.0
+MutatorDisease,,,,,,,HealMod:-1.0

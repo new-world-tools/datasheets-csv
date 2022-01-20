@@ -343,7 +343,7 @@ Goat,@Goat_DisplayName,Dressing,Dressing,Goat,,900,1800,Skinning,,,12,false,Tool
 Sheep,@Sheep_DisplayName,Dressing,Dressing,Sheep,,900,1800,Skinning,,,12,false,ToolRequired,true,Gather_SkinningT1,,,,false,,,,,,,,,
 Churro,@Churro_DisplayName,Dressing,Dressing,Sheep,,900,1800,Skinning,,,12,false,ToolRequired,true,Gather_SkinningT1,,,,false,,,,,,,,,
 Alligator,@Alligator_DisplayName,Dressing,Dressing,AlligatorSkinning,,900,1800,Skinning,,,22,false,ToolRequired,true,Gather_SkinningT2,,,,false,,,,,,,,,
-Alligator_Young,@Alligator_Young_DisplayName,Dressing,Dressing,AlligatorSkinning,,900,1800,Skinning,,,12,false,ToolRequired,true,Gather_SkinningT1,,,,false,,,,,,,,,
+Alligator_Young,@Alligator_Young_DisplayName,Dressing,Dressing,AlligatorYoungSkinning,,900,1800,Skinning,,,12,false,ToolRequired,true,Gather_SkinningT1,,,,false,,,,,,,,,
 Alligator_Strange,@Alligator_Strange_DisplayName,Dressing,Dressing,AlligatorSkinning,,900,1800,Skinning,,,22,false,ToolRequired,true,Gather_SkinningT2,,,,false,,,,,,,,,
 Cow,@Cow_DisplayName,Dressing,Dressing,FarmCow,,900,1800,Skinning,,,17,false,ToolRequired,true,Gather_SkinningT2,,,,false,,,,,,,,,
 Cow_Milk,@Cow_Milk_DisplayName,Cutting,None,Settlement_Milk,,3600,3600,None,,,8,false,NoToolNecessary,true,,,,,true,,,,,,,,,
