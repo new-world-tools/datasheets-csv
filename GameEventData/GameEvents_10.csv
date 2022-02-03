@@ -44,3 +44,7 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,UniversalExpAmount,Curre
 1004_0103_HiltLeather_Quest_success,,50,Quest+,,2890,14000,,,,,,250,,,,,true,20,1
 1004_0103_Grindstone_Quest_success,,50,Quest+,,2890,14000,,,,,,250,,,,,true,20,1
 1004_0103_CaptainsBlade_Quest_success,,50,Quest+,,2890,14000,,,,,,250,,,,,true,20,1
+WM_Bow_0101_BowMastery_01_success,,15,Quest,Weapons,690,5625,QuestRewardWeaponsL15,,,,,175,,,,,true,10,1
+WM_Bow_0102_BowMastery_02_success,,30,Quest,Weapons,1460,7500,QuestRewardWeaponsL30,,,,,175,,,,,true,10,1
+WM_Bow_0103_BowMastery_03_success,,45,Quest,Weapons,2110,9375,QuestRewardWeaponsL45,,,,,175,,,,,true,10,1
+WM_Bow_0104_BowMastery_04_success,,60,Quest+,Weapons,3750,15750,QuestRewardWeaponsL60,,,,,250,,,,,true,30,1

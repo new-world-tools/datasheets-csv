@@ -95,7 +95,7 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 1524_1517_d_04_02_find_DoubloonG,TaskGameEvent,,,1,,,,,,,bombasticwreckage,,,,,,,,,,IO_1524_DoubloonG,,,1524_DoubloonG_interact,,,,,,,,,,,,,,,,,,,,@1524_1517_d_02_Task_Doubloons,,,,,,,,,,,,,
 1524_1517_d_04_03_find_DoubloonH,TaskGameEvent,,,1,,,,,,,bombasticwreckage,,,,,,,,,,IO_1524_DoubloonH,,,1524_DoubloonH_interact,,,,,,,,,,,,,,,,,,,,@1524_1517_d_02_Task_Doubloons,,,,,,,,,,,,,
 1524_1517_d_04_04_find_DoubloonI,TaskGameEvent,,,1,,,,,,,bombasticwreckage,,,,,,,,,,IO_1524_DoubloonI,,,1524_DoubloonI_interact,,,,,,,,,,,,,,,,,,,,@1524_1517_d_02_Task_Doubloons,,,,,,,,,,,,,
-1524_1517_d_05_Task_Swap,TaskTemporaryUnlockAchievement,,,1,SwapActive_1524_Boatswain01_Moved,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,
+1524_1517_d_05_Task_Swap,TaskLockAchievement,,,1,SwapActive_1524_Boatswain01_Moved,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,
 1524_1517_d_06_container_PiratesLife,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,1524_1517_d_07_Task_Interact,1524_1517_d_08_Task_Kill,,,
 1524_1517_d_07_Task_Interact,TaskGameEvent,,,1,,,,,,,bombasticwreckage,,,,,,,,,,IO_1524_GoldenStash,,,IO_1524_GoldenStash_interact,,,,,,,,,,,,,,,,,,,,@1524_1517_d_07_Task_Interact,,13731.109 4341.433 39.571,,,,,,,,,,,
 1524_1517_d_08_Task_Kill,TaskKillContribution,,,1,,,,,,,bombasticwreckage,,,,,,,,,,,,,Undead_Officer_Named_1524_1517_WaveEventBoss,,,,,,,,,,,,,,,,,,,,@1524_1517_d_08_Task_Kill,,13731.109 4341.433 39.571,,,,,,,,,,,

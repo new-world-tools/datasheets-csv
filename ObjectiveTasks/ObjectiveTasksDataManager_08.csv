@@ -16,7 +16,7 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 0804_0804_d_03_TaskGameEvent_shrine,TaskGameEvent,,,1,,,,,true,,graveyard_40338,,,,,,,,,,IO_0804_AltarOfTheDeparted,,,0804_AltarOfTheDeparted_interact,,,,,,,,,,,,,,,,,,,,@0804_0804_d_02_TaskGameEvent_shrine,8290 7077 197,,,,,,,,,,,
 0804_0804_d_04_TaskKillContribution_threewaves,TaskKillContribution,,1,1,,,,,true,,graveyard_40338,,,,,,,,,,,,,Withered_Grunt_Named_08QP07,,,,,,,,,,,,,,,,,,,,@0804_0804_d_03_TaskKillContribution_threewaves,8305 7080 196,,,,,,,,,,,
 0803_0805_d_00_container_EbonscaleAlligators,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0803_0805_d_01_TaskGoToPOITag_alligator,0803_0805_d_01a_Container,,,
-0803_0805_d_01_TaskGoToPOITag_alligator,TaskGoToPOITag,,1,,,,,,true,ebonscalereach1,ebonscalereach1,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@0803_0805_d_01_TaskGoToPOITag_alligator,,,,,,,,,,,,
+0803_0805_d_01_TaskGoToPOITag_alligator,TaskGoToPOITag,,1,,,,,,true,,alligator_habitat_40275,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@0803_0805_d_01_TaskGoToPOITag_alligator,,,,,,,,,,,,
 0803_0805_d_01a_Container,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,0803_0805_d_03_TaskHaveAndReturnItems_15_ebonyscales,,,,
 0803_0805_d_02_TaskKillContriubtion_15_alligators,TaskKillContribution,,1,15,,,,,,,alligator_habitat_40275,,,,,,,,,,,,,Alligator_Black_60_08QP01,,,,,,,,,,,,,,,,,,,,@0803_0805_d_02_TaskKillContriubtion_15_alligators,,,,,,,,,,,,
 0803_0805_d_03_TaskHaveAndReturnItems_15_ebonyscales,TaskHaveAndReturnItems,,1,8,0805_0101_EbonyScale,Ebonscale_Alligator,100,,,,alligator_habitat_40275,,,1,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,@0803_0805_d_03_TaskHaveAndReturnItems_15_ebonyscales,,,,,,,,,,,,

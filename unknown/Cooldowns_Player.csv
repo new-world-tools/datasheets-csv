@@ -27,7 +27,7 @@ ID,AbilityID,Time,WeaponTag
 26,Ability_Musket_ShootersStance,18,Rifle
 27,Ability_Musket_PowderBurn,15,Rifle
 28,Ability_Musket_Traps,20,Rifle
-29,Ability_Musket_StoppingPower,15,Rifle
+29,Ability_Musket_StoppingPower,20,Rifle
 30,Ability_Musket_StickyBomb,12,Rifle
 31,Ability_Bow_RapidShot,14,Bow
 32,Ability_Bow_EvadeShot,15,Bow
