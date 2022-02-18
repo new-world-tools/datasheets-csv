@@ -52,7 +52,7 @@ War_T2,2,6,0,1.125,1,1.125,1.125,War OK Performance,War Reward
 War_T3,4,7,0,1.4,1,1.4,1.4,War Good Performance,War Reward
 War_T4,8,8,0,1.6,1,1.6,1.6,War Top Tier Performance,War Reward
 OutpostRush_T1,0,2,0,0.5,1,1,1,OR Bad Performance,OR Reward
-OutpostRush_LOSS_T1,0,3,0,0.7,1,1,1,OR OK Performance,OR Reward
-OutpostRush_T2,0,3,0,0.7,1,1,1,OR OK Performance,OR Reward
-OutpostRush_T3,0,3.5,0,0.8,1,1,1,OR Good Performance,OR Reward
-OutpostRush_T4,0,4,0,1,1,1,1,OR Top Tier Performance,OR Reward
+OutpostRush_LOSS_T1,0,3,0,0.7,1,1.125,1.125,OR OK Performance,OR Reward
+OutpostRush_T2,0,3,0,0.7,1,1.125,1.125,OR OK Performance,OR Reward
+OutpostRush_T3,0,3.5,0,0.8,1,1.4,1.4,OR Good Performance,OR Reward
+OutpostRush_T4,0,4,0,1,1,1.6,1.6,OR Top Tier Performance,OR Reward

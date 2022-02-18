@@ -62,7 +62,7 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 1524_1514_d_02_swap_container_FirstThing,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,1524_1514_d_02_01_Task_Swap,1524_1514_d_02_02_Task_Swap,,,
 1524_1514_d_02_01_Task_Swap,TaskUnlockAchievement,,,1,SwapActive_1524_Boatswain00_Original,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,
 1524_1514_d_02_02_Task_Swap,TaskUnlockAchievement,,,1,SwapActive_1524_Boatswain01_Moved,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,
-1524_1514_d_03_TalkToSantiago,TaskAchievement,,,,S_talktosalazar,,,,,,,,,,,,,,,,1524_Boatswain01,,,,,,,,,,,,,,,,,,,,,,,@1524_1514_d_03_TalkToSantiago,,,,,,,,,,,,,
+1524_1514_d_03_TalkToSantiago,TaskConversationTopic,,1,,1524_Boatswain01,,,,,,,,,,,,,,,,,1524_Boatswain01_talk,,,,,,,,,,,,,,,,,,,,,,@1524_1514_d_03_TalkToSantiago,,12898.39 4586.25 42.75,,,,,,,,,,,
 1524_1514_d_04_container_FirstThing,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,1524_1514_d_04_01_Task_Goto,1524_1514_d_05_container_FirstThing,,,
 1524_1514_d_04_01_Task_Goto,TaskGoToPOITag,,,1,,,,,true,,shipwreck,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@1524_1514_d_04_Task_Goto,,,,,,,,,,,,,
 1524_1514_d_05_container_FirstThing,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,1524_1514_d_05_01_Task_Kill,1524_1514_d_05_02_Lore_Page,1524_1514_d_05_03_Lore_Page,,
