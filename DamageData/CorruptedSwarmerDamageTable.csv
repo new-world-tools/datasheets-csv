@@ -1,5 +1,5 @@
 DamageID,WeaponCategory,IgnoreInvulnerable,NoReaction,IsRanged,SurfaceImpactEffect,AttackType,DamageType,Affixes,StatusEffect,EffectOnlyOnDamage,DeflectDamageID,CanCrit,DmgCoef,DmgCoefHead,DmgCoefCrit,PowerLevel,CritPowerLevel,BlockPowerLevel,HitStun,BlockHitStun,CritHitStun,ImpactDistanceX,ImpactDistanceY,ImpactDistanceZ,ImpactDecayRate,CritImpactDistanceX,CritImpactDistanceY,CritImpactDistanceZ,CritImpactDecayRate,BlockImpactDistanceX,BlockImpactDistanceY,BlockImpactDistanceZ,BlockImpactDecayRate,AddDmg,StaggerDmgModifier,StaggerResistModifier,CameraShakeID,ImpactRating,BlockStaminaDmgMod,BlockAbsorptionModifier,StunBreakoutIncrement
-Attack_Crawler_Swipe,Blunt_AI,0,0,,Bullet,Light,Slash,,,,,false,0.35,1,1,0,0,1,20,15,20,0,0,0,0.3,0,0,0,0.3,0,0.2,0,0.2,0,1,1,Small,0,0.1,1,0
-Attack_Crawler_Lunge,Blunt_AI,0,0,,Bullet,Light,Slash,,,,,false,0.75,1,1,0,0,1,20,15,20,0,0,0,0.8,0,0,0,0.8,0,0.2,0,0.8,0,1,1,Small,0,0.25,1,0
+Attack_Crawler_Swipe,Blunt_AI,0,0,,Bullet,Light,Slash,,,,,false,0.35,1,1,0,0,1,20,15,20,0,0,0,0.3,0,0,0,0.3,0,0,0,0.2,0,1,1,Small,0,0.1,1,0
+Attack_Crawler_Lunge,Blunt_AI,0,0,,Bullet,Light,Slash,,,,,false,0.75,1,1,0,0,1,20,15,20,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,1,1,Small,0,0.25,1,0
 Fall,Fall,1,1,,Bullet,,Falling,,,,,,1,1,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,1,1
 Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Small,1,,,1
