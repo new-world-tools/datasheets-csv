@@ -1,1 +1,1 @@
-CinematicVideoId,VideoPath,ReqAchievementId,Name,Description
+CinematicVideoId,VideoPath,Name,ReqAchievementId,OnWatchedAchievementId,DurationInSec,Description

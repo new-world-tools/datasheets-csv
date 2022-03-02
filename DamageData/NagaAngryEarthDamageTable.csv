@@ -5,7 +5,7 @@ Burrow,Unarmed,0,0,Bullet,Heavy,Strike,,,,Deflect_Default,false,1.15,1,1,3,3,3,4
 Hurl_Boulder,Unarmed,1,0,Bullet,Heavy,Strike,,,,Deflect_Default,false,1.15,1,1,4,4,4,10,5,10,0,8,0,0.8,0,8,0,0.8,0,8,0,0.8,0,0.3,0.3,1,Small,Small,3,0.8,1,0,,
 Hurl_Boulder_NPC,Unarmed,1,0,Bullet,Heavy,Strike,,,,Deflect_Default,false,1,1,1,4,4,4,10,5,10,0,12,0,0.8,0,12,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.8,1,0,,true
 Massive_AOE_Structure,Unarmed,1,0,Bullet,Heavy,Slash,,,,Deflect_Default,false,1000,1000,1,0,1,0,10,5,10,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.3,1,0,,true
-Massive_AOE,Unarmed,1,0,Bullet,Heavy,Nature,,StatusEffect_Boss_Teamwipe,false,Deflect_Default,false,100,100,1,4,4,4,10,5,10,0,10,0,0.8,0,10,0,0.8,0,10,0,0.8,0,0.3,0.3,1,Small,Small,3,10,1,0,,
+Massive_AOE,Unarmed,1,0,Bullet,Heavy,Nature,,,,Deflect_Default,false,100,100,1,4,4,4,10,5,10,0,10,0,0.8,0,10,0,0.8,0,10,0,0.8,0,0.3,0.3,1,Small,Small,3,10,1,0,,
 Overhead_Smash,Unarmed,0,0,Bullet,Heavy,Strike,,,,Deflect_Default,false,1.35,1.5,1,5,5,4,40,40,40,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,5,1,0,,
 AOE_Pool,Unarmed,0,0,Bullet,Light,Nature,,,,Deflect_Default,false,0.5,1,1,0,0,0,10,5,10,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.3,1,0,,
 Siren_Scream,Unarmed,0,0,Bullet,Heavy,Nature,,,,Deflect_Default,false,1.15,1,1,4,4,4,20,20,20,0,6,0,0.8,0,6,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.6,1,0,,
