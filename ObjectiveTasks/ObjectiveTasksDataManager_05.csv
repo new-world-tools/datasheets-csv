@@ -197,7 +197,7 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 0511_0203_d_01_04_02_GameEvent_StygianChannelSegmentD,TaskGameEvent,,1,1,,,,,,true,,tree_offering_60319,,,true,,,,,,,IO_0520_StygianChannelSegmentD,,,0520_StygianChannelSegmentD_interact,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,
 0511_0203_d_01_04_03_GiveItems_1_StygianChannelSegment,TaskGiveItem,,1,1,0511_0203_StygianChannelSegment,,100,,,,,tree_offering_60319,,,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,
 0511_0204_d_00_container_UmbrasReach_graspingtwilight,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0511_0204_d_01_GiveRecipe_UmbrasReach_Glove,0511_0204_d_02_GoToPOITag_ancientcave_40415,0511_0204_d_03_container_graspingtwilight_items,0511_0204_d_04_CraftRecipe_UmbrasReach_Glove,0511_0204_d_05_Have_1_UmbrasReach_Glove
-0511_0204_d_01_GiveRecipe_UmbrasReach_Glove,TaskGiveItem,,1,1,WorkOrder_0511_0204_UmbrasReach_Glove,,,,,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,
+0511_0204_d_01_GiveRecipe_UmbrasReach_Glove,TaskGiveItem,,,1,WorkOrder_0511_0204_UmbrasReach_Glove,,,,,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,
 0511_0204_d_02_GoToPOITag_ancientcave_40415,TaskGoToPOITag,,1,,,,,,,true,,ancientcave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@0511_0204_UmbrasReach_graspingtwilight_gotoPOI,,,,,,,,,,,,,
 0511_0204_d_03_container_graspingtwilight_items,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,0511_0204_d_03_01_Have_14_GuardianArmorFilament,0511_0204_d_03_02_Have_1_MediumHands_LeatherT4,,,
 0511_0204_d_03_01_Have_14_GuardianArmorFilament,TaskHaveItems,,,14,0511_0204_GuardianArmorFilament,Rockruins,80,,,true,,ancientcave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@0511_0204_UmbrasReach_graspingtwilight_gatheritems,,,,,,,,,,,,,
@@ -216,7 +216,7 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 0511_0207_d_00_container_UmbrasReach_powerofthevoid,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0511_0207_d_01_TaskKill_50_Darkness,,,,
 0511_0207_d_01_TaskKill_50_Darkness,TaskKillContribution,,1,50,,,,,,,,,,,,,,,,,,,,,Darkness,,,,,,,,,,,,,,,,,,,,@0511_0207_UmbrasReach_powerofthevoid_killdarkness,,,,,,,,,,,,,
 0511_0208_d_00_container_UmbrasReach_duskyfocus,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0511_0208_d_01_GiveRecipe_UmbrasReach_Lens,0511_0208_d_02_GoToPOITag_empressfortress_20201_elite,0511_0208_d_03_Have_15_ShardsPureCrystal,0511_0208_d_04_CraftRecipe_UmbrasReach_Lens,0511_0208_d_05_Have_1_UmbrasReach_Lens
-0511_0208_d_01_GiveRecipe_UmbrasReach_Lens,TaskGiveItem,,1,1,WorkOrder_0511_0208_UmbrasReach_Lens,,,,,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,
+0511_0208_d_01_GiveRecipe_UmbrasReach_Lens,TaskGiveItem,,,1,WorkOrder_0511_0208_UmbrasReach_Lens,,,,,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,
 0511_0208_d_02_GoToPOITag_empressfortress_20201_elite,TaskGoToPOITag,,1,,,,,,,true,,empressfortress_20201,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@0511_0208_UmbrasReach_duskyfocus_gotoPOI,,,,,,,,,,,,,
 0511_0208_d_03_Have_15_ShardsPureCrystal,TaskHaveItems,,,15,0511_0208_ShardsPureCrystal,Corrupted,45,,,true,,empressfortress_20201,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@0511_0208_UmbrasReach_duskyfocus_gatheritem,,,,,,,,,,,,,
 0511_0208_d_04_CraftRecipe_UmbrasReach_Lens,TaskCraftRecipe,,,1,0511_0204_UmbrasReach_Lens,,,,,,,,,,,,,,,0511_0204_UmbrasReach_Lens,,,,,,,,,,,,,,,,,,,,,,,,,@0511_0208_UmbrasReach_duskyfocus_craftlens,,,,,,,,,,,,,
