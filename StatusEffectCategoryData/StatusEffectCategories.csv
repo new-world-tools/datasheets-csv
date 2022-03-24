@@ -24,3 +24,5 @@ UnclampedWeaken,,,,0,,,
 UnclampedEmpower,,,,0,,,
 UnclampedDisease,,,,0,,,
 UnclampedHaste,,,,0,,,
+UnclampedFactionResourceMod,,,,,,,"FactionReputationMod:3.0,FactionTokensMod:3.0 "
+UnclampedAzothMod,,,,,,,AzothMod:3.0
