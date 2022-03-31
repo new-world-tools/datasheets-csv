@@ -27,3 +27,4 @@ Attack_Flurry_Finisher,Sword+Fire,0,0,,Bullet,Light,Slash,,,,AI_FireDMG_50,,,Def
 Attack_Upwards_Slash,Sword+Fire,0,0,,Bullet,Heavy,Slash,,,,AI_FireDMG_75,AI_Thorpe_Burn,true,Deflect_Default,false,2.2,1,,4,4,4,44,40,44,0,5.5,0,0.6,0,4.25,0,0.65,0,5.5,0,0.6,0,0,,0,Large,Large,Large,4,1.5,1,1,
 Attack_Upwards_Slash_Short,Sword+Fire,0,0,,Bullet,Heavy,Slash,,,,AI_FireDMG_75,AI_Thorpe_Burn,true,Deflect_Default,false,1.9,1,,3,4,3,36,40,36,0,0.8,0,0.75,0,1,0,0.75,0,0.8,0,0.75,0,0,,0,Large,Large,Large,4,1.35,1,1,
 Attack_Shoulder_Charge,Unarmed,0,0,,Bullet,Heavy,Strike,,,,AI_FireDMG_75,,,Deflect_Default,false,0.4,1,,2,3,2,26,34,26,-1.1,1.9,0,0.8,-1,1.8,0,0.8,-1.3,1.9,0,0.8,0,0,,0,Small,Small,Small,2,0.9,1,1,
+Attack_Structure,Sword+Fire,0,0,,Bullet,Light,Thrust,,,,AI_FireDMG_25,,,Deflect_Default,false,1.05,1,,0,2,0,14,21,14,0,1.45,0,0.8,0,1.4,0,0.8,0,1.45,0,0.8,0,0,,0,Small,Small,Small,1,0.6,1,1,
