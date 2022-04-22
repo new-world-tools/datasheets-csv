@@ -511,3 +511,4 @@ EntitlementSkin_CrimsonPlague,646,true,,,,,ItemSkin,Skin_Chest_Adobe+Skin_Head_A
 EntitlementSkin_CrimsonEdge,647,true,,,,,ItemSkin,Skin_Longsword_CrimsonEdge,,Twitch,
 Ent_TwitchPromo_CrimsonPlague,648,true,,,,,Entitlement,EntitlementSkin_CrimsonPlague,,Twitch,
 Ent_TwitchPromo_CrimsonEdge,649,true,,,,,Entitlement,EntitlementSkin_CrimsonEdge,,Twitch,
+EntitlementTitle_Warmonger,667,true,,,,,PlayerTitle,PlayerTitle_Warmonger,,,

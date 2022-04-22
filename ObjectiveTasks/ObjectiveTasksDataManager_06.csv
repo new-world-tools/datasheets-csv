@@ -87,7 +87,7 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 0605_0101_d_02_02_TaskHaveItems_1_IngotT2,TaskHaveItems,,,1,IngotT2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,
 0605_0101_d_03_HaveItems_9_IngotT2,TaskHaveItems,,,9,IngotT2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@0605_0101_d_02_task,,9327 2693 3.05,,,,,,,,,,,
 0605_0101_d_04_CraftRecipe,TaskCraftWeaponFamily,,1,1,1hSwordT2,,,,,,,,,,,,,,SwordAbilityTable,,,,,,,,,,,,,,,,,,,,,,,,,@0605_0101_d_03_task,,9337 2720 3.03,,,,,,,,,,,
-0605_0101_d_05_TaskHaveItems_1_1hSwordT2,TaskHaveItemsWithWeaponFamily,,,1,1hSwordT2,,,,,,,,,,,,,,SwordAbilityTable,,,,,,,,,,,,,,,,,,,,,,,,,,,9337 2720 3.03,1,,,,,,,,,,
+0605_0101_d_05_TaskHaveItems_1_1hSwordT2,TaskHaveItemsWithWeaponFamily,,1,1,SwordAbilityTable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9337 2720 3.03,1,,,,,,,,,,
 0605_0102_d_00_container_campingunlock,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0605_0102_d_01_transport_npc_note,0605_0102_d_02_have_npc_note,,,
 0605_0102_d_01_transport_npc_note,TaskGiveAndTakeItem,,1,1,MI_SummonsNote,,,100,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@06_task_transport_generic,,,1,,,,,,,,,,
 0605_0102_d_02_have_npc_note,TaskHaveAndReturnItems,,1,1,MI_SummonsNote,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,@06_task_transport_generic,,,1,,,,,,,,,,
