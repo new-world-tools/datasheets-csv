@@ -144,7 +144,7 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 0505_0103_d_00_container_thedryadpromenade,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0505_0103_d_01_container_partial,0505_0103_d_02_TaskGoToPOITag_EternalPool,0505_0103_d_03_kill_SwampDryadArenaBoss,,
 0505_0103_d_01_container_partial,PartialTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,0505_0103_d_01_01_TaskGoToPOITag_EternalPool,0505_0103_d_01_02_Have_EternalPoolBossKey,,,
 0505_0103_d_01_01_TaskGoToPOITag_EternalPool,TaskGoToPOITag,,1,,,,,,,true,,AE_Elite_50119,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@0505_0103_thedryadpromenade_goto_POI,,,,,,,,,,,,,
-0505_0103_d_01_02_Have_EternalPoolBossKey,TaskHaveItems,,,1,Reekwater05WC10BossKey,,,,true,true,,AE_Elite_50119,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@0505_0103_thedryadpromenade_get_key_from_boss,,,,,,,,,,,,,
+0505_0103_d_01_02_Have_EternalPoolBossKey,TaskHaveItems,,,1,Reekwater05WC10BossKey,BearElemental_Named_ELITE_05WC10,100,,true,true,,AE_Elite_50119,,,true,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@0505_0103_thedryadpromenade_get_key_from_boss,,,,,,,,,,,,,
 0505_0103_d_02_TaskGoToPOITag_EternalPool,TaskGoToPOITag,,1,,,,,,,true,,AE_Elite_50119,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@0505_0103_thedryadpromenade_goto_POI,,,,,,,,,,,,,
 0505_0103_d_03_kill_SwampDryadArenaBoss,TaskKillContribution,,1,1,,,,,,true,,AE_Elite_50119,,,,,,,,,,,,,Swamp_Dryad_Beast_Named_ELITE_05WC10,,,,,,,,,,,,,,,,,,,,@0505_0103_thedryadpromenade_defeat_boss,,,,,,,,,,,,,
 0502_0106_d_00_container_primevalcyclops,ConsecutiveTaskContainer,,,,,,,,,,,dungeon_reekwater_50146,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0502_0106_d_01_gotoPOI,,,,,,,,0502_0106_d_00a_givekey,0502_0106_d_01_gotoPOI,0502_0106_d_02_getitem,,
