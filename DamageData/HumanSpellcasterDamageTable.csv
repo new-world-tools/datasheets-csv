@@ -1,0 +1,8 @@
+DamageID,WeaponCategory,IgnoreInvulnerable,NoReaction,IsRanged,SurfaceImpactEffect,AttackType,DamageType,Affixes,StatusEffect,EffectOnlyOnDamage,DeflectDamageID,CanCrit,DmgCoef,DmgCoefHead,DmgCoefCrit,PowerLevel,BlockPowerLevel,CritPowerLevel,HitStun,BlockHitStun,CritHitStun,ImpactDistanceX,ImpactDistanceY,ImpactDistanceZ,ImpactDecayRate,CritImpactDistanceX,CritImpactDistanceY,CritImpactDistanceZ,CritImpactDecayRate,BlockImpactDistanceX,BlockImpactDistanceY,BlockImpactDistanceZ,BlockImpactDecayRate,AddDmg,StaggerDmgModifier,StaggerResistModifier,TargetCameraShakeID,ImpactRating,BlockStaminaDmgMod,BlockAbsorptionModifier,StunBreakoutIncrement
+Spell_Ice_Storm,Bow,0,0,,Bullet,Light,Ice,,,,Deflect_Default,false,0.35,1,1,0,1,0,10,5,10,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,0,Small,0,0.1,1,0
+Spell_Ice_Spikes,Bow,0,0,,Bullet,Heavy,Ice,,,,Deflect_Default,false,0.75,1,1,1,1,1,15,10,15,0,2.5,0,0.8,0,2.5,0,0.8,0,0,0,0.8,0,0,0,Small,0,1,1,0
+Spell_Ice_Spikes_End,Bow,0,0,,Bullet,Heavy,Ice,,,,Deflect_Default,false,1,1,1,1,1,1,15,10,15,0,2.5,0,0.8,0,2.5,0,0.8,0,0,0,0.8,0,0,0,Small,0,1.2,1,0
+Spell_Frostbolt,Bow,0,0,true,Bullet,Light,Ice,,,,Deflect_Default,false,0.3,1,1,0,1,0,15,10,15,0,0,0,0.8,0,0.3,0,0.8,0,0,0,0.8,0,0,0,Small,0,0.1,1,1
+Deflect_Default,Unarmed,1,0,,,,Deflect,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,Small,0,0.45,1,1
+Fall,Fall,1,1,,Bullet,,Falling,,,,,,1,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Small,0,1,1,1
+Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Small,1,,,1
