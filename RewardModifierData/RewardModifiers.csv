@@ -59,5 +59,5 @@ OutpostRush_T3,0,3.5,0,0.8,1,1.4,1.4,1400,1750,OR Good Performance,OR Reward
 OutpostRush_T4,0,4,0,1,1,1.6,1.6,2000,2000,OR Top Tier Performance,OR Reward
 Arena3v3_Loss,0,,,,1,,,0,250,,
 Arena3v3_Win_3_Round,1,,,,1,,,400,750,,
-Arena3v3_Win_2_Round,1,,,,1,,,200,500,,
-Arena3v3_Win_1_Round,1,,,,1,,,100,250,,
+Arena3v3_Win_2_Round,1,,,,1,,,0,250,,
+Arena3v3_Win_1_Round,1,,,,1,,,0,250,,

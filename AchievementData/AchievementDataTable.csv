@@ -1,4 +1,4 @@
-AchievementID,AchievementIndex,Category,GameEventId,"New AchivementIndex values must increase, current maximum is",4559,AchivementsIndex &gt; 8000 will require a code change!
+AchievementID,AchievementIndex,Category,GameEventId,"New AchivementIndex values must increase, current maximum is",4711,AchivementsIndex &gt; 8000 will require a code change!
 Map_Unlock_1,0,Map,Read_LoreItem,,,
 Map_Unlock_2,1,Map,Read_LoreItem,,,
 Map_Unlock_3,2,Map,Read_LoreItem,,,
@@ -3868,3 +3868,6 @@ Lore_unlock_SummerMedleyfaire_Title_01_04,4505,Journal,Read_LoreItem,,,
 Lore_unlock_SummerMedleyfaire_Title_04_02,4506,Journal,Read_LoreItem,,,
 Lore_unlock_SummerMedleyfaire_Title_04_03,4507,Journal,Read_LoreItem,,,
 Lore_unlock_SummerMedleyfaire_Title_04_04,4508,Journal,Read_LoreItem,,,
+RewardClaim_DevStreamers_Event,4605,Store,,,,
+RewardClaim_DevStreamers_Event_2,4710,Store,,,,
+RewardClaim_DevStreamers_Event_3,4711,Store,,,,
