@@ -9,7 +9,7 @@ Arcane_Conduit,Unarmed,1,0,0,Bullet,Light,Arcane,,,,Deflect_Default,false,,1.2,1
 Eye_Beam,Unarmed,1,1,1,Bullet,Magic,Arcane,,,,Deflect_Default,false,true,0.1115,1,1,0,0,0,10,5,10,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,1.5,1,16,1,true
 Final_Eye_Beam,Unarmed,1,1,1,Bullet,Magic,Arcane,,AI_Torso_Boss_FinalLaser,false,Deflect_Default,false,true,0,1,1,0,0,0,10,5,10,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,1,0.3,0.3,1,Small,Small,3,1.5,1,16,1,true
 Arcane_Conduit_Damage_Boss,Unarmed,1,0,0,Bullet,Light,Strike,,AI_Torso_Boss_SelfStun,false,Deflect_Default,false,,0.1,0.1,1,8,8,8,10,5,10,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,1.5,1,0,1,true
-Rolling_Hands,Unarmed,0,0,0,Bullet,Light,Strike,,,,Deflect_Default,false,,1,1,1,2,2,2,20,15,20,0,4,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,1.5,1,16,1,
+Rolling_Hands,Unarmed,0,0,1,Bullet,Light,Strike,,,,Deflect_Default,false,,1,1,1,2,2,2,20,15,20,0,4,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,1.5,1,16,1,
 Chest_Impact_Stunned,Unarmed,1,0,0,Bullet,Heavy,Strike,,,,Deflect_Default,false,,0.3,1,1,3,3,3,30,30,30,0,8,0,0.8,0,8,0,0.8,0,8,0,0.8,0,0.3,0.3,1,Small,Small,3,1.5,1,16,1,
 Fall,Fall,1,1,,Bullet,,Falling,,,,,false,,1,1,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,0,0,1,,,
 Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,,false,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Small,Small,1,,,,,
