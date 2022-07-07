@@ -30,8 +30,8 @@ Quest+,2.5,1.5,,250,2,1,,,,,Quests,Flags on Quests (not hooked up)
 Dungeon,1,1.35,,0,1,1,,15,,,Gold,Flags on vitals
 Dungeon-,1,1.35,,0,1,1,,,,,Gold Swarp,Flags on vitals
 Dungeon+,1,1.35,,0,1,1,,,,,Gold Captain,Flags on vitals
-DungeonMiniBoss,30,6,1,0,1,1,,,,,Gold Boss,Flags on vitals
-DungeonBoss,30,6,1,0,1,1,,,,,Gold End boss,Flags on vitals
+DungeonMiniBoss,30,15,1,0,1,1,,,,,Gold Boss,Flags on vitals
+DungeonBoss,30,15,1,0,1,1,,,,,Gold End boss,Flags on vitals
 OutpostRushSolo,0,0,,0,0,1,,,,,Outpost (stay 0),
 OutpostRushSolo+,0,0,,0,0,1,,,,,Outpost (stay 0),
 OutpostRushElite,0,0,,0,0,1,,,,,Outpost (stay 0),
