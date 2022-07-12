@@ -1,6 +1,7 @@
 Modifiers,Experience,Currency,CurrencyRewardChance,TerritoryStanding,Azoth,LootDropModifier,FactionReputationModifier,FactionTokenModifier,AzothSaltModifier,PvpXpModifier,Notes,Found in
 Boss,5,1.5,,150,1,1,,,,,??,Flags on vitals
 Critter,0,0,,0,0,1,,,,,Turkeys,Flags on vitals
+Spell,0,0,,0,0,1,,,,,"Ice Pylon, Ice Tomb, etc..",Flags on vitals
 Darkness,0.5,0,,0,0,1,,,,,Creatures from darkness even,Flags on vitals
 Elite,3,1.35,,35,1,1,,,,,Gold creatures (elite POI's),Flags on vitals
 Elite-,2.25,1.35,,35,1,1,,,,,swarming,Flags on vitals
