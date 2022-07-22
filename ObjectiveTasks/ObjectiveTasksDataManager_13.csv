@@ -273,13 +273,13 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 13_Summer_03_CatchSturgeon_catch3SturgeonL,TaskFishingCatchFish,,,1,FishingSummerMedleySturgeonLargeT3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,
 13_Summer_04_Carpenter_container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13_Summer_04_Carpenter_TopicTalk,13_Summer_04_Carpenter_InteractIO,13_Summer_04_Carpenter_TaskDone,13_Summer_GoToMedleyfaireVillage_container,13_Summer_04_Carpenter_container2
 13_Summer_04_Carpenter_container2,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,13_Summer_04_Carpenter_Carpenter01On,13_Summer_05_Carpenter_Carpenter00Off,,,
-13_Summer_04_Carpenter_TopicTalk,TaskConversationTopic,,,1,1347_PartyGuest_03,,,,,,,,,,,,,,,,1347_PartyGuest_03_TaskTopic,,,,,,,,,,,,,,,,,,,,,,@13_Summer_04_Carpenter_TopicTalk,,9490.8 2591.2 87,,,,,,,,,,,,,,
+13_Summer_04_Carpenter_TopicTalk,TaskConversationTopic,,,1,1347_PartyGuest_03,,,,,,,,,,,,,,,,1347_PartyGuest_03_TaskTopic,,,,,,,,,,,,,,,,,,,,,,@13_Summer_04_Carpenter_TopicTalk,,,,,,,,,,,,,,,,
 13_Summer_04_Carpenter_InteractIO,TaskGatherCyclicState,,,1,Cyclic_13_Summer_Carpenter,,1,,,,,,,,,,,,,IO_Cyclic_13_Summer_Carpenter,,,,,,,,,,,,,,,,,,,,,,,@13_Summer_04_Carpenter_InteractIO,,9490.8 2591.2 87,,,,,,,,,,,,,,
 13_Summer_04_Carpenter_TaskDone,TaskUnlockAchievement,,,1,FinishCarpenterTask,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,
 13_Summer_04_Carpenter_Carpenter01On,TaskUnlockAchievement,,,1,SwapActive_1347_PartyGuest_03_01_on,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,
 13_Summer_05_Florist_container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13_Summer_05_Florist_TopicTalk,13_Summer_05_Florist_InteractIO1,13_Summer_05_Florist_InteractIO2,13_Summer_05_Florist_InteractIO3,13_Summer_05_Florist_container2
 13_Summer_05_Carpenter_Carpenter00Off,TaskUnlockAchievement,,,1,SwapActive_1347_PartyGuest_03_00_off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,
-13_Summer_05_Florist_TopicTalk,TaskConversationTopic,,,1,1345_PartyGuest_01,,,,,,,,,,,,,,,,1345_PartyGuest_01_TaskTopic,,,,,,,,,,,,,,,,,,,,,,@13_Summer_05_Florist_TopicTalk,,9143 4599 131,,,,,,,,,,,,,,
+13_Summer_05_Florist_TopicTalk,TaskConversationTopic,,,1,1345_PartyGuest_01,,,,,,,,,,,,,,,,1345_PartyGuest_01_TaskTopic,,,,,,,,,,,,,,,,,,,,,,@13_Summer_05_Florist_TopicTalk,,,,,,,,,,,,,,,,
 13_Summer_05_Florist_InteractIO1,TaskGameEvent,,,1,,,,,,,,,,,,,,,,IO_13_Summer_FlowerBoxA,,,13_Summer_FlowerBox_interact,,,,,,,,,,,,,,,,,,,,@13_Summer_05_Florist_InteractIO1,,9143 4599 131,,,,,,,,,,,,,,
 13_Summer_05_Florist_InteractIO2,TaskGameEvent,,,1,,,,,,,,,,,,,,,,IO_13_Summer_FlowerBoxB,,,13_Summer_FlowerBox_interact,,,,,,,,,,,,,,,,,,,,@13_Summer_05_Florist_InteractIO2,,9143 4599 131,,,,,,,,,,,,,,
 13_Summer_05_Florist_InteractIO3,TaskGameEvent,,,1,,,,,,,,,,,,,,,,IO_13_Summer_FlowerBoxC,,,13_Summer_FlowerBox_interact,,,,,,,,,,,,,,,,,,,,@13_Summer_05_Florist_InteractIO3,,9143 4599 131,,,,,,,,,,,,,,
@@ -289,7 +289,7 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 13_Summer_06_Beekeep_container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13_Summer_06_Beekeep_TopicTalk,13_Summer_06_Beekeep_GiveWorkOrder,13_Summer_07_Beekeep_MakeRecipe,13_Summer_06_Beekeep_InteractIO,13_Summer_06_Beekeep_container2
 13_Summer_06_Beekeep_container2,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,13_Summer_06_Beekeep_TaskDone,13_Summer_GoToMedleyfaireVillage_container,13_Summer_06_Beekeep_Beekeep01On,13_Summer_07_Beekeep_Beekeep00Off,
 13_Summer_06_Florist_Florist00Off,TaskUnlockAchievement,,,1,SwapActive_1345_PartyGuest_01_00_off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,
-13_Summer_06_Beekeep_TopicTalk,TaskConversationTopic,,,1,1349_PartyGuest_05,,,,,,,,,,,,,,,,1349_PartyGuest_05_TaskTopic,,,,,,,,,,,,,,,,,,,,,,@13_Summer_06_Beekeep_TopicTalk,,9858.4 5160.5 168,,,,,,,,,,,,,,
+13_Summer_06_Beekeep_TopicTalk,TaskConversationTopic,,,1,1349_PartyGuest_05,,,,,,,,,,,,,,,,1349_PartyGuest_05_TaskTopic,,,,,,,,,,,,,,,,,,,,,,@13_Summer_06_Beekeep_TopicTalk,,,,,,,,,,,,,,,,
 13_Summer_06_Beekeep_GiveWorkOrder,TaskGiveItem,,,5,WorkOrder_SE_BeeSmoker,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,
 13_Summer_07_Beekeep_MakeRecipe,TaskHaveItems,,,5,SE_BeeSmoker,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@13_Summer_07_Baker_MakeRecipe,,9858.4 5160.5 168,,,,,,,,,,,,,,
 13_Summer_06_Beekeep_InteractIO,TaskGameEvent,,,5,,,,,,,,,,,,,,,,IO_13_Summer_Apiary,,,13_Summer_Apiary_interact,,,,,,,,,,,,,,,,,,,,@13_Summer_06_Beekeep_InteractIO,,9858.4 5160.5 168,,,,,,,,,,,,,,
@@ -298,14 +298,14 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 13_Summer_07_Baker_container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13_Summer_07_Baker_TopicTalk,13_Summer_07_Baker_CyclicIO,13_Summer_07_Baker_TaskDone,13_Summer_GoToMedleyfaireVillage_container,13_Summer_07_Baker_container2
 13_Summer_07_Baker_container2,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,13_Summer_07_Baker_Baker01On,13_Summer_08_Baker_Baker00Off,,,
 13_Summer_07_Beekeep_Beekeep00Off,TaskUnlockAchievement,,,1,SwapActive_1349_PartyGuest_05_00_off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,
-13_Summer_07_Baker_TopicTalk,TaskConversationTopic,,,1,1346_PartyGuest_02,,,,,,,,,,,,,,,,1346_PartyGuest_02_TaskTopic,,,,,,,,,,,,,,,,,,,,,,@13_Summer_07_Baker_TopicTalk,,8296.4 3500.8 100,,,,,,,,,,,,,,
+13_Summer_07_Baker_TopicTalk,TaskConversationTopic,,,1,1346_PartyGuest_02,,,,,,,,,,,,,,,,1346_PartyGuest_02_TaskTopic,,,,,,,,,,,,,,,,,,,,,,@13_Summer_07_Baker_TopicTalk,,,,,,,,,,,,,,,,
 13_Summer_07_Baker_CyclicIO,TaskGatherCyclicState,,,1,Cyclic_13_Summer_Oven,,2,,,,,,,,,,,,,IO_Cyclic_13_Summer_Oven,,,,,,,,,,,,,,,,,,,,,,,@13_Summer_07_Baker_InteractIO,,8296.4 3500.8 100,,,,,,,,,,,,,,
 13_Summer_07_Baker_TaskDone,TaskUnlockAchievement,,,1,FinishBakerTask,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,
 13_Summer_07_Baker_Baker01On,TaskUnlockAchievement,,,1,SwapActive_1346_PartyGuest_02_01_on,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,
 13_Summer_08_Poet_container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13_Summer_08_Poet_TopicTalk,13_Summer_08_Poet_DanceForPoet,13_Summer_08_Poet_TaskDone,13_Summer_GoToMedleyfaireVillage_container,13_Summer_08_Poet_container2
 13_Summer_08_Poet_container2,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13_Summer_08_Poet_Poet01On,13_Summer_09_Poet_Poet00Off,,,
 13_Summer_08_Baker_Baker00Off,TaskUnlockAchievement,,,1,SwapActive_1346_PartyGuest_02_00_off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,
-13_Summer_08_Poet_TopicTalk,TaskConversationTopic,,,1,1348_PartyGuest_04,,,,,,,,,,,,,,,,1348_PartyGuest_04_TaskTopic,,,,,,,,,,,,,,,,,,,,,,@13_Summer_08_Poet_TopicTalk,,11118.4 4426 65,,,,,,,,,,,,,,
+13_Summer_08_Poet_TopicTalk,TaskConversationTopic,,,1,1348_PartyGuest_04,,,,,,,,,,,,,,,,1348_PartyGuest_04_TaskTopic,,,,,,,,,,,,,,,,,,,,,,@13_Summer_08_Poet_TopicTalk,,,,,,,,,,,,,,,,
 13_Summer_08_Poet_DanceForPoet,TaskPerformEmote,,,1,dance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@13_Summer_08_Poet_DanceForPoet,,11118.4 4426 65,,,,,,,,,,,,,,
 13_Summer_08_Poet_TaskDone,TaskUnlockAchievement,,,1,FinishPoetTask,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,
 13_Summer_08_Poet_Poet01On,TaskUnlockAchievement,,,1,SwapActive_1348_PartyGuest_04_01_on,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,
