@@ -1,4 +1,4 @@
-Id,Type,CastDistanceRange,CastDistanceMultiplier,FishRarityRollModifier,FishSizeRollModifier,SummerFishRarityRollModifier,RequiredWaterTag,ActiveAtDawn,ActiveAtDaytime,ActiveAtDusk,ActiveAtNight,LootTableId,LootTags,RequiredLevel,FishSize,FishWeightRange,FishLengthRange,FishingXp,TimeToNibbleSecondsRange,TimeToNibbleSecondsMultiplier,TimeToBiteSecondsRange,FishReelTimeSeconds,FishDistanceSwamAwayPerSecond,LineTensionGainPerSecond,LineTensionGainPerSecondMultiplier,LineTensionRecoverPerSecond,FishBehaviors,FishBehaviorPattern,FishBehaviorLocalizationKey,ZoomCameraOnSuccess,FishCharacterDefinitionPath,FishScale,RewardGameEventId
+Id,Type,CastDistanceRange,CastDistanceMultiplier,FishRarityRollModifier,FishSizeRollModifier,SummerFishRarityRollModifier,RequiredWaterTags,ActiveAtDawn,ActiveAtDaytime,ActiveAtDusk,ActiveAtNight,LootTableId,LootTag,RequiredLevel,FishSize,FishWeightRange,FishLengthRange,FishingXp,TimeToNibbleSecondsRange,TimeToNibbleSecondsMultiplier,TimeToBiteSecondsRange,FishReelTimeSeconds,FishDistanceSwamAwayPerSecond,LineTensionGainPerSecond,LineTensionGainPerSecondMultiplier,LineTensionRecoverPerSecond,FishBehaviors,FishBehaviorPattern,FishBehaviorLocalizationKey,ZoomCameraOnSuccess,FishCharacterDefinitionPath,FishScale,RewardGameEventId
 FreshWater_VeryShallow,Water,,,,,,,,,,,,,,,,,,20-30,,1-1.5,,,,,,,,,,,,
 FreshWater_Shallow,Water,,,,,,,,,,,,,,,,,,10-25,,1-1.5,,,,,,,,,,,,
 FreshWater_Deep,Water,,,,,,,,,,,,,,,,,,5-15,,1-1.5,,,,,,,,,,,,
@@ -85,6 +85,7 @@ Hotspot_Secret_77,Hotspot,,,24.33,0,0,,,,,,FishingHotspotLoot,Secret,197,,,,,3-6
 Hotspot_Secret_78,Hotspot,,,24.33,0,0,,,,,,FishingHotspotLoot,Secret,200,,,,,3-6,,1-1.5,,,,,,,,,,,,
 Hotspot_Secret_79,Hotspot,,,24.33,0,0,,,,,,FishingHotspotLoot,Secret,200,,,,,3-6,,1-1.5,,,,,,,,,,,,
 Hotspot_Secret_80,Hotspot,,,24.33,0,0,,,,,,FishingHotspotLoot,Secret,200,,,,,3-6,,1-1.5,,,,,,,,,,,,
+Hotspot_SummerMedley_1,Hotspot,,,0,0,0,,,,,,FishingSummerMedleyHotspot,Broad,0,,,,,3-6,,1-1.5,,,,,,,,,,,,
 2hFishingPoleT1,FishingPole,5-12,,0,0,0,,,,,,,,,,,,,,,,8,,12.5,,27.5,,,,,,,
 2hFishingPoleT2,FishingPole,5-14,,0.25,0,0,,,,,,,,,,,,,,,,8,,12.5,,30,,,,,,,
 2hFishingPoleT3,FishingPole,5-16,,0.75,0,0,,,,,,,,,,,,,,,,8,,12.5,,32.5,,,,,,,
@@ -98,6 +99,10 @@ Hotspot_Secret_80,Hotspot,,,24.33,0,0,,,,,,FishingHotspotLoot,Secret,200,,,,,3-6
 2hFishingPole_LegendaryStrength,FishingPole,5-20,,1.25,0,0,,,,,,,,,,,,,,,,8,,12.5,,37.5,,,,,,,
 2hFishingPole_LegendaryTech,FishingPole,5-20,,1.25,0,0,,,,,,,,,,,,,,,,8,,12.5,,37.5,,,,,,,
 Omega_FishingPole_T5,FishingPole,5-20,,1.25,0,0,,,,,,,,,,,,,,,,8,,12.5,,37.5,,,,,,,
+2hSummerFishingPoleT2,FishingPole,5-14,,0.25,0,0.2,,,,,,,,,,,,,,,,8,,12.5,,30,,,,,,,
+2hSummerFishingPoleT3,FishingPole,5-16,,0.75,0,0.5,,,,,,,,,,,,,,,,8,,12.5,,32.5,,,,,,,
+2hSummerFishingPoleT4,FishingPole,5-18,,1,0,0.75,,,,,,,,,,,,,,,,8,,12.5,,35,,,,,,,
+2hSummerCommemorativeFishingPoleT5,FishingPole,5-20,,1.25,0,1,,,,,,,,,,,,,,,,8,,12.5,,37.5,,,,,,,
 BaitFreshMeatT1,Bait,,,0,1.5,0,Fresh,true,true,true,true,,,,,,,,,0.5,,,,,,,,,,,,,
 BaitFreshBreadT1,Bait,,,0.47,0,0,Fresh,true,true,true,true,,,,,,,,,0.5,,,,,,,,,,,,,
 BaitSaltFishT1,Bait,,,0,1.5,0,Salt,true,true,true,true,,,,,,,,,0.5,,,,,,,,,,,,,
@@ -110,6 +115,7 @@ BaitFreshOysterT3,Bait,,,0,5,0,Fresh,true,true,true,true,,,,,,,,,0.5,,,,,,,,,,,,
 BaitFreshFireflyT3,Bait,,,0.85,0,0,Fresh,true,true,true,true,,,,,,,,,0.5,,,,,,,,,,,,,
 BaitSaltElectricEelT3,Bait,,,0,5,0,Salt,true,true,true,true,,,,,,,,,0.5,,,,,,,,,,,,,
 BaitSaltGlowwormT3,Bait,,,0.85,0,0,Salt,true,true,true,true,,,,,,,,,0.5,,,,,,,,,,,,,
+BaitMaudlinbugT1,Bait,,,0,0,2,"Fresh,Salt",true,true,true,true,FishingSummerMedley,,,,,,,,0.5,,,,,,,,,,,,,
 FishingBassSmallT1,Catchables,,,,,,,,,,,,,,Small,0-1,5-8,100,,,,,0.2,,0.8,,"Lazy,Sporadic,SporadicEasy",,,false,Objects\Characters\npc\natural\fish\Fish_B_Bass.cdf,0.5,
 FishingBassMediumT1,Catchables,,,,,,,,,,,,,,Medium,1-5,9-15,110,,,,,0.15,,1.2,,"Lazy,LateAggressive,Sporadic,SporadicEasy",,,false,Objects\Characters\npc\natural\fish\Fish_B_Bass.cdf,0.7,
 FishingBassLargeT1,Catchables,,,,,,,,,,,,,,Large,5-10,16-28,120,,,,,0.1,,1.4,,"Lazy,EarlyAggressive,LateAggressive,Sporadic",,,false,Objects\Characters\npc\natural\fish\Fish_B_Bass.cdf,1,
@@ -220,6 +226,13 @@ FishingTreasureChestT3,Catchables,,,,,,,,,,,,,,None,28-30,40,200,,,,,0.05,,1.2,,
 0223_0101_BarbedCatfish,Catchables,,,,,,,,,,,,,,None,12-31,20-29,100,,,,,0.15,,1.3,,EarlyAggressive,,,true,Objects\Characters\npc\natural\fish\Fish_B_Catfish.cdf,1.2,
 0223_0101_HookedSquid,Catchables,,,,,,,,,,,,,,None,9-18,15-29,100,,,,,0.15,,1.3,,TotalAggressive,,,true,Objects\Characters\npc\natural\fish\jav_prp_squid.cdf,1.2,
 0724_0101_CorruptionTingedFish,Catchables,,,,,,,,,,,,,,None,66,66,100,,,,,0.2,,1.4,,TotalAggressive,,,true,Objects\Crafting\Props\FoodStuffs\Fish\VeryRareFish_C1\Jav_Prp_VeryRareFish_C2.cdf,1,
+FishingSummerMedleySturgeonSmallT3,Catchables,,,,,,,,,,,,,,Small,1-12,20-29,150,,,,,0.2,,0.8,,"EarlyAggressive,LateAggressive,Sporadic",,,true,objects\characters\npc\natural\fish\Aeternum_Sturgeon_Fish.cdf,0.7,Fishing_SummerMedley_Med
+FishingSummerMedleySturgeonMediumT3,Catchables,,,,,,,,,,,,,,Medium,12-40,29-39,156,,,,,0.15,,1.2,,"EarlyAggressive,LateAggressive,TotalAggressive,Sporadic",,,true,objects\characters\npc\natural\fish\Aeternum_Sturgeon_Fish.cdf,1,Fishing_SummerMedley_Large
+FishingSummerMedleySturgeonLargeT3,Catchables,,,,,,,,,,,,,,Large,40-77,40-67,163,,,,,0.1,,1.4,,"EarlyAggressive,LateAggressive,TotalAggressive,Sporadic",,,true,objects\characters\npc\natural\fish\Aeternum_Sturgeon_Fish.cdf,1.2,Fishing_SummerMedley_Xlarge
+FishingSummerMedleyCacheT3,Catchables,,,,,,,,,,,,,,None,28-30,40,150,,,,,0.05,,1.2,,Lazy,,,false,objects\characters\npc\natural\fish\Summer_MedleyfaireCache.cdf,0.5,Fishing_SummerMedley_Small
+SummerMedley_PristineSoakedWood,Catchables,,,,,,,,,,,,,,None,16,30,125,,,,,0.05,,1.2,,Lazy,,,false,objects\characters\npc\natural\fish\Summer_PristineWood.cdf,1,Fishing_SummerMedley_Xsmall
+SummerMedley_AssortedCoral,Catchables,,,,,,,,,,,,,,None,3,11,125,,,,,0.05,,1.2,,Lazy,,,false,objects\characters\npc\natural\fish\Summer_SeaGrass.cdf,1,Fishing_SummerMedley_Xsmall
+SummerMedley_CautiouslyWrappedStuffing,Catchables,,,,,,,,,,,,,,None,9,15,125,,,,,0.05,,1.2,,Lazy,,,false,objects\characters\npc\natural\fish\Summer_WrappedStuffing.cdf,1,Fishing_SummerMedley_Xsmall
 Lazy,FishBehavior,,,,,,,,,,,,,,,,,,,,,,,,,,,0,@ui_fishbehavior_lazy,,,,
 EarlyAggressive,FishBehavior,,,,,,,,,,,,,,,,,,,,,,,,,,,11111000,@ui_fishbehavior_hotheaded,,,,
 LateAggressive,FishBehavior,,,,,,,,,,,,,,,,,,,,,,,,,,,11111,@ui_fishbehavior_brooding,,,,
