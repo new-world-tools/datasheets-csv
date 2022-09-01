@@ -60,6 +60,10 @@ CoconutT1,EatRawFood,1,,,,,,,,,,,,,,,,,,,,,,,Eat,,
 MilkT1,EatRawFood,1,,,,,,,,,,,,,,,,,,,,,,,Drink,,
 TomatoT1,EatRawFood,1,,,,,,,,,,,,,,,,,,,,,,,Eat,,
 OnionT1,EatRawFood,1,,,,,,,,,,,,,,,,,,,,,,,Eat,,
+EnrichedRedMeatT5,EatRawFood,1,,,,,,,,,,,,,,,,,,,,,,,Eat,,
+EnrichedMeatPortionT5,EatRawFood,1,,,,,,,,,,,,,,,,,,,,,,,Eat,,
+ScorpionMeatT5,EatRawFood,1,,,,,,,,,,,,,,,,,,,,,,,Eat,,
+ArmadilloMeatT5,EatRawFood,1,,,,,,,,,,,,,,,,,,,,,,,Eat,,
 PotionHealthT1,PotionHeal,1,0,0,0,1,,,,,,,,,,,,,,,,,,,Potion,30,PotionHealth
 PotionHealthBT1,PotionHeal,1,0,0,0,1,,,,,,,,,,,,,,,,,,,Potion,30,PotionHealth
 PotionHealthT2,PotionHealT2,1,0,0,0,1,,,,,,,,,,,,,,,,,,,Potion,30,PotionHealth
@@ -88,7 +92,7 @@ PotionStalwartT3,GrandPotionStalwart,1,60,0,0,1,,,,,,,,,,,,,,,,,,,Potion,,
 PotionEncumbranceT1,MajorPotionEncumbrance,1,120,0,0,1,,,,,Boost,,,,,,,,,,,,,,Potion,,
 PotionEncumbranceT2,GreaterPotionEncumbrance,1,150,0,0,1,,,,,Boost,,,,,,,,,,,,,,Potion,,
 PotionEncumbranceT3,GrandPotionEncumbrance,1,180,0,0,1,,,,,Boost,,,,,,,,,,,,,,Potion,,
-PotionCleanseFTW,Cleanse,1,5,0,0,1,,,,MinorCurseAbsorb+MajorCurseAbsorb+GreaterCurseAbsorb+GrandCurseAbsorb+MinorPoisonAbsorb+MajorPoisonAbsorb+GreaterPoisonAbsorb+GrandPoisonAbsorb+MinorDiseaseAbsorb+MajorDiseaseAbsorb+GreaterDiseaseAbsorb+GrandDiseaseAbsorb+MinorBleedAbsorb+MajorBleedAbsorb+GreaterBleedAbsorb+GrandBleedAbsorb+MinorFrostbiteAbsorb+MajorFrostbiteAbsorb+GreaterFrostbiteAbsorb+GrandFrostbiteAbsorb,,,,,,,,,,,,AfflictionCurse=-1000+AfflictionPoison=-1000+AfflictionDisease=-1000+AfflictionBleed=-1000+AfflictionFrostbite=-1000,,,Potion,10,PotionCleanse
+PotionCleanseFTW,Cleanse,1,5,0,0,1,,,,MinorCurseAbsorb+MajorCurseAbsorb+GreaterCurseAbsorb+GrandCurseAbsorb+MinorPoisonAbsorb+MajorPoisonAbsorb+GreaterPoisonAbsorb+GrandPoisonAbsorb+MinorDiseaseAbsorb+MajorDiseaseAbsorb+GreaterDiseaseAbsorb+GrandDiseaseAbsorb+MinorBleedAbsorb+MajorBleedAbsorb+GreaterBleedAbsorb+GrandBleedAbsorb+MinorFrostbiteAbsorb+MajorFrostbiteAbsorb+GreaterFrostbiteAbsorb+GrandFrostbiteAbsorb,,,,,,,,,,,,AfflictionCurse=-1000+AfflictionPoison=-1000+AfflictionDisease=-1000+AfflictionBleed=-1000+AfflictionFrostbite=-1000,,,Potion,30,PotionCleanse
 PotionHasteFTW,PotionHaste,1,20,0,0,1,,,,,,,,,,,,,,,,,,,Potion,60,PotionHaste
 BlessedWater,GrandDrinkStaminaRegen,1,120,0,0,1,,,,,,,,,,,,,,,,,,,Potion,,
 PotionHealthFTW,PotionHealT5,1,0,0,0,1,,,,,,,,,,,,,,,,,,,Potion,30,PotionHealth
@@ -298,6 +302,7 @@ FoodSTRT2,FoodSTRT2+FoodRecoveryT2,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat
 FoodSTRT3,FoodSTRT3+FoodRecoveryT3,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodSTRT4,FoodSTRT4+FoodRecoveryT4,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodSTRT5,FoodSTRT5+FoodRecoveryT5,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
+FoodSTRT5b,FoodSTRT5b+FoodRecoveryT5b,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodSTRDEXT2,FoodSTRDEXT2+FoodRecoveryT2,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodSTRDEXT3,FoodSTRDEXT3+FoodRecoveryT3,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodSTRDEXT4,FoodSTRDEXT4+FoodRecoveryT4,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
@@ -322,6 +327,7 @@ FoodDEXT2,FoodDEXT2+FoodRecoveryT2,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat
 FoodDEXT3,FoodDEXT3+FoodRecoveryT3,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodDEXT4,FoodDEXT4+FoodRecoveryT4,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodDEXT5,FoodDEXT5+FoodRecoveryT5,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
+FoodDEXT5b,FoodDEXT5b+FoodRecoveryT5b,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodDEXINTT2,FoodDEXINTT2+FoodRecoveryT2,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodDEXINTT3,FoodDEXINTT3+FoodRecoveryT3,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodDEXINTT4,FoodDEXINTT4+FoodRecoveryT4,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
@@ -346,6 +352,7 @@ FoodINTT2,FoodINTT2+FoodRecoveryT2,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat
 FoodINTT3,FoodINTT3+FoodRecoveryT3,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodINTT4,FoodINTT4+FoodRecoveryT4,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodINTT5,FoodINTT5+FoodRecoveryT5,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
+FoodINTT5b,FoodINTT5b+FoodRecoveryT5b,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodINTCONT2,FoodINTCONT2+FoodRecoveryT2,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodINTCONT3,FoodINTCONT3+FoodRecoveryT3,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodINTCONT4,FoodINTCONT4+FoodRecoveryT4,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
@@ -370,6 +377,7 @@ FoodCONT2,FoodCONT2+FoodRecoveryT2,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat
 FoodCONT3,FoodCONT3+FoodRecoveryT3,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodCONT4,FoodCONT4+FoodRecoveryT4,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodCONT5,FoodCONT5+FoodRecoveryT5,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
+FoodCONT5b,FoodCONT5b+FoodRecoveryT5b,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodCONFOCT2,FoodCONFOCT2+FoodRecoveryT2,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodCONFOCT3,FoodCONFOCT3+FoodRecoveryT3,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodCONFOCT4,FoodCONFOCT4+FoodRecoveryT4,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
@@ -394,6 +402,11 @@ FoodFOCT2,FoodFOCT2+FoodRecoveryT2,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat
 FoodFOCT3,FoodFOCT3+FoodRecoveryT3,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodFOCT4,FoodFOCT4+FoodRecoveryT4,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 FoodFOCT5,FoodFOCT5+FoodRecoveryT5,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
+FoodFOCT5b,FoodFOCT5b+FoodRecoveryT5b,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
+FoodDOTT2,FoodDOTT2+FoodRecoveryT2,,,,,,,,,,ResistBoost+Recovery,,,,,,,,,,,,,,Eat,,
+FoodDOTT3,FoodDOTT3+FoodRecoveryT3,,,,,,,,,,ResistBoost+Recovery,,,,,,,,,,,,,,Eat,,
+FoodDOTT4,FoodDOTT4+FoodRecoveryT4,,,,,,,,,,ResistBoost+Recovery,,,,,,,,,,,,,,Eat,,
+FoodDOTT5,FoodDOTT5+FoodRecoveryT5,,,,,,,,,,ResistBoost+Recovery,,,,,,,,,,,,,,Eat,,
 FoodCONLUCT5,FoodCONLUCT5+FoodRecoveryT5,,,,,,,,,,Attributes+Recovery+Luck,,,,,,,,,,,,,,Eat,,
 RabbitSeasonTotem,RabbitSeasonTotem,,,,,,,,,,Luck,,,,,,,,,,,,,,,,
 HoningStoneT2,HoningStoneT2,,,,,,,,,,Boost,,,,,,,,,,,,,,WeaponOil,,
@@ -422,7 +435,6 @@ OR_PotionStamina,GrandPotionEndurance,1,20,0,0,1,,,,,,,,,,,,,,,,,,,Potion,90,Pot
 OR_FoodSpeed,FoodInitialRecoveryT5+OutpostRush_FoodSpeed,1,,,,,,,,,Recovery+FoodInitialRecovery,,,,,,,,,,,,,,Eat,,
 OR_FoodPvP,FoodInitialRecoveryT5+OutpostRush_FoodPvP,1,,,,,,,,,Recovery+FoodInitialRecovery,,,,,,,,,,,,,,Eat,,
 OR_FoodPvE,FoodInitialRecoveryT5+OutpostRush_FoodPvE,1,,,,,,,,,Recovery+FoodInitialRecovery,,,,,,,,,,,,,,Eat,,
-FireworksT1,FireworksEffectT1,1,,,,,,,,,,,,,,,,,,,,,,,Call,,
 WCConsumable_SpicedNog,WCConsumable_SpicedNog+FoodRecoveryT3+WCConsumable_Gleamite,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Drink,,
 WCConsumable_Mealiewrap,WCConsumable_Mealiewrap+FoodRecoveryT3+WCConsumable_Gleamite,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
 WCConsumable_ConvergenceCake,WCConsumable_ConvergenceCake+FoodRecoveryT2+WCConsumable_Gleamite,,,,,,,,,,Attributes+Recovery,,,,,,,,,,,,,,Eat,,
@@ -463,3 +475,7 @@ PvPArena_HoningStoneT3,PvPArena_HoningStoneT3,,,,,,,,,,Boost,,,,,,,,,,,,,,Weapon
 PvPArena_HoningStoneT4,PvPArena_HoningStoneT4,,,,,,,,,,Boost,,,,,,,,,,,,,,WeaponOil,,
 PvPArena_HoningStoneT5,PvPArena_HoningStoneT5,,,,,,,,,,Boost,,,,,,,,,,,,,,WeaponOil,,
 Bot_KillRadius,Dungeon_BotKillRadius,,,,,,,,,,,,,,,,,,,,,,,,,,
+1679_0101_DesertCerate,,,,,,,,,,,,,1,,,,,,,,,,,,Potion,,
+QuestReward_MB_Potion_Regen,MajorPotionRegen,1,10,0,0,1,,,,,,,,,,,,,,,,,,,Potion,30,PotionRegen
+Debug_DisableUseInCombat,PotionHealT5,1,0,0,0,1,,,,,,,,,true,,,,,,,,,,Potion,30,PotionHealth
+TinctureAcidT5,Status_TinctureAcidT5,1,300,,,,,,,,,,,,,,,,,,,AfflictionPoison=-1000,,,,30,AcidCurse

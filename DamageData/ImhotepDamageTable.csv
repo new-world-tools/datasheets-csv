@@ -1,0 +1,8 @@
+DamageID,WeaponCategory,IgnoreInvulnerable,NoReaction,IsRanged,SurfaceImpactEffect,AttackType,DamageType,StatusEffect,EffectOnlyOnDamage,Affixes,DeflectDamageID,CanCrit,DmgCoef,DmgCoefHead,DmgCoefCrit,PowerLevel,BlockPowerLevel,CritPowerLevel,HitStun,BlockHitStun,CritHitStun,ImpactDistanceX,ImpactDistanceY,ImpactDistanceZ,ImpactDecayRate,CritImpactDistanceX,CritImpactDistanceY,CritImpactDistanceZ,CritImpactDecayRate,BlockImpactDistanceX,BlockImpactDistanceY,BlockImpactDistanceZ,BlockImpactDecayRate,AddDmg,StaggerDmgModifier,StaggerResistModifier,CameraShakeID,ImpactRating,BlockStaminaDmgMod,BlockAbsorptionModifier,StunBreakoutIncrement,LOSCheckVerticalAngleOffset,HitRuneCharge,HitBlockedRuneCharge
+Wave_Projectile,SunMagic,0,0,true,Bullet,Magic,Fire,AI_Snare_2sec,1,,,false,0.45,1,1,0,1,0,15,15,15,0,0,0,0.8,0,2,0,0.8,0,0,0,0.8,0,0,0,Small,0,0.4,1,1,,0.1625,0.325
+Sands_Of_Fury,SunMagic,0,1,,Bullet,Magic,Strike,,,,,false,0.15,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8,0,0,0,0,0,0,1,1,,0.1625,0.325
+AOE_Snare,SunMagic,0,0,,Bullet,Magic,Fire,AI_Root_4sec,1,,,false,0.5,1,1,0,1,0,15,15,15,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,0,Small,0,0.85,1,1,,0.1625,0.325
+Teleport_AOE,SunMagic,0,0,,Bullet,Magic,Fire,,,,,false,1.5,1,1,3,3,3,35,30,35,0,2,0,0.8,0,2,0,0.8,0,0,0,0.8,0,0,0,Small,0,0.8,1,1,,0.1625,0.325
+Beam,SunMagic,0,1,true,Bullet,Magic,Fire,AI_Anubian_Burn_9,1,,,false,0.05,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Small,1,1,1,1,,0.1625,0.325
+Overhead_Staff_Attack,SunMagic,0,0,,Bullet,Magic,Strike,,,,,false,0.5,1,1,1,1,1,10,15,10,0,0.5,0,0.8,0,0.8,0,0.8,0,0,0,0.8,0,0,0,Small,0,0.85,1,1,,0.1625,0.325
+Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Small,1,,1,1,,0.1625,0.325

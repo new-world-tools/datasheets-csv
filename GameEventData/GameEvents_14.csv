@@ -1,17 +1,17 @@
 EventID,GameEventType,Level,CreatureType,RewardModifier,UniversalExpAmount,CurrencyReward,ItemReward,RewardsNotes,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionTokens,FactionInfluenceAmount,FactionInfluenceSrc,EmitTelemetry,AzothReward,AzothRewardChance
-1403_0201_gates_Success,,51,Quest+,Armor,2940,14175,QuestRewardArmorL51,,,,,,,,,,true,20,1
-1403_0202_tincturequest_Success,,50,Quest-,,2600,4000,TinctureBlightT4,,,,,,,,,,true,5,1
-1403_0203_blightpox_Success,,52,Quest,Armor,3530,10250,QuestRewardArmorL52,,,,,,,,,,true,10,1
-1416_0201_sabotage_Success,,54,Quest,Weapons,3540,10500,QuestRewardWeaponsL54,,,,,,,,,,true,10,1
-1416_0202_foreman_Success,,55,Quest,Armor,3560,10625,QuestRewardArmorL55,,,,,,,,,,true,15,1
-1403_0301_blightstrength_Success,,52,Quest,,3530,10250,EarringEdengroveT5,,,,,,,,,,true,10,1
-1416_0301_northeast_Success,,57,Quest-,,2790,4350,,,,,,,,,,,true,7.5,1
-1418_0201_lights_Success,,54,Quest,Armor,3540,10500,QuestRewardArmorL54,,,Camping,1,,,,,,true,10,1
+1403_0201_gates_Success,,51,Quest+,Armor,2930,14175,QuestRewardArmorL51,,,,,,,,,,true,20,1
+1403_0202_tincturequest_Success,,50,Quest-,,2590,4000,TinctureBlightT4,,,,,,,,,,true,5,1
+1403_0203_blightpox_Success,,52,Quest,Armor,3560,10250,QuestRewardArmorL52,,,,,,,,,,true,10,1
+1416_0201_sabotage_Success,,54,Quest,Weapons,3630,10500,QuestRewardWeaponsL54,,,,,,,,,,true,10,1
+1416_0202_foreman_Success,,55,Quest,Armor,3660,10625,QuestRewardArmorL55,,,,,,,,,,true,15,1
+1403_0301_blightstrength_Success,,52,Quest,,3560,10250,EarringEdengroveT5,,,,,,,,,,true,10,1
+1416_0301_northeast_Success,,57,Quest-,,2820,4350,,,,,,,,,,,true,7.5,1
+1418_0201_lights_Success,,54,Quest,Armor,3630,10500,QuestRewardArmorL54,,,Camping,1,,,,,,true,10,1
 1418_0202_azuretears_Success,,59,Quest,,3990,11125,2hBowEdengroveT5,,,,,,,,,,true,15,1
-1403_0401_blightmigration_Success,,58,Quest,,3860,11000,Amulet_SQRewardEdengroveT5,,,,,,,,,,true,15,1
+1403_0401_blightmigration_Success,,58,Quest,,3870,11000,Amulet_SQRewardEdengroveT5,,,,,,,,,,true,15,1
 1403a_06a01_blightroots_success,,1,Quest+,Weapons,150,5425,QuestRewardWeaponsL1,,,,,,,,,,true,0,1
 1403A_0301_GKW_Success,,65,Quest+,,20000,16625,2hWarhammer_SQRewardEdengroveT5,L60 GS 525 Dungeon,,,,,,,,,true,30,1
-1414_0101_ToReekwater_Success,,54,Quest-,Armor,2660,4200,QuestRewardArmorL54,Vector quest,,,,,,,,,true,5,1
+1414_0101_ToReekwater_Success,,54,Quest-,Armor,2730,4200,QuestRewardArmorL54,Vector quest,,,,,,,,,true,5,1
 1413_0201_spriggan_Success,,65,Quest+,Weapons,6570,16625,QuestRewardWeaponsL65,,,,,,,,,,true,30,1
 1426_0101_SurveyNotes_interact,,0,Quest,,0,0,,,,,,,,,,,true,0,0
 1426_0101_BurnForge_Interact,,0,Quest,,0,0,,,,,,,,,,,true,0,0
