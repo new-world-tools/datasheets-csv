@@ -1,12 +1,12 @@
 EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemReward,RewardNotes,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionTokens,FactionInfluenceAmount,FactionInfluenceSrc,EmitTelemetry,AzothReward,AzothRewardChance
 1104_01a01_crashing_Success,,45,Quest-,2370,3750,,,,,,100,,,,,true,5,1
-1111_0201_deluge_Success,,46,Quest+,4020,13300,QuestRewardWeaponsL46,,,,,250,,,,,true,20,1
-1102_0201_abandonedduties_Success,,46,Quest,3210,9500,QuestRewardArmorL46,,,,,175,,,,,true,10,1
-1104_0201_waterfalls_Success,,46,Quest,3210,9500,QuestRewardArmorL46,,,,,175,,,,,true,10,1
-1102_0301_musslebeard_Success,,47,Quest+,4090,13475,QuestRewardWeaponsL47,,,,,250,,,,,true,20,1
-1105_0201_teardropgems_Success,,47,Quest,3270,9625,QuestRewardArmorL47,,,,,175,,,,,true,10,1
-1105_0202_excommunication_Success,,48,Quest+,4170,13650,QuestRewardArmorL48,,,,,250,,,,,true,20,1
-1111_0301_roadtotruth_Success,,48,Quest+,4170,13650,QuestRewardWeaponsL48,,,,,250,,,,,true,20,1
+1111_0201_deluge_Success,,46,Quest+,4020,13300,QuestRewardWeaponCase4,,,,,250,,,,,true,20,1
+1102_0201_abandonedduties_Success,,46,Quest,3210,9500,QuestRewardArmorCase4,,,,,175,,,,,true,10,1
+1104_0201_waterfalls_Success,,46,Quest,3210,9500,QuestRewardArmorCase4,,,,,175,,,,,true,10,1
+1102_0301_musslebeard_Success,,47,Quest+,4090,13475,QuestRewardWeaponCase4,,,,,250,,,,,true,20,1
+1105_0201_teardropgems_Success,,47,Quest,3270,9625,QuestRewardArmorCase4,,,,,175,,,,,true,10,1
+1105_0202_excommunication_Success,,48,Quest+,4170,13650,QuestRewardArmorCase4,,,,,250,,,,,true,20,1
+1111_0301_roadtotruth_Success,,48,Quest+,4170,13650,QuestRewardWeaponCase4,,,,,250,,,,,true,20,1
 1111_0401_ancienttruth_Success,,50,Quest+,4320,14000,2hWarhammerMourningdaleT4,,,,,250,,,,,true,20,1
 1111_0402_corruptedenergy_Success,,50,Quest+,4320,14000,HeavyChest_MourningdaleT4,,,,,250,,,,,true,20,1
 1102_0401_march_Success,,50,Quest+,4320,14000,RingMourningDaleT4,,,,,250,,,,,true,20,1
@@ -48,3 +48,6 @@ EventID,GameEventType,Level,CreatureType,UniversalExpAmount,CurrencyReward,ItemR
 1130_ArcaneFocus2_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 1130_ArcaneFocus3_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
 1130_ArcaneFocus4_interact,,0,Quest-,0,0,,,,,,0,,,,,true,0,0
+1140_Halloween_01_success,,25,Quest,2060,6875,,,,,,175,,,,,true,10,1
+1140_Halloween_02_success,,60,Quest,4500,11250,NH_QuestCache,,,HalloweenEventProgress,5271911,175,,,,,true,15,1
+1140_Halloween_03_success,,25,Quest,2060,6875,,,,,,175,,,,,true,10,1

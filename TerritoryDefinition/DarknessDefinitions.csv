@@ -15,3 +15,14 @@ TerritoryID,NameLocalizationKey,IsPOI,MapIcon,CompassIcon,TooltipBackground,Grou
 8014,@ui_holdout_chamber,true,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/tooltipImages/POI/mapTooltip_darkness_minor_monolith.png,0,DefendObject,,15,1 0 0
 8015,@ui_nightveil_worldboss_baalphazu,true,LyShineUI/Images/Map/Icon/POIs/Baalphazu.png,LyShineUI/Images/Map/Icon/POIs/Baalphazu.png,LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_nightveil_baalphazu.png,0,EventEncounter,,65,110 116 240
 8016,@objective_msq_beach_chaplain,true,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,,0,ChaplainEncounter,,5,
+8017,@objective_msq_heartforge_guardian,true,,,,0,HeartforgeEncounter,,,
+8018,@12A_Encounter_Captain_Boss_Obj_Enc_Title,true,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,,,DefendObject,,15,1 0 0
+8019,@12A_Encounter_Helvan_Boss_Obj_Enc_Title,false,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,,,DefendObject,,10,1 0 0
+8020,@12A_Encounter_SirGawain_Boss_Obj_Enc_Title,true,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,,,DefendObject,,17,1 0 0
+8021,@06A_Encounter_Medea_Boss_Obj_Enc_Title,true,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,,,,,,
+8022,@ui_solariumkhepri_attack,true,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,,3,EliteOverlord,,66,255 0 0
+8023,@ui_ordealscorpio_attack,true,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,,3,EliteOverlord,,66,255 0 0
+8024,@ui_legion_outpost_attack,true,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,,0,BrimstoneSiegeEncounter,,60,1 0 0
+8025,@ui_sulfurpool_attack,true,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,,0,BrimstoneSulfurEncounter,,60,1 0 0
+8026,@04A_Encounter_Remnant_Boss_Obj_Enc_Title,true,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,,,RemnantEncounter,,17,1 0 0
+8027,@04A_Encounter_Zane_Boss_Obj_Enc_Title,true,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,,,ZaneEncounter,,21,1 0 0

@@ -67,7 +67,7 @@ MSQ_Chapter_Banner_1_Proximity,,,,,GameEvent_Proximity,15,15,15,,,,,,,,,,,,,,IO_
 12A_MB_Whisper_03,,,,,12A_Whisper_03,15,15,0,,,,,,,,,,,,,,IO_12A_MB_Whisper_03,true,,,15,
 12A_MB_Whisper_04,,,,,12A_Whisper_04,15,15,0,,,,,,,,,,,,,,IO_12A_MB_Whisper_04,true,,,15,
 99A_IsabellaWhisper_02,,,,,99A_IsabellaWhisper_01,18,18,0,,,,,,,,,,,,,,IO_99A_IsabellaWhisper_02,true,,,18,
-16_ImhotepCageNodules,,,,,1625_0201_ImhotepCageNoduleA,10,10,10,,,,,,,,,,,,,,IO_16_ImhotepCageNodules,true,,,10,
+16_ImhotepCageNodules,slices\WorldEvents\BrimstoneSands\Interact\ImhotepCageNodules_Healthy_00.dynamicslice,,,,1625_0201_ImhotepCageNoduleA,10,10,0,,,,,,,,,,,,,,IO_16_ImhotepCageNodules,true,,,10,
 16_AdianaAkhet_SE,,,,,16_AdianaAkhet_SE,10,10,0,,,,buildables.AzureWell.Vapor_02,,,,,,,,,,IO_16_AdianaAkhet_SE,true,,,10,
 16_ImhotepRitual_SE,,,,,16_ImhotepRitual_SE,10,10,0,,,,buildables.AzureWell.Vapor_02,,,,,,,,,,IO_16_ImhotepRitual_SE,true,,,3,
 16_Coronation_SE,,,,,16_Coronation_SE,10,10,0,,,,buildables.AzureWell.Vapor_02,,,,,,,,,,IO_16_Coronation_SE,true,,,3,

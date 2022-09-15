@@ -2,7 +2,7 @@ DamageID,WeaponCategory,IgnoreInvulnerable,NoReaction,IsRanged,SurfaceImpactEffe
 Crassus_ChaosLance_Projectile,CorruptedMagic,0,0,true,Bullet,Magic,Corruption,,,,,false,0.33,1,,1,1,1,10,10,10,0,0,0,0.8,0,0,0,0.8,0,3.5,0,0.8,0,0.9,,1,Small,Small,Small,0,0.4,1,1,0.1625,0.325
 Crassus_ChaosLance_Explosion,CorruptedMagic,0,0,,Bullet,Magic,Corruption,,,,,false,0.5,1,,3,3,3,30,40,30,0,3,0,0.8,0,4,0,0.8,0,3.5,0,0.8,0,1.1,,1,Small,Small,Small,0,0.6,1,1,0.1625,0.325
 Crassus_CorruptedPhalanx,Sword,0,0,,Bullet,Heavy,Strike,,,,,false,0.5,1,,3,3,3,30,30,30,0,2,0,0.8,0,0,0,0.8,0,2,0,0.8,0,0,,1,Small,Small,Small,0,0.8,1,1,0.1625,0.325
-Crassus_FireRain,Bow,0,0,true,Bullet,Light,Fire,,Legion_FireRainBurn_Debuff,true,,false,0.1,1,,0,0,0,10,10,10,0,0.5,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,,1,Small,Small,Small,0,0.4,1,1,0.1625,0.325
+Crassus_FireRain,Bow,0,0,true,Bullet,Light,Fire,,Legion_FireRainBurn_Crassus_Debuff,true,,false,0.1,1,,0,0,0,10,10,10,0,0.5,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,,1,Small,Small,Small,0,0.4,1,1,0.1625,0.325
 Crassus_ChaosVolley,Bow,0,0,true,Bullet,Light,Thrust,,,,,false,0.15,1,,1,2,1,20,20,20,0,0.75,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,,1,Small,Small,Small,0,0.8,1,1,0.1625,0.325
 Crassus_Swing,Sword,0,0,,Bullet,Heavy,Strike,,,true,,false,0.7,1,,2,2,2,30,30,30,0,0,0,0.8,0,0,0,0.8,0,2,0,0.8,0,0,,1,Small,Small,Small,0,0.8,1,1,0.1625,0.325
 Crassus_Swing_Projectile,CorruptedMagic,0,0,true,Bullet,Magic,Corruption,,,,,false,0.5,1,,0,0,0,0,0,0,0,0,0,0.8,0,0,0,0.8,0,2,0,0.8,0,0,,1,Small,Small,Small,0,0.6,1,1,0.1625,0.325
@@ -10,7 +10,7 @@ Crassus_ChaosSpin,Sword,0,0,,Bullet,Heavy,Strike,,,true,,false,0.7,1,,2,2,2,30,3
 Crassus_ChaosSpin_Projectile,CorruptedMagic,0,0,true,Bullet,Magic,Corruption,,,,,false,0.33,1,,0,0,0,0,0,0,0,0,0,0.8,0,0,0,0.8,0,2,0,0.8,0,0,,1,Small,Small,Small,0,0.6,1,1,0.1625,0.325
 Crassus_Transmutation_1,CorruptedMagic,0,0,,Bullet,Magic,Corruption,,,,,false,0.7,1,,4,4,4,35,30,35,0,2,1,0.8,0,0,0,0.8,0,2,0,0.8,0,0,,1,Small,Small,Small,0,0.8,1,1,0.1625,0.325
 Crassus_Transmutation_2,CorruptedMagic,0,0,,Bullet,Magic,Corruption,,,,,false,1,1,,4,4,4,35,30,35,0,2,1,0.8,0,0,0,0.8,0,2,0,0.8,0,0,,1,Small,Small,Small,0,0.8,1,1,0.1625,0.325
-Legionnaire_LightStab,Spear_AI,0,0,,Bullet,Light,Thrust,,,,,false,0.5,1,,0,0,0,10,10,10,0,1,0,0.8,0,0,0,0.8,0,2,0,0.8,0,0,,1,Small,Small,Small,0,0.4,1,1,0.1625,0.325
+Legionnaire_LightStab,Spear_AI,0,0,,Bullet,Light,Thrust,,,,,false,0.8,1,,0,0,0,10,10,10,0,1,0,0.8,0,0,0,0.8,0,2,0,0.8,0,0,,1,Small,Small,Small,0,0.4,1,1,0.1625,0.325
 Legionnaire_ShieldBash,Sword,0,0,,Bullet,Light,Strike,,,,,false,0.7,1,,3,3,3,15,15,15,0,1.25,0,0.8,0,0,0,0.8,0,2,0,0.8,0,0,,1,Small,Small,Small,0,0.8,1,1,0.1625,0.325
 Legionnaire_HeavyStab,Spear_AI,0,0,,Bullet,Heavy,Thrust,,,true,,false,0.7,1,,3,3,3,20,20,20,0,1,0,0.8,0,0,0,0.8,0,2,0,0.8,0,0,,1,Small,Small,Small,0,0.8,1,1,0.1625,0.325
 Legionnaire_ShieldRush,Sword,0,0,,Bullet,Heavy,Strike,,,,,false,0.7,1,,3,3,3,30,30,30,0,2,0,0.8,0,0,0,0.8,0,2,0,0.8,0,0,,1,Small,Small,Small,0,0.8,1,1,0.1625,0.325
@@ -19,7 +19,7 @@ Legionnaire_CorruptedPhalanx,Sword,0,0,,Bullet,Heavy,Strike,,,,,false,0.5,1,,4,4
 Legionnaire_PhantomStrike,Spear_AI,0,0,,Bullet,Light,Thrust,,,true,,false,0.5,1,,2,2,2,10,10,10,0,1,0,0.8,0,0,0,0.8,0,2,0,0.8,0,0,,1,Small,Small,Small,0,0.4,1,1,0.1625,0.325
 Sagittarii_ShortSwordSwing,Sword,0,0,,Bullet,Heavy,Thrust,,,,,false,0.5,1,,3,3,3,8,8,8,0,0.75,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,,1,Small,Small,Small,0,0.4,1,1,0.1625,0.325
 Sagittarii_DrawShoot,Bow,0,0,true,Bullet,Light,Thrust,,,,,false,0.6,1,,1,2,1,20,20,20,0,0.75,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,,1,Small,Small,Small,0,0.4,1,1,0.1625,0.325
-Sagittarii_FireRain,Bow,0,0,true,Bullet,Magic,Fire,,Legion_FireRainBurn_Debuff,true,,false,0.3,1,,0,0,0,10,10,10,0,0.5,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,,1,Small,Small,Small,0,0.8,1,1,0.1625,0.325
+Sagittarii_FireRain,Bow,0,0,true,Bullet,Magic,Fire,,Legion_FireRainBurn_Crassus_Debuff,true,,false,0.3,1,,0,0,0,10,10,10,0,0.5,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,,1,Small,Small,Small,0,0.8,1,1,0.1625,0.325
 Sagittarii_StickyBomb,Bow,0,0,true,Bullet,Magic,Corruption,,,,,false,0.35,1,,4,4,4,35,35,35,0,2,1,0.8,0,0,0,0.8,0,2,0,0.8,0,0,,1,Small,Small,Small,0,0.8,1,1,0.1625,0.325
 Sagittarii_NoDamage,Bow,0,1,,Bullet,Light,Thrust,,,,,false,0.2,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,Small,Small,Small,0,0,1,1,0.1625,0.325
 Sagittarii_PulseNoDamage,Bow,0,0,,Bullet,Light,Thrust,,,,,false,0,0,,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,Small,Small,Small,0,0,1,1,0.1625,0.325
