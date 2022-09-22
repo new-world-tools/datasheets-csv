@@ -2,8 +2,8 @@ DamageID,WeaponCategory,IsRanged,IgnoreInvulnerable,Unblockable,NoReaction,Surfa
 Projectile_Shot,Unarmed,1,0,0,0,Bullet,Light,Strike,,,,,false,0.2,1,1,0,1,1,5,10,15,0,0,0,0.8,0,0,0,0.8,0,1,0,0.8,0,1,,1,Small,Small,Small,3,0.2,1,1,,,0.1625,0.325
 SnakeScream,Unarmed,1,0,0,0,Bullet,Heavy,Nature,,,,,false,0.2,1,1,0,1,1,15,15,15,1,0,0,0.8,0,0,0,0.8,0,1,0,0.8,0,1,,1,Small,Small,Small,3,0.7,1,1,,,0.1625,0.325
 SnakeScream_Projectile,Unarmed,1,0,0,0,Bullet,Light,Nature,,,,,false,0.35,1,1,2,3,2,15,15,15,0,1,0,0.8,0,0,0,0.8,0,1,0,0.8,0,1,,1,Small,Small,Small,3,0.2,1,1,,,0.1625,0.325
-Slash_L,Unarmed,1,,,,Bullet,Light,Nature,,,,,false,0.25,1,1,0,0,0,10,15,20,0.25,0,0,0.8,0,0,0,0.8,0,1,0,0.8,0,1,,1,Small,Small,Small,3,0.4,1,1,,,0.1625,0.325
-Slash_R,Unarmed,1,,,,Bullet,Light,Nature,,,,,false,0.25,1,1,0,0,0,10,15,20,-0.25,0,0,0.8,0,0,0,0.8,0,1,0,0.8,0,1,,1,Small,Small,Small,3,0.4,1,1,,,0.1625,0.325
+Slash_L,Unarmed,0,,,,Bullet,Light,Nature,,,,,false,0.25,1,1,0,0,0,10,15,20,0.25,0,0,0.8,0,0,0,0.8,0,1,0,0.8,0,1,,1,Small,Small,Small,3,0.4,1,1,,,0.1625,0.325
+Slash_R,Unarmed,0,,,,Bullet,Light,Nature,,,,,false,0.25,1,1,0,0,0,10,15,20,-0.25,0,0,0.8,0,0,0,0.8,0,1,0,0.8,0,1,,1,Small,Small,Small,3,0.4,1,1,,,0.1625,0.325
 SnakeTremor,Unarmed,1,,,,Bullet,Light,Nature,,AI_Snare_2sec,,,false,0.3,1,1,1,1,1,10,15,20,0,0,0,0.8,0,0,0,0.8,0,1,0,0.8,0,1,,1,Small,Small,Small,3,0.3,1,1,,,0.1625,0.325
 SnakeTrail,Unarmed,1,,,,Bullet,Light,Nature,,,,,false,0.25,1,1,1,1,1,15,20,25,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,1,,1,Small,Small,Small,3,0.8,1,1,,,0.1625,0.325
 SnakeProjectile,Unarmed,1,0,0,0,Bullet,Light,Strike,,,,,false,0.5,1,1,0,1,1,10,15,20,0,0,0,0.8,0,0,0,0.8,0,1,0,0.8,0,1,,1,Small,Small,Small,3,0.4,1,1,,,0.1625,0.325
