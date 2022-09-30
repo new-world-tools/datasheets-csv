@@ -475,7 +475,7 @@ PvPArena_HoningStoneT3,PvPArena_HoningStoneT3,,,,,,,,,,Boost,,,,,,,,,,,,,,Weapon
 PvPArena_HoningStoneT4,PvPArena_HoningStoneT4,,,,,,,,,,Boost,,,,,,,,,,,,,,WeaponOil,,,
 PvPArena_HoningStoneT5,PvPArena_HoningStoneT5,,,,,,,,,,Boost,,,,,,,,,,,,,,WeaponOil,,,
 Bot_KillRadius,Dungeon_BotKillRadius,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1679_0101_DesertCerate,,,,,,,,,,,,,1,,,,,,,,,,,,Potion,,,
+1679_0101_DesertCerate,,,,,,,,,,,,,,,,,,,,,,,,,Potion,,,
 QuestReward_MB_Potion_Regen,MajorPotionRegen,1,10,0,0,1,,,,,,,,,,,,,,,,,,,Potion,,30,PotionRegen
 Debug_DisableUseInCombat,PotionHealT5,1,0,0,0,1,,,,,,,,,true,,,,,,,,,,Potion,,30,PotionHealth
 TinctureAcidT5,Status_TinctureAcidT5,1,300,,,,,,,,,,,,,,,,,,,AfflictionPoison=-1000,,,,,30,AcidCurse

@@ -27,11 +27,11 @@ TaskID,Type,FailOnCondition,StayActive,RequiredLevel,TargetQty,ItemName,ItemDrop
 01_SoleSurvivor_GotoPoint3,TaskTriggerArea,,1,,1,,,,,,,,,,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,ftueQuestTrigger3,@01_SoleSurvivor_GotoPoint3,,,,,,,,,,,,,1,,,,,,
 01_SoleSurvivor2_Container,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,01_SoleSurvivor2_KillCaptain,,,,
 01_SoleSurvivor2_KillCaptain,TaskKillContribution,,1,,1,,,,,,,,,,,,,,,,,,,,Damned_Commander,,,,,,,,,,,,,,,,,,,,@01_SoleSurvivor2_KillCaptain,,,,,,,,,,,,,,,,,,,
-06_getoffbeach_container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9613.6416 2329.4722 43.0,,,true,,,,,,,,,,06_getoffbeach_container_reeseintro,06_getoffbeach_UnlockAchievement_GraceCombat_On,06_getoffbeach_UnlockAchievement_GraceCombat_VO_On,06_getoffbeach_SliceSwap_01_ReeseWW_A_On,06_getoffbeach_container_beachintro_cutscene
+06_getoffbeach_container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9613.6416 2329.4722 43.0,1,,,,,,,,,,,,06_getoffbeach_container_reeseintro,06_getoffbeach_UnlockAchievement_GraceCombat_On,06_getoffbeach_UnlockAchievement_GraceCombat_VO_On,06_getoffbeach_SliceSwap_01_ReeseWW_A_On,06_getoffbeach_container_beachintro_cutscene
 06_getoffbeach_container_reeseintro,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,06_getoffbeach_SliceSwap_01_HoweWW_A_On,06_getoffbeach_SliceSwap_01_CaveCorruption_Off,,,
 06_getoffbeach_reese_intro,TaskGameEvent,,,,1,,,,,,,,,,,,,,,,,IO_Reese_Intro,,,GameEvent_interact,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 06_getoffbeach_reese_intro_Trigger,TaskTriggerGameEvent,,,,1,,,,,,,,,,,,,,,,,,,,GameEvent_interact,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
-06_getoffbeach_TaskTriggerArea_Spawn_A,TaskTriggerArea,,1,,1,,,,,,,,,,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,TriggerVol_06_Spawn_A,@01_GetOffBeach_task,,9613.6416 2329.4722 43.0,,,,,,,,,,,,,,,,,
+06_getoffbeach_TaskTriggerArea_Spawn_A,TaskTriggerArea,,1,,1,,,,,,,,,,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,TriggerVol_06_Spawn_A,@01_GetOffBeach_task,,9613.6416 2329.4722 43.0,,,true,45,,,,,,,,,,,,,
 06_getoffbeach_SliceSwap_01_HoweWW_A_On,TaskUnlockAchievement,,,,1,SwapActive_0425_HerbalistPath_ww,,,,,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 06_getoffbeach_SliceSwap_01_ReeseWW_A_On,TaskLockAchievement,,,,1,SwapActive_01_ReeseWW_A,,,,,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 06_getoffbeach_SliceSwap_01_Intro,TaskUnlockAchievement,,,,1,SwapActive_01_Intro,,,,,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
@@ -46,11 +46,11 @@ TaskID,Type,FailOnCondition,StayActive,RequiredLevel,TargetQty,ItemName,ItemDrop
 06_getoffbeach_beachintro_task_banner,TaskGameEvent,,,,1,,,,,,,,,,,,,,,,,IO_MSQ_Chapter_Banner_1_Proximity,,,MSQ_Chapter_Banner_1_interact,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 06_getoffbeach_task_goto_watchtower,TaskGoToPOITag,,1,,,,,,,,6,watchtower,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@01_GetOffBeach_task,,9613.6416 2329.4722 42.424,,,true,45,,,,,,,,,,,,,
 06_getoffbeach_TaskTriggerArea_Reese,TaskTriggerArea,,1,,1,,,,,,,,,,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,TriggerVol_06_Reese,@01_GetOffBeach_task,,9613.6416 2329.4722 42.424,,,true,45,,,,,,,,,,,,,
-12_getoffbeach_container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7288.5249 3126.2463 43.2,,,true,,,,,,,,,,12_getoffbeach_container_reeseintro,12_getoffbeach_UnlockAchievement_GraceCombat_On,12_getoffbeach_UnlockAchievement_GraceCombat_VO_On,12_getoffbeach_SliceSwap_01_ReeseMB_A_On,12_getoffbeach_container_beachintro_cutscene
+12_getoffbeach_container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7288.5249 3126.2463 43.2,1,,,,,,,,,,,,12_getoffbeach_container_reeseintro,12_getoffbeach_UnlockAchievement_GraceCombat_On,12_getoffbeach_UnlockAchievement_GraceCombat_VO_On,12_getoffbeach_SliceSwap_01_ReeseMB_A_On,12_getoffbeach_container_beachintro_cutscene
 12_getoffbeach_container_reeseintro,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,12_getoffbeach_SliceSwap_01_HoweMB_A_On,12_getoffbeach_SliceSwap_01_CaveCorruption_Off,,,
 12_getoffbeach_reese_intro,TaskGameEvent,,,,1,,,,,,,,,,,,,,,,,IO_Reese_Intro,,,GameEvent_interact,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 12_getoffbeach_reese_intro_Trigger,TaskTriggerGameEvent,,,,1,,,,,,,,,,,,,,,,,,,,GameEvent_interact,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
-12_getoffbeach_TaskTriggerArea_Spawn_A,TaskTriggerArea,,1,,1,,,,,,,,,,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,TriggerVol_12_Spawn_A,@01_GetOffBeach_task,,7288.5249 3126.2463 43.2,,,,,,,,,,,,,,,,,
+12_getoffbeach_TaskTriggerArea_Spawn_A,TaskTriggerArea,,1,,1,,,,,,,,,,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,TriggerVol_12_Spawn_A,@01_GetOffBeach_task,,7288.5249 3126.2463 43.2,,,true,45,,,,,,,,,,,,,
 12_getoffbeach_SliceSwap_01_HoweMB_A_On,TaskUnlockAchievement,,,,1,SwapActive_0425_HerbalistPath_mb,,,,,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 12_getoffbeach_SliceSwap_01_ReeseMB_A_On,TaskLockAchievement,,,,1,SwapActive_01_ReeseMB_A,,,,,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 12_getoffbeach_SliceSwap_01_Intro,TaskUnlockAchievement,,,,1,SwapActive_01_Intro,,,,,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,

@@ -56,3 +56,6 @@ whisper_test_03,GAME_EVENT,,Whisper_Timeline_01,15,,Play_01_Whisper_FTUE_04,,whi
 01_Watcher_FTUE_01,GAME_EVENT,,,9,01_Watcher_FTUE_01_event,Play_01_Watcher_FTUE_01,,S_beachintro_cutscene
 12A_MB_Whisper_LoreNote_01,GAME_EVENT,,,15,,Play_Lore_Notes_Lochnir_Khalladan1,,12A_MB_LoreNote_01
 12A_MB_Whisper_LoreNote_02,GAME_EVENT,,,15,,Play_Lore_Notes_Lochnir_Khalladan2,,12A_MB_LoreNote_02
+12A_MSQ_07_Miner1_subtitle,GAME_EVENT,,,7.7892,,,@Miners_Shazaan_line1,12A_MSQ_Miner1_subtitle
+12A_MSQ_07_Miner2_subtitle,GAME_EVENT,,,5.05,,,@Miners_Tomira_line1,12A_MSQ_Miner2_subtitle
+12A_MSQ_07_Miner3_subtitle,GAME_EVENT,,,5.4193,,,@Miners_Chandu_line1,12A_MSQ_Miner3_subtitle

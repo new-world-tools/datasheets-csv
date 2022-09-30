@@ -81,3 +81,6 @@ MB_MSQ2_RescueMiner_Rescue_01_interact,,0,Quest,,0,0,,,,,,,,,,,true,0,0,
 MB_MSQ2_RescueMiner_Rescue_02_interact,,0,Quest,,0,0,,,,,,,,,,,true,0,0,
 MB_MSQ2_RescueMiner_Rescue_03_interact,,0,Quest,,0,0,,,,,,,,,,,true,0,0,
 IO_Gimmick_BreakingWallsCannon_interact,,0,Quest,,0,0,,,,,,,,,,,true,0,0,
+12A_MSQ_07_Miner1_subtitle_interact,,0,Quest,,0,0,,,,,,,,,,,true,0,0,12A_MSQ_07_Miner1_subtitle
+12A_MSQ_07_Miner2_subtitle_interact,,0,Quest,,0,0,,,,,,,,,,,true,0,0,12A_MSQ_07_Miner2_subtitle
+12A_MSQ_07_Miner3_subtitle_interact,,0,Quest,,0,0,,,,,,,,,,,true,0,0,12A_MSQ_07_Miner3_subtitle

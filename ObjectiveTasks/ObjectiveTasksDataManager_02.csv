@@ -272,7 +272,7 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 9812_M_0001_d_03_TaskAchievement_TrialComplete_Gladiator,TaskAchievement,,1,,marauders_faction_quest_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@98_M_0001_CompleteTrial_Gladiator,,7916.26 1957.83 110.89,,,,,,,,,,,,,,,,,
 98_M_01_d_00_Container_combatprowess,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98_M_01_d_01_TaskGoToPOITag_undead_bastion_30126,98_M_01_d_02_kill_CaptainHamidou_undead_bastion_30126,,,
 98_M_01_d_01_TaskGoToPOITag_undead_bastion_30126,TaskGoToPOITag,,1,,,,,,true,,undead_bastion_30126,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@98_M_01_combatprowess_goto_POI,,,,,,,,,,,,,,,,,,,
-98_M_01_d_02_kill_CaptainHamidou_undead_bastion_30126,TaskKillContribution,,1,1,,,,,,,undead_bastion_30126,,,,,,,,,,,,,Undead_Berserker_Named_07,,,,,,,,,,,,,,,,,,,,@98_M_01_combatprowess_defeat_named_target,,,,,,,,,,,,,,,,,,,
+98_M_01_d_02_kill_CaptainHamidou_undead_bastion_30126,TaskKillContribution,,1,1,,,,,,,undead_bastion_30126,,,,,,,,,,,,,Undead_Berserker_Named_07,,,,,,,,,,,,,,,,,,,,@98_M_01_combatprowess_defeat_named_target,,6775 2284 110,,,,,,,,,,,,,,,,,
 98_M_0102_d_00_Container_RankUp,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98_M_0102_d_01_Reach_MarauderRank_2,98_M_0102_d_02_TaskAchievement_TrialComplete_Ravager,,,
 98_M_0102_d_01_Reach_MarauderRank_2,TaskHaveLevel,,1,11000,Marauder,,,,,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,@98_M_Reach_NextMarauderRank,,,,,,,,,,,,,,,,,,,
 98_M_0102_d_02_TaskAchievement_TrialComplete_Ravager,TaskAchievement,,1,,marauders_faction_quest_01b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@98_M_0102_CompleteTrial_Ravager,,11404.842773 5321.899902 43.823395,,,,,,,,,,,,,,,,,
