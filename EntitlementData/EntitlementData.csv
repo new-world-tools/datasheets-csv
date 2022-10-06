@@ -793,8 +793,18 @@ icon_crest_222,936,true,,,,,GuildCrest,icon_crest_222,,Store,,
 icon_crest_223,937,true,,,,,GuildCrest,icon_crest_223,,Store,,
 icon_crest_224,938,true,,,,,GuildCrest,icon_crest_224,,Store,,
 Ent_Crest_Bundle_Nightmares,939,true,,,,,Entitlement,icon_crest_222+icon_crest_223+icon_crest_224,,Store,,
-EntitlementTitle_FreshStart,940,true,,,,,PlayerTitle,PlayerTitle_FreshStart,,Preorder,,
 EntitlementTitle_Archaeologist,941,true,,,,,PlayerTitle,PlayerTitle_Archaeologist,,Store,,
 EntitlementSkin_Gladiator_BFNW2,942,true,,,,,ItemSkin,Skin_Chest_BFNW2Gladiator+Skin_Head_BFNW2Gladiator+Skin_Legs_BFNW2Gladiator+Skin_Feet_BFNW2Gladiator+Skin_Hands_BFNW2Gladiator,,Twitch,,
 RewardCache_BFNW2_Twitch,943,true,,,,,InventoryItem,Oct2022Prime_Container,,Twitch,RewardClaim_BFNW2_Twitch,
 EntitlementSkin_TwitchHallow,944,true,,,,,ItemSkin,Skin_Chest_TwitchHallow+Skin_Head_TwitchHallow+Skin_Legs_TwitchHallow+Skin_Feet_TwitchHallow+Skin_Hands_TwitchHallow,,Twitch,,
+RewardCache_Oct2022Prime_Container_2,973,true,,,,,InventoryItem,Oct2022Prime_Container_2,,Prime,RewardClaim_Oct2022Prime_Container_2,
+STEAM_APP_ID.1260000,984,true,,,,,WorldId,8085fcb8-6193-4fec-ab72-4a18adba9471,,,,QA4
+STEAM_APP_ID.1260001,985,true,,,,,WorldId,2c059371-ca0f-4fed-ac0b-8f35f188c824,,,,UX1
+STEAM_APP_ID.1260002,986,true,,,,,WorldId,5ca32dc3-7cd8-4bed-b70a-a17a9909c801,,,,UX2
+STEAM_APP_ID.1260003,987,true,,,,,WorldId,e0abaac3-9f21-4073-96a2-84acfc8c7c56,,,,Server-1
+ReturnToAeternum1,988,true,,,,,WorldId,232d2611-c655-48e1-bac1-6bc16c001607,,,,Retail FRA
+ReturnToAeternum2,989,true,,,,,WorldId,f6cf8860-36c0-4b8c-b991-af1fad5323cc,,,,Retail IAD
+ReturnToAeternum3,990,true,,,,,WorldId,f5f9e6e3-2843-42b3-9443-3cc89b2b864c,,,,Retail PDX
+ReturnToAeternum4,991,true,,,,,WorldId,d2add481-4de5-4b02-955b-8be64a12fd24,,,,Retail GRU
+ReturnToAeternum5,992,true,,,,,WorldId,eea00c1f-f6b0-458c-bec0-028400500040,,,,Retail PDX
+BugBounty1,993,true,,,,,WorldId,c258058f-df32-4c54-afb2-72f9d954b1d2,,,,Bug Bounty Retail usage

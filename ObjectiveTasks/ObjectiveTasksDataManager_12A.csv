@@ -135,7 +135,7 @@ TaskID,Type,FailOnCondition,StayActive,RequiredLevel,TargetQty,ItemName,ItemDrop
 12A_MSQ_20_CollectCrown_GoToLightsHope,TaskGoToPOITag,,,,1,,,,,,,withered_farm_3_30115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@12A_MSQ_20_CollectCrown_GoToLightsHope_Desc,,7967.549 2749.719 87.149,,,,,,,,,,,,,,,,,
 12A_MSQ_20_CollectCrown_SwapContainer,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,12A_MSQ_20_CollectCrown_RegentSwap01,12A_MSQ_20_CollectCrown_RegentSwap02,,,
 12A_MSQ_20_CollectCrown_RegentSwap01,TaskLockAchievement,,,,,SwapActive_12_RegentJinJae_A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
-12A_MSQ_20_CollectCrown_RegentSwap02,TaskUnlockAchievement,,,,,SwapActive_12_RegentJinJae_B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+12A_MSQ_20_CollectCrown_RegentSwap02,TaskLockAchievement,,,,,SwapActive_12_RegentJinJae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 12A_MSQ_20_CollectCrown_Seals_Container,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@12A_MSQ_20_CollectCrown_Seals_Container_Desc,,,1,,,,,,,,,,,,12A_MSQ_20_CollectCrown_Seals_Hawk,12A_MSQ_20_CollectCrown_Seals_Ebon,12A_MSQ_20_CollectCrown_Seals_Sparrow,,
 12A_MSQ_20_CollectCrown_Seals_Hawk,TaskHaveAndReturnItems,,,,1,12A_MSQ_20_HawkBadge,Lost_Knight_Bow_Named_12MB04,100,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@12A_MSQ_20_CollectCrown_Seals_Hawk_Desc,,7943.271 2789.107 98.148,,,,,,,,,,,,,,,,,
 12A_MSQ_20_CollectCrown_Seals_Ebon,TaskHaveAndReturnItems,,,,1,12A_MSQ_20_EbonBadge,Lost_Knight_Tank_Named_12MB04,100,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@12A_MSQ_20_CollectCrown_Seals_Ebon_Desc,,7934.247 2692.951 85.398,,,,,,,,,,,,,,,,,
