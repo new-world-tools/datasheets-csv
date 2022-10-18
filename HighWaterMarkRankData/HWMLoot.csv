@@ -97,8 +97,8 @@ Rank,ExceedMin0,ExceedMax0,FloorDistance,ChanceToExceed0,ChanceBump,ModifierAffe
 595,2,3,10,0.01,0.001,false,0.01,0,false,false,590,false,600,2,3,0.01
 596,2,3,10,0.01,0.001,false,0.01,0,false,false,590,false,600,2,3,0.01
 597,2,3,10,0.01,0.001,false,0.01,0,false,false,590,false,600,2,3,0.01
-598,2,3,10,0.01,0.001,false,0.01,0,false,false,590,false,600,2,3,0.01
-599,2,3,10,0.01,0.001,false,0.01,0,false,false,590,false,600,2,3,0.01
+598,2,2,10,0.01,0.001,false,0.01,0,false,false,590,false,600,2,3,0.01
+599,1,1,10,0.01,0.001,false,0.01,0,false,false,590,false,600,2,3,0.01
 600,-9,0,10,0.001,0.001,false,0.001,-1,true,true,590,true,600,-9,0,0.001
 601,-10,-1,11,0.001,0.001,false,0.001,-2,true,true,590,true,600,-10,-1,0.001
 602,-11,-2,12,0.001,0.001,false,0.001,-3,true,true,590,true,600,-11,-2,0.001
