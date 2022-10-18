@@ -240,7 +240,7 @@ ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,RequiredFact
 1663_00_Esoeris,Linear_Objective,true,@NPC_Default_Dialogue_1663_00_Esoeris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1665_00_Heron,Linear_Objective,true,@NPC_Default_Dialogue_1665_00_Heron,,,,,,,,16_Side_01_Glyphs,,,,,,,,,,,,,,,,,,,,,,
 1665_01_Heron,Linear_Objective,false,@NPC_Default_Dialogue_1665_01_Heron,,,,16_Side_01,,,,,,,,,,,,,,,,,,,,,,,,,,
-1665_02_Heron,,false,@NPC_Default_Dialogue_1665_02_Heron,,,,Lore_unlock_Tales_of_Brimstone_Sands_Title_13_26,,,,,,,,,,,,,,,,,,,,,,,,,,
+1665_02_Heron,Linear_Objective,false,@NPC_Default_Dialogue_1665_02_Heron,,,,16_Side_01 && Lore_unlock_Tales_of_Brimstone_Sands_Title_13_26,,,,,,,,,,,,,,,,,,,,,,,,,,
 1667_00_LostPack,Linear_Objective,true,@NPC_Default_Dialogue_1667_00_LostPack,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1668_00_Statue,Linear_Objective,true,@NPC_Default_Dialogue_1668_00_Statue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1669_00_Tablet,Linear_Objective,true,@NPC_Default_Dialogue_1669_00_Tablet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
