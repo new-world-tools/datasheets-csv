@@ -253,7 +253,7 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 1004_0103_CaptainsBlade_Quest_task_02,TaskHaveItems,,,1,1004_0103_CaptainsBlade,Undead_Officer_Named_06,100,,true,,wrecked_galleon_60339,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@1004_0103_CaptainsBlade_Quest_task_02,,13994.0 7499.0 53.0,,,,,,,,,,,,,,,,,
 1004_0103_CaptainsBlade_combined_container,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1004_0103_Combine_Quest_task_04,1004_0103_Combine_Quest_task_05,,,
 1004_0103_Combine_Quest_task_04,TaskInteract,,,1,,,,,,,,,,,,,,,,,SettlementBlacksmith,,,,,,,,,,,,,,,,,,,,,,,@1004_0103_Combine_Quest_task_04,,,,,,,,,,,,,,true,,,,,
-1004_0103_Combine_Quest_task_05,TaskHaveItems,,,1,1hLongsword_KeenTemperT4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@1004_0103_Combine_Quest_task_05,,,,,,,,,,,,,,,,,,,
+1004_0103_Combine_Quest_task_05,TaskHaveItems,,,1,1hLongsword_KeenTemperT4_V2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@1004_0103_Combine_Quest_task_05,,,,,,,,,,,,,,,,,,,
 1036_0101_admiralblackpowder_container_d_00,ConsecutiveTaskContainer,,,,,,,,,,dungeon_barnacles,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1036_0101_d_01_EnterBnB,1036_0101_d_04_ReadNote3,1036_0101_d_05_KillAdmiral,1036_0101_d_03_ReadNote2,1036_0101_d_02_ReadNote1
 1036_0101_d_01_EnterBnB,TaskGameMode,,,1,,,,,,,dungeon_barnacles,DungeonCutlassKeys00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@1036_0101_d_01_EnterBnB,,,,,,,,,,,,,,,,,,,
 1036_0101_d_02_ReadNote1,TaskAchievement,,,1,Lore_unlock_TalesofExpeditions_Title_07_01,,,,,,,DungeonCutlassKeys00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@1036_0101_d_02_ReadNote1,,,,,false,,,,,,,,,,,,,,
