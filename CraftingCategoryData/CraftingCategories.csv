@@ -134,6 +134,7 @@ Imbue,Icons/Items/Drawing/placeholder_square,@CategoryData_Imbue,@CategoryData_I
 Potion,Icons/Items/Drawing/placeholder_square,@CategoryData_Potion,@CategoryData_PotionDesc
 Gauntlets,Icons/Items/Drawing/placeholder_square,@CategoryData_Gauntlets,@CategoryData_GauntletsDesc
 Alkahest,Icons/Items/Drawing/placeholder_square,@CategoryData_Alkahest,@CategoryData_AlkahestDesc
+Ampoule,Icons/Items/Drawing/placeholder_square,@CategoryData_Ampoule,@CategoryData_AmpouleDesc
 Meal,items/meal1t2,@CategoryData_Meal,
 Drink,items/drink1t2,@CategoryData_Drink,
 Feast,items/feast1t5,,
