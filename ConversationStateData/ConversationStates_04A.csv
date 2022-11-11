@@ -56,7 +56,7 @@ ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,RequiredFact
 0411a_01_WilliamHeron_00,Linear_Objective,true,@0411a_01_WilliamHeron_00_INIT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0411a_01_WilliamHeron_01,Linear_Objective,false,@0411a_01_WilliamHeron_01_OfferCollectAzoth,,,,(99A_MSQ_08 || 99_MSQ_19) && 04A_Side02_03,,,04A_Side02_04_CollectAzoth,,,,,,,,,,,,,,,,,,,,,,
 0411a_01_WilliamHeron_02,Linear_Objective,false,@0411a_01_WilliamHeron_02_OfferPlaceSphere,,,,(99A_MSQ_10 || 99_MSQ_10) && 04A_Side02_04,,,04A_Side02_05_PlaceSphere,,,,,,,,,,,,,,,,,,,,,,
-0411a_01_WilliamHeron_03,Linear_Objective,false,@0411_08_Stranger_DefaultDialog,,,23,04_Quest_13,,,0411_0413_Amrine,,,,,,,,,,,,,,,,,,,,,,
+0411a_01_WilliamHeron_03,Linear_Objective,false,@0411_08_Stranger_DefaultDialog,,,23,04A_Side02_05,,,0411_0413_Amrine,,,,,,,,,,,,,,,,,,,,,,
 0411a_01_WilliamHeron_04,Linear_Objective,false,@0411_09_Stranger_DefaultDialog,,,33,04_Quest_18,,,0411_0414_Shattered,,,,,,,,,,,,,,,,,,,,,,
 0411a_01_WilliamHeron_05,Linear_Objective,false,@0411_10_Stranger_DefaultDialog,,,,04_Quest_19,,,,,,,,,,,,,,,,,,,,,,,,,
 0422_00_Innkeep,Linear_Objective,true,@0422_00_Innkeep_DefaultDialog,,,,,,,,,,,,,,,,,,,,,,,,,,,Inn,,
