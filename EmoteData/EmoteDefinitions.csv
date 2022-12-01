@@ -86,7 +86,7 @@ Emote_ChaplinWalk,Emote_ChaplinWalk,ui_emote_ChaplinWalk_name,ui_emote_ChaplinWa
 Emote_TwirlDance,Emote_TwirlDance,ui_emote_TwirlDance_name,ui_mote_TwirlDance_description,Other,@emote_TwirlDance,skeletontwirl,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_DanceTwirl.dds,,dance,7,NightveilHallow_2022
 Emote_Alas,Emote_Alas,ui_emote_Alas_name,ui_emote_Alas_description,Other,@emote_Alas,alas,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TrampWalk.dds,,,,
 Emote_WarHorn,Emote_WarHorn,ui_emote_WarHorn_name,ui_emote_WarHorn_description,Other,@emote_WarHorn,warhorn,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_WarHorn.dds,,,,
-Emote_Walk_FrankenMummy,Emote_Walk_FrankenMummy,ui_emote_Walk_FrankenMummy_name,ui_emote_Walk_FrankenMummy_description,Other,@emote_Walk_FrankenMummy,mummy,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_FrankenMummy.dds,,,,
+Emote_Walk_FrankenMummy,Emote_Walk_FrankenMummy,ui_emote_Walk_FrankenMummy_name,ui_emote_Walk_FrankenMummy_description,Other,@emote_Walk_FrankenMummy,zombie,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_FrankenMummy.dds,,,,
 Emote_DevilHornRock,Emote_DevilHornRock,ui_emote_DevilHornRock_name,ui_emote_DevilHornRock_description,Other,@emote_DevilHornRock,rock,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_TrampWalk.dds,,,,
 Emote_Walk_Skip,Emote_Walk_Skip,ui_emote_Walk_Skip_name,ui_emote_Walk_Skip_description,Other,@emote_Walk_Skip,skip,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_Skip.dds,,,,
 Emote_FootballJuggle,Emote_FootballJuggle,ui_emote_FootballJuggle_name,ui_emote_FootballJuggle_description,Other,@emote_FootballJuggle,keepieuppie,,1,0,1,0,1,lyshineui/images/icons/emotes/emote_JugglingSoccerBall.dds,,,,
