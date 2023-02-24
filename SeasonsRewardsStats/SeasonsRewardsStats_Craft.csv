@@ -1,0 +1,14 @@
+TrackedStatID,StatType,IngredientItemID,ResultItemID,ResultItemFamily,ItemTier,ItemGS,ItemRarity,ItemClass,ExcludeItemClass,ItemCategories,CraftingType,Tradeskills
+CraftHeavyHeadAT2,Craft,,HeavyHeadAT2,,,,,,,,,
+CraftAnyMusicSheet,Craft,,,MusicSheets,,,,,,,,
+CraftAnyT5Item,Craft,,,,5,,,,,,,
+CraftHeartgemRuneT3,Craft,,"RuneFireStormT3A,RuneFireStormT3B,RuneFireStormT3C",,3,,,,,,,
+CraftWispySpritz,Craft,,SB_WispySpritz,,,,,,,,,
+CraftGypsumOrb,Craft,,"GypsumOrb,InfusedOrb",,,,,,,,,
+CraftGS600UsingFlameCores,Craft,FlameCore,,,,600,,,,,,
+CraftOrCookItem,Craft,,,,,,,,,,,"Weaponsmithing,Armoring,Jewelcrafting,Arcana,Cooking,Furnishing,Engineering"
+CraftLegendaryItem,Craft,,,,,,4,,Resource,,,"Weaponsmithing,Armoring,Jewelcrafting,Arcana,Engineering"
+CraftT5Consumable,Craft,,,,5,,,Consumable,,,,
+CraftT5WeaponOrApparel,Craft,,,,5,,,,,"Weapons,Apparel",,
+RefineT5Resource,Craft,,,,5,,,Resource,,,Refining,
+CraftUsingFlameCores,Craft,,FlameCoreCast,,,,,,,,,

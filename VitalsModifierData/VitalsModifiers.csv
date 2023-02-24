@@ -27,3 +27,6 @@ Skull,1,1,1
 Solo_StarterBeach,1,1,0.085
 Solo-_StarterBeach,0.6,0.6,0.05
 Solo+_StarterBeach,1.25,2,0.25
+Dungeon_NoCurrency,1.7,4,0.1
+Dungeon-_NoCurrency,1.35,2,0.05
+Dungeon+_NoCurrency,2.05,10,0.5

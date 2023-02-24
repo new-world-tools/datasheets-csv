@@ -1,0 +1,4 @@
+TrackedStatID,StatType,MustWin,GameModeResult
+PlayArena3x3,CompleteArena,,
+WinArena3x3,CompleteArena,true,
+FlawlessVictoryArena3x3,CompleteArena,,FlawlessVictory

@@ -129,6 +129,10 @@ CoatingAngryEarthT2,,1,1500,0,0,1,,,,,,WeaponCoatingEffect_AngryEarth_T2,,,,,,,,
 CoatingAngryEarthT3,,1,1800,0,0,1,,,,,,WeaponCoatingEffect_AngryEarth_T3,,,,,,,,,AngryEarth=.11,,,,WeaponOil,,,
 CoatingAngryEarthT4,,1,2100,0,0,1,,,,,,WeaponCoatingEffect_AngryEarth_T4,,,,,,,,,AngryEarth=.13,,,,WeaponOil,,,
 CoatingAngryEarthT5,,1,2400,0,0,1,,,,,,WeaponCoatingEffect_AngryEarth_T5,,,,,,,,,AngryEarth=.15,,,,WeaponOil,,,
+CoatingAeternianT2,,1,1500,0,0,1,,,,,,WeaponCoatingEffect_Aeternian_T2,,,,,,,,,human=.09,,,,WeaponOil,,,
+CoatingAeternianT3,,1,1800,0,0,1,,,,,,WeaponCoatingEffect_Aeternian_T3,,,,,,,,,human=.11,,,,WeaponOil,,,
+CoatingAeternianT4,,1,2100,0,0,1,,,,,,WeaponCoatingEffect_Aeternian_T4,,,,,,,,,human=.13,,,,WeaponOil,,,
+CoatingAeternianT5,,1,2400,0,0,1,,,,,,WeaponCoatingEffect_Aeternian_T5,,,,,,,,,human=.15,,,,WeaponOil,,,
 Imbue_DEBUG,,1,300,0,0,1,,,,,,,10,,,,,,,,,,,,WeaponOil,,,
 FactionPotionHealthT2,PotionHealT2,1,0,0,0,1,,,,,,,,,,,,,,,,,,,Potion,,30,PotionHealth
 FactionPotionHealthT3,PotionHealT3,1,0,0,0,1,,,,,,,,,,,,,,,,,,,Potion,,30,PotionHealth
@@ -196,6 +200,9 @@ PotionFamiliyWardAncientT5,PotionFamilyWardAncientT5,1,,0,0,1,,,,,DefBoost,,,,,,
 PotionFamilyWardBeastT3,PotionFamilyWardBeastT3,1,,0,0,1,,,,,DefBoost,,,,,,,,,,,,,,Potion,,120,AbsorbBoost
 PotionFamilyWardBeastT4,PotionFamilyWardBeastT4,1,,0,0,1,,,,,DefBoost,,,,,,,,,,,,,,Potion,,120,AbsorbBoost
 PotionFamilyWardBeastT5,PotionFamilyWardBeastT5,1,,0,0,1,,,,,DefBoost,,,,,,,,,,,,,,Potion,,120,AbsorbBoost
+PotionFamilyWardAeternianT3,PotionFamilyWardAeternianT3,1,,0,0,1,,,,,DefBoost,,,,,,,,,,,,,,Potion,,120,AbsorbBoost
+PotionFamilyWardAeternianT4,PotionFamilyWardAeternianT4,1,,0,0,1,,,,,DefBoost,,,,,,,,,,,,,,Potion,,120,AbsorbBoost
+PotionFamilyWardAeternianT5,PotionFamilyWardAeternianT5,1,,0,0,1,,,,,DefBoost,,,,,,,,,,,,,,Potion,,120,AbsorbBoost
 PotionGypsumYellow,PotionGypsumYellow,1,,0,0,1,,,,,,,,,,,,,,,,,,,Potion,,120,Gypsum
 FoodHealthRecoveryT1,FoodInitialRecoveryT1+FoodRecoveryT1,1,,,,,,,,,Recovery+FoodInitialRecovery,,,,,,,,,,,,,,Eat,,,
 FoodCorruptedT1,FoodCorruptedT1+FoodRecoveryT1,1,,,,,,,,,Family,,,,,,,,,,,,,,Eat,,,
@@ -479,3 +486,4 @@ Bot_KillRadius,Dungeon_BotKillRadius,,,,,,,,,,,,,,,,,,,,,,,,,,,
 QuestReward_MB_Potion_Regen,MajorPotionRegen,1,10,0,0,1,,,,,,,,,,,,,,,,,,,Potion,,30,PotionRegen
 Debug_DisableUseInCombat,PotionHealT5,1,0,0,0,1,,,,,,,,,true,,,,,,,,,,Potion,,30,PotionHealth
 TinctureAcidT5,Status_TinctureAcidT5,1,300,,,,,,,,,,,,,,,,,,,AfflictionPoison=-1000,,,,,30,AcidCurse
+95_s01_07_SearingTemper,,,,,,,,,,,,,,,,,,,,,,,,,WeaponOil,,,
