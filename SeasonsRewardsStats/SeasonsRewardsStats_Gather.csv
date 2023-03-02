@@ -1,4 +1,4 @@
-TrackedStatID,StatType,TargetID,Level,ItemType,ItemClass,Accumulate
-GatherResource,Gather,,,Resource,,true
-GatherT5ResourceNode,Gather,,5,Resource,,
-SkinT5Animal,Gather,,5,,Rawhide+Resource,
+TrackedStatID,StatType,TargetID,Level,ItemType,ItemClass,PerUse
+GatherResource,Gather,,,Resource,,
+GatherT5ResourceNode,Gather,,5,Resource,,true
+SkinT5Animal,Gather,,5,,Rawhide+Resource,true
