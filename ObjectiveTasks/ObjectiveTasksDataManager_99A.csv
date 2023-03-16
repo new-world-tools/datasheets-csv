@@ -120,7 +120,7 @@ TaskID,Type,FailOnCondition,StayActive,RequiredLevel,TargetQty,ItemName,ItemDrop
 99A_MSQ_05_UnblockFountain_container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,99A_MSQ_05_01_GoToPOI_CanaryMine,99A_MSQ_05_02_Container_KillCorruptedDestroyClots,99A_MSQ_05_03_SliceSwap_DaughterwellFountain,,
 99A_MSQ_05_01_GoToPOI_CanaryMine,TaskGoToPOITag,,,,1,,,,,true,,mine_40203,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@99A_MSQ_05_01_GoToPOI_CanaryMine,,,,,,,,,,,,,,,,,,
 99A_MSQ_05_02_Container_KillCorruptedDestroyClots,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@99A_MSQ_05_02_Container_KillCorruptedDestroyClots,,,,,,,,,,,,,,99A_MSQ_05_02A_Kill_Corrupted,99A_MSQ_05_02B_Kill_Clots,99A_MSQ_05_02C_Pop_SmallClots,,
-99A_MSQ_05_02A_Kill_Corrupted,TaskKillContribution,,,,3,,,,,,,,,,,,,,,,,,,,Tendril_Corruption_15,,,,,,,,,,,,,,,,,,,,@99A_MSQ_05_02A_Kill_Corrupted,,,,,,,,,,,,,,,,,,
+99A_MSQ_05_02A_Kill_Corrupted,TaskKillContribution,,,,3,,,,,true,,mine_40203,,,,,,,,,,,,,Tendril_Corruption_15,,,,,,,,,,,,,,,,,,,,@99A_MSQ_05_02A_Kill_Corrupted,,,,,,,,,,,,,,,,,,
 99A_MSQ_05_02B_Kill_Clots,TaskKillContribution,,,,2,,,,,true,,mine_40203,,,,,,,,,,,,,Darkness_Monolith_Shell_04NW06_20,,,,,,,,,,,,,,,,,,,,@99A_MSQ_05_02B_Kill_Clots,,8708.296875 5125.303223 162.294159,,,1,,,,,,,,,,,,,
 99A_MSQ_05_02C_Pop_SmallClots,TaskGameEvent,,,,10,,,,,true,,mine_40203,,,,,,,,,,IO_99a_MSQ_05_PopClot,,,99a_MSQ_05_PopClot_Interact,,,,,,,,,,,,,,,,,,,,@99A_MSQ_05_02C_Pop_SmallClots,,,,,,,,,,,,,,,,,,
 99A_MSQ_05_03_SliceSwap_DaughterwellFountain,TaskUnlockAchievement,,,,1,SwapActive_DaughterwellFountain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,

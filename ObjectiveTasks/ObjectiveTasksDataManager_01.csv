@@ -139,14 +139,14 @@ TaskID,Type,FailOnCondition,StayActive,RequiredLevel,TargetQty,ItemName,ItemDrop
 12_crewmates_kill_3_Corrupted,TaskKillContribution,,1,,5,,,,,,,drowned_shipwreck_2_30125,,,,,,,,,,,,,Corrupted,,,,,,,,,,,,,,,,,,,,@01_crewmates_task3,,,,,,,,,,,,,,,,,,,
 06_survivors_container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,06_survivors_SliceSwap_GraceCombatLoopOn,06_survivors_SliceSwap_GraceCombatLoopVOOn,06_survivors_SliceSwap_GraceNPC_00_Off,06_survivors_containerWhisper,06_survivors_container2
 06_survivors_TaskGoToPOITag_shipwreck2,TaskGoToPOITag,,1,,,,,,,,,drowned_shipwreck_1_40143,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@01_survivors_task1,,9684 2109 45,,,,,,,,,,,,,,,,,
-06_survivors_containerWhisper,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,06_survivors_TaskTriggerArea_Whisper,06_survivors_Whisper_Beach_02,06_survivors_SliceSwap_GraceCombatTriggerOn,06_survivors_TaskTriggerArea_Grace,
+06_survivors_containerWhisper,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,06_survivors_TaskTriggerArea_Whisper,06_survivors_Whisper_Beach_02,06_survivors_SliceSwap_GraceCombatTriggerOn,06_survivors_TaskTimer3,06_survivors_TaskTriggerArea_Grace
 06_survivors_TaskTriggerArea_Whisper,TaskTriggerArea,,1,,1,,,,,,,drowned_shipwreck_1_40143,,,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,TriggerVol_06_Whisper2,@01_survivors_task1,,9684 2109 45,,,,,,,,,,,,,,,,,
 06_survivors_Whisper_Beach_02,TaskTriggerGameEvent,,,,1,,,,,,,,,,,,,,,,,,,,01_Whisper_Beach_02_event,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 06_survivors_TaskTriggerArea_Grace,TaskTriggerArea,,1,,1,,,,,,,drowned_shipwreck_1_40143,,,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,TriggerVol_06_Grace,@01_survivors_task2,,9676.041 2101.0212 45.7,,,,,,,,,,,,,,,,,
 06_survivors_container2,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,06_survivors_containerTimer,06_survivors_TaskGameEvent_NoduleA,06_survivors_container3,,
-06_survivors_containerTimer,ConsecutiveTaskContainer,,,,,,,,,,,drowned_shipwreck_1_40143,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@01_survivors_task2,,9670.8174 2092.7241 53.9036,,,true,,,,,,,,,,06_survivors_grace_intro_container,06_survivors_TaskTimer,06_survivors_SliceSwap_GraceCombatLoopVOOn,06_survivors_SliceSwap_GraceCombatTriggerOff,
+06_survivors_containerTimer,ConsecutiveTaskContainer,,,,,,,,,,,drowned_shipwreck_1_40143,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@01_survivors_task2,,9670.8174 2092.7241 53.9036,,,true,,,,,,,,,,06_survivors_SliceSwap_GraceCombatLoopVOOff,06_survivors_grace_intro_achievement_On,06_survivors_TaskTimer,06_survivors_SliceSwap_GraceCombatLoopVOOn,06_survivors_SliceSwap_GraceCombatTriggerOff
 06_survivors_TaskTimer,TaskTimer,false,,,,,,,,,,drowned_shipwreck_1_40143,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,@01_survivors_task2,,9684 2109 45.7,1,,,,,,,,,,,,,,,,
-06_survivors_grace_intro_container,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,06_survivors_SliceSwap_GraceCombatLoopVOOff,06_survivors_grace_intro,06_survivors_grace_intro_Trigger,,
+06_survivors_grace_intro_container,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,06_survivors_SliceSwap_GraceCombatLoopVOOff,06_survivors_grace_intro_achievement_On,,,
 06_survivors_grace_intro,TaskGameEvent,,,,1,,,,,,,,,,,,,,,,,IO_Grace_Intro,,,GameEvent_interact,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 06_survivors_grace_intro_Trigger,TaskTriggerGameEvent,,,,1,,,,,,,,,,,,,,,,,,,,GameEvent_interact,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 06_survivors_SliceSwap_GraceCombatLoopOn,TaskUnlockAchievement,,,,1,SwapActive_01_GraceCombatLoop,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
@@ -154,7 +154,7 @@ TaskID,Type,FailOnCondition,StayActive,RequiredLevel,TargetQty,ItemName,ItemDrop
 06_survivors_SliceSwap_GraceCombatTriggerOn,TaskUnlockAchievement,,,,1,SwapActive_01_GraceCombatTrigger_WW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 06_survivors_TaskGameEvent_NoduleA,TaskGameEvent,,,,4,,,,,,,drowned_shipwreck_1_40143,,,true,,,,,,,IO_MSQ_Grace_CorruptedNodule_1,,,MSQ_CorruptedNodule_1_interact,,,,,,,,,,,,,,,,,,,,@01_survivors_task3,,9684 2109 45,,,,2,,,,,,,,,,,,,
 06_survivors_container3,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@01_survivors_task7,,,,,,,,,,,,,,,06_survivors_grace_outro_container,06_survivors_TaskTimer2,06_survivors_TaskTimer2a,06_survivors_SliceSwap_GraceNPC_00_On,06_survivors_container_grace_walkaway
-06_survivors_grace_outro_container,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,06_survivors_SliceSwap_GraceCombatLoopOff,06_survivors_SliceSwap_GraceCombatLoopVOOff,06_survivors_grace_outro,06_survivors_grace_outro_Trigger,06_survivors_grace_outro_achievement_On
+06_survivors_grace_outro_container,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,06_survivors_SliceSwap_GraceCombatLoopOff,06_survivors_SliceSwap_GraceCombatLoopVOOff,,,06_survivors_grace_outro_achievement_On
 06_survivors_SliceSwap_GraceCombatLoopOff,TaskLockAchievement,,1,,1,SwapActive_01_GraceCombatLoop,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 06_survivors_SliceSwap_GraceCombatLoopVOOff,TaskLockAchievement,,1,,1,SwapActive_01_GraceCombatLoop_VO_WW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 06_survivors_SliceSwap_GraceCombatTriggerOff,TaskLockAchievement,,,,1,SwapActive_01_GraceCombatTrigger_WW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
@@ -162,6 +162,7 @@ TaskID,Type,FailOnCondition,StayActive,RequiredLevel,TargetQty,ItemName,ItemDrop
 06_survivors_TaskLockAchievement_GraceCutscene,TaskLockAchievement,,,,1,S_grace_cutscene,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 06_survivors_grace_outro,TaskGameEvent,,,,1,,,,,,,,,,,,,,,,,IO_Grace_Outro,,,GameEvent_interact,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 06_survivors_grace_outro_Trigger,TaskTriggerGameEvent,,,,1,,,,,,,,,,,,,,,,,,,,GameEvent_interact,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+06_survivors_grace_intro_achievement_On,TaskUnlockAchievement,,1,,1,S_grace_cutscene_intro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@01_survivors_task7,,9725.0928 2087.0183 41.367,1,,true,,,,,,,,,,,,,,
 06_survivors_grace_outro_achievement_On,TaskUnlockAchievement,,1,,1,S_grace_cutscene_outro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@01_survivors_task7,,9725.0928 2087.0183 41.367,1,,true,,,,,,,,,,,,,,
 06_survivors_TaskTimer2,TaskTimer,false,,,,,,,,,,,,,,,,,,,,,,,,,9,,,,,,,,,,,,,,,,,,,,9667.4785 2099.7249 45.4579,1,,true,,,,,,,,,,,,,,
 06_survivors_TaskTimer2a,TaskTimer,false,,,,,,,,,,,,,,,,,,,,,,,,,4.5,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
@@ -175,14 +176,14 @@ TaskID,Type,FailOnCondition,StayActive,RequiredLevel,TargetQty,ItemName,ItemDrop
 06_survivors_SliceSwap_GraceNPC_A_On,TaskUnlockAchievement,,1,,1,SwapActive_01_GraceWW_A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@01_survivors_task7,,9725.0928 2087.0183 41.367,1,,true,,,,,,,,,,,,,,
 12_survivors_container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12_survivors_SliceSwap_GraceCombatLoopOn,12_survivors_SliceSwap_GraceCombatLoopVOOn,12_survivors_SliceSwap_GraceNPC_00_Off,12_survivors_containerWhisper,12_survivors_container2
 12_survivors_TaskGoToPOITag_shipwreck2,TaskGoToPOITag,,1,,,,,,,,,drowned_shipwreck_1_30123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@01_survivors_task1,,7115 3265 43,,,,,,,,,,,,,,,,,
-12_survivors_containerWhisper,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,12_survivors_TaskTriggerArea_Whisper,12_survivors_Whisper_Beach_02,12_survivors_SliceSwap_GraceCombatTriggerOn,12_survivors_TaskTriggerArea_Grace,
+12_survivors_containerWhisper,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,12_survivors_TaskTriggerArea_Whisper,12_survivors_Whisper_Beach_02,12_survivors_SliceSwap_GraceCombatTriggerOn,12_survivors_TaskTimer3,12_survivors_TaskTriggerArea_Grace
 12_survivors_TaskTriggerArea_Whisper,TaskTriggerArea,,1,,1,,,,,,,drowned_shipwreck_1_30123,,,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,TriggerVol_12_Whisper2,@01_survivors_task1,,7115 3265 43,,,,,,,,,,,,,,,,,
 12_survivors_Whisper_Beach_02,TaskTriggerGameEvent,,,,1,,,,,,,,,,,,,,,,,,,,01_Whisper_Beach_02_event,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 12_survivors_TaskTriggerArea_Grace,TaskTriggerArea,,1,,1,,,,,,,drowned_shipwreck_1_30123,,,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,TriggerVol_12_Grace,@01_survivors_task2,,7111.0791 3258.822 43.2445,,,,,,,,,,,,,,,,,
 12_survivors_container2,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,12_survivors_containerTimer,12_survivors_TaskGameEvent_NoduleA,12_survivors_container3,,
-12_survivors_containerTimer,ConsecutiveTaskContainer,,,,,,,,,,,drowned_shipwreck_1_30123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@01_survivors_task2,,7107.3413 3252.751 52.3434,,,true,,,,,,,,,,12_survivors_grace_intro_container,12_survivors_TaskTimer,12_survivors_SliceSwap_GraceCombatLoopVOOn,12_survivors_SliceSwap_GraceCombatTriggerOff,
+12_survivors_containerTimer,ConsecutiveTaskContainer,,,,,,,,,,,drowned_shipwreck_1_30123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@01_survivors_task2,,7107.3413 3252.751 52.3434,,,true,,,,,,,,,,12_survivors_SliceSwap_GraceCombatLoopVOOff,12_survivors_grace_intro_achievement_On,12_survivors_TaskTimer,12_survivors_SliceSwap_GraceCombatLoopVOOn,12_survivors_SliceSwap_GraceCombatTriggerOff
 12_survivors_TaskTimer,TaskTimer,false,,,,,,,,,,drowned_shipwreck_1_30123,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,@01_survivors_task2,,7115 3265 43,1,,,,,,,,,,,,,,,,
-12_survivors_grace_intro_container,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,12_survivors_SliceSwap_GraceCombatLoopVOOff,12_survivors_grace_intro,12_survivors_grace_intro_Trigger,,
+12_survivors_grace_intro_container,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,12_survivors_SliceSwap_GraceCombatLoopVOOff,12_survivors_grace_intro_achievement_On,,,
 12_survivors_grace_intro,TaskGameEvent,,,,1,,,,,,,,,,,,,,,,,IO_Grace_Intro,,,GameEvent_interact,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 12_survivors_grace_intro_Trigger,TaskTriggerGameEvent,,,,1,,,,,,,,,,,,,,,,,,,,GameEvent_interact,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 12_survivors_SliceSwap_GraceCombatLoopOn,TaskUnlockAchievement,,,,1,SwapActive_01_GraceCombatLoop_mb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
@@ -190,12 +191,13 @@ TaskID,Type,FailOnCondition,StayActive,RequiredLevel,TargetQty,ItemName,ItemDrop
 12_survivors_SliceSwap_GraceCombatTriggerOn,TaskUnlockAchievement,,,,1,SwapActive_01_GraceCombatTrigger_MB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 12_survivors_TaskGameEvent_NoduleA,TaskGameEvent,,1,,4,,,,,,,drowned_shipwreck_1_30123,,,true,,,,,,,IO_MSQ_Grace_CorruptedNodule_1,,,MSQ_CorruptedNodule_1_interact,,,,,,,,,,,,,,,,,,,,@01_survivors_task3,,7115 3265 43,,,,2,,,,,,,,,,,,,
 12_survivors_container3,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@01_survivors_task7,,,,,,,,,,,,,,,12_survivors_grace_outro_container,12_survivors_TaskTimer2,12_survivors_TaskTimer2a,12_survivors_SliceSwap_GraceNPC_00_On,12_survivors_container_grace_walkaway
-12_survivors_grace_outro_container,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,12_survivors_SliceSwap_GraceCombatLoopOff,12_survivors_SliceSwap_GraceCombatLoopVOOff,12_survivors_grace_outro,12_survivors_grace_outro_Trigger,12_survivors_grace_outro_achievement_On
+12_survivors_grace_outro_container,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,12_survivors_SliceSwap_GraceCombatLoopOff,12_survivors_SliceSwap_GraceCombatLoopVOOff,,,12_survivors_grace_outro_achievement_On
 12_survivors_SliceSwap_GraceCombatLoopOff,TaskLockAchievement,,1,,1,SwapActive_01_GraceCombatLoop_mb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 12_survivors_SliceSwap_GraceCombatLoopVOOff,TaskLockAchievement,,1,,1,SwapActive_01_GraceCombatLoop_VO_MB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 12_survivors_SliceSwap_GraceCombatTriggerOff,TaskLockAchievement,,,,1,SwapActive_01_GraceCombatTrigger_MB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 12_survivors_grace_outro,TaskGameEvent,,,,1,,,,,,,,,,,,,,,,,IO_Grace_Outro,,,GameEvent_interact,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 12_survivors_grace_outro_Trigger,TaskTriggerGameEvent,,,,1,,,,,,,,,,,,,,,,,,,,GameEvent_interact,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+12_survivors_grace_intro_achievement_On,TaskUnlockAchievement,,1,,1,S_grace_cutscene_intro_MB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@01_survivors_task7,,7106.4995 3259.4368 44.3,1,,true,,,,,,,,,,,,,,
 12_survivors_grace_outro_achievement_On,TaskUnlockAchievement,,1,,1,S_grace_cutscene_outro_MB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@01_survivors_task7,,7106.4995 3259.4368 44.3,1,,true,,,,,,,,,,,,,,
 12_survivors_TaskTimer2,TaskTimer,false,,,,,,,,,,,,,,,,,,,,,,,,,9,,,,,,,,,,,,,,,,,,,,7106.4995 3259.4368 44.3,1,,true,,,,,,,,,,,,,,
 12_survivors_TaskTimer2a,TaskTimer,false,,,,,,,,,,,,,,,,,,,,,,,,,4.5,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
