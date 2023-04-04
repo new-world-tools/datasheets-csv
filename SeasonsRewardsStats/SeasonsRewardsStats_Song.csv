@@ -1,0 +1,6 @@
+TrackedStatID,StatType,TargetID,Level,RequireGroup,SongDifficulty,SongRank
+CompleteSong,CompleteSong,,,,,
+CompleteSongOnExpert,CompleteSong,,,,Expert,
+CompleteSongWithAmazingRank,CompleteSong,,,,,Amazing
+CompleteSongInGroup,CompleteSong,,,true,,
+CompleteSongWithGreatRank,CompleteSong,,,,,Great
