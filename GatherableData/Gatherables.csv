@@ -1416,7 +1416,7 @@ FireNaga_Miniboss_FlameVent,@FireNaga_Miniboss_FlameVent_DisplayName,AzothStaffH
 99C_MSQ2_BlightBombC,@99C_MSQ2_BlightBomb_DisplayName,None,None,,Empty,,200,300,None,,,1,false,NoToolNecessary,false,IO_99C_MSQ2_BlightBombC_interact,,,,,true,true,,,,,,,,,,,,,,,,
 Cyclic_99C_MSQ_puzzle1_stone1,@Cyclic_06A_MSQ_puzzlestone_DisplayName,Handcrafting,None,,Empty,,30,60,None,0,,0,false,NoToolNecessary,false,99C_MSQ_puzzle1_stone1_interact,,,,,true,true,,,,,,false,,,,,,,,,,
 Cyclic_99C_MSQ_puzzle1_stone2,@Cyclic_06A_MSQ_puzzlestone_DisplayName,Handcrafting,None,,Empty,,30,60,None,0,,0,false,NoToolNecessary,false,99C_MSQ_puzzle1_stone2_interact,,,,,true,true,,,,,,false,,,,,,,,,,
-Dungeon_GreatCleave_01_GemGather,@Dungeon_GreatCleave_01_GemGather,Mining,Mining,,Empty,,1200,1201,None,,,5,true,ToolRequired,true,Dungeon_GreatCleave_01_GemGather_interact,,,,,true,true,,,,,,false,,,,,,,,,,
+Dungeon_GreatCleave_01_GemGather,@Dungeon_GreatCleave_01_GemGather,Mining,Mining,,Empty,,1200,1201,None,,,5,true,NoToolNecessary,true,Dungeon_GreatCleave_01_GemGather_interact,,,,,true,true,,,,,,false,,,,,,,,,,
 Season_01_Event_Flame_Brazier,@HeartforgeEncounterBattery_DisplayName,Handcrafting,None,,Empty,,0,0,None,0,,3,false,NoToolNecessary,false,,,,,,false,false,,,,true,,,Season_01_Event_DamageBoostEffect,,,,,,,,,
 99B_MSQ_01_BlessedCandleA,@99B_MSQ_01_BlessedCandle_DisplayName,None,None,,Empty,,80,100,None,,,3,false,NoToolNecessary,false,99B_MSQ_01_BlessedCandleA_interact,,,,,true,true,,,,,,,,,,,,,,,,
 99B_MSQ_01_BlessedCandleB,@99B_MSQ_01_BlessedCandle_DisplayName,None,None,,Empty,,80,100,None,,,3,false,NoToolNecessary,false,99B_MSQ_01_BlessedCandleB_interact,,,,,true,true,,,,,,,,,,,,,,,,
