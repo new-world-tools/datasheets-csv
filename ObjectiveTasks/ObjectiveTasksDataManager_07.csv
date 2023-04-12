@@ -162,7 +162,7 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 0721_0109_TF_08_container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0721_0109_TF_task_01,0721_0109_TF_02_container_tasks,,,
 0721_0109_TF_task_01,TaskGoToPOITag,,1,,,,,,,,haunted_town_50201,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@0721_0109_TF_task_01_TaskGoToPOITag,,,,,,,,,,,,,,,,,,,
 0721_0109_TF_02_container_tasks,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,0721_0109_TF_task_02a,0721_0109_TF_task_02b,,,
-0721_0109_TF_task_02a,TaskKillContribution,,1,1,,,,,true,,haunted_town_50201,,,,,,,,,,,,,Withered_Brute_Named_07,,,,,,,,,,,,,,,,,,,,@0721_0109_TF_task_02a_TaskKillContribution,,10703.355 5822.412 79.812,,,,,,,,,,,,,,,,,
+0721_0109_TF_task_02a,TaskKillContribution,,1,1,,,,,,,,,,,,,,,,,,,,Withered_Brute_Named_07,,,,,,,,,,,,,,,,,,,,@0721_0109_TF_task_02a_TaskKillContribution,,10703.355 5822.412 79.812,,,,,,,,,,,,,,,,,
 0721_0109_TF_task_02b,TaskHaveAndReturnItems,,1,9,0721_0101_TF_Item10,Periville,45,,true,,haunted_town_50201,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@0721_0109_TF_task_02b_TaskHaveAndReturnItems,,,,,,,,,,,,,,,,,,,
 0721_0101_BW_00_container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0721_0101_d_01_container_BW_questPush_1,0721_0101_d_01_container_BW_questComplete_2,0721_0101_d_01_container_BW_questComplete_3,0721_0101_d_01_container_BW_questComplete_4,
 0721_0101_d_01_container_BW_questPush_1,TaskObjective,,1,,0721_0102_BW_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@0721_0101_d_01_container_BW_questPush_1_TaskObjective,,,,,,,,,,,,,,,,,,,
