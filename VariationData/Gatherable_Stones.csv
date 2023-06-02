@@ -5,4 +5,5 @@ SingleStone_c,Objects\Nature\Rock_Dressing\Dressing_Forest\jav_fst_smallrock_fli
 SingleStone_a_col,Objects\Nature\Rock_Dressing\Dressing_Forest\jav_fst_smallrock_flint_a_col.cgf,SingleStone,0.07,1.8,0.5,Gatherable.Rock.Base_Pickup_A,GroundCover/ObjectSets/Nature/bush_01.vegsetdb,0.6,0.61,0.7,100,100,25,8,,
 SingleStone_b_col,Objects\Nature\Rock_Dressing\Dressing_Forest\jav_fst_smallrock_flint_b_col.cgf,SingleStone,0.07,1.8,0.5,Gatherable.Rock.Base_Pickup_A,GroundCover/ObjectSets/Nature/bush_01.vegsetdb,0.62,0.63,0.72,100,100,25,8,,
 SingleStone_c_col,Objects\Nature\Rock_Dressing\Dressing_Forest\jav_fst_smallrock_flint_c_col.cgf,SingleStone,0.07,1.8,0.5,Gatherable.Rock.Base_Pickup_A,GroundCover/ObjectSets/Nature/bush_01.vegsetdb,0.5,0.51,0.61,100,100,25,8,,
+SingleStone_Jagged_a,Objects\Nature\Rock_Boulders\Boulders_Super\wld_boulder_jagged_flint.cgf,SingleStone,0.07,1.8,0.5,Gatherable.Rock.Base_Pickup_A,GroundCover/ObjectSets/Nature/bush_01.vegsetdb,0.6,0.61,0.7,100,100,25,8,,
 PotionHealthT1,Objects\Crafting\Props\Shopwares\AlchemyProps\JAV_PRP_Glass bottles_A.cgf,ItemPotionHealT1,0.01,1.8,0.25,Gatherable.Rock.Base_Pickup_A,,0.5,0.51,0.61,100,100,25,8,,

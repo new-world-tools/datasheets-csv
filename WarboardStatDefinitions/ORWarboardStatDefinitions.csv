@@ -25,3 +25,4 @@ AITakedowns,true,true,0,0,0,0,0,0
 PlayerTakedowns,false,true,0,0,50,0,1,0
 CapturePointContests,false,true,0,0,0.2,0,0,0
 TotalResourcesDeposited,true,true,0,0,0,0,0,0
+DamageBlocked,false,true,0,0,0.01,0,0,0

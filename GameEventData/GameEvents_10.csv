@@ -12,7 +12,8 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,UniversalExpAmount,Curre
 1005_0102_lightning_test_success,,35,Quest+,,3190,11375,1hLongswordCutlassKeysT4,,,,,250,,,,,true,20,1
 1010_0102_eternal_mixes_success,,36,Quest+,Weapons,3270,11550,QuestRewardWeaponCase2,,,,,250,,,,,true,20,1
 1002_0103_skull_fort_success,,40,Quest+,,3570,12250,Earring_SwashbucklersEarringT4,,,,,250,,,,,true,20,1
-1030_0201_animalinstincts_success,,30,Quest,Weapons,2280,7500,QuestRewardWeaponCase2,,,,,175,,,,,true,10,1
+1030_0201_animalinstincts_success,,30,Quest,,2280,7500,,,,Camping,1,175,,,,,true,10,1
+1030_0201_animalinstincts_success_alt,,30,Quest,Weapons,2280,7500,QuestRewardWeaponCase2,,,,,175,,,,,true,10,1
 1030_0202_snaggletooth_success,,30,Quest+,Armor,2850,10500,QuestRewardArmorCase2,,,,,250,,,,,true,20,1
 1030_0203_catnipping_success,,32,Quest,Weapons,2370,7750,QuestRewardWeaponCase2,,,,,175,,,,,true,10,1
 1030_0204_tamingthelionhearted_success,,34,Quest,Armor,2490,8000,QuestRewardArmorCase2,,,,,175,,,,,true,10,1
