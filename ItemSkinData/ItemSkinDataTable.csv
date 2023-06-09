@@ -1066,9 +1066,6 @@ MediumFeet_Syndicate_Skin,1085,1,,EquippableFeet,,,MediumFeet_Syndicate_Skin,Syn
 Skin_Gryphon_LoggingAxe,1086,1,,EquippableTool,LoggingAxe,,Skin_Gryphon_LoggingAxe,,false
 Skin_Gryphon_Spear,1087,1,,EquippableTwoHand,Spear,,Skin_Gryphon_Spear,,false
 Skin_Gryphon_Hatchet,1088,1,,EquippableMainHand,Hatchet,,Skin_Gryphon_Hatchet,,false
-Skin_MaestroHat,1089,1,,EquippableHead,,,Skin_MaestroHat,,false
-Skin_Longswordfish,1090,1,,EquippableMainHand,Sword,,Skin_Longswordfish,,false
-Skin_RoundStarshield,1091,1,,EquippableOffHand,Shield,,Skin_RoundStarshield,,false
 Skin_Head_DesertProwler,1092,1,,EquippableHead,,,Skin_Head_DesertProwler,DesertProwler,false
 Skin_Chest_DesertProwler,1093,1,,EquippableChest,,,Skin_Chest_DesertProwler,DesertProwler,false
 Skin_Hands_DesertProwler,1094,1,,EquippableHands,,,Skin_Hands_DesertProwler,DesertProwler,false

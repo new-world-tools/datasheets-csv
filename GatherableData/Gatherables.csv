@@ -431,16 +431,6 @@ DarknessMinorHiveDT4,@Darkness_Hive_DisplayName,AzothStaffHigh,AzothStaff,,,Dark
 DarknessMinorHiveDT5,@Darkness_Hive_DisplayName,AzothStaffHigh,AzothStaff,,,DarknessCorruptionCore,,900,1800,AzothStaff,5,,12,false,ToolRequired,false,Gather3,,,,,,false,,,,true,,,,,,,,,,,,
 DarknessMinorHiveDT6,@Darkness_Hive_DisplayName,AzothStaffHigh,AzothStaff,,,DarknessCorruptionCore,,900,1800,AzothStaff,5,,12,false,ToolRequired,false,Gather3,,,,,,false,,,,true,,,,,,,,,,,,
 DarknessCorruptedOrb,@Darkness_Orb_DisplayName,AzothStaffHigh,AzothStaff,,,Empty,,200,200,AzothStaff,0,,7,false,ToolRequired,false,Gather3,,,,,,false,,,,true,,,,,,,,,,,,
-SummerMedley_Maudlindust_Particle,@SummerMedley_Maudlindust_Particle_DisplayName,None,None,,,SummerMedley_Maudlindust_Particle,,320,540,None,0,,2,false,NoToolNecessary,false,Gather_SummerMedley_Maudlindust,,,,,,false,,,,true,,,,,,,,,,,,
-SummerMedley_Stage_T1,@SummerMedley_Settlement_Stage_Master_DisplayName,Handcrafting,None,,,SummerMedley_Stage_T1,,79200,79200,None,,,5,false,NoToolNecessary,false,Gather_SummerMedley_Stage_T1,,,,,,true,,,,,,,,,,,,@SummerMedley_Settlement_Stage_Description,true,LyShineUI\Images\Map\tooltipImages\mapTooltip_Summer_Centerpiece.dds,LyShineUI\Images\Map\Icon\POIs\event_summercenterpiece.dds,
-SummerMedley_Stage_T2,@SummerMedley_Settlement_Stage_Master_DisplayName,Handcrafting,None,,,SummerMedley_Stage_T2,,79200,79200,None,,,5,false,NoToolNecessary,false,Gather_SummerMedley_Stage_T2,,,,,,true,,,,,,,,,,,,@SummerMedley_Settlement_Stage_Description,true,LyShineUI\Images\Map\tooltipImages\mapTooltip_Summer_Centerpiece.dds,LyShineUI\Images\Map\Icon\POIs\event_summercenterpiece.dds,
-SummerMedley_Stage_T3,@SummerMedley_Settlement_Stage_Master_DisplayName,Handcrafting,None,,,SummerMedley_Stage_T3,,79200,79200,None,,,5,false,NoToolNecessary,false,Gather_SummerMedley_Stage_T3,,,,,,true,,,,,,,,,,,,@SummerMedley_Settlement_Stage_Description,true,LyShineUI\Images\Map\tooltipImages\mapTooltip_Summer_Centerpiece.dds,LyShineUI\Images\Map\Icon\POIs\event_summercenterpiece.dds,
-SummerMedley_BonfireBlast,@SummerMedley_Village_BonfireBlast_DisplayName,Handcrafting,None,,,,,5,5,None,,,3,false,ItemRequired,false,SM_BonfireBlast_Reward,SummerMedley_IntactAeternumSturgeonGland,1,,,true,true,,,,,,,,,,,,@SummerMedley_Village_BonfireBlast_Description,true,LyShineUI\Images\Map\tooltipImages\mapTooltip_Summer_Bonfire.dds,LyShineUI\Images\Icons\WorldMap\worldmap_summerevent_bonfire.dds,
-SummerMedley_MusicalHotspot_Maudlin,,MusicalPerformances,MusicalPerformances,,,,,1,1,None,,,3,false,MusicRequired,false,,,,WaltzEasy,MusicBuff_Waltz,,,,,,,,,,,,,,,,,,
-SummerMedley_MusicalHotspot_ShredlyFairEasy,,MusicalPerformances,MusicalPerformances,,,,,1,1,None,,,1,false,MusicRequired,false,,,,YAAAHHHHEasy,MusicBuff_ShredlyFair,,,,,,,,,,,,,,,,,,
-SummerMedley_MusicalHotspot_ShredlyFairMedium,,MusicalPerformances,MusicalPerformances,,,,,1,1,None,,,1,false,MusicRequired,false,,,,YAAAHHHHMedium,MusicBuff_ShredlyFair,,,,,,,,,,,,,,,,,,
-SummerMedley_MusicalHotspot_ShredlyFairHard,,MusicalPerformances,MusicalPerformances,,,,,1,1,None,,,1,false,MusicRequired,false,,,,YAAAHHHHHard,MusicBuff_ShredlyFair,,,,,,,,,,,,,,,,,,
-SummerMedley_DancefloorBoogie,@SummerMedley_Village_Dancefloor_DisplayName,None,None,,,,,79200,79200,None,,,8,false,EmoteRequired,false,SM_DancefloorBoogie_Reward,,,,,,true,,,,,,,,,,,dance,@SummerMedley_Village_Dancefloor_Description,true,LyShineUI\Images\Map\tooltipImages\mapTooltip_Summer_Dancefloor.dds,LyShineUI\Images\Icons\WorldMap\worldmap_summerevent_dancefloor.dds,
 CorruptedWood,@CorruptedTree_DisplayName,Chopping,Chopping,,,CorruptedWood,,300,360,Logging,,,15,true,ToolRequired,true,Gather4,,,,,,false,,,,,,,,,,,,,,,,
 CorruptedPlant,@CorruptedPlant_DisplayName,Cutting,Cutting,,,CorruptedPlant,,300,360,Harvesting,,,10,false,ToolRequired,false,Gather4,,,,,,false,,,,,,,,,,,,,,,,
 CorruptedOre,@CorruptedVein_DisplayName,Mining,Mining,,,CorruptedOre,,300,360,Mining,,,10,true,ToolRequired,true,Gather3,,,,,,false,,,,,,,,,,,,,,,,
@@ -823,7 +813,6 @@ Hotspot_Rare_83,@Hotspot_Rare_83_DisplayName,None,Fishing,,,Empty,,1800,2700,Fis
 Hotspot_Rare_84,@Hotspot_Rare_84_DisplayName,None,Fishing,,,Empty,,1800,2700,Fishing,,,20,false,NoToolNecessary,false,,,,,,,false,,,,,,,,,,,,,,,,
 Hotspot_Secret_85,@Hotspot_Secret_85_DisplayName,None,Fishing,,,Empty,,2700,5400,Fishing,,,10,false,NoToolNecessary,false,,,,,,,false,,,,,,,,,,,,,,,,
 Hotspot_Secret_86,@Hotspot_Secret_86_DisplayName,None,Fishing,,,Empty,,2700,5400,Fishing,,,10,false,NoToolNecessary,false,,,,,,,false,,,,,,,,,,,,,,,,
-Hotspot_SummerMedley_1,@Hotspot_SummerMedley_1_DisplayName,None,Fishing,,,Empty,,2700,5400,Fishing,,,3,false,NoToolNecessary,false,,,,,,,false,,,,,,,,,,,,,,,,
 OutpostRush_Bear,@Bear_DisplayName,Dressing,Dressing,,,OutpostRush_Bear,,240,240,Skinning,0,,10,false,ToolRequired,true,Gather_SkinningT2,,,,,,false,,,,,,,,,,,,,,,,
 OutpostRush_TreeHuge,@TreeHuge_Outpost_DisplayName,Chopping,Chopping,,,OutpostRush_TreeHuge,,85,95,Logging,0,,10,true,ToolRequired,true,Gather_LoggingT2,,,,,,false,,,,,,,,,,,,,,,,
 OutpostRush_TreeLarge,@TreeLarge_Outpost_DisplayName,Chopping,Chopping,,,OutpostRush_TreeLarge,,70,80,Logging,0,,10,true,ToolRequired,true,Gather_LoggingT2,,,,,,false,,,,,,,,,,,,,,,,
@@ -881,6 +870,10 @@ Dungeon_BrimstoneSands00_TranslateGlyph_C,@Dungeon_BrimstoneSands00_TranslateGly
 Dungeon_BrimstoneSands00_TranslateGlyph_D,@Dungeon_BrimstoneSands00_TranslateGlyph,AzothStaffLow,AzothStaff,,,Empty,,60480,86400,AzothStaff,0,,7.3,false,ToolRequired,false,16_Exp_GlyphD_interact,,,,,,false,,,1,,,,,,,,,,,,,
 Dungeon_BrimstoneSands00_TranslateGlyph_E,@Dungeon_BrimstoneSands00_TranslateGlyph,AzothStaffLow,AzothStaff,,,Empty,,60480,86400,AzothStaff,0,,7.3,false,ToolRequired,false,16_Exp_GlyphE_interact,,,,,,false,,,1,,,,,,,,,,,,,
 Dungeon_BrimstoneSands00_TranslateGlyph_F,@Dungeon_BrimstoneSands00_TranslateGlyph,AzothStaffLow,AzothStaff,,,Empty,,60480,86400,AzothStaff,0,,7.3,false,ToolRequired,false,16_Exp_GlyphF_interact,,,,,,false,,,1,,,,,,,,,,,,,
+SandwormTrial_Drum,@SandwormTrial_Drum_Displayname,None,None,Interact_Sandworm_Drum_Idle,Interact_Sandworm_Drum_Play,Empty,,60480,86400,None,0,,12,false,NoToolNecessary,true,,,,,,true,false,,,1,,,,,,,3,,,,,,
+SandwormTrial_RedButton,@SandwormTrial_RedButton_DisplayName,None,None,,,Empty,,60480,86400,None,0,,1,false,NoToolNecessary,false,,,,,,,false,,,,,,,,,,,,,,,,
+SandwormTrial_BlueButton,@SandwormTrial_BlueButton_DisplayName,None,None,,,Empty,,60480,86400,None,0,,1,false,NoToolNecessary,false,,,,,,,false,,,,,,,,,,,,,,,,
+Season_02_PvE_Event_Trigger_Gatherable,@Season_02_PvE_Event_Trigger_Gatherable,AzothStaffHigh,AzothStaff,,,Empty,,64000,64001,None,0,,5,false,ToolRequired,false,,,,,,,false,,,,true,,false,,,,10,,,,,,
 1655_0201_Table_01,@1655_0201_Table_DisplayName,LootContainer,None,,,Empty,,200,300,None,,,2,false,NoToolNecessary,true,1655_0201_Table_Interact,,,,,false,true,,,,,,,,,,,,,,,,
 1655_0201_Table_02,@1655_0201_Table_DisplayName,LootContainer,None,,,Empty,,200,300,None,,,2,false,NoToolNecessary,true,1655_0201_Table_Interact,,,,,false,true,,,,,,,,,,,,,,,,
 1655_0201_Table_03,@1655_0201_Table_DisplayName,LootContainer,None,,,Empty,,200,300,None,,,2,false,NoToolNecessary,true,1655_0201_Table_Interact,,,,,false,true,,,,,,,,,,,,,,,,
@@ -1215,20 +1208,6 @@ InteractObject_Corsairs_Quest,@InteractObject_Interact_Corsairs_Quest,Kicking,No
 99A_MSQ_14b_HeartgemCraftSpot,@99A_MSQ_14b_HeartgemCraftSpot_DisplayName,AzothStaffLow,AzothStaff,,,Empty,,200,300,AzothStaff,,,5,false,ToolRequired,true,99A_MSQ_14b_HeartgemCraftSpot_Interact,,,,,true,true,,,,,,,,,,,,,,,,
 99A_IsabellaWhisper_02,,None,None,,,,,1,1,None,,,1,false,WhisperRequired,false,99A_IsabellaWhisper_02_interact,,,,,true,true,,,,,,false,,,,,,,,,,
 GameEvent_Proximity,@ui_quest_banner_chapter1,None,None,,,QuestInteractable,,1,1.1,None,,,1,false,NoToolNecessary,true,GameEvent_interact,,,,,true,true,,,,,,,,,,,,,,,,
-13_Summer_AzFluteT1,@13_Summer_AzFluteT1_DisplayName,None,None,,,Empty,,50,60,None,,,3,false,NoToolNecessary,true,13_Summer_AzFluteT1_interact,,,,,true,true,,,,,,,,,,,,,,,,
-13_Summer_DrumT1,@13_Summer_DrumT1_DisplayName,None,None,,,Empty,,50,60,None,,,3,false,NoToolNecessary,true,13_Summer_DrumT1_interact,,,,,true,true,,,,,,,,,,,,,,,,
-13_Summer_GuitarT1,@13_Summer_GuitarT1_DisplayName,None,None,,,Empty,,50,60,None,,,3,false,NoToolNecessary,true,13_Summer_GuitarT1_interact,,,,,true,true,,,,,,,,,,,,,,,,
-13_Summer_MandolinT1,@13_Summer_MandolinT1_DisplayName,Handcrafting,None,,,Empty,,50,60,None,,,3,false,NoToolNecessary,true,13_Summer_MandolinT1_interact,,,,,true,true,,,,,,,,,,,,,,,,
-13_Summer_URBassT1,@13_Summer_URBassT1_DisplayName,Handcrafting,None,,,Empty,,50,60,None,,,3,false,NoToolNecessary,true,13_Summer_URBassT1_interact,,,,,true,true,,,,,,,,,,,,,,,,
-13_Summer_Carpenter1,@13_Summer_Carpenter1_DisplayName,Crafting,None,,,Empty,,200,300,None,,,5,false,ItemRequired,true,,WoodT1,1,,,true,true,,,,,,,,,,,,,,,,
-13_Summer_Carpenter2,@13_Summer_Carpenter2_DisplayName,Handcrafting,None,,,Empty,,200,300,None,,,4,false,NoToolNecessary,true,,,,,,true,true,,,,,,,,,,,,,,,,
-13_Summer_Apiary,@13_Summer_Apiary_DisplayName,None,None,,,Empty,,50,60,None,,,4,false,ItemRequired,true,13_Summer_Apiary_interact,SE_BeeSmoker,1,,,true,true,,,,,,,,,,,,,,,,
-13_Summer_OvenDirty_01,@13_Summer_Oven_DisplayName,None,None,,,Empty,,200,300,None,,,8,false,ItemRequired,true,,WaterT1,1,,,true,true,,,,,,,,,,,,,,,,
-13_Summer_OvenDirty_02,@13_Summer_Oven_DisplayName,None,None,,,Empty,,200,300,None,,,6,false,ItemRequired,true,,WaterT1,1,,,true,true,,,,,,,,,,,,,,,,
-13_Summer_OvenDirty_03,@13_Summer_Oven_DisplayName,None,None,,,Empty,,200,300,None,,,4,false,ItemRequired,true,,WaterT1,1,,,true,true,,,,,,,,,,,,,,,,
-13_Summer_FlowerBoxA,@13_Summer_FlowerBoxA_DisplayName,Welling,None,,,Empty,,50,60,None,,,3,false,ItemRequired,true,13_Summer_FlowerBox_interact,WaterT1,1,,,true,true,,,,,,,,,,,,,,,,
-13_Summer_FlowerBoxB,@13_Summer_FlowerBoxB_DisplayName,Welling,None,,,Empty,,50,60,None,,,3,false,ItemRequired,true,13_Summer_FlowerBox_interact,WaterT1,1,,,true,true,,,,,,,,,,,,,,,,
-13_Summer_FlowerBoxC,@13_Summer_FlowerBoxC_DisplayName,Welling,None,,,Empty,,50,60,None,,,3,false,ItemRequired,true,13_Summer_FlowerBox_interact,WaterT1,1,,,true,true,,,,,,,,,,,,,,,,
 1204_CrownChamberDoor_01,Insert Seals of the Knight,Handcrafting,None,,,Empty,,10,10,None,,,1,false,ItemRequired,true,,DungeonShatterMtn00_CellarKey,1,,,false,true,,,,,,,,,,,,,,,,
 1204_CrownChamberDoor_02,Enter Crown Chamber,Handcrafting,None,,,Empty,,10,10,None,,,1,false,NoToolNecessary,true,,,,,,false,true,,,,,,,,,,,,,,,,
 1208_CrownChamberDoor_01,Insert Seals of the Knight,Handcrafting,None,,,Empty,,10,10,None,,,1,false,ItemRequired,true,,DungeonShatterMtn00_CellarKey,1,,,false,true,,,,,,,,,,,,,,,,
@@ -1327,6 +1306,7 @@ Cyclic_06A_MSQ_puzzle1_stone3,@Cyclic_06A_MSQ_puzzlestone_DisplayName,Handcrafti
 Cyclic_06A_MSQ_puzzle2_stone1,@Cyclic_06A_MSQ_puzzlestone_DisplayName,Handcrafting,None,,,Empty,,30,60,None,0,,0,false,NoToolNecessary,false,06A_MSQ_puzzle2_stone1_interact,,,,,true,true,,,,,,false,,,,,,,,,,
 Cyclic_06A_MSQ_puzzle2_stone2,@Cyclic_06A_MSQ_puzzlestone_DisplayName,Handcrafting,None,,,Empty,,30,60,None,0,,0,false,NoToolNecessary,false,06A_MSQ_puzzle2_stone2_interact,,,,,true,true,,,,,,false,,,,,,,,,,
 Gimmick_CaveIn,@Gimmick_CaveIn_DisplayName,None,None,,,Empty,,64000,64002,None,,,2,false,NoToolNecessary,false,,,,,,true,false,,,,,,,,,,,,,,,,
+Sandworm_ArenaEncounter_WormPellet,@WinterConv_Gleamite_Chunk_DisplayName,Mining,Mining,,,Empty,,9000,9000,Mining,0,,15,true,ToolRequired,false,Sandworm_ArenaEncounter_WormPellet_interact,,,,,false,false,,,,true,,,,,,,,,,,,
 Whisper_Test_01,,None,None,,,,,1,1,None,,,3,false,WhisperRequired,false,MSQ_Whisper_01,,,,,,,,,,,,,,,,,,,,,,whisper_test_01
 Whisper_Test_02,,None,None,,,,,1,1,None,,,3,false,WhisperRequired,false,MSQ_Whisper_02,,,,,,,,,,,,,,,,,,,,,,whisper_test_02
 Whisper_Test_03,,None,None,,,,,1,1,None,,,3,false,WhisperRequired,false,MSQ_Whisper_03,,,,,,,,,,,,,,,,,,,,,,whisper_test_03
@@ -1346,6 +1326,8 @@ Medea_Crystal,@MB_MSQ2_ReleaseCrystal_DisplayName,None,None,,,Empty,,20,30,None,
 01_Whisper_Beach_05,,None,None,,,,,1,1,None,,,3,false,WhisperRequired,false,01_Whisper_Beach_05_event,,,,,,,,,,,,,,,,,,,,,,01_Whisper_Beach_05
 01_Whisper_Beach_06,,None,None,,,,,1,1,None,,,3,false,WhisperRequired,false,01_Whisper_Beach_06_event,,,,,,,,,,,,,,,,,,,,,,01_Whisper_Beach_06
 01_Whisper_Beach_07,,None,None,,,,,1,1,None,,,3,false,WhisperRequired,false,01_Whisper_Beach_07_event,,,,,,,,,,,,,,,,,,,,,,01_Whisper_Beach_07
+Sandworm_CannonBall,@Sandworm_Powerup_DisplayName,None,None,,,,,0,0,None,,,0.25,false,NoToolNecessary,true,,,,,,true,true,,,,,,,Sandworm_Acid_Resistance,,,,,,,,,
+Sandworm_Cannon,@Gimmick_BreakingWallsCannon_DisplayName,Handcrafting,None,,,Empty,,3,3,None,,,0.5,false,NoToolNecessary,false,,,,,,true,false,,,,,,,,Sandworm_CannonBall,Sandworm_CannonBall,,,,,,,
 12A_Whisper_01,,None,None,,,,,1,1,None,,,3,false,WhisperRequired,false,12A_MB_whisper_01_interact,,,,,,,,,,,,,,,,,,,,,,12A_MB_Whisper_01
 12A_Whisper_02,,None,None,,,,,1,1,None,,,3,false,WhisperRequired,false,12A_MB_whisper_02_interact,,,,,,,,,,,,,,,,,,,,,,12A_MB_Whisper_02
 12A_Whisper_03,,None,None,,,,,1,1,None,,,3,false,WhisperRequired,false,12A_MB_whisper_03_interact,,,,,,,,,,,,,,,,,,,,,,12A_MB_Whisper_03
