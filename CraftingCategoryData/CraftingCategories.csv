@@ -1,5 +1,7 @@
 CategoryID,ImagePath,DisplayText,Description
 WeaponsAmmo,Icons/Crafting/icon_crafting_category_weaponsAndArmors,@CategoryData_WeaponsAmmo,
+ArtisanCrafting,Icons/Items/Drawing/placeholder,@ArtisanCrafting_GroupName,@ArtisanCrafting_GroupDesc
+Specialty,Icons/Items/Drawing/placeholder,@Specialty_GroupName,
 Apparel,Icons/Crafting/icon_crafting_category_apparel,@CategoryData_Apparel,
 Utilities,Icons/Crafting/icon_crafting_category_utilities,@CategoryData_Utilities,
 Resources,Icons/Crafting/icon_crafting_category_resources,@CategoryData_Resources,
@@ -232,7 +234,6 @@ FoodBeast,Icons/Items/Drawing/FoodBeast,@FoodBeast_GroupName,@FoodBeast_GroupDes
 FoodAncient,Icons/Items/Drawing/FoodAncient,@FoodAncient_GroupName,@FoodAncient_GroupDesc
 FoodMana,Icons/Items/Drawing/FoodMana,@FoodMana_GroupName,@FoodMana_GroupDesc
 GatherableResearch,,@GatherableResearch,
-ArtisanCrafting,,@ArtisanCrafting_GroupName,@ArtisanCrafting_GroupDesc
 Scarab,,@Scarab_GroupName,
 CONTrinkets,Icons/Crafting/icon_crafting_category_trinkets,@CONTrinkets_GroupName,@CONTrinkets_GroupDesc
 STRTrinkets,Icons/Crafting/icon_crafting_category_trinkets,@STRTrinkets_GroupName,@STRTrinkets_GroupDesc
