@@ -1,5 +1,10 @@
 ExclusiveLabelID,Weight,ItemClassOverrides
 Attribute,100,
+Strength,0,
+Dexterity,0,
+Intelligence,0,
+Focus,0,
+Constitution,0,
 EmptyGem,100,
 Lightning,1,
 Arcane,1,
