@@ -30,3 +30,14 @@ Solo+_StarterBeach,1.25,2,0.25
 Dungeon_NoCurrency,1.7,4,0.1
 Dungeon-_NoCurrency,1.35,2,0.05
 Dungeon+_NoCurrency,2.05,10,0.5
+Raid20Boss,10,200,1
+Raid20MiniBoss,7.6,100,1
+Raid20+,6.8,32,0.45
+Raid20,5.6,12,0.15
+Raid20-,4.8,7.2,0.1
+Raid10Boss,3,100,1
+Raid10MiniBoss,2.65,50,1
+Raid10+,2.2,16,0.45
+Raid10,1.85,6,0.15
+Raid10-,1.5,3.6,0.1
+Ally,2.5,50,1

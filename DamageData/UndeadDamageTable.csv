@@ -68,5 +68,8 @@ Drowned_Miner_Breakout,Torch,0,0,,Bullet,Arcane,Fire,,,,,,,Deflect_Default,false
 Drowned_Miner_Breakout_Explosion,Torch,0,0,,Bullet,Arcane,Fire,,,,,,,Deflect_Default,false,0.4,1,0.4,3,3,3,30,20,30,0,3.5,0,0.8,0,0,0,0.8,0,3.5,0,0.8,0,1.2,,1,Small,Small,Small,3,2,1,1,0.1625,0.325
 Drowned_Miner_Breakout_Explosion_Self,Torch,0,0,,Bullet,Arcane,Fire,,,,,,,Deflect_Default,false,0.2,1,0.2,3,3,3,30,20,30,0,3.5,0,0.8,0,0,0,0.8,0,3.5,0,0.8,0,1.2,,1,Small,Small,Small,3,2,1,1,0.1625,0.325
 Undead_Pistoleer_Pistol_Whip,Unarmed,0,0,,Bullet,Light,Strike,,,,,,,Deflect_Default,false,0.7,1,0.7,1,1,1,20,15,20,0,1,0,0.8,0,0,0,0.8,0,1,0,0.8,0,0,,0,Small,Small,Small,3,0.33,1,1,0.1625,0.325
+MutatedNurse_WispShot,Torch,0,0,true,Bullet,Arcane,Fire,,,,,,,Deflect_Default,false,0.5,1,0.5,1,1,1,15,10,15,0,1,0,0.8,0,0,0,0.8,0,1,0,0.8,0,0.33,,0.6,Small,Small,Small,3,0.33,1,1,0.1625,0.325
+MutatedNurse_WispBoomerang,Torch,0,0,true,Bullet,Arcane,Fire,,,,,,,Deflect_Default,false,0.5,1,0.5,1,1,1,15,10,15,0,1,0,0.8,0,0,0,0.8,0,1,0,0.8,0,0.33,,0.6,Small,Small,Small,3,0.33,1,1,0.1625,0.325
+MutatedNurse_WispSoulthrower,Torch,0,0,,Bullet,Arcane,Fire,,,,,,true,Deflect_Default,false,0.15,0.15,0.15,2,2,2,20,10,20,0,1.5,0,0.8,0,0,0,0.8,0,1.5,0,0.8,0,0.15,,0,Medium,Small,Small,3,0.2,1,1,0.1625,0.325
 Undead_Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,,,,,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8,0,0,0,0,0,0,,10,Small,Small,Small,3,,,1,0.1625,0.325
 Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,,,,,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8,0,0,0,0,0,0,,10,Small,Small,Small,3,,,1,0.1625,0.325

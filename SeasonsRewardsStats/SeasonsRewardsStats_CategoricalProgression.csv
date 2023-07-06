@@ -3,3 +3,5 @@ CategoricalProgressionPvPRewardTrack,CategoricalProgression,PvP_XP,Ranked,,
 EarnAzoth,CategoricalProgression,AzothSalt_Currency,Points,,
 SpendAzoth,CategoricalProgression,Azoth_Currency,Points,true,
 CategoricalProgressionPvPXP,CategoricalProgression,PvP_XP,Points,,"PvpKill,ContributionReward"
+CategoricalProgressionFishingPostCap,CategoricalProgression,Fishing_PostCap,Ranked,,
+CategoricalProgressionPvPXPAnyReason,CategoricalProgression,PvP_XP,Points,,

@@ -7,3 +7,4 @@ SandyEscapeStart,Unarmed,1,,,,Bullet,Heavy,Nature,,AI_Snare_2sec,true,,false,0.5
 SandyEscapeTornadoHit,Unarmed,1,,,,Bullet,Light,Nature,,AI_Snare_2sec,true,,false,0.2,1,1,0,1,1,10,15,20,0,-1.6,0,0.9,0,-1.6,0,0.9,0,-1.6,0,0.9,0,1,,1,Small,Small,Small,3,0.2,1,1,,,0.1625,0.325
 TornadoHit,Unarmed,1,,,,Bullet,Light,Nature,,AI_Snare_2sec,true,,false,0.2,1,1,0,0,0,10,15,20,0,-1.6,0,0.9,0,-1.6,0,0.9,0,-1.6,0,0.9,0,1,,1,Small,Small,Small,3,0.2,1,1,,,0.1625,0.325
 SandSweep,Unarmed,0,,,,Bullet,Light,Nature,,,,,false,0.2,1,1,1,2,2,10,15,20,0.5,0,0,0.8,0,0,0,0.8,0,1,0,0.8,0,1,,1,Small,Small,Small,3,0.2,1,1,,,0.1625,0.325
+Attack_Structure,Unarmed,0,,,,Bullet,Light,Siege,,,,,false,1,1,1,1,2,2,10,15,20,0.5,0,0,0.8,0,0,0,0.8,0,1,0,0.8,0,1,,1,Small,Small,Small,3,0.2,1,1,,,0.1625,0.325

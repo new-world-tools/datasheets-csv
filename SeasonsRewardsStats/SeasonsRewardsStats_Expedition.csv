@@ -10,3 +10,12 @@ CompleteM10Expedition_TheEmpyreanForge,CompleteExpedition,DungeonGreatCleave01,,
 CompleteExpedition,CompleteExpedition,,,,,,,
 CompleteM10ExpeditionWithGoldRank,CompleteExpedition,,,10,,,SILVER,
 CompleteMutatedExpeditionFlawlessly,CompleteExpedition,,,1,,,,true
+CompleteSandwormTrial,CompleteExpedition,TrialBrimstoneSandworm,,,,,,
+CompleteSandwormTrialFlawlessly,CompleteExpedition,TrialBrimstoneSandworm,,,,,,true
+CompleteHatcheryTrial,CompleteExpedition,TrialSeason01,,,,,,
+CompleteHatcheryTrialIn10Minutes,CompleteExpedition,TrialSeason01,,,,,,
+CompleteMutatedExpeditionWithSilverRank,CompleteExpedition,,,,,,SILVER,
+CompleteExpedition_TheEnnead,CompleteExpedition,DungeonBrimstoneSands00,,,,,,
+CompleteM1Expedition_TheEnnead,CompleteExpedition,DungeonBrimstoneSands00,,1,,,,
+CompleteM10Expedition_TheEnnead,CompleteExpedition,DungeonBrimstoneSands00,,10,,,,
+CompleteM10ExpeditionFlawlessly,CompleteExpedition,,,10,,,,true

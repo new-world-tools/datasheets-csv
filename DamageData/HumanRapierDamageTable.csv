@@ -4,7 +4,7 @@ Flourish_FollowUp,Sword,0,0,,Bullet,Heavy,Thrust,,,,Deflect_Default,false,0.4,1,
 Riposte,Sword,0,0,,Bullet,Light,Slash,,,,Deflect_Default,false,0.25,1,1,0,0,0,20,15,20,0,0.5,0,0.8,0,0,0,0.8,0,0.75,0,0.8,0,0,,0,Small,Small,Small,3,0.15,1,0,0.1625,0.325
 Tondo,Sword,0,0,,Bullet,Light,Slash,,AI_Bleed_9,true,Deflect_Default,false,0.4,1,1,0,0,0,20,15,20,0,0.5,0,0.8,0,0,0,0.8,0,0.75,0,0.8,0,0,,0,Small,Small,Small,3,0.15,1,0,0.1625,0.325
 Fleche,Sword,0,0,,Bullet,Light,Slash,,,,Deflect_Default,false,0.25,1,1,0,0,0,20,15,20,0,0.5,0,0.8,0,0,0,0.8,0,0.75,0,0.8,0,0,,0,Small,Small,Small,3,0.15,1,0,0.1625,0.325
-Flurry,Sword,0,0,,Bullet,Light,Slash,,,,Deflect_Default,false,0.25,1,1,0,0,0,20,15,20,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,,0,Small,Small,Small,3,0.25,1,0,0.1625,0.325
+Flurry,Sword,0,0,,Bullet,Light,Thrust,,,,Deflect_Default,false,0.25,1,1,0,0,0,20,15,20,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,,0,Small,Small,Small,3,0.25,1,0,0.1625,0.325
 Double_Swing,Sword,0,0,,Bullet,Light,Slash,,,,Deflect_Default,false,0.45,1,1,0,0,0,20,15,20,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,,0,Small,Small,Small,3,0.15,1,0,0.1625,0.325
 Fall,Fall,1,1,,Bullet,,Falling,,,,,false,1,0,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,Small,Small,Small,0,1,1,1,0.1625,0.325
 Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,10,Small,Small,Small,1,,,0,0.1625,0.325

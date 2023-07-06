@@ -13,3 +13,5 @@ SEH_Attack_Signature_AoE,Sword,0,0,,Bullet,Magic,Nature,,,,,AI_SandElementalHeav
 SEH_Attack_Signature_Slam,Sword,0,0,,Bullet,Heavy,Slash,,,,,,,Deflect_Default,false,0.8,1,,5,5,5,60,50,25,0,2.4,0,0.8,0,0,0,0.8,0,6,0,0.5,0,0,,5,Large,Large,4,1.5,1,1,0.1625,0.325
 SEH_Attack_BodyFall_Slam,Sword,0,0,,Bullet,Heavy,Strike,,,,,,,Deflect_Default,false,0.2,1,,1,1,1,15,10,20,0,0.25,0,0,0,0,0,0,0,0.5,0,0.8,0,0,,5,Large,Large,1,0.35,1,1,0.1625,0.325
 SEH_Attack_StepForward,Sword,0,0,,Bullet,Heavy,Strike,,,,,,,Deflect_Default,false,0.15,1,,2,1,1,10,7,20,0,0.5,0,0,0,0,0,0,0,0.5,0,0.8,0,0,,5,Large,Large,1,0.25,1,1,0.1625,0.325
+SEH_Attack_SwipeL,Sword,0,0,,Bullet,Heavy,Strike,,,,,,,Deflect_Default,false,0.8,1,,5,5,5,40,37,20,0,1.5,0,0.8,0,0,0,0.8,0,1.5,0,0.8,0,0,,5,Large,Large,3,1.75,1,1,0.1625,0.325
+Attack_Structure,Sword,0,0,,Bullet,Heavy,Siege,,,,,,,Deflect_Default,false,0.8,1,,5,5,5,40,37,20,0,1.5,0,0.8,0,0,0,0.8,0,1.5,0,0.8,0,0,,5,Large,Large,3,1.75,1,1,0.1625,0.325

@@ -1,4 +1,8 @@
-TrackedStatID,StatType,TargetID,Level,ItemType,ItemClass,PerUse,Tradeskills
-GatherResource,Gather,,,Resource,,,"Skinning,Mining,Logging,Harvesting"
-GatherT5ResourceNode,Gather,,5,Resource,,true,"Skinning,Mining,Logging,Harvesting"
-SkinT5Animal,Gather,,5,,Rawhide+Resource,true,Skinning
+TrackedStatID,StatType,TargetID,Level,ItemType,ItemClass,PerUse,Tradeskills,GatherableIds
+GatherResource,Gather,,,Resource,,,"Skinning,Mining,Logging,Harvesting",
+GatherT5ResourceNode,Gather,,5,Resource,,true,"Skinning,Mining,Logging,Harvesting",
+SkinT5Animal,Gather,,5,,Rawhide+Resource,true,Skinning,
+LootSulfurChest,Gather,,,,,true,,16BS_LegionStoneTomb
+LootEliteChest,Gather,,,,,true,,LootLargeT3ElitePOI
+Gather3AeternumSturgeon,Gather,"FishingSummerMedleySturgeonSmallT3,FishingSummerMedleySturgeonMediumT3,FishingSummerMedleySturgeonLargeT3",,Resource,,true,Fishing,
+GatherPrismabloom,Gather,,,Resource,,true,,DyePlantDesertRose
