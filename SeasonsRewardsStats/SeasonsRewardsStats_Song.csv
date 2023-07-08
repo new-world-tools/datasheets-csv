@@ -4,7 +4,7 @@ CompleteSongOnExpert,CompleteSong,,,,Expert,
 CompleteSongWithAmazingRank,CompleteSong,,,,,Amazing
 CompleteSongInGroup,CompleteSong,,,true,,
 CompleteSongWithGreatRank,CompleteSong,,,,,Great
-CompleteSongCallOfTheAncientsWithExpertRating,CompleteSong,Ancient,,,,Amazing
+CompleteSongCallOfTheAncientsWithExpertRating,CompleteSong,"AncientEasy,AncientMedium,AncientHard",,,,Amazing
 CompleteSongInGroupWithExpertRating,CompleteSong,,,true,Expert,
 CompleteSongMaudlinWaltz,CompleteSong,Maudlinbug_Waltz,,,,
 CompleteSongYAAAHHHH,CompleteSong,YAAAHHHH,,,,
