@@ -133,3 +133,5 @@ Emote_BadSmell,Emote_BadSmell,ui_emote_BadSmell_name,ui_emote_BadSmell_descripti
 Emote_ChefKiss,Emote_ChefKiss,ui_emote_ChefKiss_name,ui_emote_ChefKiss_description,Other,@Emote_ChefKiss,chefkiss,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_ChefKiss.dds,,,,
 Emote_DeathDrop,Emote_DeathDrop,ui_emote_DeathDrop_name,ui_emote_DeathDrop_description,Other,@Emote_DeathDrop,deathdrop,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_DeathDrop.dds,,,,
 Emote_Thanks,Emote_Thanks,ui_emote_Thanks_name,ui_emote_Thanks_description,Friendly,@Emote_Thanks,thanks,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Thanks.dds,,,,
+Emote_BlowBubbles,Emote_BlowBubbles,ui_Emote_BlowBubbles_name,ui_Emote_BlowBubbles_description,Other,@Emote_BlowBubbles,bubbles,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_BlowBubbles.dds,,,,
+Emote_Walk_Viking,Emote_Walk_Viking,ui_Emote_Walk_Viking_name,ui_Emote_Walk_Viking_description,Other,@Emote_Walk_Viking,viking,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_VikingWalk.dds,,,,

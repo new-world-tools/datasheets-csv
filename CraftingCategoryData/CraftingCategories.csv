@@ -1,7 +1,6 @@
 CategoryID,ImagePath,DisplayText,Description
 WeaponsAmmo,Icons/Crafting/icon_crafting_category_weaponsAndArmors,@CategoryData_WeaponsAmmo,
 ArtisanCrafting,Icons/Items/Drawing/placeholder,@ArtisanCrafting_GroupName,@ArtisanCrafting_GroupDesc
-Specialty,Icons/Items/Drawing/placeholder,@Specialty_GroupName,
 Apparel,Icons/Crafting/icon_crafting_category_apparel,@CategoryData_Apparel,
 Utilities,Icons/Crafting/icon_crafting_category_utilities,@CategoryData_Utilities,
 Resources,Icons/Crafting/icon_crafting_category_resources,@CategoryData_Resources,
