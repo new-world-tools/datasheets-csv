@@ -128,3 +128,4 @@ RidingProgression,false,0,0,749,86400,86400,86400,,,
 Mount_FoodDailyXP_Limit,false,0,0,3,64800,64800,86400,,,
 FishingFreshJunk,false,0,0,5,0,0,300,0,1,
 FishingSaltJunk,false,0,0,5,0,0,300,0,1,
+RafflebonesPortal,false,0,0,3,64800,64800,64800,,,@ui_reached_max_daily_fotb_rafflebones

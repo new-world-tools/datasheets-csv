@@ -80,7 +80,7 @@ ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,RequiredFact
 95A_Rima_07,Linear_Objective,false,@NPC_DefaultDialogue_04_Rima,,,,,95A_S02_SecondThoughts,95A_S02_SecondThoughts_TalkToRima,,,,,,,,,,,95A_Rima_Topic04,,,,,,,,,,,,
 95A_Rima_08,Linear_Objective,false,@NPC_DefaultDialogue_05_Rima,,,,95A_Rima04,,,,,,,,,,,,,,,,,,,,,,,,,
 95A_Rima_09,Linear_Objective,false,@NPC_DefaultDialogue_06_Rima,,,,,95A_S02_EggHunt,95A_S02_EggHunt_TalkToRima,,,,,,,,,,,95A_Rima_Topic05,,,,,,,,,,,,
-95A_Rima_10,Linear_Objective,false,@NPC_DefaultDialogue_07_Rima,,,,95A_Main_11,,,95A_S02_BreakSomeEggs,,,,,,,,,,,,,,,,,,,,,,
+95A_Rima_10,Linear_Objective,false,@NPC_DefaultDialogue_07_Rima,,,,95A_Main_11 && !95A_Main_12,,,95A_S02_BreakSomeEggs,,,,,,,,,,,,,,,,,,,,,,
 95A_Rima_11,Linear_Objective,false,@NPC_DefaultDialogue_08_Rima,,,,95A_Ruins03,,,,,,,,,,,,,,,,,,,,,,,,,
 95A_Rima_12,Linear_Objective,false,@NPC_DefaultDialogue_09_Rima,,,,95A_Ruins04,,,,,,,,,,,,,,,,,,,,,,,,,
 95A_Rima_13,Linear_Objective,false,@NPC_DefaultDialogue_10_Rima,,,,95A_Sharif10,,,,,,,,,,,,,,,,,,,,,,,,,

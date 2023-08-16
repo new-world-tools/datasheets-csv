@@ -465,7 +465,7 @@ TaskID,Type,FailOnCondition,StayActive,RequiredLevel,TargetQty,ItemName,ItemDrop
 1523_0101_d_01_TaskFishingCatchFish,TaskFishingCatchFish,,1,,1,FishingHeadedHammerT2,,30,,,,,,,true,,,20,,,,,,,,,,,,,,,,,,,,,,,,,,,@1523_0101_d_01_TaskFishingCatchFish,,,,,,,,,,,,,,,,,,,
 1523_0101_d_02_TaskFishingCatchFish,TaskFishingCatchFish,,1,,1,FishingFishSwordT2,,30,,,,,,,true,,,20,,,,,,,,,,,,,,,,,,,,,,,,,,,@1523_0101_d_02_TaskFishingCatchFish,,,,,,,,,,,,,,,,,,,
 1123_0101_d_00_container_FQ10,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1123_0101_d_01_TaskFishingCatchFish,,,,
-1123_0101_d_01_TaskFishingCatchFish,TaskFishingCatchFish,,1,,1,FishingTreasureChestT3,,,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@1123_0101_d_01_TaskFishingCatchFish,,,,,,,,,,,,,,,,,,,
+1123_0101_d_01_TaskFishingCatchFish,TaskHaveItemsWithItemFamily,,1,,1,FishingTreasure,,,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@1123_0101_d_01_TaskFishingCatchFish,,,,,,,,,,,,,,,,,,,
 1424_0101_d_00_container_FQ11,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1424_0101_d_01_TaskFishingCatchFish,,,,
 1424_0101_d_01_TaskFishingCatchFish,TaskFishingCatchFish,,1,,1,1424_0101_AzothTingedFish,,15,,true,7,,,,true,,,10,,,,,,,,,,,,,,,,,,,,,,,,,,,@1424_0101_d_01_TaskFishingCatchFish,,8855 9585,,,,,,,,,,,,,,,,,
 0324_0101_d_00_container_FQ12,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0324_0101_d_01_TaskFishingCatchWeight,,,,
