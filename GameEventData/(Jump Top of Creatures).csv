@@ -1570,3 +1570,4 @@ SandwormEliteTrial_Reward,EliteTrialCompletion,,,,,,,[LTID]Trial_Sandworm_Master
 Playtest_Box_FactionTokens,,,,,,,,,,,,,,,,75000,,,,,,,,,,,,,,,,,
 PvP_XPPlaytest,,,,,,,,,,,,,,,,,,,10000,,,true,,,,,,,,,,,
 Omega_PvP_AzothSalt_Vial_Reward,,,,,,,,,,,,,,,,,10000,,,,,,,,,,,,,,,,
+Transmog_Token_Grant,,,,,,,,,,,,,,,,,,,,,,true,,,Transmog_Token,,,,,,,,
