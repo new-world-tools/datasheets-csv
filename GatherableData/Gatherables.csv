@@ -877,6 +877,7 @@ Dungeon_BrimstoneSands00_TranslateGlyph_F,@Dungeon_BrimstoneSands00_TranslateGly
 SandwormTrial_Drum,@SandwormTrial_Drum_Displayname,None,None,Interact_Sandworm_Drum_Idle,Interact_Sandworm_Drum_Play,Empty,,60480,86400,None,0,,12,false,NoToolNecessary,true,,,,,,true,false,,,1,,,,,,,3,,,,,,
 SandwormTrial_RedButton,@SandwormTrial_RedButton_DisplayName,None,None,,,Empty,,60480,86400,None,0,,1,false,NoToolNecessary,false,,,,,,,false,,,,,,,,,,,,,,,,
 SandwormTrial_BlueButton,@SandwormTrial_BlueButton_DisplayName,None,None,,,Empty,,60480,86400,None,0,,1,false,NoToolNecessary,false,,,,,,,false,,,,,,,,,,,,,,,,
+Season_02_PvE_Event_Trigger_Gatherable,@Season_02_PvE_Event_Trigger_Gatherable,AzothStaffHigh,AzothStaff,,,Empty,,64000,64001,None,0,,5,false,ToolRequired,false,,,,,,,false,,,,true,,false,,,,10,,,,,,
 1655_0201_Table_01,@1655_0201_Table_DisplayName,LootContainer,None,,,Empty,,200,300,None,,,2,false,NoToolNecessary,true,1655_0201_Table_Interact,,,,,false,true,,,,,,,,,,,,,,,,
 1655_0201_Table_02,@1655_0201_Table_DisplayName,LootContainer,None,,,Empty,,200,300,None,,,2,false,NoToolNecessary,true,1655_0201_Table_Interact,,,,,false,true,,,,,,,,,,,,,,,,
 1655_0201_Table_03,@1655_0201_Table_DisplayName,LootContainer,None,,,Empty,,200,300,None,,,2,false,NoToolNecessary,true,1655_0201_Table_Interact,,,,,false,true,,,,,,,,,,,,,,,,

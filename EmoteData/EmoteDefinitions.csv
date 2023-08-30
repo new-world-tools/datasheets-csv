@@ -100,6 +100,7 @@ Emote_Walk_Skip,Emote_Walk_Skip,ui_emote_Walk_Skip_name,ui_emote_Walk_Skip_descr
 Emote_Walk_TipToe,Emote_Walk_TipToe,ui_emote_Walk_TipToe_name,ui_emote_Walk_TipToe_description,Other,@emote_Walk_TipToe,tiptoe,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_TipToeWalk.dds,,,,
 Emote_ShruggyDance,Emote_ShruggyDance,ui_emote_ShruggyDance_name,ui_emote_ShruggyDance_description,Other,@emote_ShruggyDance,shruggydance,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_ShruggyDance.dds,,dance,7,WinterConvergence_2022
 Emote_DoffCap,Emote_DoffCap,ui_emote_DoffCap_name,ui_emote_DoffCap_description,Friendly,@emote_DoffCap,doffcap,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_DoffCap.dds,,,,
+Emote_HeelClick,Emote_HeelClick,ui_emote_HeelClick_name,ui_emote_HeelClick_description,Other,@emote_HeelClick,heelclick,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_HeelClick.dds,,,,
 Emote_SnowPileThrow,Emote_SnowPileThrow,ui_emote_SnowPileThrow_name,ui_emote_SnowPileThrow_description,Other,@emote_SnowPileThrow,snowball,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_SnowPileThrow.dds,,,,WinterConvergence_2022
 Emote_GleamiteSkip,Emote_GleamiteSkip,ui_emote_GleamiteSkip_name,ui_emote_GleamiteSkip_description,Other,@emote_GleamiteSkip,gleamiteskip,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_GleamiteSkip.dds,,,,
 Emote_FootballJuggle,Emote_FootballJuggle,ui_emote_FootballJuggle_name,ui_emote_FootballJuggle_description,Other,@emote_FootballJuggle,keepieuppie,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_JugglingSoccerBall.dds,,,,
@@ -135,3 +136,5 @@ Emote_DeathDrop,Emote_DeathDrop,ui_emote_DeathDrop_name,ui_emote_DeathDrop_descr
 Emote_Thanks,Emote_Thanks,ui_emote_Thanks_name,ui_emote_Thanks_description,Friendly,@Emote_Thanks,thanks,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Thanks.dds,,,,
 Emote_BlowBubbles,Emote_BlowBubbles,ui_Emote_BlowBubbles_name,ui_Emote_BlowBubbles_description,Other,@Emote_BlowBubbles,bubbles,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_BlowBubbles.dds,,,,
 Emote_Walk_Viking,Emote_Walk_Viking,ui_Emote_Walk_Viking_name,ui_Emote_Walk_Viking_description,Other,@Emote_Walk_Viking,viking,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_VikingWalk.dds,,,,
+Emote_MashedPotatoDance,Emote_MashedPotatoDance,ui_Emote_MashedPotatoDance_name,ui_Emote_MashedPotatoDance_description,Other,@Emote_MashedPotatoDance,mashedpotato,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_MashedPotatoDance.dds,,,,
+Emote_SpyGlass,Emote_SpyGlass,ui_Emote_SpyGlass_name,ui_Emote_SpyGlass_description,Other,@Emote_SpyGlass,spyglass,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Spyglass.dds,,,,
