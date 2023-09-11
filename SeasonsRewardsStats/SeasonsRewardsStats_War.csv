@@ -1,5 +1,5 @@
-TrackedStatID,StatType,IsInvasion,MustWin
-ParticipateInWar,CompleteWar,,
-ParticipateInInvasion,CompleteWar,true,
-WinWar,CompleteWar,,true
-WinInvasion,CompleteWar,true,true
+TrackedStatID,StatType,IsInvasion,MustWin,POITags
+ParticipateInWar,CompleteWar,,,
+ParticipateInInvasion,CompleteWar,true,,
+WinWar,CompleteWar,,true,
+WinInvasion,CompleteWar,true,true,

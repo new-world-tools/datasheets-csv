@@ -4,5 +4,5 @@ GatherT5ResourceNode,Gather,,5,Resource,,true,"Skinning,Mining,Logging,Harvestin
 SkinT5Animal,Gather,,5,,Rawhide+Resource,true,Skinning,
 LootSulfurChest,Gather,,,,,true,,LootLargeT3ElitePOI_SulfurChestOnly
 LootEliteChest,Gather,,,,,true,,LootLargeT3ElitePOI
-Gather3AeternumSturgeon,Gather,"FishingSummerMedleySturgeonSmallT3,FishingSummerMedleySturgeonMediumT3,FishingSummerMedleySturgeonLargeT3",,Resource,,true,Fishing,
 GatherPrismabloom,Gather,,,Resource,,true,,DyePlantDesertRose
+GatherSporePods,Gather,,,,,true,,"FL_SporePod_AngryEarth,FL_SporePod_AngryEarth_Elite,FL_SporePod_Ancients,FL_SporePod_Beasts,FL_SporePod_Beasts_Elite"

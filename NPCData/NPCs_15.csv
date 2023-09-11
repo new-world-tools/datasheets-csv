@@ -3,7 +3,6 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 1503_Survivalist,@1503_Survivalist_t,@1503_Survivalist,,1503_00_Survivalist,1503_01_Survivalist,1503_02_Survivalist,1503_03_Survivalist,1503_04_Survivalist,,,,,,,,,,,,,,,
 1504_Overseer,@1504_Overseer_t,@1504_Overseer,,1504_00_Overseer,1504_01_Overseer,1504_02_Overseer,1504_03_Overseer,1504_04_Overseer,1504_05_Overseer,,,,,,,,,,,,,,
 1505_Artificer,@1505_Artificer_t,@1505_Artificer,,1505_00_Artificer,1505_01_Artificer,1505_02_Artificer,1505_03_Artificer,,,,,,,,,,,,,,,,
-1507_Commander,@1507_Commander_t,@1507_Commander,,1507_00_Commander,1507_01pre_Commander,1507_01_Commander,1507_02_Commander,1507_03_Commander,1507_04pre_Commander,1507_04_Commander,1507_05pre_Commander,1507_05_Commander,1507_06pre_Commander,1507_06_Commander,,,,,,,,,
 1508_Alchemist,@1508_Alchemist_t,@1508_Alchemist,,1508_00_Alchemist,1508_01pre_Alchemist,1508_01_Alchemist,1508_02_Alchemist,1508_03_Alchemist,,,,,,,,,,,,,,,
 1509_Adjudicator,@1509_Adjudicator_t,@1509_Adjudicator,,1509_00_Adjudicator,1509_01pre_Adjudicator,1509_01_Adjudicator,1509_02_Adjudicator,1509_03_Adjudicator,,,,,,,,,,,,,,,
 1510_Barkeep,@1510_Barkeep_t,@1510_Barkeep,,1510_00_Barkeep,1510_01_Barkeep,1510_02_Barkeep,,,,,,,,,,,,,,,,,
@@ -16,3 +15,4 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 1526_Naturalist,@1526_Naturalist_t,@1526_Naturalist,,1526_00_Naturalist,1526_01_Naturalist,1526_02_Naturalist,1526_03_Naturalist,,,,,,,,,,,,,,,,
 1527_Wader,@1527_Wader_t,@1527_Wader,,1527_00_Wader,1527_01_Wader,1527_02_Wader,1527_03_Wader,,,,,,,,,,,,,,,,
 1528_Rogue,@1528_Rogue_t,@1528_Rogue,,1528_00_Rogue,1528_01_Rogue,1528_02_Rogue,,,,,,,,,,,,,,,,,
+1507_Commander,@1507_Commander_t,@1507_Commander,,1507_00_Commander,1507_01pre_Commander,1507_01_Commander,1507_02_Commander,1507_03_Commander,,,,,,,,,,,,,,,

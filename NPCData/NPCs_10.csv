@@ -4,7 +4,6 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 1003_Survivalist,@1003_Survivalist_title,@1003_Survivalist,,1003_00_Survivalist,1003_01_Survivalist,1003_02_Survivalist,1003_03_Survivalist,1003_04_Survivalist,,,,,,,,,,,,,,,
 1004_Overseer,@1004_Overseer_title,@1004_Overseer,,1004_00_Overseer,1004_01_Overseer,1004_02_Overseer,1004_03_Overseer,1004_04_Overseer,,,,,,,,,,,,,,,
 1005_Artificer,@1005_Artificer_title,@1005_Artificer,,1005_00_Artificer,1005_01_Artificer,1005_02_Artificer,1005_03_Artificer,1005_04_Artificer,,,,,,,,,,,,,,,
-1007_Commander,@1007_Commander_title,@1007_Commander,,1007_00_Commander,1007_01pre_Commander,1007_01_Commander,1007_02_Commander,1007_03_Commander,1007_04pre_Commander,1007_04_Commander,1007_05pre_Commander,1007_05_Commander,,,,,,,,,,,
 1008_Alchemist,@1008_Alchemist_title,@1008_Alchemist,,1008_00_Alchemist,1008_01pre_Alchemist,1008_01_Alchemist,1008_02_Alchemist,1008_03_Alchemist,,,,,,,,,,,,,,,
 1009_Adjudicator,@1009_Adjudicator_title,@1009_Adjudicator,,1009_00_Adjudicator,1009_01pre_Adjudicator,1009_01_Adjudicator,1009_02_Adjudicator,1009_03_Adjudicator,,,,,,,,,,,,,,,
 1010_Barkeep,@1010_Barkeep_title,@1010_Barkeep,,1010_00_Barkeep,1010_01_Barkeep,1010_02_Barkeep,1010_03_Barkeep,1010_04_Barkeep,,,,,,,,,,,,,,,

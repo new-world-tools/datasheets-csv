@@ -4,11 +4,11 @@ Boss-,1.9,25,1
 Boss+,2.5,50,1
 Critter,0.05,0.05,1
 Spell,0.05,0.05,1
-Dungeon,1.7,4,0.1
-Dungeon-,1.35,2,0.05
-Dungeon+,2.05,10,0.5
-DungeonBoss,2.5,50,1
-DungeonMiniBoss,2.25,30,1
+Dungeon,1.36,3.2,0.1
+Dungeon-,1.08,1.6,0.05
+Dungeon+,1.64,8,0.5
+DungeonBoss,1.75,30,1
+DungeonMiniBoss,1.575,18,1
 Elite,1.4,3,0.15
 Elite-,1.2,1.8,0.1
 Elite+,1.7,8,0.45
@@ -19,6 +19,7 @@ Named_Solo+,1.3,2.5,0.65
 Solo,1,1,0.085
 Solo-,0.6,0.6,0.05
 Solo+,1.25,2,0.25
+SoloBoss,1.1,8,1
 OutpostRushSolo,1,1,1
 OutpostRushSolo+,1.25,2.75,1
 OutpostRushGroup+,2.1,20,1
@@ -27,9 +28,9 @@ Skull,1,1,1
 Solo_StarterBeach,1,1,0.085
 Solo-_StarterBeach,0.6,0.6,0.05
 Solo+_StarterBeach,1.25,2,0.25
-Dungeon_NoCurrency,1.7,4,0.1
-Dungeon-_NoCurrency,1.35,2,0.05
-Dungeon+_NoCurrency,2.05,10,0.5
+Dungeon_NoCurrency,1.36,3.2,0.1
+Dungeon-_NoCurrency,1.08,1.6,0.05
+Dungeon+_NoCurrency,1.64,8,0.5
 Raid20Boss,10,200,1
 Raid20MiniBoss,7.6,100,1
 Raid20+,6.8,32,0.45
@@ -41,3 +42,4 @@ Raid10+,2.2,16,0.45
 Raid10,1.85,6,0.15
 Raid10-,1.5,3.6,0.1
 Ally,2.5,50,1
+Solo_Quest,1,1,1

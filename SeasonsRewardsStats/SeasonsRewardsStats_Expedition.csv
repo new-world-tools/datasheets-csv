@@ -19,3 +19,8 @@ CompleteExpedition_TheEnnead,CompleteExpedition,DungeonBrimstoneSands00,,,,,,
 CompleteM1Expedition_TheEnnead,CompleteExpedition,DungeonBrimstoneSands00,,1,,,,
 CompleteM10Expedition_TheEnnead,CompleteExpedition,DungeonBrimstoneSands00,,10,,,,
 CompleteM10ExpeditionFlawlessly,CompleteExpedition,,,10,,,,true
+CompleteExpedition_FirstLight,CompleteExpedition,DungeonFirstLight01,,,,,,
+CompleteExpeditionM1_FirstLight,CompleteExpedition,DungeonFirstLight01,,1,,,,
+CompleteExpeditionM2_FirstLight,CompleteExpedition,DungeonFirstLight01,,2,,,,
+CompleteExpeditionM3_FirstLight,CompleteExpedition,DungeonFirstLight01,,3,,,,
+CompleteExpeditionM3_FirstLightFlawlessly,CompleteExpedition,DungeonFirstLight01,,3,,,,true

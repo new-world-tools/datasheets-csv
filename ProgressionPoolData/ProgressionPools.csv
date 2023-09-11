@@ -17,6 +17,7 @@ IceMagicAbilityTable,Player,20,,1
 VoidGauntletAbilityTable,Player,20,,0
 BlunderbussAbilityTable,Player,20,,0
 GreatSwordAbilityTable,Player,20,,0
+FlailAbilityTable,Player,20,,0
 TerritoryRankBonus_2,Territory,300,,
 TerritoryRankBonus_4,Territory,300,,
 TerritoryRankBonus_5,Territory,300,,
@@ -27,6 +28,7 @@ TerritoryRankBonus_10,Territory,300,,
 TerritoryRankBonus_11,Territory,300,,
 TerritoryRankBonus_12,Territory,300,,
 TerritoryRankBonus_13,Territory,300,,
+TerritoryRankBonus_14,Territory,300,,
 TerritoryRankBonus_15,Territory,300,,
 TerritoryRankBonus_16,Territory,300,,
 TerritoryRankBonus_74,Territory,300,,

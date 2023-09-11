@@ -2,6 +2,7 @@ ItemSoundID,Sheathe,Unsheathe,SheatheFLY,UnsheatheFLY,Defense
 default,Play_Sheathe_1H_Axe_T1,Play_Unsheathe_1H_Axe_T1,,,Play_1H_Melee_Block
 1H_Axe,Play_Sheathe_1H_Axe_T1,Play_Unsheathe_1H_Axe_T1,,,Play_1H_Melee_Block
 1H_Club,Play_Sheathe_1H_Club_T1,Play_Unsheathe_1H_Club_T1,,,Play_1H_Melee_Block
+1H_Flail,Play_Sheathe_1H_Flail_T1,Play_Unsheathe_1H_Flail_T1,,,
 1H_Knife,Play_Sheathe_1H_Knife_T1,Play_Unsheathe_1H_Knife_T1,,,Play_1H_Melee_Block
 1H_Melee_Default,Play_Sheathe_1H_Axe_T1,Play_Unsheathe_1H_Axe_T1,,,Play_1H_Melee_Block
 1H_Pick,Play_Sheathe_1H_Pick_T1,Play_Unsheathe_1H_Pick_T1,,,Play_1H_Melee_Block

@@ -41,3 +41,6 @@ UnclampedEnergized,,,,0,0,0,StaminaRate:2
 UnclampedExhaust,,,,0,0,0,StaminaRate:-1
 SporeOffense,,,,0,0,0,
 SporeDefense,,,,0,0,0,
+SporeSecondary,,,,0,0,0,
+Shrivelled,,,,,,,HealScalingValueMultiplier:-0.5
+MammothEmpowered,,,0,0,0,0,

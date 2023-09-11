@@ -79,9 +79,9 @@ Emote_RunningMan,Emote_RunningMan,ui_emote_RunningMan_name,ui_emote_RunningMan_d
 Emote_Stab,Emote_Stab,ui_emote_Stab_name,ui_emote_Stab_description,Other,@emote_Stab,stab,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_CreepyStabbingPsycho.dds,,,,
 Emote_MicDrop,Emote_MicDrop,ui_emote_MicDrop_name,ui_emote_MicDrop_description,Other,@emote_MicDrop,micdrop,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_MicDrop.dds,,,,
 Emote_DrinkCheer,Emote_DrinkCheer,ui_emote_DrinkCheer_name,ui_emote_DrinkCheer_description,Friendly,@emote_DrinkCheer,cheers,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Cheers.dds,,,,
-Emote_HearNoEvil,Emote_HearNoEvil,ui_emote_HearNoEvil_name,ui_emote_HearNoEvil_description,Other,@emote_HearNoEvil,hearnoevil,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_NoEvil.dds,,,,
-Emote_SeeNoEvil,Emote_SeeNoEvil,ui_emote_SeeNoEvil_name,ui_emote_SeeNoEvil_description,Other,@emote_SeeNoEvil,seenoevil,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_NoEvil.dds,,,,
-Emote_SpeakNoEvil,Emote_SpeakNoEvil,ui_emote_SpeakNoEvil_name,ui_emote_SpeakNoEvil_description,Other,@emote_SpeakNoEvil,speaknoevil,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_NoEvil.dds,,,,
+Emote_HearNoEvil,Emote_HearNoEvil,ui_emote_HearNoEvil_name,ui_emote_HearNoEvil_description,Other,@emote_HearNoEvil,hearnoevil,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_HearNoEvil.dds,,,,
+Emote_SeeNoEvil,Emote_SeeNoEvil,ui_emote_SeeNoEvil_name,ui_emote_SeeNoEvil_description,Other,@emote_SeeNoEvil,seenoevil,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_SeeNoEvil.dds,,,,
+Emote_SpeakNoEvil,Emote_SpeakNoEvil,ui_emote_SpeakNoEvil_name,ui_emote_SpeakNoEvil_description,Other,@emote_SpeakNoEvil,speaknoevil,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_SpeakNoEvil.dds,,,,
 Emote_DigGrave,Emote_DigGrave,ui_emote_DigGrave_name,ui_emote_DigGrave_description,Taunt,@emote_DigGrave,diggrave,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_DigGrave.dds,,,,
 Emote_TableFlip,Emote_TableFlip,ui_emote_TableFlip_name,ui_emote_TableFlip_description,Emotion,@emote_TableFlip,tableflip,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_TableFlip.dds,,,,
 Emote_Vanity,Emote_Vanity,ui_emote_Vanity_name,ui_emote_Vanity_description,Other,@emote_Vanity,vanity,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_VanityMirror.dds,,,,
@@ -138,3 +138,11 @@ Emote_BlowBubbles,Emote_BlowBubbles,ui_Emote_BlowBubbles_name,ui_Emote_BlowBubbl
 Emote_Walk_Viking,Emote_Walk_Viking,ui_Emote_Walk_Viking_name,ui_Emote_Walk_Viking_description,Other,@Emote_Walk_Viking,viking,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_VikingWalk.dds,,,,
 Emote_MashedPotatoDance,Emote_MashedPotatoDance,ui_Emote_MashedPotatoDance_name,ui_Emote_MashedPotatoDance_description,Other,@Emote_MashedPotatoDance,mashedpotato,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_MashedPotatoDance.dds,,,,
 Emote_SpyGlass,Emote_SpyGlass,ui_Emote_SpyGlass_name,ui_Emote_SpyGlass_description,Other,@Emote_SpyGlass,spyglass,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Spyglass.dds,,,,
+Emote_FireSpinDance,Emote_FireSpinDance,ui_Emote_FireSpinDance_name,ui_Emote_FireSpinDance_description,Other,@Emote_FireSpinDance,firespin,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_FireSpinning.dds,,,,
+Emote_SuperHyped,Emote_SuperHyped,ui_Emote_SuperHyped_name,ui_Emote_SuperHyped_description,Other,@Emote_SuperHyped,hype,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_SuperHyped.dds,,,,
+Emote_Tremble,Emote_JumpScare,ui_Emote_Tremble_name,ui_Emote_Tremble_description,Other,@Emote_Tremble,tremble,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Nightveil2023_Tremble.dds,,,,NightveilHallow_2023
+Emote_Walk_Possessed,Emote_Walk_Evil,ui_Emote_Walk_Possessed_name,ui_Emote_Walk_Possessed_description,Other,@Emote_Walk_Possessed,possessed,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Nightveil2023_EvilWalk.dds,,,,NightveilHallow_2023
+Emote_WitchBroom,Emote_WitchBroom,ui_emote_WitchBroom,ui_emote_WitchBroom_description,Default,@emote_WitchBroom,witchbroom,,1,1,1,1,PremiumEmote_WitchBroom,1,lyshineui/images/icons/emotes/emote_WitchBroom.dds,,,,
+Emote_Walk_Trex,Emote_Walk_Trex,ui_Emote_Walk_Trex_name,ui_Emote_Walk_Trex_description,Other,@Emote_Walk_Trex,trex,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Seance_TrexWalk.dds,,,,
+Emote_GravePeaceSign,Emote_GravePeaceSign,ui_Emote_GravePeaceSign_name,ui_Emote_GravePeaceSign_description,Taunt,@Emote_GravePeaceSign,grave,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Seance_GravePeaceSign.dds,,,,
+Emote_YouMeNow,Emote_YouMeNow,ui_Emote_YouMeNow_name,ui_Emote_YouMeNow_description,Other,@Emote_YouMeNow,youmenow,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_YouMeNow.dds,,,,Season_3

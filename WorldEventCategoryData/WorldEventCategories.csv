@@ -1,0 +1,7 @@
+CategoryId,Description,Notes
+Test1,Testing category 1,A description is mandatory. Don't remove this row
+Test2,Testing category 2,
+Test3,Testing category 3,
+InfluenceRace,Influence Race,
+WorldBoss,Global World boss,
+DarknessEvent,Darkness encounters,

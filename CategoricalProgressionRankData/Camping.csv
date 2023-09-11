@@ -5,3 +5,4 @@ Rank,DisplayName,MaximumInfluence,RequiredLevel,InfluenceCost,CurrencyCost,Azoth
 3,@ui_camping_reward_tier_3,1,,1,,,true,,
 4,@ui_camping_reward_tier_4,1,,1,,,true,,
 5,@ui_camping_reward_tier_5,1,,1,,,true,,
+6,@ui_camping_reward_tier_6,1,,1,,,true,,
