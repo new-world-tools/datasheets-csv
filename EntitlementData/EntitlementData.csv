@@ -866,8 +866,8 @@ EntitlementSkin_DarkFae_Pickaxe,1003,true,,,,,ItemSkin,Skin_DarkFae_Pickaxe,,Sto
 EntitlementSkin_DarkFae_Sickle,1004,true,,,,,ItemSkin,Skin_DarkFae_Sickle,,Store,,
 EntitlementSkin_DarkFae_SkinningKnife,1005,true,,,,,ItemSkin,Skin_DarkFae_SkinningKnife,,Store,,
 Ent_Tool_Bundle_DarkFae,1006,true,,,,,Entitlement,EntitlementSkin_DarkFae_FishingPole+EntitlementSkin_DarkFae_AzothScepter+EntitlementSkin_DarkFae_LoggingAxe+EntitlementSkin_DarkFae_Pickaxe+EntitlementSkin_DarkFae_Sickle+EntitlementSkin_DarkFae_SkinningKnife,,Store,,
-EntitlementSkin_Chest_Leaderboard,1007,true,,,,,ItemSkin,Skin_Chest_Leaderboard,,Leaderboard,,
-EntitlementSkin_Chest_Rank1_Leaderboard,1008,true,,,,,ItemSkin,Skin_Chest_Rank1_Leaderboard,,Leaderboard,,
+EntitlementSkin_Chest_Leaderboard,1007,true,,,,,ItemSkin,Skin_Chest_Leaderboard,,Leaderboards,,
+EntitlementSkin_Chest_Rank1_Leaderboard,1008,true,,,,,ItemSkin,Skin_Chest_Rank1_Leaderboard,,Leaderboards,,
 EntitlementSkin_WinterScales,1009,true,,,,,ItemSkin,Skin_Chest_WinterConvergenceScales+Skin_Head_WinterConvergenceScales+Skin_Legs_WinterConvergenceScales+Skin_Feet_WinterConvergenceScales+Skin_Hands_WinterConvergenceScales,,Store,,
 EntitlementSkin_Chest_WinterWanderer2,1010,true,,,,,ItemSkin,Skin_Chest_WinterWanderer2,,Store,,
 EntitlementSkin_Head_WinterWanderer,1011,true,,,,,ItemSkin,Skin_Head_WinterWanderer,,Store,,
@@ -1357,3 +1357,6 @@ EntitlementSkin_Firestaff_Balance,1520,true,,,,,ItemSkin,Skin_Aug2023_Balance_Fi
 ent_Emote_MashedPotatoDance,1553,true,,,,,Emote,Emote_MashedPotatoDance,,Store,,
 ent_Emote_SpyGlass,1554,true,,,,,Emote,Emote_SpyGlass,,Store,,
 RewardCache_Aug2023_Prime,1555,true,,,true,,InventoryItem,Aug2023_Container,,Prime,,
+CalloftheWilds_World1,1885,true,,,,,WorldId,f6816f44-8c8f-4e9a-a334-074fec58237f,,,,Call of the Wilds promo
+CalloftheWilds_World2,1886,true,,,,,WorldId,68ceedf0-afdc-4c1e-b062-78cb6baf7775,,,,Call of the Wilds promo
+CalloftheWilds_World3,1887,true,,,,,WorldId,9a327cdc-3417-454e-95c1-419a4d3957cb,,,,Call of the Wilds promo
