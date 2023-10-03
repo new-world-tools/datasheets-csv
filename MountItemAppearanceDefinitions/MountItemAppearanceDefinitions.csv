@@ -13,6 +13,7 @@ Mounts_TreasureChest_Setting,false,RightSide,false,,,,,,,false,,,,,,,,"0.0,0.0,0
 Mounts_Blacksmith_Setting,false,RightSide,false,,,,,,,false,,,,,,,,"0.0,0.0,0.0",,,"0.0,0.0,0.0",,,,
 Mounts_Logging_Setting,false,RightSide,false,,,,,,,false,,,,,,,,"0.0,0.0,0.0",,,"0.0,0.0,0.0",,,,
 Mounts_Tome_Setting,false,RightSide,false,,,,,,,false,,,,,,,,"0.03,0.0,-0.25",,,"-0.03,0.0,-0.25",,,,
+Mounts_CallofTheWilds_Setting,true,None,false,,,,,,,false,,,,,,,,"0.0675,0.0,0.0",,,"-0.0675,0.0,0.0",,,,
 Mounts_ClothSack_Setting,false,RightSide,false,,,,,,,false,,,,,,,,"0.0,0.0,0.0",,,"0.0,0.0,0.0",,,,
 Mounts_PowderHorn_Setting,false,RightSide,false,,,,,,,false,,,,,,,,"0.0,0.0,0.0",,,"0.0,0.0,0.0",,,,
 Mounts_PrimalDrum_Setting,false,RightSide,false,,,,,,,false,,,,,,,,"0.0,0.0,0.0",,"0.9,0.9,0.9","0.0,0.0,0.0",,"0.9,0.9,0.9",,

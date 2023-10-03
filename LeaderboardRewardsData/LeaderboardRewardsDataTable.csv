@@ -1,8 +1,8 @@
 LeaderboardRewardId,Rotation Start Check,RotationStart,LeaderboardRewardIdNoRotation,Rotation,SeasonOrWeek,EntitlementRewards,DataSheetLBStatus,Notes
 LB_Invasion_Rank1_Season1,1,1,LB_Invasion_Rank1,Season,0,EntitlementSkin_Chest_Rank1_LB_Invasion,,"Aug-2023 - OPR Regional - We introduced regional leaderboards for OPR Crossworld and archived the ""World"" boards."
 LB_Invasion_Rank1_Season4,1,4,LB_Invasion_Rank1,Season,3,EntitlementSkin_Chest_S3_Rank1_LB_Invasion,,"Aug-2023-Mutations-Wechangedtheamountofmutationsfrom10to3.M10swerepreviouslyrewarded,andnowM3sarerewarded."
-LB_Invasion_Rank2_Season1,1,1,LB_Invasion_Rank2,Season,0,EntitlementSkin_Chest_S3_Rank2_LB_Invasion,,
-LB_Invasion_Rank2_Season4,1,4,LB_Invasion_Rank2,Season,3,EntitlementSkin_Legs_CovenantInquisitorT6,,
+LB_Invasion_Rank2_Season1,1,1,LB_Invasion_Rank2,Season,0,EntitlementSkin_Chest_LB_Invasion,,
+LB_Invasion_Rank2_Season4,1,4,LB_Invasion_Rank2,Season,3,EntitlementSkin_Chest_S3_Rank2_LB_Invasion,,
 LB_OPR_Regional_Rank1_Season1,1,1,LB_OPR_Regional_Rank1,Season,0,EntitlementSkin_Chest_Rank1_LB_OPR,,
 LB_OPR_Regional_Rank1_Season4,1,4,LB_OPR_Regional_Rank1,Season,3,EntitlementSkin_Chest_S3_Rank1_LB_OPR,,
 LB_OPR_Regional_Rank2_Season1,1,1,LB_OPR_Regional_Rank2,Season,0,EntitlementSkin_Chest_LB_OPR,,

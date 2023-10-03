@@ -2,9 +2,9 @@ QuickCourseId,PathReferenceQuickCourseId,IsTimed,AccumulateTime,StartingTimerSec
 EF_Tour_0,,true,,30,,MNT_Race_Tour_Everfall,
 EF_Rally_1,,true,,,1,MNT_Race_Rally_Everfall,Radiant Hills Rally
 EF_Rally_2,,true,,25,1,MNT_Race_Rally_Everfall,Stolen Shores Rally
-EF_Tour_1,,true,,260,,MNT_Race_Tour_Everfall,King's Road Tour
-EF_Tour_2,,true,,310,,MNT_Race_Tour_Everfall,Dogma Tour
-EF_Tour_3,,true,,320,,MNT_Race_Tour_Everfall,Ghosts and Groves Tour
+EF_Tour_1,,true,,200,,MNT_Race_Tour_Everfall,King's Road Tour
+EF_Tour_2,,true,,280,,MNT_Race_Tour_Everfall,Dogma Tour
+EF_Tour_3,,true,,180,,MNT_Race_Tour_Everfall,Ghosts and Groves Tour
 WF_Rally_1,,true,,,,MNT_Race_Rally_Weavers_Fen,Vega Bridge Rally 
 WF_Rally_2,,true,,,1,MNT_Race_Rally_Weavers_Fen,Diver's Bluff Rally 
 WF_Tour_1,,true,,440,1,MNT_Race_Tour_Weavers_Fen,Iron Rose Tour 
@@ -17,8 +17,8 @@ EF_Tour_5,EF_Tour_2,true,,263,0.85,MNT_Race_Tour_Everfall,Dogma Tour II
 EF_Tour_6,EF_Tour_3,true,,272,0.85,MNT_Race_Tour_Everfall,Ghosts and Groves Tour II
 GC_Rally_1,,true,,,,MNT_Race_Rally_Great_Cleave,Wolfsbane Tour
 GC_Rally_2,,true,,,,MNT_Race_Rally_Great_Cleave,Temple of Tears Rally
-GC_Tour_1,,true,,380,,MNT_Race_Tour_Great_Cleave,Azure Fire Tour
-GC_Tour_2,,true,,360,,MNT_Race_Tour_Great_Cleave,Leap of Faith Rally
+GC_Tour_1,,true,,380,,MNT_Race_Tour_Great_Cleave,Ancient Alley Tour
+GC_Tour_2,,true,,360,,MNT_Race_Tour_Great_Cleave,Downhill Rush Rally
 GC_Tour_3,,true,,380,,MNT_Race_Tour_Great_Cleave,Snows and Swamps Tour
 WF_Rally_3,WF_Rally_1,true,,,0.85,MNT_Race_Rally_Weavers_Fen,Vega Bridge Rally II
 WF_Rally_4,WF_Rally_2,true,,,0.85,MNT_Race_Rally_Weavers_Fen,Diver's Bluff Rally II

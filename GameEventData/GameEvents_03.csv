@@ -98,11 +98,11 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExp
 0330_0102_SketchingA_interact,,0,Quest-,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 0330_0102_SketchingB_interact,,0,Quest-,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 0330_0102_SketchingC_interact,,0,Quest-,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
-03_SQ_04_WulfstanGlyphs_success,,37,Quest,Armor,,0,0,,QuestRewardArmorCase4,,,,,0,,,,,0,0,,,,,,,true
-03_SQ_05_MokoshGlyphs_success,,39,Quest,,,0,0,,glyphstone_shadow,,,,,0,,,,,0,0,,,,,,,true
-03_SQ_06_AscensionCurse_success,,39,Quest,Armor,,0,0,,QuestReward_ZQ2GC_BadBlood,,,,,0,,,,,0,0,,,,,,,true
-03_SQ_01_PassingGood_success,,,,Armor,,,,,QuestRewardArmorCase5,,,,,,,,,,,,,,,,,,
-03_SQ_02_ArmedPoints_success,,,,Weapons,,,,,QuestRewardWeaponCase5,,,,,,,,,,,,,,,,,,
-03_SQ_03_BattleWounds_success,,,,Weapons,,,,,QuestReward_ZQ2GC_BattleWounds,,,,,,,,,,,,,,,,,,
+03_SQ_04_WulfstanGlyphs_success,,50,Quest,Armor,,3450,10000,,QuestRewardArmorCase4,,,,,0,,,,,0,0,,,,,,,true
+03_SQ_05_MokoshGlyphs_success,,50,Quest,,,3450,10000,,glyphstone_shadow,,,,,0,,,,,0,0,,,,,,,true
+03_SQ_06_AscensionCurse_success,,48,Quest+,Armor,,4170,13650,,QuestReward_ZQ2GC_BadBlood,,,,,0,,,,,0,0,,,,,,,true
+03_SQ_01_PassingGood_success,,41,Quest,Armor,,2910,8875,,QuestRewardArmorCase5,,,,,0,,,,,0,0,,,,,,,true
+03_SQ_02_ArmedPoints_success,,41,Quest,Weapons,,2910,8875,,QuestRewardWeaponCase5,,,,,0,,,,,0,0,,,,,,,true
+03_SQ_03_BattleWounds_success,,47,Quest,Weapons,,3270,9625,,QuestReward_ZQ2GC_BattleWounds,,,,,0,,,,,0,0,,,,,,,true
 03_SQ_05_Glyph_01_interact,,0,Quest-,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 03_SQ_03_GraveDigger_interact,,0,Quest,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true

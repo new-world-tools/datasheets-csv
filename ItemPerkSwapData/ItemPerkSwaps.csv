@@ -77,9 +77,9 @@ ID,Key,KeyType,OldPerk,NewPerk
 76,TowerShield,ItemClass,PerkID_Stat_OneHandWarden,PerkID_Stat_TowerShield
 77,TowerShield,ItemClass,PerkID_Stat_OneHandZealot,PerkID_Stat_TowerShield
 78,Armor,ItemClass,PerkID_Armor_DefCritDmg,PerkID_Armor_Health
-79,Armor,ItemClass,PerkID_Armor_DefAncient,PerkID_Armor_Health
-80,Armor,ItemClass,PerkID_Armor_DefAngryEarth,PerkID_Armor_Health
-81,Armor,ItemClass,PerkID_Armor_DefBeast,PerkID_Armor_Health
-82,Armor,ItemClass,PerkID_Armor_DefCorrupted,PerkID_Armor_Health
-83,Armor,ItemClass,PerkID_Armor_DefLost,PerkID_Armor_Health
-84,Armor,ItemClass,PerkID_Armor_DefAeternian,PerkID_Armor_Health
+79,Armor,ItemClass,PerkID_Armor_DefAncient,PerkID_Armor_DefBasic
+80,Armor,ItemClass,PerkID_Armor_DefAngryEarth,PerkID_Armor_DefBasic
+81,Armor,ItemClass,PerkID_Armor_DefBeast,PerkID_Armor_DefBasic
+82,Armor,ItemClass,PerkID_Armor_DefCorrupted,PerkID_Armor_DefBasic
+83,Armor,ItemClass,PerkID_Armor_DefLost,PerkID_Armor_DefBasic
+84,Armor,ItemClass,PerkID_Armor_DefAeternian,PerkID_Armor_DefBasic

@@ -50,10 +50,10 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExp
 09A_M8_Drum_Interact,,0,Quest,,,0,0,,,,,,,,,,,,,0,,,,,,,true
 09A_M9_Success,,66,Quest+,,,9380,16800,,09A_M9_SpearT5,,,,,,,,,,30,1,,,,,,,true
 09A_M10_Success,,67,Quest+,,,9570,16975,,09A_M10_1hLongsword_T5,,,,,,,,,,30,1,,,,,,,true
-09A_M11_Success,,68,Quest+,,,9750,17150,,WritOfAdventure,,,,,,,,,,30,1,,,,,,,true
+09A_M11_Success,,68,Quest+,,,9750,17150,,09A_M13_ChestT5,,,,,,,,,,30,1,,,,,,,true
 09A_M12_Success,,69,Quest+,,,9940,17325,,09A_M12_2hStaffFire_T5,,,,,,,,,,30,1,,,,,,,true
 09A_M12_TaurusStatue_Interact,,0,Quest,,,0,0,,,,,,,,,,,,,0,,,,,,,true
-09A_M13_Success,,79,Quest+,,,11820,19075,,09A_M13_ChestT5,,,,,,,,,,40,1,,,,,,,true
+09A_M13_Success,,79,Quest+,,,11820,19075,,WritOfAdventure,,,,,,,,,,40,1,,,,,,,true
 09A_M13_ArcaneRitual_0_Interact,,0,Quest,,,0,0,,,,,,,,,,,,,0,,,,,,,true
 09A_M13_ArcaneRitual_1_Interact,,0,Quest,,,0,0,,,,,,,,,,,,,0,,,,,,,true
 09A_M13_ArcaneRitual_2_Interact,,0,Quest,,,0,0,,,,,,,,,,,,,0,,,,,,,true

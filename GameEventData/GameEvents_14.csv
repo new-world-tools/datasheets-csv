@@ -79,9 +79,9 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExp
 1401_BlightTinctureBomb_interact,,0,Quest,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
 1402_CorruptedOre_interact,,0,Quest,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
 1403_WyrdwoodGrowth_interact,,0,Quest,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-14_SQ_04_AvernalWater_success,,37,Quest,,,0,0,,QuestReward_ZQ2EG_Container01,,,,,0,,,,,0,0,,,,,,,true
-14_SQ_05_NimueFriends_success,,39,Quest,,,0,0,,QuestReward_ZQ2EG_Container02,,,,,0,,,,,0,0,,,,,,,true
-14_SQ_06_SylphidDyes_success,,39,Quest,,,0,0,,QuestRewardDye,,,,,0,,,,,0,0,,,,,,,true
+14_SQ_04_AvernalWater_success,,52,Quest,,,2370,10250,,QuestReward_ZQ2EG_Container01,,,,,0,,,,,0,0,,,,,,,true
+14_SQ_05_NimueFriends_success,,52,Quest,,,3560,10250,,QuestReward_ZQ2EG_Container02,,,,,0,,,,,0,0,,,,,,,true
+14_SQ_06_SylphidDyes_success,,56,Quest,,,3710,10750,,QuestRewardDye,,,,,0,,,,,0,0,,,,,,,true
 14_SQ_05_Plant_01_interact,,0,Quest,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
 14_SQ_05_Plant_02_interact,,0,Quest,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
 14_SQ_05_Plant_03_interact,,0,Quest,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
