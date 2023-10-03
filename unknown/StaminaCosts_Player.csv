@@ -62,9 +62,9 @@ Attack_2H_DemoHammer_Primary,0,Combat
 Attack_1H_Fall,0,Combat
 Attack_2H_Fall,0,Combat
 OH_Shield_Attack1,0,Combat
-Dodge_Prone,40,Dodging
-Dodge,40,Dodging
-Dodge_Roll,40,Dodging
+Dodge_Prone,50,Dodging
+Dodge,50,Dodging
+Dodge_Roll,50,Dodging
 Dodge_Roll_Fast,50,Dodging
 Dodge_Roll_Slow,50,Dodging
 Sprint,0,Sprinting

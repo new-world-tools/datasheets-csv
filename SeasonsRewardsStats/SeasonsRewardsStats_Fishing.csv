@@ -3,3 +3,4 @@ CatchPoundageOfFish,Fishing,,,,,2
 CatchRareFish,Fishing,,2,,true,
 CatchTreasureChest,Fishing,"FishingTreasureChestT3,FishingTreasureGoodProvisionT3,FishingTreasurePigmentT3,FishingTreasureGearT3,FishingTreasureMoteT3,FishingTreasureSeaweedT2,FishingTreasureBootT2,FishingTreasureOarT2,FishingTreasureSwordT2,FishingTreasureHammerT2",,,true,
 CatchBrimstoneLegendaryFish,Fishing,FishingAnmisemaT5,,,,
+CatchAeternumSturgeon,Fishing,"FishingSummerMedleySturgeonSmallT3,FishingSummerMedleySturgeonMediumT3,FishingSummerMedleySturgeonLargeT3",,,true,

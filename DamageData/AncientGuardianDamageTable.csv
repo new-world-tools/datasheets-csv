@@ -24,8 +24,8 @@ Javelineer_Lunge_Knockback,Sword,0,0,,Bullet,Heavy,Thrust,,,,,false,0.25,1,1,3,3
 Javelineer_Slash,Sword,0,0,,Bullet,Heavy,Slash,,,,,false,0.35,1,1,0,1,0,30,25,30,0,1.5,0,0.8,0,1.5,0,0.8,0,0,0,0.8,0,1,1,1,Small,Small,0,0.2,1,0,0,0.1625,0.325
 AnubianReaver_InfernoSpinSlash,Sword,0,0,,Bullet,Light,Slash,AI_FireDMG_100,,,,false,0.15,1,1,1,1,1,10,15,10,0,0.5,0,0.8,0,0.5,0,0.8,0,0,0,0.8,0,0,1,1,Small,Small,0,0.1,1,0,0,0.1625,0.325
 AnubianReaver_InfernoEruption,AncientMagic,0,0,,Bullet,Magic,Fire,,AI_Anubian_Burn_9,true,,false,0.5,1,1,0,0,0,30,25,30,0,1.5,0,0.8,0,1.5,0,0.8,0,0,0,0.8,0,1,1,1,Small,Small,0,0.4,1,0,0,0.1625,0.325
-AnubianSpearman_SunbeamLance_01,AncientMagic,0,0,true,Bullet,Magic,Fire,,AI_Anubian_Burn_9,true,,false,0.5,1,1,1,1,1,13,8,13,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,1,1,1,Small,Small,0,0.4,1,0,0,0.1625,0.325
-AnubianSpearman_Sunbeam_Swipe,Sword,0,0,,Bullet,Magic,Fire,,AI_Anubian_Burn_9,true,,false,0.8,1,1,0,0,0,10,10,10,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,1,1,1,Small,Small,0,0.7,1,0,0,0.1625,0.325
+AnubianSpearman_SunbeamLance_01,AncientMagic,0,0,true,Bullet,Magic,Fire,,AI_Anubian_Burn_9,true,,false,0.25,1,1,1,1,1,13,8,13,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,1,1,1,Small,Small,0,0.4,1,0,0,0.1625,0.325
+AnubianSpearman_Sunbeam_Swipe,Sword,0,0,,Bullet,Magic,Fire,,AI_Anubian_Burn_9,true,,false,0.4,1,1,0,0,0,10,10,10,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,1,1,1,Small,Small,0,0.7,1,0,0,0.1625,0.325
 Mage_Miniboss_Beam,AncientMagic,1,1,,Bullet,Magic,Arcane,,AI_Mage_Miniboss_Heal,,,false,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Small,Small,0,0,1,0,0,0.1625,0.325
 Mage_Miniboss_Orb_AOE,AncientMagic,0,0,,Bullet,Magic,Arcane,,,,,false,1,1,1,0,0,0,15,10,15,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,1.2,1.2,1,Small,Small,1,0.55,1,1,0,0.1625,0.325
 Heartforge_Guardian_Explosion,AncientMagic,0,1,,Bullet,Magic,Arcane,,AI_Weaken,true,,false,0.15,0.15,0.15,0,0,0,10,5,10,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,1.2,1.2,1,Small,Small,1,0.55,1,1,0,0.1625,0.325

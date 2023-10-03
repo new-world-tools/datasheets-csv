@@ -1,0 +1,17 @@
+DamageID,WeaponCategory,IgnoreInvulnerable,NoReaction,IsRanged,SurfaceImpactEffect,AttackType,DamageType,Affixes,StatusEffect,EffectOnlyOnDamage,DeflectDamageID,CanCrit,DmgCoef,DmgCoefHead,DmgCoefCrit,PowerLevel,BlockPowerLevel,CritPowerLevel,HitStun,BlockHitStun,CritHitStun,ImpactDistanceX,ImpactDistanceY,ImpactDistanceZ,ImpactDecayRate,CritImpactDistanceX,CritImpactDistanceY,CritImpactDistanceZ,CritImpactDecayRate,BlockImpactDistanceX,BlockImpactDistanceY,BlockImpactDistanceZ,BlockImpactDecayRate,AddDmg,StaggerDmgModifier,StaggerResistModifier,TargetCameraShakeID,ImpactRating,BlockStaminaDmgMod,BlockAbsorptionModifier,StunBreakoutIncrement,HitRuneCharge,HitBlockedRuneCharge
+Damned_2H_Ranged_Bow,Bow,0,0,true,Bullet,Light,Thrust,,,,Deflect_Default,false,0.35,1,1,0,1,0,10,5,10,0,0,0,0.8,0,0.5,0,0.8,0,0,0,0.8,0,0,0,Small,0,0.1,1,0,0.1625,0.325
+Damned_2H_Ranged_Bow_Heavy,Bow,0,0,true,Bullet,Light,Thrust,,,,Deflect_Default,false,0.5,1,1,0,1,0,10,5,10,0,1.5,0,0.8,0,2.5,0,0.8,0,0,0,0.8,0,0,0,Small,0,0.5,1,0,0.1625,0.325
+Explosive_Arrow,Bow,0,0,true,Bullet,Heavy,Thrust,,,,Deflect_Default,false,0.6,1,1,1,1,1,15,10,15,0,1.5,0,0.8,0,4,0,0.8,0,0,0,0.8,0,0,0,Small,0,1,1,1,0.1625,0.325
+Charged_Melee,Bow,0,0,,Bullet,Heavy,Strike,,,,Deflect_Default,false,0.4,1,1,0,0,0,10,5,10,0,2.5,0,0.8,0,2.5,0,0.8,0,0,0,0.8,0,0,0,Small,4,1,1,1,0.1625,0.325
+NaturalOutburst_Melee,Spell,0,0,,Bullet,Heavy,Nature,,,,Deflect_Default,false,1.5,1,1,4,4,4,15,10,15,0,4,0,0.8,0,4,0,0.8,0,0,0,0.8,0,0,0,Small,0,1,1,1,0.1625,0.325
+NaturalOutburst_Ranged,Spell,0,0,,Bullet,Heavy,Nature,,,,Deflect_Default,false,1.5,1,1,4,4,4,15,10,15,0,1.5,0,0.8,0,4,0,0.8,0,0,0,0.8,0,0,0,Small,0,1,1,1,0.1625,0.325
+Vine_Swat_F,Melee,0,0,,Bullet,Heavy,Strike,,,,Deflect_Default,false,0.85,1,1,1,0,0,10,5,10,0,2.5,0,0.8,0,2.5,0,0.8,0,0,0,0.8,0,0,0,Small,4,0.6,1,1,0.1625,0.325
+Vine_Swat_R,Melee,0,0,,Bullet,Heavy,Strike,,,,Deflect_Default,false,0.85,1,1,1,0,0,10,5,10,-1,0,0,0.8,0,2.5,0,0.8,0,0,0,0.8,0,0,0,Small,4,0.6,1,1,0.1625,0.325
+Vine_Swat_L,Melee,0,0,,Bullet,Heavy,Strike,,,,Deflect_Default,false,0.85,1,1,1,0,0,10,5,10,1,0,0,0.8,0,2.5,0,0.8,0,0,0,0.8,0,0,0,Small,4,0.6,1,1,0.1625,0.325
+Effortless_Rain,Spell,0,0,,Bullet,Heavy,Nature,,,,Deflect_Default,false,0.5,1,1,0,0,0,15,10,15,0,0,0,0.8,0,4,0,0.8,0,0,0,0.8,0,0,0,Small,0,0.6,1,1,0.1625,0.325
+ShadowShot_Disease,Bow,0,0,true,Bullet,Light,Thrust,,AI_Disease,,Deflect_Default,false,0.35,1,1,0,1,0,10,5,10,0,0,0,0.8,0,0.5,0,0.8,0,0,0,0.8,0,0,0,Small,0,0.1,1,0,0.1625,0.325
+ShadowShot_Rend,Bow,0,0,true,Bullet,Light,Thrust,,AI_Rend,,Deflect_Default,false,0.35,1,1,0,1,0,10,5,10,0,0,0,0.8,0,0.5,0,0.8,0,0,0,0.8,0,0,0,Small,0,0.1,1,0,0.1625,0.325
+ShadowShot_Poison,Bow,0,0,true,Bullet,Light,Thrust,,AI_Poison_55,,Deflect_Default,false,0.35,1,1,0,1,0,10,5,10,0,0,0,0.8,0,0.5,0,0.8,0,0,0,0.8,0,0,0,Small,0,0.1,1,0,0.1625,0.325
+Deflect_Default,Unarmed,1,0,,,,Deflect,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,Small,0,0.45,1,1,0.1625,0.325
+Fall,Fall,1,1,,Bullet,,Falling,,,,,,1,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Small,0,1,1,1,0.1625,0.325
+Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Small,1,,,1,0.1625,0.325

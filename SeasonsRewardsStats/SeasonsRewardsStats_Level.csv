@@ -1,2 +1,3 @@
 TrackedStatID,StatType,Level,IsPermanent
 ObtainLevel60,ObtainLevel,60,true
+ObtainLevel65,ObtainLevel,65,true

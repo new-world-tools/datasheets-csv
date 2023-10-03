@@ -1,0 +1,5 @@
+RuleId,Category,Hub,Zone,MaxEvents,MinDistance,Disabled,Comments
+TestRule-global,,,,6,,,
+TestRule-1,Test,,,4,,,
+TestRule-2,Test2,,,4,,,
+TestRule-3,Test3,,,,10,,

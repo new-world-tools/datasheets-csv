@@ -1,0 +1,9 @@
+DamageID,WeaponCategory,IgnoreInvulnerable,NoReaction,IsRanged,SurfaceImpactEffect,AttackType,DamageType,Affixes,StatusEffect,EffectOnlyOnDamage,CanCrit,DmgCoef,DmgCoefHead,DmgCoefCrit,PowerLevel,BlockPowerLevel,CritPowerLevel,HitStun,BlockHitStun,CritHitStun,ImpactDistanceX,ImpactDistanceY,ImpactDistanceZ,ImpactDecayRate,BlockImpactDistanceX,BlockImpactDistanceY,BlockImpactDistanceZ,BlockImpactDecayRate,CritImpactDistanceX,CritImpactDistanceY,CritImpactDistanceZ,CritImpactDecayRate,AddDmg,StaggerDmgModifier,CritStaggerDmgModifier,StaggerResistModifier,StaminaDmg,ImpactRating,BlockStaminaDmgMod,BlockAbsorptionModifier,TargetCameraShakeID,CritTargetCameraShakeID,StunBreakoutIncrement,HitRuneCharge,HitBlockedRuneCharge
+Swipe,Unarmed,0,0,,Bullet,Light,Slash,,,,false,0.3,1,1,0,0,0,10,10,10,0,0.75,0,0.8,0,0,0,0.8,0,0.75,0,0.8,0,0.2,,0,0,1,0.15,1,,,0,0.1625,0.325
+Feather_Shot,HercyneCorvid_Feather,0,0,true,Bullet,Light,Thrust,,,,false,0.3,1,1,0,0,0,10,10,10,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0.15,,0,0,1,0.15,1,,,0,0.1625,0.325
+Mist_Winds,Unarmed,0,0,,Bullet,Heavy,Nature,,,,false,0.1,1,1,0,0,0,25,20,25,0,5,0,0.9,0,0,0,0.8,0,5,0,0.8,0,0.4,,1,0,1,0,1,,,1,0.1625,0.325
+"Feather_Rain(DONOTUSE,STATUSEFFECTDAMAGE)",Unarmed,0,0,true,Bullet,Light,Thrust,,,,false,1,1,1,0,0,0,10,10,10,0,1.5,0,0.8,0,0,0,0.8,0,1.5,0,0.8,0,0,,1,0,1,0.1,1,,,1,0.1625,0.325
+Dive_Bomb,Unarmed,0,0,,Bullet,Heavy,Thrust,,,,false,0.9,1,1,4,4,4,40,30,40,0,2,0,0.8,0,0,0,0.8,0,2,0,0.8,0,0,,1,0,1,0.9,1,,,1,0.1625,0.325
+Root_Spikes,Unarmed,0,0,,Bullet,Magic,Thrust,AI_NatureDMG_50,AI_Hercyne_Bleed,TRUE,false,0.1,1,1,4,4,4,40,30,40,0,2,0,0.8,0,0,0,0.8,0,2,0,0.8,0,0,,1,0,1,0.9,1,,,1,0.1625,0.325
+Reaction_Breakout_Attack,Unarmed,0,0,,Bullet,Magic,Arcane,,,,false,0.7,1,1,3,3,3,35,30,35,0,1.5,0,0.8,0,1,0,0.8,0,1.5,0,0.8,0,0.7,,10,0,1,0.7,1,,,1,0.1625,0.325
+Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,false,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,,0,0,1,1,,,,1,0.1625,0.325

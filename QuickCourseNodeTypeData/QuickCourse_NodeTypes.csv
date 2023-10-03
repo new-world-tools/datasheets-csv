@@ -1,0 +1,17 @@
+TimedRaceNodeTypeId,DetectionRadius,UseTimeOverride,AddTimeSeconds,VisualSlicePath,SFX
+Start,5,,35,slices/QuickCourses/QuickCourse_Start.dynamicslice,Play_UI_AcceptObjective
+Finish,5,,0,slices/QuickCourses/QuickCourse_Finish.dynamicslice,
+Checkpoint10,5,,10,slices/QuickCourses/QuickCourse_Checkpoint.dynamicslice,Play_UI_AcceptObjective
+Checkpoint15,5,,15,slices/QuickCourses/QuickCourse_Checkpoint.dynamicslice,Play_UI_AcceptObjective
+Checkpoint20,5,,20,slices/QuickCourses/QuickCourse_Checkpoint.dynamicslice,Play_UI_AcceptObjective
+Checkpoint25,5,,25,slices/QuickCourses/QuickCourse_Checkpoint.dynamicslice,Play_UI_AcceptObjective
+Checkpoint30,5,,30,slices/QuickCourses/QuickCourse_Checkpoint.dynamicslice,Play_UI_AcceptObjective
+Checkpoint35,5,,35,slices/QuickCourses/QuickCourse_Checkpoint.dynamicslice,Play_UI_AcceptObjective
+Checkpoint45,5,,45,slices/QuickCourses/QuickCourse_Checkpoint.dynamicslice,Play_UI_AcceptObjective
+Checkpoint60,5,,60,slices/QuickCourses/QuickCourse_Checkpoint.dynamicslice,Play_UI_AcceptObjective
+Checkpoint75,5,,75,slices/QuickCourses/QuickCourse_Checkpoint.dynamicslice,Play_UI_AcceptObjective
+Foot_Race_Start,5,true,0,slices/QuickCourses/QuickCourse_Checkpoint.dynamicslice,Play_UI_AcceptObjective
+Foot_Race_Finish,5,true,0,slices/QuickCourses/QuickCourse_Checkpoint.dynamicslice,
+Foot_Race_Checkpoint2,5,true,2,slices/QuickCourses/QuickCourse_Checkpoint.dynamicslice,Play_UI_AcceptObjective
+Foot_Race_Checkpoint5,5,true,5,slices/QuickCourses/QuickCourse_Checkpoint.dynamicslice,Play_UI_AcceptObjective
+Foot_Race_Checkpoint10,5,true,10,slices/QuickCourses/QuickCourse_Checkpoint.dynamicslice,Play_UI_AcceptObjective

@@ -1,5 +1,6 @@
-TrackedStatID,StatType,Target,ItemTier,ItemClass,TradingCategories,TradingFamilies,TradingGroups
+TrackedStatID,StatType,TargetID,ItemTier,ItemClass,TradingCategories,TradingFamilies,TradingGroups
 ConsumeT5Item,Consume,,5,,,,
 ConsumeT5Coating,Consume,,5,WeaponOil,,,
 ConsumeT5TradeskillConsumable,Consume,,5,Consumable,,,CraftingConsumables
 ConsumeT5ResistanceConsumable,Consume,,5,Consumable,,,"PotionElemDefense,PotionWellness,PotionPurifyB"
+ConsumeMountBuff,Consume,"MountConsum_GruelT3,MountConsum_GruelT2,MountConsum_GruelT1,MountConsum_GruelT0",,,,,

@@ -6,7 +6,6 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 0511_Stranger,@0511_Stranger_Title,@0511_Stranger,,0511_00_Stranger,0511_01_Stranger,0511_02_Stranger,0511_03_Stranger,0511_04_Stranger,,,,,,,,,,,,,,,
 0524_Stranger,@0524_Stranger_Title,@0524_Stranger,,0524_00_Stranger,0524_01_Stranger,0524_02_Stranger,0524_03_Stranger,0524_04_Stranger,,,,,,,,,,,,,,,
 0507_Commander,@0507_Commander_Title,@0507_Commander,,0507_00_Commander,0507_01pre_Commander,0507_01_Commander,0507_02_Commander,0507_03_Commander,,,,,,,,,,,,,,,
-0508_Alchemist,@0508_Alchemist_Title,@0508_Alchemist,,0508_00_Alchemist,0508_01pre_Alchemist,0508_01_Alchemist,0508_02_Alchemist,0508_03_Alchemist,0508_04pre_Alchemist,0508_04_Alchemist,0508_05pre_Alchemist,0508_05_Alchemist,,,,,,,,,,,
 0509_Adjudicator,@0509_Adjudicator_Title,@0509_Adjudicator,,0509_00_Adjudicator,0509_01pre_Adjudicator,0509_01_Adjudicator,0509_02_Adjudicator,0509_03_Adjudicator,,,,,,,,,,,,,,,
 0510_Barkeep,@0510_Barkeep_Title,@0510_Barkeep,,0510_00_Barkeep,0510_01_Barkeep,,,,,,,,,,,,,,,,,,
 0522_Innkeep,@0522_Innkeep_Title,@0522_Innkeep,,0522_00_Innkeep,,,,,,,,,,,,,,,,,,,
@@ -15,3 +14,4 @@ Reekwater_Dungeon_Scylla_01,@Reekwater_Dungeon_Scylla_Title,@Reekwater_Dungeon_S
 Reekwater_Dungeon_Scylla_02,@Reekwater_Dungeon_Scylla_Title,@Reekwater_Dungeon_Scylla,,Reekwater_Dungeon_Scylla_02,,,,,,,,,,,,,,,,,,,
 Reekwater_Dungeon_Scylla_03,@Reekwater_Dungeon_Scylla_Title,@Reekwater_Dungeon_Scylla,,Reekwater_Dungeon_Scylla_03,,,,,,,,,,,,,,,,,,,
 Reekwater_Dungeon_Scylla_04,@Reekwater_Dungeon_Scylla_Title,@Reekwater_Dungeon_Scylla,,Reekwater_Dungeon_Scylla_04,,,,,,,,,,,,,,,,,,,
+0508_Alchemist,@0508_Alchemist_Title,@0508_Alchemist,,0508_00_Alchemist,0508_01pre_Alchemist,0508_01_Alchemist,0508_02_Alchemist,0508_03_Alchemist,0508_04pre_Alchemist,0508_04_Alchemist,0508_05pre_Alchemist,0508_05_Alchemist,,,,,,,,,,,

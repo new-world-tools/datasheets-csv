@@ -4,7 +4,6 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 0803_Survivalist,@0803_Survivalist_t,@0803_Survivalist,,0803_00_Survivalist,0803_01_Survivalist,0803_02_Survivalist,0803_03_Survivalist,,,,,,,,,,,,,,,,
 0804_Overseer,@0804_Overseer_t,@0804_Overseer,,0804_00_Overseer,0804_01_Overseer,0804_02_Overseer,0804_03_Overseer,,,,,,,,,,,,,,,,
 0805_Artificer,@0805_Artificer_t,@0805_Artificer,,0805_00_Artificer,0805_01_Artificer,0805_02_Artificer,0805_03_Artificer,0805_04_Artificer,,,,,,,,,,,,,,,
-0807_Commander,@0807_Commander_t,@0807_Commander,,0807_00_Commander,0807_01pre_Commander,0807_01_Commander,0807_02_Commander,0807_03_Commander,0807_04pre_Commander,0807_04_Commander,0807_05pre_Commander,0807_05_Commander,,,,,,,,,,,
 0808_Alchemist,@0808_Alchemist_t,@0808_Alchemist,,0808_00_Alchemist,0808_01pre_Alchemist,0808_01_Alchemist,0808_02_Alchemist,0808_03_Alchemist,,,,,,,,,,,,,,,
 0809_Adjudicator,@0809_Adjudicator_t,@0809_Adjudicator,,0809_00_Adjudicator,0809_01pre_Adjudicator,0809_01_Adjudicator,0809_02_Adjudicator,0809_03_Adjudicator,,,,,,,,,,,,,,,
 0810_Barkeep,@0810_Barkeep_t,@0810_Barkeep,,0810_00_Barkeep,0810_01_Barkeep,0810_02_Barkeep,,,,,,,,,,,,,,,,,
@@ -15,3 +14,4 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 0831_TangZhi_Final,@0831_TangZhi_title,@0831_TangZhi,,0831_00_TangZhi,0831_05a_TangZhi,0831_06_TangZhi,,,,,,,,,,,,,,,,,
 0832_Alvaro_Start,@0832_Alvaro_title,@0832_Alvaro,,0832_00_Alvaro,0832_01a_Alvaro,0832_02_Alvaro,0832_02a_Alvaro,0832_03a_Alvaro,0832_04_Alvaro,0832_04a_Alvaro,0832_05a_Alvaro,,,,,,,,,,,,
 0832_Alvaro_Final,@0832_Alvaro_title,@0832_Alvaro,,0832_00_Alvaro,0832_05a_Alvaro,0832_06_Alvaro,,,,,,,,,,,,,,,,,
+0807_Commander,@0807_Commander_t,@0807_Commander,,0807_00_Commander,0807_01pre_Commander,0807_01_Commander,0807_02_Commander,0807_03_Commander,,,,,,,,,,,,,,,

@@ -7,4 +7,4 @@ Damned_2H_GreatAxe_Melee_Strike,Axe,0,0,,Bullet,Light,Strike,,,,,,,Deflect_Defau
 Fall,Fall,1,1,,Bullet,,Falling,,,,,,,,false,1,0,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,Small,Small,Small,0,1,1,1,0.1625,0.325
 Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,,,,,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,Small,Small,Small,1,,,0,0.1625,0.325
 Dig_Strike,Axe,0,0,,Bullet,Light,Strike,,,,,,,Deflect_Default,false,0.3,1,1,0,1,0,10,10,10,0,0.7,0,0.8,0,0,0,0.8,0,0.7,0,0.8,0,0.2,,0,Small,Small,Small,3,0.2,1,0,0.1625,0.325
-Dig_AOE,Axe,0,0,,Bullet,Light,Strike,,,,,,,Deflect_Default,false,0.4,1,1,0,1,0,10,10,10,0,0.7,0,0.8,0,0,0,0.8,0,0.7,0,0.8,0,0.2,,0,Small,Small,Small,3,0.2,1,0,0.1625,0.325
+Dig_AOE,Axe,0,0,,Bullet,Light,Strike,,,,,,,Deflect_Default,false,0.6,1,1,0,1,0,10,10,10,0,0.7,0,0.8,0,0,0,0.8,0,0.7,0,0.8,0,0.2,,0,Small,Small,Small,3,0.2,1,0,0.1625,0.325

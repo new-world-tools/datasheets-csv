@@ -6,5 +6,5 @@ CompleteSongInGroup,CompleteSong,,,true,,
 CompleteSongWithGreatRank,CompleteSong,,,,,Great
 CompleteSongCallOfTheAncientsWithExpertRating,CompleteSong,"AncientEasy,AncientMedium,AncientHard",,,,Amazing
 CompleteSongInGroupWithExpertRating,CompleteSong,,,true,Expert,
-CompleteSongMaudlinWaltz,CompleteSong,Maudlinbug_Waltz,,,,
-CompleteSongYAAAHHHH,CompleteSong,YAAAHHHH,,,,
+CompleteSongMaudlinWaltz,CompleteSong,WaltzEasy,,,,
+CompleteSongYAAAHHHH,CompleteSong,"YAAAHHHHEasy,YAAAHHHHMedium,YAAAHHHHHard",,,,

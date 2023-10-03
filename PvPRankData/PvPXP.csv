@@ -199,4 +199,4 @@ Level,DisplayName,RequiredLevel,MaximumInfluence,InfluenceCost,Stage1XP,Stage2XP
 197,,0,10000,10000,2000,5000,10000,5,PvP_LevelUpItemReward,,,300,300,300
 198,,0,10000,10000,2000,5000,10000,5,,750,,300,300,300
 199,,0,10000,10000,2000,5000,10000,5,PvP_LevelUpItemReward,,,300,300,300
-200,@ui_pvp_rank_name_6,0,10000,10000,2000,5000,10000,6,,750,@ui_pvp_track_bannerrewards_6,300,300,300
+200,@ui_pvp_rank_name_6,0,10000,10000,2000,5000,10000,6,,5000,@ui_pvp_track_bannerrewards_6,300,300,300

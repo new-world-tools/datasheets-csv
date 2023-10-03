@@ -13,6 +13,8 @@ Solo-,0.5,0.5,,2,1,1,,,,,0,swarmer creatures,Flags on vitals
 Solo+,2,1.15,,15,1,1,,,,,0,Silver,Flags on vitals
 Named_Solo,1,1,,5,1,1,,,,,0,Base creature,Flags on vitals
 Named_Solo+,2,1.15,,15,1,1,,,,,0,Sliver,Flags on vitals
+SoloBoss,2,1.15,,15,1,1,,,,,0,Gold with hash marks,Flags on vitals
+Solo_Quest,0,0,,0,0,1,,,,,0,Special Quest creatures,Flags on vitals
 Arena,5,7,,250,4,1,,,,,0,Spriggen Event,Flags on vitals
 DarknessMajor,1.25,1.5,,375,4,1,,,,,15,Quests,Flags on Quests (not hooked up)
 DarknessMinor,0.35,0.25,,250,2,1,,,,,0,Quests,Flags on Quests (not hooked up)
@@ -44,10 +46,11 @@ FactionMissionBonus,2,9,,0,0,1,,4,,,0,Multipler for faction missions,
 ObjectivePOI,15,10,,350,0,1,,,,,0,Pending approval,New POI repeatable objectives
 ObjectivePOI-,12.5,7.5,,275,0,1,,,,,0,Pending approval,New POI repeatable objectives
 ObjectivePOI+,20,12.5,,425,0,1,,,,,0,Pending approval,New POI repeatable objectives
-PvpKill_Low,4,20,,0,0,0.75,200,200,8,8,1,PvP,Flags on Player Kills in PvP
-PvpKill_High,4,20,,0,0,1,200,200,8,8,5,PvP,Flags on Player Kills in PvP
-PvpKill_ExtraHigh,4,20,,0,0,1,200,200,8,8,10,PvP,Flags on Player Kills in PvP
+PvpKill_Low,0,0,,0,0,0,0,0,0.25,0.25,10,PvP,Flags on Player Kills in PvP
+PvpKill_High,4,20,,0,0,0.5,300,350,4,4,50,PvP,Flags on Player Kills in PvP
+PvpKill_ExtraHigh,4,20,,0,0,0.75,400,450,8,8,100,PvP,Flags on Player Kills in PvP
 Player,5,1,,0,0,1,,,,,1,Player Kill,Vitals Gameevent Override
+Ally,5,1,,0,0,1,,,,,1,Player Kill,Vitals Gameevent Override
 Invasion_T1,1,7,,1.25,1,1,1,1.25,0,0,50,Invasion Bad Performance,Invasion Reward
 Invasion_T2,1.125,9,,1.5,1.125,1,1.125,1.5,0,0,50,Invasion OK Performance,Invasion Reward
 Invasion_T3,1.4,11,,1.75,1.4,1,1.4,1.75,0,0,50,Invasion Good Performance,Invasion Reward

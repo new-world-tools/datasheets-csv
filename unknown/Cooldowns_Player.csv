@@ -85,3 +85,9 @@ ID,AbilityID,Time,WeaponTag
 84,Ability_Greatsword_Counter,20,Greatsword
 85,Ability_Greatsword_DrainAttack,18,Greatsword
 86,Ability_Greatsword_Burst,20,Greatsword
+87,Ability_Flail_Slam,18,Flail
+88,Ability_Flail_Blast,20,Flail
+89,Ability_Flail_Burst,16,Flail
+90,Ability_Flail_Charge,25,Flail
+91,Ability_Flail_Trip,18,Flail
+92,Ability_Flail_DefensiveStrike,22,Flail

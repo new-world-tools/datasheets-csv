@@ -5,3 +5,6 @@ SpendAzoth,CategoricalProgression,Azoth_Currency,Points,true,
 CategoricalProgressionPvPXP,CategoricalProgression,PvP_XP,Points,,"PvpKill,ContributionReward"
 CategoricalProgressionFishingPostCap,CategoricalProgression,Fishing_PostCap,Ranked,,
 CategoricalProgressionPvPXPAnyReason,CategoricalProgression,PvP_XP,Points,,
+CategoricalProgressionRiding,CategoricalProgression,Riding,Ranked,,
+CategoricalProgressionFlail,CategoricalProgression,FlailAbilityTable,Ranked,,
+CategoricalProgressionAnyTradeskill,CategoricalProgression,"Weaponsmithing,Armoring,Jewelcrafting,Arcana,Cooking,Furnishing,Engineering,Smelting,Woodworking,Leatherworking,Weaving,Stonecutting,Skinning,Mining,Logging,Harvesting,Musician,Riding",Ranked,,

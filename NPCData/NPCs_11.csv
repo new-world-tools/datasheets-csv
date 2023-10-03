@@ -6,7 +6,6 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 1110_Barkeep,@1110_Barkeep_Title,@1110_Barkeep,,1110_01_Barkeep,1110_02_Barkeep,1110_03_Barkeep,,,,,,,,,,,,,,,,,
 1111_Stranger,@1111_Stranger_Title,@1111_Stranger,,1111_01_Stranger,1111_02_Stranger,1111_03_Stranger,1111_04_Stranger,1111_05_Stranger,1111_06_Stranger,,,,,,,,,,,,,,
 1107_Commander,,@1107_Commander,,1107_00_Commander,1107_01pre_Commander,1107_01_Commander,1107_02_Commander,1107_03_Commander,1107_03_Commander,,,,,,,,,,,,,,
-1108_Alchemist,,@1108_Alchemist,,1108_00_Alchemist,1108_01pre_Alchemist,1108_01_Alchemist,1108_02_Alchemist,1108_03_Alchemist,1108_04pre_Alchemist,1108_04_Alchemist,1108_05pre_Alchemist,1108_05_Alchemist,,,,,,,,,,,
 1109_Adjudicator,,@1109_Adjudicator,,1109_00_Adjudicator,1109_01_Adjudicator,1109_02_Adjudicator,1109_03_Adjudicator,,,,,,,,,,,,,,,,
 1122_Innkeep,@1122_Innkeep_Title,@1122_Innkeep,,1122_00_Innkeep,1122_01_Innkeep,1122_02_Innkeep,,,,,,,,,,,,,,,,,
 1123_Fisher,@1123_Fisher_Title,@1123_Fisher,,1123_01_BLANK,1123_02_BLANK,1123_03_BLANK,,,,,,,,,,,,,,,,,
@@ -23,3 +22,4 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 1129_Jaansen2,@1129_Jaansen2_Title,@1129_Jaansen,,1129_Jaansen2_Default,1129_Jaansen2_2,1129_Jaansen2_3,,,,,,,,,,,,,,,,,
 1129_Sculpture,,@1129_Sculpture,@1129_Override,1129_Sculpture_Default,1129_Sculpture_1,,,,,,,,,,,,,,,,,,
 1129_Jaansen_note,,@1129_Jaansen_note,@1124_Override,1129_Jaansen_note_Default,1129_Jaansen_note_1,,,,,,,,,,,,,,,,,,
+1108_Alchemist,,@1108_Alchemist,,1108_00_Alchemist,1108_01pre_Alchemist,1108_01_Alchemist,1108_02_Alchemist,1108_03_Alchemist,,,,,,,,,,,,,,,

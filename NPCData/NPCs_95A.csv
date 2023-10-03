@@ -33,7 +33,7 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 95A_Zander_s02_05,@95A_Zander_t,@95A_Zander,,95A_Zander_00,95A_Zander_01,95A_Zander_02,95A_Zander_03,95A_Zander_04,95A_Zander_05,95A_Zander_06,95A_Zander_07,95A_Zander_08,95A_Zander_09,95A_Zander_10,95A_Zander_11,95A_Zander_12,95A_Zander_13,95A_Zander_14,95A_Zander_15,95A_Zander_16,,,
 95A_Zander_s02_06,@95A_Zander_t,@95A_Zander,,95A_Zander_00,95A_Zander_01,95A_Zander_02,95A_Zander_03,95A_Zander_04,95A_Zander_05,95A_Zander_06,95A_Zander_07,95A_Zander_08,95A_Zander_09,95A_Zander_10,95A_Zander_11,95A_Zander_12,95A_Zander_13,95A_Zander_14,95A_Zander_15,95A_Zander_16,,,
 95A_Zander_s02_07,@95A_Zander_t,@95A_Zander,,95A_Zander_00,95A_Zander_01,95A_Zander_02,95A_Zander_03,95A_Zander_04,95A_Zander_05,95A_Zander_06,95A_Zander_07,95A_Zander_08,95A_Zander_09,95A_Zander_10,95A_Zander_11,95A_Zander_12,95A_Zander_13,95A_Zander_14,95A_Zander_15,95A_Zander_16,,,
-9503_Dog_s01_03,@9503_Dog_t2,@9503_Dog,,9503_Dog_s01_c02,,,,,,,,,,,,,,,,,,,
+9503_Dog_s01_03,@9503_Dog_t2,@9503_Dog,,9503_Dog_s01_c02,95A_Dog_04,,,,,,,,,,,,,,,,,,
 95A_Dog_s02_01,@95A_Dog_t,@95A_Dog,,95A_Dog_00,95A_Dog_01,95A_Dog_02,95A_Dog_03,95A_Dog_04,95A_Dog_05,,,,,,,,,,,,,,
 95A_Dog_s02_02,@95A_Dog_t,@95A_Dog,,95A_Dog_00,95A_Dog_01,95A_Dog_02,95A_Dog_03,95A_Dog_04,95A_Dog_05,,,,,,,,,,,,,,
 95A_Dog_s02_03,@95A_Dog_t,@95A_Dog,,95A_Dog_00,95A_Dog_01,95A_Dog_02,95A_Dog_03,95A_Dog_04,95A_Dog_05,,,,,,,,,,,,,,

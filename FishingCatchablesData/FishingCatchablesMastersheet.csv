@@ -122,3 +122,4 @@ FishingTreasureGoodProvisionT3,None,28-30,40,200,0.05,1.2,Lazy,true,Objects\Craf
 FishingTreasurePigmentT3,None,28-30,40,200,0.05,1.2,Lazy,true,Objects\Crafting\Props\catchables\Fishing_Kit07\Jav_Prp_ChestFishing.cdf,0.85,
 FishingTreasureMoteT3,None,28-30,40,200,0.05,1.2,Lazy,true,Objects\Crafting\Props\catchables\Fishing_Kit07\Jav_Prp_ChestFishing.cdf,0.85,
 FishingTreasureGearT3,None,28-30,40,200,0.05,1.2,Lazy,true,Objects\Crafting\Props\catchables\Fishing_Kit07\Jav_Prp_ChestFishing.cdf,0.85,
+FishingPrismaticT52,None,65,80,750,0.3,1.4,"EarlyAggressive,TotalAggressive",true,Objects\Crafting\Props\FoodStuffs\Fish\VeryRareFish_B1\Jav_Prp_VeryRareFish_B2.cdf,1.2,

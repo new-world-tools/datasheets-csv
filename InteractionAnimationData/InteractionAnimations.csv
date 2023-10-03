@@ -24,3 +24,4 @@ HousingItemStandingInteract,Interact_HousingCannon,Interact_Start,Interact_End,S
 HousingItemStirPot,Interact_Cauldron,Interact_Start,Interact_End,LOOPING - Player Stirs a Pot
 QuestAnim_AzothStaff_Create,Interact_AzothStaff_Create,Interact_Start,Interact_End,Single - Player forges the Azoth Staff (MSQ)
 QuestAnim_MSQ_TheRitual,Interact_MSQ_TheRitual,Interact_Start,Interact_End,Single - Player Implants their own heartgem (MSQ)
+GimmickInteractHorn,Interact_Horn,Interact_Start,Interact_End,Single - Player uses a War Horn
