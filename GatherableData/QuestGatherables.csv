@@ -124,7 +124,7 @@ GatherableID,DisplayName,GatheringAction,GatheringType,GatheringFragment,FinalLo
 09A_S6_MigrationEvidence3,@09A_S6_MigrationEvidence3_DisplayName,None,None,,Empty,,86400,86400,None,,,1,false,NoToolNecessary,false,09A_S6_MigrationEvidence3_Interact,,,,,true,true,,,,,,,,,,,,,,,,
 09A_S6_MigrationEvidence4,@09A_S6_MigrationEvidence4_DisplayName,None,None,,Empty,,86400,86400,None,,,1,false,NoToolNecessary,false,09A_S6_MigrationEvidence4_Interact,,,,,true,true,,,,,,,,,,,,,,,,
 09A_S6_MigrationEvidence5,@09A_S6_MigrationEvidence5_DisplayName,None,None,,Empty,,86400,86400,None,,,1,false,NoToolNecessary,false,09A_S6_MigrationEvidence5_Interact,,,,,true,true,,,,,,,,,,,,,,,,
-09A_S6_MEInteractable,@09A_S6_MEInteractable_DisplayName,None,None,,Empty,,86400,86400,None,,,1,false,NoToolNecessary,false,09A_S6_MEInteractable_Interact,,,,,true,false,,,,,,,,,,,,,,,,
+09A_S6_MEInteractable,@09A_S6_MEInteractable_DisplayName,None,None,,Empty,,86400,86400,None,,,1,false,NoToolNecessary,false,09A_S6_MEInteractable_Interact,,,,,true,true,,,,,,,,,,,,,,,,
 09A_S7_Journal,@09A_S7_Journal_DisplayName,Handcrafting,None,,Empty,,86400,86400,None,,,1,false,NoToolNecessary,false,09A_S7_Journal_Interact,,,,,true,true,,,,,,,,,,,,,,,,
 09A_S7_Sarcophagus,@09A_S7_Sarcophagus_DisplayName,Handcrafting,None,,Empty,,86400,86400,None,,,1,false,NoToolNecessary,false,09A_S7_Sarcophagus_Interact,,,,,true,false,,,,,,,,,,,,,,,,
 Cyclic_09A_S7_CL1,@Cyclic_09A_S7_CL1_DisplayName,Handcrafting,None,,Empty,,30,60,None,,,0.5,false,NoToolNecessary,false,Cyclic_09A_S7_CL1_Interact,,,,,true,true,,,,,,,,,,,,,,,,

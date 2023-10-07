@@ -689,7 +689,7 @@ TEMP_SwapActive_Morgaine_LC_Off,TaskLockAchievement,,,,SwapActive_09A_Morgaine_L
 09A_S5_KillProwler,TaskKillContribution,,,1,,,,,,,,,,,,,,,,,,,Dryad_Prowler_63,,,,,,,,,,,,,,,,,,,,@09A_S5_KillProwler,,,,,,,,,,,,,,,,,,,
 09A_S5_KillSoldier,TaskKillContribution,,,1,,,,,,,,,,,,,,,,,,,Dryad_Soldier_63,,,,,,,,,,,,,,,,,,,,@09A_S5_KillSoldier,,,,,,,,,,,,,,,,,,,
 09A_S5_SwapActive_James_RR_On,TaskUnlockAchievement,,,1,SwapActive_09A_James_RR_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
-09A_S6_Container_Main,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09A_S6_Container_UnlockVisuals,09A_S6_Container01,09A_S6_Container02,09A_S6_Container03,09A_S6_LockVisuals
+09A_S6_Container_Main,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09A_S6_Container_UnlockVisuals,09A_S6_Container01,09A_S6_Container02,,
 09A_S6_Container_UnlockVisuals,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_S6_UnlockVisuals,,,,
 09A_S6_Fionn_WalkIn_Reset,TaskUnlockAchievement,,,,SwapActive_09A_Fionn_M6_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_S6_UnlockVisuals,TaskUnlockAchievement,,,,09A_S6_ME_TurnOn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
@@ -700,7 +700,7 @@ TEMP_SwapActive_Morgaine_LC_Off,TaskLockAchievement,,,,SwapActive_09A_Morgaine_L
 09A_S6_MigrationEvidence4,TaskGameEvent,,,1,,,,,,,,,,,,,,,,IO_09A_S6_MigrationEvidence4,,,09A_S6_MigrationEvidence4_Interact,,,,,,,,,,,,,,,,,,,,@09A_S6_MigrationEvidence4,,9369.2725 175.2836 40.495,,,true,,,,,,,,,,,,,,
 09A_S6_MigrationEvidence5,TaskGameEvent,,,1,,,,,,,,,,,,,,,,IO_09A_S6_MigrationEvidence5,,,09A_S6_MigrationEvidence5_Interact,,,,,,,,,,,,,,,,,,,,@09A_S6_MigrationEvidence5,,9491.1611 205.703 40.7583,,,true,,,,,,,,,,,,,,
 09A_S6_Container02,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@09A_S6_Container02,,,,,,,,,,,,,,,09A_S6_MEInteractable,,,,
-09A_S6_MEInteractable,TasKGameEvent,,,1,,,,,,,,,,,,,,,,IO_09A_S6_MEInteractable,,,09A_S6_MEInteractable_Interact,,,,,,,,,,,,,,,,,,,,@09A_S6_MEInteractable,,9556.8135 258.4576 40.8097,,,true,,,,,,,,,,,,,,
+09A_S6_MEInteractable,TasKGameEvent,,,1,,,,,,,,,,,,,,,,IO_09A_S6_MEInteractable,,,09A_S6_MEInteractable_Interact,,,,,,,,,,,,,,,,,,,,@09A_S6_MEInteractable,,9536.8867 229.5916 40.3283,,,true,,,,,,,,,,,,,,
 09A_S6_Container03,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@09A_S6_Container03,,,,,,,,,,,,,,,09A_S6_EncTimer,09A_S6_SwapFionn,,,
 09A_S6_EncTimer,TaskTimer,,,,,,,,,,,,,,,,,,,,,,,,10,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_S6_LockVisuals,TaskLockAchievement,,,,09A_S6_ME_TurnOn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,

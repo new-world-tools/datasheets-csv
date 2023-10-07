@@ -28,7 +28,7 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 09a_Oakes_WC,@09a_Oakes_title,@09a_Oakes,,09a_Oakes_WC_Default,,,,,,,,,,,,,,,,,,,
 09a_Morgaine_EG,@09a_Morgaine_title,@09a_Morgaine,,09a_Morgaine_EG_Default,09a_Morgaine_EG_01,09a_Morgaine_EG_02,,,,,,,,,,,,,,,,,
 09a_Morgaine_SM,@09a_Morgaine_title,@09a_Morgaine,,09a_Morgaine_SM_Default,09a_Morgaine_SM_01,09a_Morgaine_SM_02,,,,,,,,,,,,,,,,,
-09a_Morgaine_RW,@09a_Morgaine_title,@09a_Morgaine,,09a_Morgaine_RW_Default,09a_Morgaine_RW_01,09a_Morgaine_RW_02,09a_Morgaine_RW_Syn_Default,09a_Morgaine_RW_Mar_Default,,,,,,,,,,,,,,,
+09a_Morgaine_RW,@09a_Morgaine_title,@09a_Morgaine,,09a_Morgaine_RW_Default,09a_Morgaine_RW_01,09a_Morgaine_RW_Syn_Default,09a_Morgaine_RW_Mar_Default,09a_Morgaine_RW_02,,,,,,,,,,,,,,,
 09a_Morgaine_WC,@09a_Morgaine_title,@09a_Morgaine,,09a_Morgaine_WC_Default,09a_Morgaine_WC_EG_01,09a_Morgaine_WC_SM_01,09a_Morgaine_WC_RW_01,09a_Morgaine_WC_02,09a_Morgaine_WC_M2_TalkTo,09a_Morgaine_WC_03,09a_Morgaine_WC_M12_Delivery,,,,,,,,,,,,
 09a_Morgaine_SE,@09a_Morgaine_title,@09a_Morgaine,,09a_Morgaine_WC_Default,09a_Morgaine_SE_TalkTo,09A_Morgaine_SE_M14_Delivery,,,,,,,,,,,,,,,,,
 09a_Morgaine_LC,@09a_Morgaine_title,@09a_Morgaine,,09a_Morgaine_LC_Default,09A_Morgaine_LC_TalkTo,09a_Morgaine_LC_01,,,,,,,,,,,,,,,,,
