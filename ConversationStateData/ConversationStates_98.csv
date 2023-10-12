@@ -152,7 +152,7 @@ ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,ForceConvers
 1007_06_Commander,Linear_Objective,false,@1007_06_Commander_DefaultDialogue_V2,,Marauder,,Marauder 1 11000,,marauders_faction_quest_01,,,98_M_01b_fenravager,,,,,,,,,,,,,,,,,,,,,,
 1007_07_Commander,Linear_Objective,false,@1007_07_Commander_DefaultDialogue_V2,,Marauder,,,,marauders_faction_quest_01b,,,,,,,,,,,,,,,,,,,,,,,,,
 1007_08_Commander,Linear_Objective,false,@1007_08_Commander_DefaultDialogue_V2,,Marauder,,,,marauders_faction_quest_02,,,,,,,,,,,,,,,,,,,,,,,,,
-9805_Tibbs_98_Q01_TalkTo,Linear_Objective,false,@98_M_01_9805_Tibbs_00_TalkTo_V2,,Marauder,,,,FactionIntro_Marauders_Recruitment,98_M_01_combatprowess,98_M_01_d_01_TalkToTibbs_V2,,,,,,,,,,,,,,,,,,,,,,,
+9805_Tibbs_98_Q01_TalkTo,Linear_Objective,false,@98_M_01_9805_Tibbs_00_TalkTo_V2,,Marauder,,,,,98_M_01_combatprowess,98_M_01_d_01_TalkToTibbs_V2,,,,,,,,,,,,,,,,,,,,,,,
 9805_Tibbs_98_Q01_PostQuest,Linear_Objective,false,@9805_Tibbs_04_Post_FactionQuest1,,Marauder,,,,marauders_faction_quest_01,,,,,,,,,,,,,,,,,,,,,,,,,
 9805_Tibbs_98_Q02_TalkTo,Linear_Objective,false,@98_M_01b_9805_Tibbs_00_TalkTo_V2,,Marauder,,,,marauders_faction_quest_01,98_M_01b_fenravager,98_M_01b_d_05_TalkToTibbs_V2,,,,,,,,,,,,,,,,,,,,,,,
 9805_Tibbs_98_Q02_PostQuest,Linear_Objective,false,@9805_Tibbs_05_Post_FactionQuest2,,Marauder,,,,marauders_faction_quest_01b,,,,,,,,,,,,,,,,,,,,,,,,,
