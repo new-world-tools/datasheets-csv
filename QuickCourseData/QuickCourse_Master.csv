@@ -47,9 +47,9 @@ WF_Tour_8,WF_Tour_2,true,,290,0.75,MNT_Race_Tour_Weavers_Fen,Smuggler's Way Tour
 WF_Tour_9,WF_Tour_3,true,,240,0.75,MNT_Race_Tour_Weavers_Fen,Flood and Folly Tour III
 EW_Rally_1,,true,,,,MNT_Race_Rally_Elysian_Wilds,Emerald Run Rally
 EW_Rally_2,,true,,15,,MNT_Race_Rally_Elysian_Wilds,Hanging Gardens Rally
-EW_Tour_1,,true,,470,,MNT_Race_Tour_Elysian_Wilds,Warrior's Resprise
+EW_Tour_1,,true,,440,,MNT_Race_Tour_Elysian_Wilds,Warrior's Resprise
 EW_Tour_2,,true,,1300,,MNT_Race_Tour_Elysian_Wilds,Island Tour
-EW_Tour_3,,true,,1150,,MNT_Race_Tour_Elysian_Wilds,Sands and Storms Tour
+EW_Tour_3,,true,,570,,MNT_Race_Tour_Elysian_Wilds,Sands and Storms Tour
 BS_Rally_3,BS_Rally_1,true,,,0.85,MNT_Race_Rally_BrimstoneSands,Rally of the Gods II
 BS_Rally_4,BS_Rally_2,true,,,0.85,MNT_Race_Rally_BrimstoneSands,Skysong Rally II
 BS_Tour_4,BS_Tour_1,true,,500,0.85,MNT_Race_Tour_BrimstoneSands,Pilgrim's Tour II

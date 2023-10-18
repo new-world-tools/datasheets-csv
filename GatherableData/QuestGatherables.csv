@@ -117,7 +117,7 @@ GatherableID,DisplayName,GatheringAction,GatheringType,GatheringFragment,FinalLo
 09A_S5_AbandonedList,@09A_S5_AbandonedList_DisplayName,Handcrafting,None,,Empty,,86400,86400,None,,,1,false,NoToolNecessary,false,09A_S5_AbandonedList_Interact,,,,,true,false,,,,,,,,,,,,,,,,
 09A_S5_DepletedMedicalSupplies,@09A_S5_DepletedMedicalSupplies_DisplayName,Handcrafting,None,,Empty,,86400,86400,None,,,1,false,NoToolNecessary,false,09A_S5_DepletedMedicalSupplies_Interact,,,,,true,true,,,,,,,,,,,,,,,,
 09A_S5_BrokenArms,@09A_S5_BrokenArms_DisplayName,Handcrafting,None,,Empty,,86400,86400,None,,,1,false,NoToolNecessary,false,09A_S5_BrokenArms_Interact,,,,,true,true,,,,,,,,,,,,,,,,
-09A_S5_CaveFightProx,@09A_S5_CaveFightProx_DisplayName,None,None,,Empty,,86400,86400,None,,,1,false,NoToolNecessary,false,09A_S5_CaveFightProx_Interact,,,,,true,true,,,,,,false,,,,,,,,,,
+09A_S5_CaveFightProx,@09A_S5_CaveFightProx_DisplayName,None,None,,Empty,,60,60,None,,,1,false,NoToolNecessary,false,09A_S5_CaveFightProx_Interact,,,,,true,true,,,,,,false,,,,,,,,,,
 09A_S5_CaveFight,@09A_S5_CaveFight_DisplayName,None,None,,Empty,,86400,86400,None,,,1,false,NoToolNecessary,false,09A_S5_CaveFight_Interact,,,,,true,true,,,,,,,,,,,,,,,,
 09A_S6_MigrationEvidence,@09A_S6_MigrationEvidence_DisplayName,None,None,,Empty,,86400,86400,None,,,1,false,NoToolNecessary,false,09A_S6_MigrationEvidence_Interact,,,,,true,true,,,,,,,,,,,,,,,,
 09A_S6_MigrationEvidence2,@09A_S6_MigrationEvidence2_DisplayName,None,None,,Empty,,86400,86400,None,,,1,false,NoToolNecessary,false,09A_S6_MigrationEvidence2_Interact,,,,,true,true,,,,,,,,,,,,,,,,

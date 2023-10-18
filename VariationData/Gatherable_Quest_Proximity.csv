@@ -114,7 +114,7 @@ MSQ_Chapter_Banner_1_Proximity,,,,,GameEvent_Proximity,15,15,15,,,,,,,,,,,,,,IO_
 09A_S3_GorillaBloodTrailG,,,,slices\WorldEvents\FirstLight\Interact\GorillaBloodTrail\Object_09A_S3_GorillaBloodTrailA_Healthy.dynamicslice,09A_S3_GorillaBloodTrailG,10,10,0,,,,cFX_Loot.Loot_Quest_Small,,,,cFX_Loot.Loot_Quest_Small_Depleted,,,,,,IO_09A_S3_GorillaBloodTrailG,true,,,5,
 09A_S4_LureSwarm,,,,,09A_S4_LureSwarm,0.1,5,0.1,,,,cFX_Loot.Loot_Quest_Medium,,,,cFX_Loot.Loot_Quest_Medium_Depleted,,,,,,IO_09A_S4_LureSwarm,true,,,2.5,
 09A_S4_LureSwarmPin,,,,,09A_S4_LureSwarmPin,0.1,5,0.1,,,,cFX_Loot.Loot_Quest_Medium,,,,cFX_Loot.Loot_Quest_Medium_Depleted,,,,,,IO_09A_S4_LureSwarmPin,true,,,3.5,
-09A_S5_CaveFightProx,,,,,09A_S5_CaveFightProx,5,5,0,,,,,,,,,,,,,,IO_09A_S5_CaveFightProx,false,,,4.5,
+09A_S5_CaveFightProx,,,,,09A_S5_CaveFightProx,5,5,0,,,,,,,,,,,,,,IO_09A_S5_CaveFightProx,true,,,4.5,
 09A_S6_MigrationEvidence,,,,slices/WorldEvents/FirstLight/Interact/MigrationEvidence/Object_09A_MigrationEvidence_Visual_BaseMesh.dynamicslice,09A_S6_MigrationEvidence,0.1,2,0,,,,cFX_Loot.Loot_Quest_Medium,,,,cFX_Loot.Loot_Quest_Medium_Depleted,,,,,,IO_09A_S6_MigrationEvidence,true,,,2.5,
 09A_S6_MigrationEvidence2,,,,,09A_S6_MigrationEvidence2,0.1,2,0,,,,cFX_Loot.Loot_Quest_Medium,,,,cFX_Loot.Loot_Quest_Medium_Depleted,,,,,,IO_09A_S6_MigrationEvidence2,true,,,2.5,
 09A_S6_MigrationEvidence3,,,,slices/WorldEvents/FirstLight/Interact/MigrationEvidence/Object_09A_MigrationEvidence_Visual_BaseMesh.dynamicslice,09A_S6_MigrationEvidence3,0.1,2,0,,,,cFX_Loot.Loot_Quest_Medium,,,,cFX_Loot.Loot_Quest_Medium_Depleted,,,,,,IO_09A_S6_MigrationEvidence3,true,,,2.5,

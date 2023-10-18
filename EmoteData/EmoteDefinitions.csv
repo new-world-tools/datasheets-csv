@@ -142,7 +142,7 @@ Emote_FireSpinDance,Emote_FireSpinDance,ui_Emote_FireSpinDance_name,ui_Emote_Fir
 Emote_SuperHyped,Emote_SuperHyped,ui_Emote_SuperHyped_name,ui_Emote_SuperHyped_description,Other,@Emote_SuperHyped,hype,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_SuperHyped.dds,,,,
 Emote_Tremble,Emote_JumpScare,ui_Emote_Tremble_name,ui_Emote_Tremble_description,Other,@Emote_Tremble,tremble,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Nightveil2023_Tremble.dds,,,,NightveilHallow_2023
 Emote_Walk_Possessed,Emote_Walk_Evil,ui_Emote_Walk_Possessed_name,ui_Emote_Walk_Possessed_description,Other,@Emote_Walk_Possessed,possessed,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Nightveil2023_EvilWalk.dds,,,,NightveilHallow_2023
-Emote_WitchBroom,Emote_WitchBroom,ui_emote_WitchBroom,ui_emote_WitchBroom_description,Default,@emote_WitchBroom,witchbroom,,1,1,1,1,PremiumEmote_WitchBroom,1,lyshineui/images/icons/emotes/emote_WitchBroom.dds,,,,
+Emote_WitchBroom,Emote_WitchBroom,ui_emote_WitchBroom,ui_emote_WitchBroom_description,Default,@emote_WitchBroom,witchbroom,,1,1,1,1,PremiumEmote_WitchBroom,1,lyshineui/images/icons/emotes/emote_Seance_WitchesBroom.dds,,,,
 Emote_Walk_Trex,Emote_Walk_Trex,ui_Emote_Walk_Trex_name,ui_Emote_Walk_Trex_description,Other,@Emote_Walk_Trex,trex,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Seance_TrexWalk.dds,,,,
 Emote_GravePeaceSign,Emote_GravePeaceSign,ui_Emote_GravePeaceSign_name,ui_Emote_GravePeaceSign_description,Taunt,@Emote_GravePeaceSign,grave,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Seance_GravePeaceSign.dds,,,,
 Emote_YouMeNow,Emote_YouMeNow,ui_Emote_YouMeNow_name,ui_Emote_YouMeNow_description,Other,@Emote_YouMeNow,youmenow,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_YouMeNow.dds,,,,Season_3
