@@ -390,7 +390,7 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 9902_0055_d_01_SliceSwap_MountainRimaEmile_On,TaskUnlockAchievement,,1,1,SwapActive_MountainRimaEmile_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 9902_0055_d_03_GoToPOI_Gristle,TaskTriggerArea,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TriggerVol_MSQ_Gristle,@9902_0055_TravelToGristle,,9760.9902 8838.7919 588.9237,,,,,,,,,,,,,,,,,
 9902_0055_d_04_SliceSwap_VillageTheo_Off,TaskTemporaryUnlockAchievement,,1,1,SwapActive_VillageTheo_OnOff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
-9910_0056_d_00_container_thetempestsheart,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9910_0056_d_01_SliceSwap_MountainRimaEmile_On,9910_0056_d_01_SliceSwap_MountainTheo_On,9910_0056_d_02_GoToPOI_Yseult,9905_0056_d_03_UpdootAzothStaff4,
+9910_0056_d_00_container_thetempestsheart,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9910_0056_d_01_SliceSwap_MountainRimaEmile_On,9910_0056_d_01_SliceSwap_MountainTheo_On,9910_0056_d_02_GoToPOI_Yseult,,
 9910_0056_d_01_SliceSwap_MountainRimaEmile_On,TaskUnlockAchievement,,1,1,SwapActive_MountainRimaEmile_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 9910_0056_d_01_SliceSwap_MountainTheo_On,TaskUnlockAchievement,,,1,SwapActive_MountainTheo_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 9902_0055_d_02_AttainLevel60,TaskHaveLevel,,1,60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@9900_attainlevel60,,,,,,,,,,,,,,,,,,,
