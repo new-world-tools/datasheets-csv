@@ -32,9 +32,9 @@ EF_Tour_8,EF_Tour_2,true,,232,0.75,MNT_Race_Tour_Everfall,Dogma Tour III
 EF_Tour_9,EF_Tour_3,true,,255,0.75,MNT_Race_Tour_Everfall,Ghosts and Groves Tour III
 BS_Rally_1,,true,,,,MNT_Race_Rally_BrimstoneSands,Rally of the Gods
 BS_Rally_2,,true,,,,MNT_Race_Rally_BrimstoneSands,Skysong Rally
-BS_Tour_1,,true,,700,,MNT_Race_Tour_BrimstoneSands,Pilgrim's Tour
-BS_Tour_2,,true,,1040,,MNT_Race_Tour_BrimstoneSands,Four Seasons Tour
-BS_Tour_3,,true,,1170,,MNT_Race_Tour_BrimstoneSands,Barrens and Bogs Tour
+BS_Tour_1,,true,,630,,MNT_Race_Tour_BrimstoneSands,Pilgrim's Tour
+BS_Tour_2,,true,,500,,MNT_Race_Tour_BrimstoneSands,Four Seasons Tour
+BS_Tour_3,,true,,400,,MNT_Race_Tour_BrimstoneSands,Barrens and Bogs Tour
 GC_Rally_3,GC_Rally_1,true,,,0.85,MNT_Race_Rally_Great_Cleave,Temple of Tears Rally II
 GC_Rally_4,GC_Rally_2,true,,,0.85,MNT_Race_Rally_Great_Cleave,Downhill Luge Tour II
 GC_Tour_4,GC_Tour_1,true,,350,0.85,MNT_Race_Tour_Great_Cleave,Wolfsbane Tour II
@@ -48,7 +48,7 @@ WF_Tour_9,WF_Tour_3,true,,240,0.75,MNT_Race_Tour_Weavers_Fen,Flood and Folly Tou
 EW_Rally_1,,true,,,,MNT_Race_Rally_Elysian_Wilds,Emerald Run Rally
 EW_Rally_2,,true,,15,,MNT_Race_Rally_Elysian_Wilds,Hanging Gardens Rally
 EW_Tour_1,,true,,440,,MNT_Race_Tour_Elysian_Wilds,Warrior's Resprise
-EW_Tour_2,,true,,1300,,MNT_Race_Tour_Elysian_Wilds,Island Tour
+EW_Tour_2,,true,,360,,MNT_Race_Tour_Elysian_Wilds,Island Tour
 EW_Tour_3,,true,,570,,MNT_Race_Tour_Elysian_Wilds,Sands and Storms Tour
 BS_Rally_3,BS_Rally_1,true,,,0.85,MNT_Race_Rally_BrimstoneSands,Rally of the Gods II
 BS_Rally_4,BS_Rally_2,true,,,0.85,MNT_Race_Rally_BrimstoneSands,Skysong Rally II

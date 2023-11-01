@@ -107,6 +107,8 @@ TurkeyVulture,@TurkeyVulture_DisplayName,Dressing,Dressing,,,Turkey,,1260,1800,S
 TurkeyVultureEgg,@TurkeyVultureEgg_DisplayName,None,None,,,TurkeyEgg,,1260,1800,None,0,,,0.5,false,NoToolNecessary,true,,,,,,,false,,,,,,,,,,,,,,,,,,,
 Turkey_ChameleonNest,@Turkey_ChameleonNest_DisplayName,None,None,,,Turkey_ChameleonNest,,840,1200,None,0,,,3,false,NoToolNecessary,true,,,,,,,false,,,,,,,,,,,,,,,,,,,
 Turkey_LizardEgg,@Turkey_LizardEgg_DisplayName,None,None,,,Turkey_LizardEgg,,1260,1800,None,0,,,0.5,false,NoToolNecessary,true,,,,,,,false,,,,,,,,,,,,,,,,,,,
+Elk,@Elk_DisplayName,Dressing,Dressing,,,ElkSkinning,,1260,1800,Skinning,0,,,35,false,ToolRequired,true,Gather_SkinningT3,,,,,,false,,,,,,,,,,,,,,,,,,,
+ElkCorrupted,@Elk_DisplayName,Dressing,Dressing,,,ElkCorruptedSkinning,,1260,1800,Skinning,0,,,35,false,ToolRequired,true,Gather_SkinningT3,,,,,,false,,,,,,,,,,,,,,,,,,,
 Elk_Female,@Elk_Female_DisplayName,Dressing,Dressing,,,ElkFemaleSkinning,,1260,1800,Skinning,0,,,25,false,ToolRequired,true,Gather_SkinningT3,,,,,,false,,,,,,,,,,,,,,,,,,,
 Elk_Elemental,@Elk_Elemental_DisplayName,ChoppingVertical,Chopping,,,Elk_Elemental,,1260,1800,Logging,100,,,45,true,ToolRequired,true,Gather_LoggingT6,,,,,,false,,,,,,,,,,,,,,,,,,,
 SpringStagDroppings,@SpringStagDroppings_DisplayName,None,None,,,SpringStagDroppings,,420,600,None,0,,,0.5,false,NoToolNecessary,false,,,,,,,false,,,,,,,,,,,,,,,,,,,

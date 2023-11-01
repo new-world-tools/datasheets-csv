@@ -369,7 +369,7 @@ FM_R0903_leg_C_task,TaskKillContribution,,,,1,,,,,true,,pirate_town_40051,,,true
 FM_R0904_KillAndLoot_container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FM_R0904_tasks_first_container,M_ReturnToGiver,,,
 FM_R0904_tasks_first_container,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,FM_R0904_leg_A_task,FM_R0904_leg_C_task,,,
 FM_R0904_leg_A_task,TaskHaveAndReturnItems,,,,10,FM_loot_item_R0904,Beast,100,,true,,abandoned_village_40043,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@objective_mission_poach_generic_at_POI,,,,,,,,,,,,,,,,,,,
-FM_R0904_leg_C_task,TaskKillContribution,,,,1,,,,,true,,abandoned_village_40043,,,true,,,,,,,,,,FL_Gorilla_Melee_Named_09Fl05,,,,,,,,,,,,,,,,,,,,@objective_mission_kill_generic_at_POI,,,,,,,,,,,,,,,,,,,
+FM_R0904_leg_C_task,TaskKillContribution,,,,1,,,,,true,,abandoned_village_40043,,,true,,,,,,,,,,FL_Gorilla_Ice_Named_09FL05,,,,,,,,,,,,,,,,,,,,@objective_mission_kill_generic_at_POI,,,,,,,,,,,,,,,,,,,
 FM_R0905_KillAndLoot_container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FM_R0905_tasks_first_container,M_ReturnToGiver,,,
 FM_R0905_tasks_first_container,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,FM_R0905_leg_A_task,FM_R0905_leg_C_task,,,
 FM_R0905_leg_A_task,TaskHaveAndReturnItems,,,,5,FM_loot_item_R0905,AngryEarth,100,,true,,ancient_bridge_40053,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@objective_mission_poach_generic_at_POI,,,,,,,,,,,,,,,,,,,
