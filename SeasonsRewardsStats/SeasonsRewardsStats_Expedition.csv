@@ -10,11 +10,6 @@ CompleteM10Expedition_TheEmpyreanForge,CompleteExpedition,DungeonGreatCleave01,,
 CompleteExpedition,CompleteExpedition,,,,,,,
 CompleteM10ExpeditionWithGoldRank,CompleteExpedition,,,10,,,SILVER,
 CompleteMutatedExpeditionFlawlessly,CompleteExpedition,,,1,,,,true
-CompleteSandwormTrial,CompleteExpedition,TrialBrimstoneSandworm,,,,,,
-CompleteSandwormTrialFlawlessly,CompleteExpedition,TrialBrimstoneSandworm,,,,,,true
-CompleteHatcheryTrial,CompleteExpedition,TrialSeason01,,,,,,
-CompleteHatcheryTrialIn10Minutes,CompleteExpedition,TrialSeason01,,,,,,
-CompleteMutatedExpeditionWithSilverRank,CompleteExpedition,,,,,,SILVER,
 CompleteExpedition_TheEnnead,CompleteExpedition,DungeonBrimstoneSands00,,,,,,
 CompleteM1Expedition_TheEnnead,CompleteExpedition,DungeonBrimstoneSands00,,1,,,,
 CompleteM10Expedition_TheEnnead,CompleteExpedition,DungeonBrimstoneSands00,,10,,,,
@@ -24,3 +19,10 @@ CompleteExpeditionM1_FirstLight,CompleteExpedition,DungeonFirstLight01,,1,,,,
 CompleteExpeditionM2_FirstLight,CompleteExpedition,DungeonFirstLight01,,2,,,,
 CompleteExpeditionM3_FirstLight,CompleteExpedition,DungeonFirstLight01,,3,,,,
 CompleteExpeditionM3_FirstLightFlawlessly,CompleteExpedition,DungeonFirstLight01,,3,,,,true
+CompleteHatchery,CompleteExpedition,TrialSeason01,,,,,,
+CompleteM3Expedition,CompleteExpedition,,,3,,,,
+CompleteExpedition_GlacialTarn,CompleteExpedition,DungeonGreatCleave00,,,,,,
+CompleteExpeditionM1_GlacialTarn,CompleteExpedition,DungeonGreatCleave00,,1,,,,
+CompleteExpeditionM2_GlacialTarn,CompleteExpedition,DungeonGreatCleave00,,2,,,,
+CompleteExpeditionM3_GlacialTarn,CompleteExpedition,DungeonGreatCleave00,,3,,,,
+CompleteExpedition_GlacialTarn_Flawless,CompleteExpedition,DungeonGreatCleave00,,,,,,true

@@ -1,7 +1,6 @@
 ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,ForceConversationOpen,RequiredFaction,RequiredProgression,RequiredLevel,RequiredAchievement,RequiredActiveObjectiveId,RequiredActiveTaskId,LinearObjectiveId1,LinearObjectiveId2,LinearObjectiveId3,LinearObjectiveId4,LinearObjectiveId5,LinearObjectiveId6,LinearObjectiveId7,LinearObjectiveId8,LinearObjectiveId9,LinearObjectiveId10,TopicId1,TopicId2,TopicId3,TopicId4,TopicId5,TopicId6,TopicId7,TopicId8,TopicId9,TopicId10,ConversationService1,ConversationService2,ConversationService3
 9401_00_Horse,Linear_Objective,true,@9401_JochiKhan_00_Dialogue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9401_01_Horse,Linear_Objective,false,@9401_JochiKhan_01_Dialogue,,,,25,Expansion_2023_Unlock,,,9401_BefriendHorse,,,,,,,,,,,,,,,,,,,,Expansion_Modal,,
-9401_01c_Horse,Linear_Objective,false,@9401_JochiKhan_01_Dialogue,,,,25,!Expansion_2023_Unlock,,,,,,,,,,,,,,,,,,,,,,,,,
+9401_01_Horse,Linear_Objective,false,@9401_JochiKhan_01_Dialogue,,,,25,Expansion_2023_Unlock,,,9401_BefriendHorse,,,,,,,,,,,,,,,,,,,,,,
 9401_01b_Horse,Linear_Objective,false,@9401_JochiKhan_01b_Dialogue,,,,25,MountType_Unlock_Horse,,,EF_Tour_0,,,,,,,,,,,,,,,,,,,,,,
 9401_02_Horse,Linear_Objective,false,@9401_TutorialFood_00,,,,,EF_Tour_0_Complete && Expansion_2023_Unlock,,,9401_TutorialFood,,,,,,,,,,,,,,,,,,,,,,
 9401_03_Horse,Linear_Objective,false,@9401_JochiKhan_EFCircuit_Default,,,,,9401_TutorialComplete && Expansion_2023_Unlock,,,9401_Races,,,,,,,,,,,,,,,,,,,,Horse_Store,Inn,
@@ -11,7 +10,7 @@ ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,ForceConvers
 9402_00_Conman,Linear_Objective,true,@9402_FranciosDeLaRama_00_Dialogue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9402_01_Conman,Linear_Objective,false,@9402_FranciosDeLaRama_01_Dialogue,,,,25,9401_VectorWF_Complete && Expansion_2023_Unlock,,,9402_Races,,,,,,,,,,,,,,,,,,,,,Inn,
 9402_02_Conman,Linear_Objective,false,@9402_FranciosDeLaRama_01b_Dialogue,,,,,9402_T2_10_Races_Complete && Expansion_2023_Unlock,,,9403_VectorWolves,,,,,,,,,,,,,,,,,,,,,Inn,
-9402_03_Conman,Linear_Objective,false,@9402_FranciosDeLaRama_02_Dialogue,,,,,9403_VectorWolves_Complete,,,,,,,,,,,,,9402_GoTo_Francois_Topic,,,,,,,,,,,Inn,
+9402_03_Conman,Linear_Objective,false,@9402_FranciosDeLaRama_02_Dialogue,,,,,9403_VectorWolves_Complete,,,,,,,,,,,,,9402_Hint,,,,,,,,,,,Inn,
 9403_00_Wolf,Linear_Objective,true,@9403_ValenciaIznov_00_Dialogue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9403_01_Wolf,Linear_Objective,false,@9403_ValenciaIznov_Start_Dialogue,,,,25,9403_VectorWolves_Complete && Expansion_2023_Unlock,,,9403_FreeWolves,,,,,,,,,,,,,,,,,,,,,,
 9403_02_Wolf,Linear_Objective,false,@9403_ValenciaIznov_04_Dialogue,,,,,9403_FreeWolves_complete,,,9403_Races,,,,,,,,,,,,,,,,,,,,Wolf_Store,Inn,

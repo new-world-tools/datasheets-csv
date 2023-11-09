@@ -1,7 +1,7 @@
 BalanceTarget,BalanceCategory,AbilityBaseDamageAdjustment,WeaponBaseDamageAdjustment,AffixStatAdjustment,IncomingHealAdjustment,SelfHealAdjustment,ConsumableHealAdjustment,PotencyAdjustment
 AbilityDamageBonuses,AbilityDamageBonus,,,,,,,
 AffixStatsDamage,AffixStats,,,,,,,
-HealingAdjustments,Healing,,,,,-0.1,-0.2,
+HealingAdjustments,Healing,,,,,-0.1,,
 Empower,StatusEffect,,,,,,,
 Buff,StatusEffect,,,,,,,
 Axe2H,ItemClass,,,,,,,

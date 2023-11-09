@@ -13,17 +13,9 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExp
 0811_0803_EndOfHerReign_success,,60,Quest+,,,35000,15750,,LightHands_SQRewardEbonscaleTT5,,,,,250,,,,,30,1,,,,,,,true
 0810_0814_Temple_success,,53,Quest+,,,4500,14525,,QuestRewardArmorCase5,,,,,250,,,,,20,1,,,,,,,true
 0899_0801_Liberation_success,,60,Mission+,,,12000,1800,,QuestRewardArmorCase5,,,,,375,,,,,0,1,,,,,,,true
-0827_0801_Brothers_success,,52,Quest+,,,4450,14350,,QuestRewardArmorCase5,,,,,250,,,,,20,1,,,,,,,true
-0829_0801_LuckyRed_success,,54,Quest+,,,4540,14700,,QuestRewardWeaponCase5,,,,,250,,,,,20,1,,,,,,,true
-0829_0802_StringsOfFate_success,,60,Quest+,,,5630,15750,,QuestRewardArmorCase5,,,,,250,,,,,30,1,,,,,,,true
-0826_0801_ToBeFree_success,,58,Quest+,,,4840,15400,,QuestRewardWeaponCase5,,,,,250,,,,,30,1,,,,,,,true
-0830_0801_Inevitable_success,,59,Quest+,,,4990,15575,,QuestRewardArmorCase5,,,,,250,,,,,30,1,,,,,,,true
 0825_0801_Wagon_success,,60,Quest+,,,5630,15750,,QuestRewardArmorCase5,,,,,250,,,,,30,1,,,,,,,true
 0825_0802_Culinarian_success,,60,Quest+,,,5630,15750,,QuestRewardArmorCase5,,,,,250,,,,,30,1,,,,,,,true
 0825_0803_Delivery_success,,60,Quest+,,,5630,15750,,QuestRewardArmorCase5,,,,,250,,,,,30,1,,,,,,,true
-0828_0801_Deadeye_success,,52,Quest+,,,4450,14350,,QuestRewardArmorCase5,,,,,250,,,,,20,1,,,,,,,true
-0828_0802_Trinkets_success,,54,Quest+,,,4540,14700,,QuestRewardWeaponCase5,,,,,250,,,,,20,1,,,,,,,true
-0828_0803_Legacy_success,,54,Quest+,,,4540,14700,,QuestRewardWeaponCase5,,,,,250,,,,,20,1,,,,,,,true
 0831_0101_LastArgument_success,,60,Quest+,,,5630,15750,,2hBlunderbuss_LastArgumentT5,,,,,250,,,,,30,1,,,,,,,true
 0831_0102_LastArgument_Stock_success,,60,Quest+,,,5630,15750,,QuestRewardArmorCase5,,,,,,,,,,30,1,,,,,,,true
 0831_0103_LastArgument_Polished_success,,60,Quest+,,,5630,15750,,QuestRewardWeaponCase5,,,,,250,,,,,30,1,,,,,,,true

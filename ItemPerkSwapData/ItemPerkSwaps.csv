@@ -98,3 +98,9 @@ ID,Key,KeyType,OldPerk,NewPerk
 97,EquippableAmulet+Jewelry,ItemClass,PerkID_Stat_TwoHandSentry,PerkID_Stat_ArmorSentry
 98,EquippableRing+Jewelry,ItemClass,PerkID_Stat_TwoHandSentry,PerkID_Stat_ArmorSentry
 99,EquippableToken+Jewelry,ItemClass,PerkID_Stat_TwoHandSentry,PerkID_Stat_ArmorSentry
+100,Shield,ItemClass,PerkID_Armor_DefAncient,PerkID_Armor_DefBasic
+101,Shield,ItemClass,PerkID_Armor_DefAngryEarth,PerkID_Armor_DefBasic
+102,Shield,ItemClass,PerkID_Armor_DefBeast,PerkID_Armor_DefBasic
+103,Shield,ItemClass,PerkID_Armor_DefCorrupted,PerkID_Armor_DefBasic
+104,Shield,ItemClass,PerkID_Armor_DefLost,PerkID_Armor_DefBasic
+105,Shield,ItemClass,PerkID_Armor_DefAeternian,PerkID_Armor_DefBasic
