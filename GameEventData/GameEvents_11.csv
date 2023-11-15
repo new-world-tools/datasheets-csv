@@ -48,7 +48,4 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExp
 1130_ArcaneFocus2_interact,,0,Quest-,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 1130_ArcaneFocus3_interact,,0,Quest-,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 1130_ArcaneFocus4_interact,,0,Quest-,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
-1140_Halloween_01_success,,25,Quest,,,2060,6875,,,,,,,175,,,,,10,1,,,,,,,true
-1140_Halloween_02_success,,60,Quest,,,4500,11250,,NH_QuestCache,,,HalloweenEventProgress,5271911,175,,,,,15,1,,,,,,,true
-1140_Halloween_03_success,,25,Quest,,,2060,6875,,,,,,,175,,,,,10,1,,,,,,,true
 1102_TelescopeChest_interact,,0,Quest-,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true

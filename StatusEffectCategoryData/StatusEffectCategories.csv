@@ -26,7 +26,7 @@ UnclampedFortify,,,,,,,"ABSStandard:5.0,ABSSiege:5.0,ABSStrike:5.0,ABSSlash:5.0,
 UnclampedWeaken,,,,,,,"DMGStandard:0,DMGSiege:0,DMGStrike:0,DMGSlash:0,DMGThrust:0,DMGArcane:0,DMGFire:0,DMGIce:0,DMGNature:0,DMGLightning:0,DMGCorruption:0,DMGAcid:0"
 UnclampedEmpower,,,,,,,"DMGStandard:5.0,DMGSiege:5.0,DMGStrike:5.0,DMGSlash:5.0,DMGThrust:5.0,DMGArcane:5.0,DMGFire:5.0,DMGIce:5.0,DMGNature:5.0,DMGLightning:5.0,DMGCorruption:5.0,DMGAcid:5.0"
 UnclampedDisease,,,,,,,"HealMod:-1.0,NonConsumableHealMod:-1.0"
-UnclampedHaste,,,,0,0,0,
+UnclampedHaste,,,,0,0,0,"MoveSpeedMod:1,SprintSpeedMod:1"
 UnclampedFactionResourceMod,,,,,,,"FactionReputationMod:3.0,FactionTokensMod:3.0 "
 UnclampedAzothMod,,,,,,,AzothMod:3.0
 FishingBuff,,,,,,,"FishingLineStrength:3.0,FishSizeRollModifier:3.0,FishRarityRollModifier:3.0,SummerFishRarityRollModifier:3.0"
@@ -45,3 +45,4 @@ SporeSecondary,,,,0,0,0,
 Shrivelled,,,,,,,HealScalingValueMultiplier:-0.5
 MammothEmpowered,,,0,0,0,0,
 NonDispellableSlow,-0.2,-0.8,0,0,0,0,"MoveSpeedMod:-0.5,SprintSpeedMod:-0.5"
+TraversalHaste,,,0,0,0,0,"MoveSpeedMod:0.5,SprintSpeedMod:0.5"

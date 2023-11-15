@@ -146,3 +146,4 @@ Emote_WitchBroom,Emote_WitchBroom,ui_emote_WitchBroom,ui_emote_WitchBroom_descri
 Emote_Walk_Trex,Emote_Walk_Trex,ui_Emote_Walk_Trex_name,ui_Emote_Walk_Trex_description,Other,@Emote_Walk_Trex,trex,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Seance_TrexWalk.dds,,,,
 Emote_GravePeaceSign,Emote_GravePeaceSign,ui_Emote_GravePeaceSign_name,ui_Emote_GravePeaceSign_description,Taunt,@Emote_GravePeaceSign,grave,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Seance_GravePeaceSign.dds,,,,
 Emote_YouMeNow,Emote_YouMeNow,ui_Emote_YouMeNow_name,ui_Emote_YouMeNow_description,Other,@Emote_YouMeNow,youmenow,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_YouMeNow.dds,,,,Season_3
+Emote_CraneKick,Emote_CraneKick,ui_Emote_CraneKick,ui_Emote_CraneKick_description,Other,@Emote_CraneKick,cranekick,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_CraneKick.dds,,,,
