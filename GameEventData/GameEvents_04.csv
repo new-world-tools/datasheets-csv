@@ -45,14 +45,6 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExp
 0411_0412_Center_Success,,25,Quest+,,,2310,9625,,Ring_EverfallThumbRingT3,,,,,250,,,,,20,1,,,,,,,true
 0411_0413_Amrine_success,,25,Quest+,,,2310,9625,,1hThrowingAxe_ExcavationHatchetT3,,,,,250,,,,,20,1,,,,,,,true
 0411_0414_Shattered_success,,35,Quest+,,,2120,11375,,Amulet_ShatterstarAmuletT3,,,,,250,,,,,20,1,,,,,,,true
-0424_0101_Convergence_success,,25,Quest,,,1850,6875,,WCToken,,,EventProgress,250,175,,,,,50,1,,,,,,,true
-0424_0102_TreeOfLight_success,,25,Quest,,,1850,6875,,WCToken,,,EventProgress,250,175,,,,,50,1,,,,,,,true
-0424_0103_WinterTokens_success,,25,Quest,,,1850,6875,,WCToken,,,EventProgress,250,175,,,,,50,1,,,,,,,true
-0424_0104_Gleamites_success,,25,Quest,,,1850,6875,,WCToken,,,EventProgress,250,175,,,,,50,1,,,,,,,true
-0424_0105_JoyRecaptured_success,,25,Quest,,,1850,6875,,WCToken,,,EventProgress,250,175,,,,,50,1,,,,,,,true
-0424_0106_YetisAbound_success,,25,Quest,,,1850,6875,,WCPToken,,,EventProgress,500,175,,,,,50,1,,,,,,,true
-0424_0107_WandererReborn_success,,25,Quest,,,1850,6875,,WCPToken,,,EventProgress,500,175,,,,,50,1,,,,,,,true
-0424_0108_WinterWarrior_success,,60,Quest,,,4500,11250,,WCPToken,,,EventProgress,500,175,,,,,50,1,,,,,,,true
 0430_0101_Arena_success,,20,Quest+,,,1800,8750,,AzothSaltVialT1,,,,,250,,,,,20,1,,,,,2000,,true
 0404_MSQ_AllThatRemainsGather4_success,,3,Quest,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 0404_MSQ_AllThatRemainsGather5_success,,3,Quest,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
@@ -64,5 +56,4 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExp
 0404_CorruptedNoduleC_interact,,0,Quest-,,,0,0,,,,,,,,,,,,,0,,,,,,,true
 0404_CorruptedNoduleD_interact,,0,Quest-,,,0,0,,,,,,,,,,,,,0,,,,,,,true
 IO_0403_0201_AlphaLure_interact,,0,Quest-,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
-IO_0424_0108_YetiRune_interact,,0,Quest-,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 FactionIntro_Covenant_01_Crest_interact,,0,Quest-,,,0,0,,FactionIntro_Covenant_01_Crest,,,,,0,,,,,0,0,,,,,,,true
