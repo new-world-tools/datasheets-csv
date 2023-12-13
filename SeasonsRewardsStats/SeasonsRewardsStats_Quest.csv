@@ -28,3 +28,9 @@ CompleteQuest_09A_M7,CompleteQuest,09A_M7_ExtractKim,,,true
 CompleteQuest_09A_M12,CompleteQuest,09A_M12_FightMedusa,,,true
 CompleteQuest_09A_M15,CompleteQuest,09A_M15_FightArtemis,,,true
 CompleteQuest_AnyRace,CompleteQuest,"EF_Tour_0,EF_Rally_1,EF_Rally_2,EF_Tour_1,EF_Tour_2,EF_Tour_3,WF_Rally_1,WF_Rally_2,WF_Tour_1,WF_Tour_2,WF_Tour_3,EF_Rally_3,EF_Rally_4,EF_Tour_4,EF_Tour_5,EF_Tour_6,GC_Rally_1,GC_Rally_2,GC_Tour_1,GC_Tour_2,GC_Tour_3,WF_Rally_3,WF_Rally_4,WF_Tour_4,WF_Tour_5,WF_Tour_6,EF_Rally_5,EF_Rally_6,EF_Tour_7,EF_Tour_8,EF_Tour_9,BS_Rally_1,BS_Rally_2,BS_Tour_1,BS_Tour_2,BS_Tour_3,GC_Rally_3,GC_Rally_4,GC_Tour_4,GC_Tour_5,GC_Tour_6,WF_Rally_5,WF_Rally_6,WF_Tour_7,WF_Tour_8,WF_Tour_9,EW_Rally_1,EW_Rally_2,EW_Tour_1,EW_Tour_2,EW_Tour_3,BS_Rally_3,BS_Rally_4,BS_Tour_4,BS_Tour_5,BS_Tour_6,GC_Rally_5,GC_Rally_6,GC_Tour_7,GC_Tour_8,GC_Tour_9,9401_Races,9402_Races,9403_Races,9404_Races,9405_Races",,,
+CompleteQuest_SearchRing,CompleteQuest,95_s04_01_SearchRing,,,
+CompleteQuest_GetDaichi,CompleteQuest,95_s04_02_GetDaichi,,,
+CompleteQuest_FightMage,CompleteQuest,95_s04_04_FightMage,,,
+CompleteQuest_StopDevice,CompleteQuest,95_s04_06_StopDevice,,,
+CompleteQuest_WrapFrost,CompleteQuest,95_s04_07_WrapFrost,,,
+CompleteRepeatableExpeditionQuest,CompleteQuest,"0699_0101_Barkimedes,0699_0102_Barkimedes2,0899_0801_Liberation,1599_1513_Nekumanesh,95_s01_X2_EXPD_EmpyreanRepeat,S04_GT_EXPD_RPT,0726_0107_Repeatable",,,

@@ -21,7 +21,7 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExp
 1434_0103_OutOfHisMisery_Success,,58,Quest+,Weapons,,4840,15400,,QuestReward_ZQ2EG_ToxicLove,,,,,,,,,,30,1,,,,,,,true
 14_SQ_PioneerLament_Success,,52,Quest,Armor,,3560,10250,,QuestRewardArmorCase5,,,,,,,,,,10,1,,,,,,,true
 14_SQ_ArtSuffer_Success,,54,Quest,,,3630,10500,,QuestRewardDye,,,,,,,,,,10,1,,,,,,,true
-14_SQ_HeartHate_Success,,56,Quest,Armor,,3710,10750,,QuestRewardArmorCase5,,,,,,,,,,15,1,,,,,,,true
+14_SQ_HeartHate_Success,,66,Quest,Armor,,5250,12000,,QuestRewardArmorCase5,,,,,,,,,,15,1,,,,,,,true
 1427_0101_AnointingSpot_Interact,,0,Quest,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
 1427_0103_PlantingSpot_Interact,,0,Quest,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
 1427_0106_HighFlower_Interact,,0,Quest,,,0,0,,,,,,,,,,,,0,0,,,,,,,true

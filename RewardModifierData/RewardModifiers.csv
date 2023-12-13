@@ -46,24 +46,24 @@ FactionMissionBonus,2,9,,0,0,1,,4,,,0,Multipler for faction missions,
 ObjectivePOI,15,10,,350,0,1,,,,,0,Pending approval,New POI repeatable objectives
 ObjectivePOI-,12.5,7.5,,275,0,1,,,,,0,Pending approval,New POI repeatable objectives
 ObjectivePOI+,20,12.5,,425,0,1,,,,,0,Pending approval,New POI repeatable objectives
-PvpKill_Low,0,0,,0,0,0,0,0,0.25,0.25,10,PvP,Flags on Player Kills in PvP
-PvpKill_High,4,20,,0,0,0.5,300,350,4,4,50,PvP,Flags on Player Kills in PvP
-PvpKill_ExtraHigh,4,20,,0,0,0.75,400,450,8,8,100,PvP,Flags on Player Kills in PvP
+PvpKill_Low,0,0,,0,0,0,0,0,0.25,0.25,5,PvP,Flags on Player Kills in PvP
+PvpKill_High,4,20,,0,0,0.5,300,350,4,4,25,PvP,Flags on Player Kills in PvP
+PvpKill_ExtraHigh,4,20,,0,0,0.75,400,450,8,8,50,PvP,Flags on Player Kills in PvP
 Player,5,1,,0,0,1,,,,,1,Player Kill,Vitals Gameevent Override
 Ally,5,1,,0,0,1,,,,,1,Player Kill,Vitals Gameevent Override
 Invasion_T1,1,7,,1.25,1,1,1,1.25,0,0,50,Invasion Bad Performance,Invasion Reward
 Invasion_T2,1.125,9,,1.5,1.125,1,1.125,1.5,0,0,50,Invasion OK Performance,Invasion Reward
 Invasion_T3,1.4,11,,1.75,1.4,1,1.4,1.75,0,0,50,Invasion Good Performance,Invasion Reward
 Invasion_T4,1.6,12,,2,1.6,1,1.6,2,0,0,50,Invasion Top Tier Performance,Invasion Reward
-War_T1,1,5,,0,1,1,1,1,500,1000,50,War Bad Performance,War Reward
-War_T2,2,6,,0,1.125,1,1.125,1.125,1000,1500,50,War OK Performance,War Reward
-War_T3,4,7,,0,1.4,1,1.4,1.4,1500,2000,50,War Good Performance,War Reward
-War_T4,8,8,,0,1.6,1,1.6,1.6,2500,2500,50,War Top Tier Performance,War Reward
-OutpostRush_T1,0,2,,0,0.5,1,1,1,0,500,0,OR Bad Performance,OR Reward
-OutpostRush_LOSS_T1,0,3,,0,0.7,1,1.125,1.125,1000,2000,0,OR OK Performance,OR Reward
-OutpostRush_T2,0,3,,0,0.7,1,1.125,1.125,1000,1500,25,OR OK Performance,OR Reward
-OutpostRush_T3,0,3.5,,0,0.8,1,1.4,1.4,1500,2000,25,OR Good Performance,OR Reward
-OutpostRush_T4,0,4,,0,1,1,1.6,1.6,2000,2500,25,OR Top Tier Performance,OR Reward
+War_T1,1,5,,0,1,1,1,1,2500,2500,50,War Bad Performance,War Reward
+War_T2,2,6,,0,1.125,1,1.125,1.125,3250,3250,50,War OK Performance,War Reward
+War_T3,4,7,,0,1.4,1,1.4,1.4,4000,3600,50,War Good Performance,War Reward
+War_T4,8,8,,0,1.6,1,1.6,1.6,5500,4000,50,War Top Tier Performance,War Reward
+OutpostRush_T1,0,2,,0,0.5,1,1,1,500,2000,0,OR Bad Performance,OR Reward
+OutpostRush_LOSS_T1,0,3,,0,0.7,1,1.125,1.125,3250,3250,0,OR OK Performance,OR Reward
+OutpostRush_T2,0,3,,0,0.7,1,1.125,1.125,3250,3250,25,OR OK Performance,OR Reward
+OutpostRush_T3,0,3.5,,0,0.8,1,1.4,1.4,4000,3600,25,OR Good Performance,OR Reward
+OutpostRush_T4,0,4,,0,1,1,1.6,1.6,5500,4000,25,OR Top Tier Performance,OR Reward
 Arena3v3_Loss,0,,,,,1,,,,,0,,
 Arena3v3_Win_3_Round,1,,,,,1,,,,,0,,
 Arena3v3_Win_2_Round,1,,,,,1,,,,,0,,

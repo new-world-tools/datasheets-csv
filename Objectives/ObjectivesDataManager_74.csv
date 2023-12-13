@@ -66,3 +66,11 @@ AC_Test_57_d_d,Journey,,1,,,,,Debug_AchievementConditional_UnitTesting_Container
 AC_Test_58,Journey,,1,,,,,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,,debug_58,debug_50 || debug_57,,,,,,,,,,,,,,,,,,,,,
 AC_Test_59,Journey,,1,,,,,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,,debug_59,debug_50 && debug_57,,,,,,,,,,,,,,,,,,,,,
 AC_Test_60_d_d,Journey,,1,,,,,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,,debug_60,,,,,,,,,,,,,,,,,,,,,,false
+AC_Test_63,Journey,,1,,,,,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,,debug_63,,,,,,,,,,,,,,,,,,,,,,
+AC_Test_65,Journey,,1,,,,,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,,debug_65,debug_62,,,,,,,,,,,,,,,,,,,,,
+AC_Test_66,Journey,,1,,,,,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,,debug_66,debug_62 || debug_63,,,,,,,,,,,,,,,,,,,,,
+AC_Test_67,Journey,,1,,,,,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,,debug_67,debug_62 && debug_63,,,,,,,,,,,,,,,,,,,,,
+AC_Test_68,Journey,,1,,,,,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,,debug_68,debug_61,,,,,,,,,,,,,,,,,,,,,
+AC_Test_69,Journey,,1,,,,,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,,debug_69,debug_61 || debug_63,,,,,,,,,,,,,,,,,,,,,
+AC_Test_70,Journey,,1,,,,,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,,debug_70,debug_61 && debug_63,,,,,,,,,,,,,,,,,,,,,
+AC_Test_71,Journey,,1,,,,,Debug_AchievementConditional_UnitTesting_Container,7405_Artificer,,debug_71,debug_64 && debug_69,,,,,,,,,,,,,,,,,,,,,

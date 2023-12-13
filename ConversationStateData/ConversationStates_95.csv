@@ -11,7 +11,7 @@ ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,ForceConvers
 9501_Grace_s01_c07,Linear_Objective,false,@NPC_Default_Dialogue_9501_Grace_s01_CampAfterZander,,,,,SwapActive_95_Zander_s01_02,,,,,,,,,,,,,,,,,,,,,,,,,
 9505_Skye_s01_c18,Linear_Objective,true,@NPC_Default_Dialogue_9505_Skye_s01_Mountains,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9504_Shailyn_s01_c00,Linear_Objective,true,@NPC_Default_Dialogue_9504_Shailyn_s01_c00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9504_Shailyn_s01_c01,Linear_Objective,false,@95_s01_X1_EXPD_Empyrean_Cue,,,,60,!95_s01_X1,,,95_s01_X1_EXPD_Empyrean,,,,,,,,,,,,,,,,,,,,,,
+9504_Shailyn_s01_c01,Linear_Objective,false,@95_s01_X1_EXPD_Empyrean_Cue,,,,60,,,,95_s01_X1_EXPD_Empyrean,,,,,,,,,,,,,,,,,,,,,,
 9507_WilliamDaintith_s01_c00,Linear_Objective,true,@NPC_Default_Dialogue_9507_WilliamDaintith_s01_c00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9508_QuirinusFlaccus_s01_c00,Linear_Objective,true,@NPC_Default_Dialogue_9508_QuirinusFlaccus_s01_c00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 9509_AdolfodeAcutis_s01_c00,Linear_Objective,true,@NPC_Default_Dialogue_9509_AdolfodeAcutis_s01_c00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

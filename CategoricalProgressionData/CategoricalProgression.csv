@@ -103,6 +103,7 @@ DungeonCutlass00DifficultyExp23,,3,,true,false,false,false,MutatorRankData,,,,,,
 DungeonBrimstoneSands00DifficultyExp23,,3,,true,false,false,false,MutatorRankData,,,,,,,,,,,,,
 DungeonGreatCleave01DifficultyExp23,,3,,true,false,false,false,MutatorRankData,,,,,,,,,,,,,
 DungeonFirstLight01DifficultyExp23,,3,,true,false,false,false,MutatorRankData,,,,,,,,,,,,,
+DungeonGreatCleave00DifficultyExp23,,3,,true,false,false,false,MutatorRankData,,,,,,,,,,,,,
 EventProgress,@ui_event_progress_name,4,,true,false,false,false,EventRanks,,,,,,,,true,lyshineui/images/icons/objectives/reward_eventProgress_large.dds,,,@ui_event_reputation_description,WinterConvergence
 SummerEventProgress,@ui_event_summer_progress_name,4,,true,false,false,false,SummerEventRanks,,,,,,,,true,lyshineui/images/icons/objectives/reward_eventProgress_large.dds,,,@ui_event_reputation_description,SummerMedley
 SeasonPass,@seasons_rewards_categorical_progression_id,100,,true,false,false,false,SeasonPass_Season1,,,,,,,,,,false,,Season 1,

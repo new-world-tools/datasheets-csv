@@ -8,7 +8,7 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 9403_FirstWolf1,@9403_FirstWolf_Title,@9403_FirstWolf,,9403_00_FirstWolf,,,,,,,,,,,,,,,,,,,
 9403_FirstWolf2,@9403_FirstWolf_Title,@9403_FirstWolf,,9403_00_FirstWolf,,,,,,,,,,,,,,,,,,,
 9403_FirstWolf3,@9403_FirstWolf_Title,@9403_FirstWolf,,9403_00_FirstWolf,,,,,,,,,,,,,,,,,,,
-9405_FirstLion,@9405_FirstLion_Title,@9405_FirstLion,,9405_00_FirstLion,9405_01_FirstLion,,,,,,,,,,,,,,,,,,
+9405_FirstLion,@9405_FirstLion_Title,@9405_FirstLion,,9405_00_FirstLion,9405_01_FirstLion,9405_02_FirstLion,,,,,,,,,,,,,,,,,
 EF_Tour_1,,@9401_TourBoard,@9401_TourBoard_Inspect,9401_00_EF_Tour_1,9401_01_EF_Tour_1,,,,,,,,,,,,,,,,,,
 EF_Rally_1,,@9401_RallyBoard,@9401_RallyBoard_Inspect,9401_00_EF_Rally_1,9401_01_EF_Rally_1,,,,,,,,,,,,,,,,,,
 EF_Rally_2,,@9401_RallyBoard,@9401_RallyBoard_Inspect,9401_00_EF_Rally_2,9401_01_EF_Rally_2,,,,,,,,,,,,,,,,,,
