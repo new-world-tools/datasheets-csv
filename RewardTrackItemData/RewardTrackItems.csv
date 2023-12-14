@@ -69,6 +69,8 @@ S3_ITM_Artifacts02_ItemA,,,Artifact_Set1_2hBlunderbuss,,,1,,AzothSalt_Currency,5
 S3_ITM_Artifacts02_ItemB,,,Artifact_Set1_Amulet2,,,1,,AzothSalt_Currency,50000,,,
 S3_ITM_Artifacts03_ItemA,,,Artifact_Set1_HeavyHead,,,1,,AzothSalt_Currency,50000,,,
 S3_ITM_Artifacts03_ItemB,,,Artifact_Set1_MediumChest,,,1,,AzothSalt_Currency,50000,,,
+S3_ITM_Artifacts04_ItemA,,,Artifact_Set1_HeavyFeet,,,1,,AzothSalt_Currency,50000,,,
+S3_ITM_Artifacts04_ItemB,,,Artifact_Set1_2hStaffLife,,,1,,AzothSalt_Currency,50000,,,
 S1_GE_CoinSmall1,,PvP_CoinSmall1,,@PvP_CoinSmall1_MasterName,@PvP_CoinSmall1_Description,1,,AzothSalt_Currency,600,LyShineUI\Images\Icons\Items\Consumable\CoinBundle,LyShineUI\Images\Icons\Items_HiRes\CoinBundle,
 S1_GE_CoinSmall2,,PvP_CoinSmall2,,@PvP_CoinSmall2_MasterName,@PvP_CoinSmall2_Description,1,,AzothSalt_Currency,800,LyShineUI\Images\Icons\Items\Consumable\CoinBundle,LyShineUI\Images\Icons\Items_HiRes\CoinBundle,
 S1_GE_CoinSmall3,,PvP_CoinSmall3,,@PvP_CoinSmall3_MasterName,@PvP_CoinSmall3_Description,1,,AzothSalt_Currency,1050,LyShineUI\Images\Icons\Items\Consumable\CoinBundle,LyShineUI\Images\Icons\Items_HiRes\CoinBundle,

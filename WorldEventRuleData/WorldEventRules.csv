@@ -1,5 +1,7 @@
 RuleId,Category,Hub,Zone,MaxEvents,MinDistance,Disabled,Comments
-TestRule-global,,,,6,,,
+Hub,,*,,20,10,,Prevents any event from overlapping and no more than 20 events per hub at a time
 TestRule-1,Test,,,4,,,
 TestRule-2,Test2,,,4,,,
 TestRule-3,Test3,,,,10,,
+WorldBoss-hub,WorldBoss,*,,4,,,Prevents more than 4 WorldBoss events active on a hub at a time
+Darkness-hub,DarknessEvent,*,,10,,,Prevents more than 10 Darkness events active on a hub at a time

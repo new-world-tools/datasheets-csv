@@ -7,7 +7,7 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,UniversalExpAmount,Curre
 95_s04_06_StopDevice_success,,60,Quest+,Weapons,9380,15750,2hGreatSword_Quest_S04_06,,,,,,0,,,,,true,30,1,
 95_s04_07_WrapFrost_success,,60,Quest-,Armor,5630,4500,LightHead_Quest_S04_07,,,,,,0,,,,,true,7.5,1,
 S04_GT_EXPD_01_success,,60,Quest+,Weapons,9380,15750,2hFireStaff_Quest_S04_EXPD,,,,,,0,,,,,true,30,1,
-S04_GT_EXPD_RPT_success,,60,Quest,Armor,7500,11250,DarkMatter,5,,,,,0,,,,,true,15,1,
+S04_GT_EXPD_RPT_success,,60,Quest,Armor,7500,11250,,,,,,,0,,,,,true,15,1,
 95_s04_01_IceVarang_hint,,0,Quest,0,0,0,,,,,,,0,,,,,true,0,0,95_s04_01_IceVarang_hint
 95_s04_01_HearMorgaine_hint,,0,Quest,0,0,0,,,,,,,0,,,,,true,0,0,95_s04_01_HearMorgaine_hint
 95_s04_03_SelectPiece_Interact,,0,Quest,0,0,0,,,,,,,0,,,,,true,0,0,
@@ -102,3 +102,4 @@ Dungeon_GreatCleave_00_IceGatherA_interact,,0,Quest,0,0,0,,,,,,,0,,,,,true,0,0,
 Dungeon_GreatCleave_00_IceGatherB_interact,,0,Quest,0,0,0,,,,,,,0,,,,,true,0,0,
 Dungeon_GreatCleave_00_IceGatherC_interact,,0,Quest,0,0,0,,,,,,,0,,,,,true,0,0,
 95_S04_Mordred_Trial_Complete,,0,Quest,0,0,0,,,,,,,0,,,,,true,0,0,
+95_S04_05_Solo_Trial_Complete,,0,Quest,0,0,0,,,,,,,0,,,,,true,0,0,

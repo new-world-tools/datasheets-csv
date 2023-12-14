@@ -1,4 +1,4 @@
-AchievementID,AchievementIndex,Category,GameEventId,"New AchivementIndex values must increase, current maximum is",14278,AchivementsIndex &gt; 16000 will require a code change!
+AchievementID,AchievementIndex,Category,GameEventId,"New AchivementIndex values must increase, current maximum is",14289,AchivementsIndex &gt; 16000 will require a code change!
 Map_Unlock_1,0,Map,Read_LoreItem,,,
 Map_Unlock_2,1,Map,Read_LoreItem,,,
 Map_Unlock_3,2,Map,Read_LoreItem,,,
@@ -12798,7 +12798,7 @@ Mourningdale_Tower_01_60354_charted,13115,Map,Chart_Location,,,
 Mourningdale_Tower_02_60355_charted,13116,Map,Chart_Location,,,
 Mourningdale_Tower_03_60356_charted,13117,Map,Chart_Location,,,
 SwapActive_95_s04_StatueGlow,13118,Objective,,,,
-Lore_unlock_TalesOfWinter_Title_05_01,13119,Journal,Read_LoreItem,,,
+Lore_unlock_TalesOfWinter_Title_05_01,13119,Objective,,,,
 Lore_unlock_TalesOfWinter_Title_05_02,13120,Journal,Read_LoreItem,,,
 Lore_unlock_TalesOfWinter_Title_05_03,13121,Journal,Read_LoreItem,,,
 FC_House_HousingItem_Lighting_Settler_LightHanging01_C,13122,Recipe,,,,

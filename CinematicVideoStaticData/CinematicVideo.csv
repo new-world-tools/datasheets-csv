@@ -17,4 +17,4 @@ FL_BeastLords,LyShineUI/Videos/NW23_BL_Final_00.bk2,@cinmatic_video_fl_beastlord
 FL_NewEden,LyShineUI/Videos/NW23_NE_Final_00.bk2,@cinmatic_video_fl_neweden,09A_NewEdenCinematic_Unlock,Cinematic_NewEden,91,,@NewEden01,
 FL_ShadowAwakens,LyShineUI/Videos/NW23_ASA_Final_00.bk2,@cinmatic_video_fl_shadowawakens,09A_ShadowAwakensCinematic_Unlock,Cinematic_ShadowAwakens,89,,@ShadowAwakens01,
 GC_DarkCommand,LyShineUI/Videos/NW23_DC_Final_00.bk2,@cinmatic_video_gc_darkcommand,99D_Unlock_ThorpeCinematic,Cinematic_DarkCommand,98,,@DarkCommand01,
-S4_MordredResolve,LyShineUI/Videos/S4_cinematic_01_placeholder.bk2,@cinmatic_video_s4_mordredresolve,Unlock_95_s04_Cinematic,Watched_95_s04_Cinematic,15,,,
+S4_MordredResolve,LyShineUI/Videos/S4_MR_Final.bk2,@cinmatic_video_s4_mordredresolve,Unlock_95_s04_Cinematic,Watched_95_s04_Cinematic,96,,@MordredsRegret01,
