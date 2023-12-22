@@ -1,5 +1,15 @@
 TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropProbability,ChestDropProbability,EnforceLocationRequirement,TerritoryID,POITag,GameModeID,PauseAndClearLootOnTaskComplete,AwardOnlyOnce,ShouldCheckPoints,GuranteedDropAttempts,TargetThreshold,CraftingRecipeId,CraftAnyRecipe,InteractTag,UIScreenTag,TriggerAreaType,KillEnemyType,KillEnemyWeaponID,Duration,TaskBuySellType,IsPurchaseOrEarn,IsExactMatch,UseTypeAffix,TypeAffix,UseMatAffix,MatAffix,UseMagicAffix,MagicAffix,MapMarkerMapIcon,MapMarkerTitleLocTag,MapMarkerDescriptionLocTag,MapMarkerWorldPositionX,MapMarkerWorldPositionY,MapMarkerWorldDistanceThreshold,UseLargeItemDisplay,TP_TargetTag,TP_DescriptionTag,TargetDescriptionTaskId,OverrideLocation,IsHidden,HideDiegeticGatherablePins,ShowDiegeticTaskPin,DiegeticPinZOverride,SS_VariantName,SS_StatePreset,CompletedNotificationId,GridLayout,CommunityGoalTag,HideChildren,TriggerAnalyticsEvent,OnInteractStart,SubTask1,SubTask2,SubTask3,SubTask4,SubTask5
-09A_M1_EG_Container_Main,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09A_M1_EG_Container_Setup,09A_M1_EG_Container_Intro,09A_M1_EG_Container_04,09A_M1_EG_Container_05,09A_M1_EG_Container_06
+09A_M1_EG_Container_Main,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09A_M1_EG_Container_Reset1,09A_M1_EG_Container_Intro,09A_M1_EG_Container_04,09A_M1_EG_Container_05,09A_M1_EG_Container_06
+09A_M1_EG_Container_Reset1,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M1_EG_SwapActive_Morgaine_EG_Locked,09A_M1_EG_SwapActive_Morgaine_SM_Locked,09A_M1_EG_SwapActive_Morgaine_RW_Locked,09A_M1_EG_SwapActive_Morgaine_WC_Locked,09A_M1_EG_Container_Reset2
+09A_M1_EG_SwapActive_Morgaine_EG_Locked,TaskLockAchievement,,,1,SwapActive_09A_Morgaine_EG_Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_EG_SwapActive_Morgaine_SM_Locked,TaskLockAchievement,,,1,SwapActive_09A_Morgaine_SM_Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_EG_SwapActive_Morgaine_RW_Locked,TaskLockAchievement,,,1,SwapActive_09A_Morgaine_RW_Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_EG_SwapActive_Morgaine_WC_Locked,TaskLockAchievement,,,1,SwapActive_09A_Morgaine_WC_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_EG_Container_Reset2,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M1_EG_SwapActive_SickDruids_Locked,09A_M1_EG_LockFirstLight,09A_M1_EG_LockShrine,09A_M1_EG_S17_SwapActive_Wagon_Broken_Locked,09A_M1_EG_Container_Setup
+09A_M1_EG_SwapActive_SickDruids_Locked,TaskLockAchievement,,,1,SwapActive_09A_M1_SickDruids,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_EG_LockFirstLight,TaskLockAchievement,,,1,09_FirstLightUnlock,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_EG_LockShrine,TaskLockAchievement,,,1,spiritshrine_02_30160_charted,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_EG_S17_SwapActive_Wagon_Broken_Locked,TaskLockAchievement,,,1,SwapActive_09A_S17_Wagon_Broken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M1_EG_Container_Setup,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M1_EG_SwapActive_Morgaine_SM_Off,09A_M1_EG_SwapActive_Morgaine_RW_Off,09A_M1_EG_SwapActive_SickDruids_On,,
 09A_M1_EG_SwapActive_Morgaine_SM_Off,TaskUnlockAchievement,,,,SwapActive_09A_Morgaine_SM_Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M1_EG_SwapActive_Morgaine_RW_Off,TaskUnlockAchievement,,,,SwapActive_09A_Morgaine_RW_Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
@@ -39,7 +49,17 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 09A_M1_EG_Container_08,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@09a_M1_Container_08,,,1,,,,,,,,,,,,09A_M1_EG_TalkTo_Eldred,09A_M1_EG_WhisperPlant,,,
 09A_M1_EG_TalkTo_Eldred,TaskConversationTopic,,,,09a_Eldred,,,,,,,,,,,,,,,,09A_M1_Topic_Eldred,,,,,,,,,,,,,,,,,,,,,,@09A_M1_Task_Eldred_TalkTo,,,,,,,,,,,,,,,,,,,
 09A_M1_EG_WhisperPlant,TaskGameEvent,,,1,09A_M1_WhisperPlant,,,,true,,firstlight5,,,,,,,,,IO_09A_M1_WhisperPlant,,,09A_M1_WhisperPlant_Interact,,,,,,,,,,,,,,,,,,,,@09A_Task_WhisperPlant,,8718.123 2046.7356 150.291,,,,,,,,,,,,,,,,,
-09A_M1_SM_Container_Main,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09A_M1_SM_Container_Setup,09A_M1_SM_Container_Intro,09A_M1_SM_Container_04,09A_M1_SM_Container_05,09A_M1_SM_Container_06
+09A_M1_SM_Container_Main,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09A_M1_SM_Container_Reset1,09A_M1_SM_Container_Intro,09A_M1_SM_Container_04,09A_M1_SM_Container_05,09A_M1_SM_Container_06
+09A_M1_SM_Container_Reset1,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M1_SM_SwapActive_Morgaine_EG_Locked,09A_M1_SM_SwapActive_Morgaine_SM_Locked,09A_M1_SM_SwapActive_Morgaine_RW_Locked,09A_M1_SM_SwapActive_Morgaine_WC_Locked,09A_M1_SM_Container_Reset2
+09A_M1_SM_SwapActive_Morgaine_EG_Locked,TaskLockAchievement,,,1,SwapActive_09A_Morgaine_EG_Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_SM_SwapActive_Morgaine_SM_Locked,TaskLockAchievement,,,1,SwapActive_09A_Morgaine_SM_Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_SM_SwapActive_Morgaine_RW_Locked,TaskLockAchievement,,,1,SwapActive_09A_Morgaine_RW_Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_SM_SwapActive_Morgaine_WC_Locked,TaskLockAchievement,,,1,SwapActive_09A_Morgaine_WC_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_SM_Container_Reset2,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M1_SM_SwapActive_SickDruids_Locked,09A_M1_SM_LockFirstLight,09A_M1_SM_LockShrine,09A_M1_SM_S17_SwapActive_Wagon_Broken_Locked,09A_M1_SM_Container_Setup
+09A_M1_SM_SwapActive_SickDruids_Locked,TaskLockAchievement,,,1,SwapActive_09A_M1_SickDruids,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_SM_LockFirstLight,TaskLockAchievement,,,1,09_FirstLightUnlock,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_SM_LockShrine,TaskLockAchievement,,,1,spiritshrine_02_30160_charted,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_SM_S17_SwapActive_Wagon_Broken_Locked,TaskLockAchievement,,,1,SwapActive_09A_S17_Wagon_Broken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M1_SM_Container_Setup,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M1_SM_SwapActive_Morgaine_EG_Off,09A_M1_SM_SwapActive_Morgaine_RW_Off,09A_M1_SM_SwapActive_SickDruids_On,,
 09A_M1_SM_SwapActive_Morgaine_EG_Off,TaskUnlockAchievement,,,,SwapActive_09A_Morgaine_EG_Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M1_SM_SwapActive_Morgaine_RW_Off,TaskUnlockAchievement,,,,SwapActive_09A_Morgaine_RW_Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
@@ -79,7 +99,17 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 09A_M1_SM_Container_08,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@09a_M1_Container_08,,,1,,,,,,,,,,,,09A_M1_SM_TalkTo_Eldred,09A_M1_SM_WhisperPlant,,,
 09A_M1_SM_TalkTo_Eldred,TaskConversationTopic,,,,09a_Eldred,,,,,,,,,,,,,,,,09A_M1_Topic_Eldred,,,,,,,,,,,,,,,,,,,,,,@09A_M1_Task_Eldred_TalkTo,,,,,,,,,,,,,,,,,,,
 09A_M1_SM_WhisperPlant,TaskGameEvent,,,1,09A_M1_WhisperPlant,,,,true,,firstlight5,,,,,,,,,IO_09A_M1_WhisperPlant,,,09A_M1_WhisperPlant_Interact,,,,,,,,,,,,,,,,,,,,@09A_Task_WhisperPlant,,8718.123 2046.7356 150.291,,,,,,,,,,,,,,,,,
-09A_M1_RW_Container_Main,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09A_M1_RW_Container_Setup,09A_M1_RW_Container_Intro,09A_M1_RW_Container_04,09A_M1_RW_Container_05,09A_M1_RW_Container_06
+09A_M1_RW_Container_Main,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09A_M1_RW_Container_Reset1,09A_M1_RW_Container_Intro,09A_M1_RW_Container_04,09A_M1_RW_Container_05,09A_M1_RW_Container_06
+09A_M1_RW_Container_Reset1,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M1_RW_SwapActive_Morgaine_EG_Locked,09A_M1_RW_SwapActive_Morgaine_SM_Locked,09A_M1_RW_SwapActive_Morgaine_RW_Locked,09A_M1_RW_SwapActive_Morgaine_WC_Locked,09A_M1_RW_Container_Reset2
+09A_M1_RW_SwapActive_Morgaine_EG_Locked,TaskLockAchievement,,,1,SwapActive_09A_Morgaine_EG_Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_RW_SwapActive_Morgaine_SM_Locked,TaskLockAchievement,,,1,SwapActive_09A_Morgaine_SM_Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_RW_SwapActive_Morgaine_RW_Locked,TaskLockAchievement,,,1,SwapActive_09A_Morgaine_RW_Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_RW_SwapActive_Morgaine_WC_Locked,TaskLockAchievement,,,1,SwapActive_09A_Morgaine_WC_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_RW_Container_Reset2,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M1_RW_SwapActive_SickDruids_Locked,09A_M1_RW_LockFirstLight,09A_M1_RW_LockShrine,09A_M1_RW_S17_SwapActive_Wagon_Broken_Locked,09A_M1_RW_Container_Setup
+09A_M1_RW_SwapActive_SickDruids_Locked,TaskLockAchievement,,,1,SwapActive_09A_M1_SickDruids,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_RW_LockFirstLight,TaskLockAchievement,,,1,09_FirstLightUnlock,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_RW_LockShrine,TaskLockAchievement,,,1,spiritshrine_02_30160_charted,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M1_RW_S17_SwapActive_Wagon_Broken_Locked,TaskLockAchievement,,,1,SwapActive_09A_S17_Wagon_Broken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M1_RW_Container_Setup,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M1_RW_SwapActive_Morgaine_EG_Off,09A_M1_RW_SwapActive_Morgaine_SM_Off,09A_M1_RW_SwapActive_SickDruids_On,,
 09A_M1_RW_SwapActive_Morgaine_EG_Off,TaskUnlockAchievement,,,,SwapActive_09A_Morgaine_EG_Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M1_RW_SwapActive_Morgaine_SM_Off,TaskUnlockAchievement,,,,SwapActive_09A_Morgaine_SM_Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
