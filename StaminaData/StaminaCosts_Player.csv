@@ -66,7 +66,7 @@ Dodge_Prone,50,Dodging
 Dodge,50,Dodging
 Dodge_Roll,50,Dodging
 Dodge_Roll_Fast,50,Dodging
-Dodge_Roll_Slow,50,Dodging
+Dodge_Roll_Slow,55,Dodging
 Sprint,0,Sprinting
 Sprint_TravelMode,0,Sprinting
 Sprint_Crouch,0,Sprinting
