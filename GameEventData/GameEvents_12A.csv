@@ -40,7 +40,7 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExp
 12A_Side_11_ClericAmulets_Success,,15,Quest,Armor,,1460,5625,,QuestReward_MB_Side11_AmuletT2,,,,,175,,,,,0,1,,,,,,,true
 12A_Side_12_KnightsCrest_Success,,17,Quest,Armor,,1580,5875,,QuestReward_MB_Side12_MediumLegsT2,,,,,175,,,,,0,1,,,,,,,true
 12A_Side_13_DevilHoney_Success,,7,Quest,Armor,,660,4625,,QuestReward_MB_Side13_Mealbox,,,,,175,,,,,0,1,,,,,,,true
-12A_Side_14_CollectWine_Success,,7,Quest,Armor,,440,4625,,QuestReward_MB_Side14_MediumFeetT2,,,,,175,,,,,0,1,,,,,,,true
+12A_Side_14_CollectWine_Success,,7,Quest,Armor,,660,4625,,QuestReward_MB_Side14_MediumFeetT2,,,,,175,,,,,0,1,,,,,,,true
 12A_Side_15_CollectResources_Success,,5,Quest,Armor,,320,4375,,QuestReward_MB_Side15_LightHandsT2,,,,,175,,,,,0,1,,,,,,,true
 12A_Side_16_ToGoodUse_Success,,5,Quest,Armor,,320,4375,,QuestReward_MB_Side16_CraftersBox,,,,,175,,,,,0,1,,,,,,,true
 12A_Side_17_MarketBoard_Success,,5,Quest,Armor,,320,4375,,QuestReward_MB_Side17_AmuletT2,,,,,175,,,,,0,1,,,,,,,true

@@ -1,5 +1,5 @@
 RewardID,MilestoneType,MilestoneLevel,Name,Icon,Image,Tooltip,QuestName,ExpansionIdUnlock,Notes
-WeaponSlot2,major,5,@WeaponSlot2_Name,LyShineUI/Images/Icons/ProgressionMilestones/weaponSlot.dds,LyShineUI/Images/glory/milestoneRewards/milestoneReward_weapon1.dds,@WeaponSlot2_Tooltip,,,Located in PBA
+WeaponSlot2,major,1,@WeaponSlot2_Name,LyShineUI/Images/Icons/ProgressionMilestones/weaponSlot.dds,LyShineUI/Images/glory/milestoneRewards/milestoneReward_weapon1.dds,@WeaponSlot2_Tooltip,,,Located in PBA
 QuickSlot3,,15,@QuickSlot3_Name,LyShineUI/Images/Icons/ProgressionMilestones/quickSlot.dds,,@QuickSlot3_Tooltip,,,Located in PBA
 QuickSlot4,,25,@QuickSlot4_Name,LyShineUI/Images/Icons/ProgressionMilestones/quickSlot.dds,,@QuickSlot4_Tooltip,,,Located in PBA
 RingSlot,major,20,@RingSlot_Name,LyShineUI/Images/Icons/ProgressionMilestones/ringSlot.dds,LyShineUI/Images/glory/milestoneRewards/milestoneReward_ring1.dds,@RingSlot_Tooltip,,,Located in PBA

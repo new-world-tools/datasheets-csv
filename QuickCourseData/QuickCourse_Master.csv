@@ -72,6 +72,7 @@ FL_Bridge_1,,true,true,30,1,,
 FL_09A_S11_1,,true,true,70,1,,
 FL_09A_S11_2,,true,true,300,1,,
 FL_09A_S11_3,,true,true,180,1,,
+GC_Food_Race_1,,true,,540,,,To Warm The Soulwardens Foot Race
 MountRace_ScaleTest_1,,true,true,600,,MNT_Race_Tour_BrimstoneSands,
 MountRace_ScaleTest_2,,true,true,600,,MNT_Race_Tour_BrimstoneSands,
 MountRace_ScaleTest_1_Short,,true,true,600,,MNT_Race_Tour_BrimstoneSands,

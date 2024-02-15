@@ -13,7 +13,7 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExp
 04A_Side04_02_PoisonCorrupted_success,,22,Quest+,Armor,,2030,9100,,QuestReward_EF_Side04_02_HeavyHandsT3,,,,,175,,,,,20,1,,,,,,,true
 04A_Side04_03_ToHuntsman_success,,22,Quest-,,,1220,2600,,,,,,,250,,,,,5,1,,,,,,,true
 04A_Side04_04_KillNamed_success,,25,Quest+,Weapons,,2310,9625,,QuestReward_EF_Side04_04_1hGauntletIceT3,,,,,100,,,,,20,1,,,,,,,true
-04A_Side04_05_GetLocket_success,,25,Quest-,,,1390,2750,,QuestReward_MB_Coin_Purse,,,,,250,,,,,5,1,,,,,,,true
+04A_Side04_05_GetLocket_success,,25,Quest-,,,1390,2750,,QuestReward_EF_Amulet,,,,,250,,,,,5,1,,,,,,,true
 04A_Side04_06_GetFlowers_success,,24,Quest,Armor,,1770,6750,,QuestReward_EF_Side04_06_HeavyChestT3,,,,,100,,,,,10,1,,,,,,,true
 04A_Side04_07_ToHuntsman02_success,,25,Quest-,,,1390,2750,,house_housingitem_settler_decor_table_floralarrangement01,,,,,175,,,,,5,1,,,,,,,true
 04A_Side05_01_ChooseInstrument_success,,18,Quest,,,1290,6000,,QuestReward_EF_Side05_01_Instruments_01,,,,,100,,,,,10,1,,,,,,,true
@@ -26,7 +26,7 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExp
 04A_Side07_02_GetWine_success,,21,Quest,Armor,,1530,6375,,QuestReward_EF_Side07_02_LightFeetT3,,,,,175,,,,,10,1,,,,,,,true
 04A_Side07_03_GetPort_success,,22,Quest+,Weapons,,2030,9100,,QuestReward_EF_Side07_03_2hBlunderbussT3,,,,,175,,,,,20,1,,,,,,,true
 04A_Side07_04_SaveBar_success,,22,Quest-,,,1220,2600,,Schematic_House_HousingItem_Appr_Winecask_Indoor,,,,,250,,,,,5,1,,,,,,,true
-04A_Side08_01_GetReagents_success,,20,Quest,Weapons,,1440,6250,,QuestReward_EF_Side08_01_1hLongswordT3,,,,,100,,,,,10,1,,,,,,,true
+04A_Side08_01_GetReagents_success,,20,Quest,Weapons,,1440,6250,,QuestReward_EF_Side08_01_1hLongswordT3,,,,,250,,,,,10,1,,,,,,,true
 04A_Side08_02_SecretIngredient_success,,21,Quest,Armor,,1530,6375,,QuestReward_EF_Side08_02_LightChestT3,,,,,175,,,,,10,1,,,,,,,true
 04A_Side08_03_DeliverPotions_success,,21,Quest-,,,1150,2550,,QuestReward_EF_Side_PotionPouch,,,,,175,,,,,5,1,,,,,,,true
 04A_Side09_01_LostAlchemy_success,,20,Quest-,,,1080,2500,,QuestReward_EF_Side09_01_AlchemyBox,,,,,100,,,,,5,1,,,,,,,true

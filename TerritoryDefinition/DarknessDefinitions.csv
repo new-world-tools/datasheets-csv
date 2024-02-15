@@ -45,4 +45,7 @@ TerritoryID,NameLocalizationKey,IsPOI,MapIcon,CompassIcon,TooltipBackground,Grou
 8049,@1434_0103_OutOfHisMisery_Title,true,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,,,OutOfHisMiseryEncounter,,57,1 0 0,POI_State,,
 8050,@1434_0103_Pyre_Title,true,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,,,PyreEncounter,,57,1 0 0,POI_State,,
 8051,@LNY_tribute_table,true,LyShineUI/Images/Map/Icon/POIs/event_lunarNY.png,LyShineUI/Images/Map/Icon/NPCs/lunarNY_compass.png,LyShineUI\Images\Map\tooltipImages\POI\mapTooltip_LunarNewYear_Tribute.png,0,EventEncounter,,60,230 135 75,POI_State,,
+8052,@99F_Enc_Liang_Objective_Title,true,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,,0,EventEncounter,,62,1 0 0,POI_State,,
 8053,@LNY_settlement_firework,false,LyShineUI/Images/Icons/Objectives/icon_Objective_Quest.png,LyShineUI/Images/Icons/Objectives/icon_Objective_Quest.png,LyShineUI\Images\Map\tooltipImages\POI\mapTooltip_LunarNewYear_Firework.png,0,EventEncounter,,62,220 180 150,POI_State,,
+8054,@14AC_Edengrove_Malev3_01_Title,true,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,,,EliteOverlord,,66,255 0 0,POI_State,,
+8055,@99A_MSQ_03_LastSoulwarden,true,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,LyShineUI/Images/map/Icon/POIs/damned_compass_danger.png,,0,EventEncounter,,19,1 0 0,POI_State,,

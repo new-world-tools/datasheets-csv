@@ -76,3 +76,6 @@ Env_BrimstoneDungeon.Forge_Active_02,Required
 cfx_npc_scorpion.AOE_Puddle,Required
 cFX_npc_SandwormBoss.Acid_Spew_Seq,Required
 cFX_npc_SandwormBoss.Chomp_AOE,Required
+env_quickcourse.checkpoint,High
+wfxo_LifeStaff.shared.targeting,Required
+wfxo_Firestaff.shared.Targeting,Required

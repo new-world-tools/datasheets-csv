@@ -19,10 +19,10 @@ CompleteExpeditionM1_FirstLight,CompleteExpedition,DungeonFirstLight01,,1,,,,
 CompleteExpeditionM2_FirstLight,CompleteExpedition,DungeonFirstLight01,,2,,,,
 CompleteExpeditionM3_FirstLight,CompleteExpedition,DungeonFirstLight01,,3,,,,
 CompleteExpeditionM3_FirstLightFlawlessly,CompleteExpedition,DungeonFirstLight01,,3,,,,true
-CompleteHatchery,CompleteExpedition,TrialSeason01,,,,,,
 CompleteM3Expedition,CompleteExpedition,,,3,,,,
 CompleteExpedition_GlacialTarn,CompleteExpedition,DungeonGreatCleave00,,,,,,
 CompleteExpeditionM1_GlacialTarn,CompleteExpedition,DungeonGreatCleave00,,1,,,,
 CompleteExpeditionM2_GlacialTarn,CompleteExpedition,DungeonGreatCleave00,,2,,,,
 CompleteExpeditionM3_GlacialTarn,CompleteExpedition,DungeonGreatCleave00,,3,,,,
 CompleteExpedition_GlacialTarn_Flawless,CompleteExpedition,DungeonGreatCleave00,,,,,,true
+CompleteM3ExpeditionFlawlessly,CompleteExpedition,,,3,,,,true

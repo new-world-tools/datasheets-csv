@@ -1,4 +1,22 @@
 EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExpAmount,CurrencyReward,RewardsNotes,ItemReward,ItemRewardQty,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionTokens,FactionInfluenceAmount,FactionInfluenceSrc,AzothReward,AzothRewardChance,WhisperId,AchievementId,IgnoreEconomyTracker,EntitlementId,PVPXP,RemoveStatusEffectCategories,EmitTelemetry
+0826_0801_ToBeFree_success,,58,Quest+,,,4840,15400,,QuestRewardWeaponCase5,,,,,250,,,,,30,1,,,,,,,true
+0830_0801_Inevitable_success,,58,Quest+,,,4840,15400,,QuestRewardArmorCase5,,,,,250,,,,,30,1,,,,,,,true
+08a04_08a04_FlowerForTheDeparted_success,,58,Quest,,,3870,11000,,QuestRewardArmorCase5,,,,,175,,,,,15,1,,,,,,,true
+08a03_08a11_TigerTiger_success,,59,Quest,,,3990,11125,,QuestRewardArmorCase5,,,,,175,,,,,15,1,,,,,,,true
+0828_0801_Deadeye_success,,59,Quest+,,,4990,15575,,QuestRewardArmorCase5,,,,,250,,,,,30,1,,,,,,,true
+0828_0802_Trinkets_success,,59,Quest+,,,4990,15575,,QuestRewardWeaponCase5,,,,,250,,,,,30,1,,,,,,,true
+0827_0801_Brothers_success,,59,Quest+,,,4990,15575,,QuestRewardArmorCase5,,,,,250,,,,,30,1,,,,,,,true
+08a02_08a01_TheShowMustGoOn_success,,59,Quest,,,3990,11125,,QuestRewardArmorCase5,,,,,175,,,,,15,1,,,,,,,true
+08a05_08a09_StudyInGreen_success,,59,Quest,,,3990,11125,,QuestRewardArmorCase5,,,,,175,,,,,15,1,,,,,,,true
+08a11_08a02_StatuetteStash_success,,59,Quest+,,,4990,15575,,MediumChest_SQRewardEbonscaleT5,,,,,250,,,,,30,1,,,,,,,true
+08a04_08a12_CaptainsOrders_success,,60,Quest+,,,5630,15750,,QuestRewardArmorCase5,,,,,250,,,,,30,1,,,,,,,true
+08a05_08a06_ShrineCleansing_success,,60,Quest+,,,5630,15750,,QuestRewardWeaponCase5,,,,,250,,,,,30,1,,,,,,,true
+0828_0803_Legacy_success,,60,Quest+,,,5630,15750,,QuestRewardWeaponCase5,,,,,250,,,,,30,1,,,,,,,true
+0829_0801_LuckyRed_success,,60,Quest+,,,5630,15750,,QuestRewardWeaponCase5,,,,,250,,,,,30,1,,,,,,,true
+08a05_08a13_SkysongsEnd_success,,60,Quest+,,,5630,15750,,QuestRewardWeaponCase5,,,,,250,,,,,30,1,,,,,,,true
+0829_0802_StringsOfFate_success,,60,Quest+,,,5630,15750,,QuestRewardArmorCase5,,,,,250,,,,,30,1,,,,,,,true
+08a02_08a08a_CorruptedCritics_success,,60,Quest+,,,5630,15750,,QuestRewardWeaponCase5,,,,,250,,,,,30,1,,,,,,,true
+08a11_08a03_EndOfHerReign_success,,62,Quest+,,,6000,16100,,LightHands_SQRewardEbonscaleTT5,,,,,250,,,,,30,1,,,,,,,true
 0802_0801_TheShowMustGoOn_success,,51,Quest,,,3510,10125,,QuestRewardArmorCase5,,,,,175,,,,,10,1,,,,,,,true
 0803_0805_EbonscaleAlligators_success,,52,Quest,,,3560,10250,,BagAGatorLeatherT4,,,,,175,,,,,10,1,,,,,,,true
 0810_0807_WhatMakesTheShallowsCrimson_success,,53,Quest+,,,4500,14525,,QuestRewardWeaponCase5,,,,,250,,,,,20,1,,,,,,,true

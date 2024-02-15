@@ -1,5 +1,6 @@
 TowerID,Name,Description,CaptureTimeInSeconds,CaptureTimeMinimum,CaptureMaxPlayerDelta
 Cutlass_Keys_Tower_01,@Cutlass_Keys_Tower_01,@generic_influence_tower_description,120,75,5
+Cutlass_Keys_Tower_01_CKRV,@Cutlass_Keys_Tower_01_CKRV,@generic_influence_tower_description,120,75,5
 Cutlass_Keys_Tower_02,@Cutlass_Keys_Tower_02,@generic_influence_tower_description,120,75,5
 Cutlass_Keys_Tower_03,@Cutlass_Keys_Tower_03,@generic_influence_tower_description,120,75,5
 Windsward_Tower_01,@Windsward_Tower_01,@generic_influence_tower_description,120,75,5

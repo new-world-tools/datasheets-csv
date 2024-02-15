@@ -4,6 +4,7 @@ ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchieveme
 99D_MSQ_01_Judithe_RescueWarden,@99D_MSQ_01_Judithe_RescueWarden_prompt,@99D_MSQ_01_Judithe_RescueWarden_response,,,,
 99D_MSQ_01_Pedro_RescueWarden,@99D_MSQ_01_Pedro_RescueWarden_prompt,@99D_MSQ_01_Pedro_RescueWarden_response,,,,
 99D_MSQ_03_Yonas_ThorpeNews,@99D_MSQ_03_Yonas_ThorpeNews_prompt,@99D_MSQ_03_Yonas_ThorpeNews_response,,,,
+99D_MSQ_03_Yonas_Tempest,@99D_MSQ_03_Yonas_Tempest_prompt,@99D_MSQ_03_Yonas_Tempest_response,,,,
 99D_MSQ_05_Galahad_westoutpost,@99D_MSQ_05_Galahad_westoutpost_prompt,@99D_MSQ_05_Galahad_westoutpost,,,,
 99D_MSQ_05_Yash_ExchangeInfo,@99D_MSQ_05_Yash_ExchangeInfo_prompt,@99D_MSQ_05_Yash_ExchangeInfo_response,,,,
 99D_MSQ_07_Ofusa_RescuePortal,@99D_MSQ_07_Ofusa_RescuePortal_prompt,@99D_MSQ_07_Ofusa_RescuePortal_response,,,,
