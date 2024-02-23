@@ -14,6 +14,8 @@ Rapier,Weapon,RapierGeneric
 Spear,Weapon,SpearGeneric
 Sword,Weapon,SwordGeneric
 VoidGauntlet,Weapon,VoidGauntletGeneric
+Heartgem,Weapon,HeartgemGeneric
+Unarmed,Unarmed,UnarmedGeneric
 Ballista,SiegeWeapon,TurretGeneric
 Repeater,SiegeWeapon,TurretGeneric
 Explosive,SiegeWeapon,TurretGeneric

@@ -94,7 +94,6 @@ TerritoryID,NameLocalizationKey,IsPOI,IsDiscoverable,IsChartable,DefaultAchievem
 9117,@ui_area_windswardshores_7,true,,true,,,,windswardshores7_9117_charted,windswardshores7,Music_Territory,Windsward Shores,,2,true,true,0,34,,,
 9118,@ui_area_windswardshores_8,true,,true,,,,windswardshores8_9118_charted,windswardshores8,Music_Territory,Windsward Shores,,2,true,true,0,35,,,
 9119,@ui_area_windswardshores_9,true,,true,,,,windswardshores9_9119_charted,windswardshores9,Music_Territory,Windsward Shores,,2,true,true,0,40,,,
-9120,@ui_area_windswardshores_7_FFA,true,,true,,,,windswardshores7_9120_charted,windswardshores7FFA,Music_Territory,Windsward Shores,,2,false,true,0,65,,,true
 9121,@ui_area_eastconsolation_1,true,,true,,,,eastconsolation1_9121_charted,eastconsolation1,Music_Territory,East Consolation,,2,true,true,0,42,,,
 9122,@ui_area_eastconsolation_2,true,,true,,,,eastconsolation2_9122_charted,eastconsolation2,Music_Territory,East Consolation,,2,true,true,0,43,,,
 9123,@ui_area_eastconsolation_3,true,,true,,,,eastconsolation3_9123_charted,eastconsolation3,Music_Territory,East Consolation,,2,true,true,0,45,,,

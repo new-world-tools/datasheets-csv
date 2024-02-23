@@ -1,4 +1,4 @@
 ActivityCrc,ActivityType,DurationSec,Teams,MinLevel,MaxLevel,FactionType,MinDistance,MaxDistance,AllowInSanctuary,AllowInFtue,AllowInWarPrep,AllowInWar,AllowInArena,AllowInFFA,DisallowInGameModes,DisallowedWaterDepths
-Duel,1,10,2,10,,,,20,false,false,false,false,false,false,"Dungeon,OutpostRush,Duel,Arena3v3,","Deep,"
-Trade,2,10,,,,,,10,true,false,true,false,false,false,"OutpostRush,Duel,Arena3v3,",
-MusicalPerformance,3,10,,,,,,10,true,false,true,false,false,false,,
+Duel,1,10,2,10,,,,20,false,false,false,false,false,,"Dungeon,OutpostRush,Duel,Arena3v3,","Deep,"
+Trade,2,10,,,,,,10,true,false,true,false,false,,"OutpostRush,Duel,Arena3v3,",
+MusicalPerformance,3,10,,,,,,10,true,false,true,false,false,,,
