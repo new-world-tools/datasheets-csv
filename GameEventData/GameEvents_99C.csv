@@ -52,3 +52,6 @@ IO_99C_MSQ2_MorgainesCaveDoor_Permanent_interact,,0,Quest,,,0,0,,,,,,,,,,,,0,,,,
 IO_99C_MSQ2_BlightBombA_interact,,0,Quest,,,0,0,,,,,,,,,,,,0,,,,,,,,true
 IO_99C_MSQ2_BlightBombB_interact,,0,Quest,,,0,0,,,,,,,,,,,,0,,,,,,,,true
 IO_99C_MSQ2_BlightBombC_interact,,0,Quest,,,0,0,,,,,,,,,,,,0,,,,,,,,true
+IO_99C_MSQ2_AncientChest_1_interact,,0,Quest,,,0,0,,,,,,,,,,,,0,,,,,,,,true
+IO_99C_MSQ2_AncientChest_2_interact,,0,Quest,,,0,0,,,,,,,,,,,,0,,,,,,,,true
+IO_99C_MSQ2_AncientChest_3_interact,,0,Quest,,,0,0,,,,,,,,,,,,0,,,,,,,,true

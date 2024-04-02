@@ -16,3 +16,5 @@ WinInfluenceRace,GameEvent,,,"InfluenceRace_Attacker_Win_Reward,InfluenceRace_De
 DefeatHatcheryTrial,GameEvent,,,Trial_S2_Success
 ConsumeMushroomFlask,GameEvent,,,"EVENT_MushroomFlaskT1_Consumed,EVENT_MushroomFlaskT2_Consumed,EVENT_MushroomFlaskT3_Consumed,EVENT_MushroomFlaskT4_Consumed,EVENT_MushroomFlaskT5_Consumed"
 LocateLostEaselGreatCleave,GameEvent,,,"ExploreVista_EastCleave01,ExploreVista_WestCleave01"
+OpenCastGoldNMatter,GameEvent,,,CastGypsum_DarkMatter
+FlawlessArenaVictory,GameEvent,,,Arena3v3_Win_3_Round

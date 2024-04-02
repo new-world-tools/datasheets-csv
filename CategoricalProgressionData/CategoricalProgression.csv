@@ -82,7 +82,7 @@ Mining_PostCap,@ui_mining_postcap,1,,true,true,false,false,TradeSkillPostCap,,Mi
 Logging_PostCap,@ui_logging_postcap,1,,true,true,false,false,TradeSkillPostCap,,Logging,,,,,,,,true,,,
 Harvesting_PostCap,@ui_harvesting_postcap,1,,true,true,false,false,TradeSkillPostCap,,Harvesting,,,,,,,,true,,,
 Instruments_PostCap,@ui_musician_postcap,1,,true,true,false,false,TradeSkillPostCap,,Musician,,,,,,,,true,,,
-Azoth_Currency,@ui_azoth_currency,0,,false,false,false,false,AzothCurrency,,,,AzothGenerated,,,,,lyshineui/images/icons/misc/icon_azothCurrency.dds,,,,
+Azoth_Currency,@ui_azoth_currency,0,,false,false,false,false,AzothCurrency,,,,AzothGenerated,,,,,lyshineui/images/icons/items/currency/Icon_Azoth.dds,,,,
 AzothSalt_Currency,,0,,false,false,false,false,AzothSaltCurrency,,,,AzothGenerated,,,,true,,,,,
 PvP_XP,,200,,false,false,true,true,PvPXP,,,,,,,,true,,,,,
 Fishing,@ui_fishing,200,250,true,false,false,false,Fishing,,,Fishing_PostCap,,,,,,,true,,,
@@ -106,4 +106,5 @@ DungeonFirstLight01DifficultyExp23,,3,,true,false,false,false,MutatorRankData,,,
 DungeonGreatCleave00DifficultyExp23,,3,,true,false,false,false,MutatorRankData,,,,,,,,,,,,,
 EventProgress,@ui_event_progress_name,4,,true,false,false,false,EventRanks,,,,,,,,true,lyshineui/images/icons/objectives/reward_eventProgress_large.dds,,,@ui_event_reputation_description,WinterConvergence
 SummerEventProgress,@ui_event_summer_progress_name,4,,true,false,false,false,SummerEventRanks,,,,,,,,true,lyshineui/images/icons/objectives/reward_eventProgress_large.dds,,,@ui_event_reputation_description,SummerMedley
+SpringEventProgress,@ui_event_spring_progress_name,2,,true,false,false,false,SpringEventRanks,,,,,,,,true,lyshineui/images/icons/objectives/reward_eventProgress_large.dds,,,@ui_event_reputation_description,SpringtideBloom
 SeasonPass,@seasons_rewards_categorical_progression_id,100,,true,false,false,false,SeasonPass_Season1,,,,,,,,,,false,,Season 1,

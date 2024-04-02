@@ -4,3 +4,4 @@ CloseGate,Unarmed,1,0,Bullet,Heavy,Strike,,,,true,false,1,1,1,4,4,4,10,5,10,0,2,
 SwingingAxe,Unarmed,1,0,Bullet,Heavy,Slash,,,,,false,0.7,1,1,2,2,3,24,24,32,0,0,0,0.8,0,0,0,0.8,0,2,0,0.8,0,1,1,1,Small,Small,0,0.5,1,1,0,0.1625,0.325
 SunTurretBeam,AncientMagic,1,,,Bullet,Magic,Fire,Dungeon_SunTurretAlert,1,,false,0.25,1,1,0,0,0,24,32,0,0,0,0,0,0,0,0,0.8,0,0,0,0.8,0,1,1,1,Small,Small,0,3,0.12,1,1,0.1625,0.325
 WindPush,Unarmed,1,1,Bullet,Heavy,Strike,,,,,false,0.1,1,1,2,2,3,24,24,32,0,3,0,0.85,0,1,0,0.8,0,1,0,0.8,0,1,1,1,Small,Small,0,0.5,1,1,0,0.1625,0.325
+SpikeWall,Unarmed,1,1,Bullet,Heavy,Magic,,,,,false,0.7,1,1,2,2,3,24,24,32,0,0,0,0.8,0,0,0,0.8,0,2,0,0.8,0,1,1,1,Small,Small,0,0.5,1,1,0,0.1625,0.325

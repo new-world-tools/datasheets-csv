@@ -283,11 +283,12 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 09A_M4_Container_02,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@09A_M4_Container_01,,,1,,,,,,,,,,,,09A_M4_Investigate_Blood,09A_M4_Investigate_Tracks,09A_M4_TriggerWhisper,09A_M4_WhisperPlant_Dayspring,09A_M4_Container_03
 09A_M4_Investigate_Blood,TaskGameEvent,,,1,09A_M4_SuspiciousBlood,,,,true,,abandoned_village_40044,,,,,,,,,IO_09A_M4_SuspiciousBlood,,,09A_M4_SuspiciousBlood_Interact,,,,,,,,,,,,,,,,,,,,@09A_M4_Investigate_Blood,,8877.195 1097.098,,,,,,,,,,,,,,,,,
 09A_M4_Kill_AngryEarth01,TaskKillContribution,,,7,,,,,true,,abandoned_village_40044,,,,,,,,,,,,AngryEarth,,,,,,,,,,,,,,,,,,,,@09A_M4_Kill_AngryEarth01,,,,,,,,,,,,,,,,,,,
-09A_M4_Container_03,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M4_ExtinguishFlames,09A_M4_SwapActive_Riches,09A_M4_TriggerFindRiches,09A_M4_Cut_Wick,09A_M4_TalkTo_Riches
+09A_M4_Container_03,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M4_ExtinguishFlames,09A_M4_SwapActive_Riches,09A_M4_TriggerFindRiches,09A_M4_Cut_Wick,09A_M4_SubContainer_03
+09A_M4_SubContainer_03,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M4_TalkTo_Riches,09A_M4_Walkaway_Riches,09A_M4_SwapActive_Riches_M5,,
 09A_M4_TriggerWhisper,TaskTriggerArea,,,1,,,,,,,,,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,TriggerVol_09A_M4_Whisper,@09A_M4_Container_02,,8958.2637 1042.7751 61.5322,,,true,,,,,,,,,,,,,,
 09A_M4_WhisperPlant_Dayspring,TaskGameEvent,,,1,09A_WhisperPlant_Dayspring,,,,,,,,,,,,,,,IO_09A_WhisperPlant_Dayspring,,,09A_WhisperPlant_Dayspring_Interact,,,,,,,,,,,,,,,,,,,,@09A_Task_WhisperPlant,,8949.3506 1043.5242 61.7594,,,,,,,,,,,,,,,,,
 09A_M4_Investigate_Tracks,TaskGameEvent,,,1,09A_M4_PeculiarFootprints,,,,true,,abandoned_village_40044,,,,,,,,,IO_09A_M4_PeculiarFootprints,,,09A_M4_PeculiarFootprints_Interact,,,,,,,,,,,,,,,,,,,,@09A_M4_Investigate_Tracks,,8892.172 1036.953,,,,,,,,,,,,,,,,,
-09A_M4_Container_04,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M4_Walkaway_Riches,09A_M4_SwapActive_Riches_M5,09A_M4_TriggerFollowRiches,09A_M4_WhisperPlant_Settlement,09A_M4_GoTo_RichesRedoubt
+09A_M4_Container_04,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M4_TriggerFollowRiches,09A_M4_WhisperPlant_Settlement,09A_M4_GoTo_RichesRedoubt,,
 09A_M4_ExtinguishFlames,TaskGameEvent,,,1,09A_M4_ExtinguishFlames,,,,true,,abandoned_village_40044,,,,,,,,,IO_09A_M4_ExtinguishFlames,,,09A_M4_ExtinguishFlames_Interact,,,,,,,,,,,,,,,,,,,,@09A_M4_ExtinguishFlames,,8978.014 1049.203 62.425,,,false,,,,,,,,,,,,,,
 09A_M4_SwapActive_Flames,TaskUnlockAchievement,,,,SwapActive_09A_M4_Flames,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M4_SwapActive_Riches,TaskUnlockAchievement,,,,SwapActive_09A_Riches_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
@@ -394,7 +395,7 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 09A_M6_trigger_jailer,TaskTriggerArea,,,1,,,,,,,,,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,M6_Jailer_Trigger,@09A_M6_Container_02,,9999.05 246.67 57.31,,,true,,1,,,,,,,,,,,,
 09A_M6_SwapActive_Kim_M6,TaskUnlockAchievement,,,,SwapActive_09A_Kim_M6_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M6_Kill_Guards,TaskKillContribution,,,1,,,,,,,,,,,,,,,,,,,FL_AnubianGuardian_Horus_Named_09FL01,,,,,,,,,,,,,,,,,,,,@09A_M6_Kill_Guards,,10002.100586 242.278427 57.317253,,,,,,,,,,,,,,,,,
-09A_M6_BreakBars,TaskGameEvent,,,1,,,,,,,,,,,,,,,,IO_09A_M6_BreakBars,,,09A_M6_BreakBars_Interact,,,,,,,,,,,,,,,,,,,,@09A_M6_BreakBars,,10007.744141 233.526581 59.400803,,,,,,,,,,,,,,,,,
+09A_M6_BreakBars,TaskGameEvent,,,1,,,,,,,,,,,,,,,,IO_09A_M6_BreakBars,,,09A_M6_BreakBars_Interact,,,,,,,,,,,,,,,,,,,,@09A_M6_BreakBars_task,,10007.744141 233.526581 59.400803,,,,,,,,,,,,,,,,,
 09A_M6_SwapBarsOff,TaskUnlockAchievement,,,1,09A_M6_BarsVisible,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M7_Container_Main,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09A_M7_SetSwaps_Container,09A_M7_Container_Tideswallow,09A_M7_Thanks_Josephine,09A_M7_SetSwaps2_Container,
 09A_M7_SetSwaps_Container,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M7_LockJosephine,09A_M7_SwapHidden_Kim_On,09A_M7_SwapActive_Kim_Off,,
@@ -552,19 +553,22 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 09A_M14_PlaceStaff,TaskGatherCyclicState,,0,1,Cyclic_09A_M14_NatureRitual,,0,,,,,,,,,,,,,IO_Cyclic_09A_M14_NatureRitual,,,,,,,,,,,,,,,,,,,,,,,@09A_M14_Task_PlaceStaff,,8481 1145,,,,,Cyclic_09A_M14_NatureRitual,0,,,,,,,,,,,
 09A_M14_TaskTimer,TaskTimer,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@09A_M14_Task_Wait,,8481 1145,,,,,Cyclic_09A_M14_NatureRitual,1,,,,,,,,,,,
 09A_M14_TakeStaff,TaskGatherCyclicState,,0,1,Cyclic_09A_M14_NatureRitual,,1,,,,,,,,,,,,,IO_Cyclic_09A_M14_NatureRitual,,,,,,,,,,,,,,,,,,,,,,,@09A_M14_Task_TakeStaff,,8481 1145,,true,,,Cyclic_09A_M14_NatureRitual,1,,,,,,,,,,,
-09A_M15_Container_Main,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09A_M15_Container_01,09A_M15_Container_02,09A_M15_Container_03,09A_M15_Container_04,09A_M15_Container_05
+09A_M15_Container_Main,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09A_M15_Container_01,09A_M15_Container_02,09A_M15_Container_SoulTrial_Main,09A_M15_Container_04,09A_M15_Container_05
 09A_M15_Container_01,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@09A_M15_Container_01,,,,,,,,,,,,,,,09A_M15_Container_ResetAchievements,09A_M15_Trahern_Sendoff,09A_M15_Hargest_Sendoff,,
-09A_M15_Container_ResetAchievements,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_Lock_TrialAchievement_Reset,09A_M15_SwapActive_Morgaine_EP_Off_Reset,09A_M15_SwapActive_Tear_Reset,09A_M15_SwapActive_EntangledArtemis_Reset,09A_M15_SwapActive_Artemis_EP_Reset
+09A_M15_Container_ResetAchievements,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_Lock_TrialAchievement_Reset,09A_M15_SwapActive_Morgaine_EP_Off_Reset,09A_M15_SwapActive_Tear_Reset,09A_M15_SwapActive_EntangledArtemis_Reset,09A_M15_Container_ResetAchievements_1
 09A_M15_Lock_TrialAchievement_Reset,TaskLockAchievement,,,,09A_M15_ArtemisTrialActive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M15_SwapActive_Morgaine_EP_Off_Reset,TaskLockAchievement,,,,SwapActive_09A_Morgaine_EP_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M15_SwapActive_Tear_Reset,TaskLockAchievement,,,,SwapActive_09A_M15_TearOfGaea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M15_SwapActive_EntangledArtemis_Reset,TaskLockAchievement,,,,SwapActive_09A_M15_EntangledArtemis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M15_Container_ResetAchievements_1,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_SwapActive_Artemis_EP_Reset,09A_M15_SwapActive_UnlockTrahernSwap_Reset,09A_M15_SwapActive_UnlockMorgaineSwap_Reset,,
 09A_M15_SwapActive_Artemis_EP_Reset,TaskLockAchievement,,,,SwapActive_09A_Artemis_EP_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M15_SwapActive_UnlockTrahernSwap_Reset,TaskUnlockAchievement,,,1,SwapActive_09A_Trahern_LC_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M15_SwapActive_UnlockMorgaineSwap_Reset,TaskUnlockAchievement,,,1,SwapActive_09A_Morgaine_LC_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M15_Trahern_Sendoff,TaskConversationState,,,,09A_Trahern_LC,,,,,,,,,,,,,,,,09A_Trahern_LC_Sendoff,,,,,,,,,,,,,,,,,,,,,,@09A_M15_Trahern_Sendoff,,,,,,,,,,,,,,,,,,,
 09A_M15_Hargest_Sendoff,TaskConversationState,,,,09A_Hargest_LC,,,,,,,,,,,,,,,,09A_Hargest_LC_Sendoff,,,,,,,,,,,,,,,,,,,,,,@09A_M15_Hargest_Sendoff,,,,,,,,,,,,,,,,,,,
-09A_M15_Container_02,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@09A_M15_Container_02,,,1,,,,,,,,,,,,09A_M15_TriggerArea_WhisperPlant_Tanglesnap,09A_M15_Container_02b,09A_M15_Defeat_Artemis,09A_M15_Container_IGC,09A_M15_Container_SwapActive_PostIGC
+09A_M15_Container_02,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@09A_M15_Container_02,,,1,,,,,,,,,,,,09A_M15_TriggerArea_WhisperPlant_Tanglesnap,09A_M15_Container_02b,,,
 09A_M15_TriggerArea_WhisperPlant_Tanglesnap,TaskTriggerArea,,,1,,,,,,,,,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,TriggerVol_09A_M15_WhisperPlant_Elafry,@09A_M15_TriggerArea_WhisperPlant_Elafry,,8426.25 1072.2661 213.5793,,,true,,,,,,,,,,,,,,
-09A_M15_Container_02b,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_WhisperPlant_ElafryPyrgo,09A_M15_Container_AscendTowerA,09A_M15_Unlock_TrialAchievement_Enter,TEMP_SwapActive_Morgaine_LC_Off,09A_M15_Container_TrialEnter
+09A_M15_Container_02b,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_WhisperPlant_ElafryPyrgo,09A_M15_Container_AscendTowerA,09A_M15_Unlock_TrialAchievement_Enter,TEMP_SwapActive_Morgaine_LC_Off,
 09A_M15_WhisperPlant_ElafryPyrgo,TaskGameEvent,,,1,09A_WhisperPlant_ElafryPyrgo,,,,,,,,,,,,,,,IO_09A_WhisperPlant_ElafryPyrgo,,,09A_WhisperPlant_ElafryPyrgo_Interact,,,,,,,,,,,,,,,,,,,,@09A_Task_WhisperPlant,,8417.459 1072.2047 214.4211,,,,,,,,,,,,,,,,,
 09A_M15_Container_AscendTowerA,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_AscendTower_TrailA,09A_M15_AscendTower_TrailB,09A_M15_AscendTower_TrailC,09A_M15_AscendTower_TrailD,09A_M15_Container_AscendTowerB
 09A_M15_AscendTower_TrailA,TaskGameEvent,,,1,09A_M15_AscendTower_TrailA,,,,,,,,,,,,,,,IO_09A_M15_AscendTower_TrailA,,,09A_M15_AscendTower_TrailA_Interact,,,,,,,,,,,,,,,,,,,,@09A_M15_AscendTower_Trail,,8403.2832 1051.5432 223.9714,,,true,,,,,,,,,,,,,,
@@ -579,9 +583,21 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 09A_M15_TriggerArea_EP_Top,TaskTriggerArea,,,1,,,,,,,,,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,TriggerVol_09A_M15_EP_Top,@09A_M15_TriggerArea_EP_Top,,8370.0957 1035.739 317.1245,,,true,,,,,,,,,,,,,,
 09A_M15_Unlock_TrialAchievement_Enter,TaskUnlockAchievement,,,,09A_M15_ArtemisTrialActive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 TEMP_SwapActive_Morgaine_LC_Off,TaskLockAchievement,,,,SwapActive_09A_Morgaine_LC_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
-09A_M15_Container_TrialEnter,PartialTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_TriggerArea_TrialEnter,09A_M15_DummyPin_TrialEnter,,,
+09A_M15_Container_SoulTrial_Main,PartialTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_SoulTrial_Complete_Check1,09A_M15_Container_SoulTrial_Inside,,,
+09A_M15_SoulTrial_Complete_Check1,TaskAchievement,,1,1,09A_M15_ArtemisTrialComplete,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M15_Container_SoulTrial_Inside,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_Container_TrialEnter,09A_M15_SoulTrial_Complete_Check3,09A_M15_Container_Trial_Check,,
+09A_M15_Container_TrialEnter,PartialTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_TriggerArea_TrialEnter,09A_M15_DummyPin_TrialEnter,09A_M15_SoulTrial_Complete_Check2,,
 09A_M15_TriggerArea_TrialEnter,TaskTriggerArea,,,1,,,,,,,,QuestAdiana,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,TriggerVol_09A_M15_Trial_Enter,@09A_M15_EnterTrial,,,,,,,,,,,,,,,,,,,
 09A_M15_DummyPin_TrialEnter,TaskTriggerArea,,,1,,,,,,,,,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,,,,8366.62 1030.65 318,1,,true,,,,,,,,,,,,,,
+09A_M15_SoulTrial_Complete_Check2,TaskAchievement,,1,1,09A_M15_ArtemisTrialComplete,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M15_SoulTrial_Complete_Check3,TaskAchievement,,1,1,!09A_M15_ArtemisTrialComplete,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M15_Container_Trial_Check,PartialTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_Container_Trial_Fail_Check,09A_M15_Container_03,,,
+09A_M15_Container_Trial_Fail_Check,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_GoToPOI,09A_M15_SoulTrial_Inside_Check,09A_M15_SoulTrial_Fail,,
+09A_M15_GoToPOI,TaskGoToPOITag,,,,,,,,true,,ancient_lighthouse_40046,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M15_SoulTrial_Inside_Check,TaskAchievement,,1,1,09A_M15_Inside_SoulTrial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M15_SoulTrial_Fail,TaskTimer,true,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M15_Container_03,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_Inside_SoulTrial_On,09A_M15_Defeat_Artemis,09A_M15_Container_IGC,09A_M15_Container_SwapActive_PostIGC,09A_M15_Container_03b
+09A_M15_Inside_SoulTrial_On,TaskUnlockAchievement,,,,09A_M15_Inside_SoulTrial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M15_Defeat_Artemis,TaskKillContribution,,,1,,,,,,,,QuestAdiana,,,,,,,,,,,FL_AI_Adiana_Bow,,,,,,,,,,,,,,,,,,,,@09A_M15_DefeatArtemis,,,,,,,,,,,,,,,,,,,
 09A_M15_Container_IGC,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_ImprisonSpell,09A_M15_Artemis_IGC,09A_M15_ArtemisDefeated,,
 09A_M15_ImprisonSpell,TaskGameEvent,,,1,09A_M15_ImprisonSpell,,,,,,,QuestAdiana,,,,,,,,IO_09A_M15_ImprisonSpell,,,09A_M15_ImprisonSpell_Interact,,,,,,,,,,,,,,,,,,,,@09A_M15_ImprisonSpell,,729.15 788.1567 422.712,,,true,,,,,,,,,,,,,,
@@ -590,7 +606,7 @@ TEMP_SwapActive_Morgaine_LC_Off,TaskLockAchievement,,,,SwapActive_09A_Morgaine_L
 09A_M15_Container_SwapActive_PostIGC,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_SwapActive_Morgaine_EP_On,09A_M15_SwapActive_TearOfGaea_On,,,
 09A_M15_SwapActive_Morgaine_EP_On,TaskUnlockAchievement,,,,SwapActive_09A_Morgaine_EP_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M15_SwapActive_TearOfGaea_On,TaskUnlockAchievement,,,,SwapActive_09A_M15_TearOfGaea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
-09A_M15_Container_03,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@09A_M15_Container_03,,,,,,,,,,,,,,,09A_M15_TalkTo_Morgaine,09A_M15_Container_TearOfGaea,09A_M15_TalkTo_Morgaine2,09A_M15_Container_SwapActive_Artemis,09A_M15_Container_03_Cleanup
+09A_M15_Container_03b,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_TalkTo_Morgaine,09A_M15_Container_TearOfGaea,09A_M15_TalkTo_Morgaine2,09A_M15_Container_SwapActive_Artemis,09A_M15_Container_03_Cleanup
 09A_M15_TalkTo_Morgaine,TaskConversationTopic,,,,09a_Morgaine_EP,,,,,,,QuestAdiana,,,,,,,,,09a_M15_Topic_Morgaine,,,,,,,,,,,,,,,,,,,,,,@09A_M15_Task_Morgaine_TalkTo,,,,,,,,,,,,,,,,,,,
 09A_M15_Container_TearOfGaea,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_SwapActive_TearOfGaea_Off,09A_M15_SwapActive_EntangledArtemis_On,09A_M15_TearOfGaia,09A_M15_DummyAchievement,
 09A_M15_SwapActive_TearOfGaea_Off,TaskLockAchievement,,,,SwapActive_09A_M15_TearOfGaea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
@@ -601,7 +617,7 @@ TEMP_SwapActive_Morgaine_LC_Off,TaskLockAchievement,,,,SwapActive_09A_Morgaine_L
 09A_M15_Container_SwapActive_Artemis,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_SwapActive_Artemis_EP_On,09A_M15_SwapActive_EntangledArtemis_Off,,,
 09A_M15_SwapActive_Artemis_EP_On,TaskUnlockAchievement,,,,SwapActive_09A_Artemis_EP_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M15_SwapActive_EntangledArtemis_Off,TaskLockAchievement,,,,SwapActive_09A_M15_EntangledArtemis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
-09A_M15_Container_03_Cleanup,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_RemoveTearOfGaia,09A_M15_SwapActive_Morgaine_EP_Off,09A_M15_Container_ArtemisEnd,09A_M15_Container_UnlockTrialExit,09A_M15_Container_TrialExit
+09A_M15_Container_03_Cleanup,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_RemoveTearOfGaia,09A_M15_SwapActive_Morgaine_EP_Off,09A_M15_Container_ArtemisEnd,09A_M15_Container_UnlockTrialExit,
 09A_M15_RemoveTearOfGaia,TaskRemoveItem,,,1,09A_M15_TearOfGaia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M15_SwapActive_Morgaine_EP_Off,TaskLockAchievement,,,,SwapActive_09A_Morgaine_EP_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M15_Container_ArtemisEnd,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_TalkTo_Artemis,09A_M15_SwapActive_EntangledArtemis2_On,09A_M15_SwapActive_Artemis_EP_Off,09A_M15_Cine_ArtemisDefeat,09A_M15_ArtemisDefeat_Cinematic_Watched
@@ -610,13 +626,14 @@ TEMP_SwapActive_Morgaine_LC_Off,TaskLockAchievement,,,,SwapActive_09A_Morgaine_L
 09A_M15_SwapActive_Artemis_EP_Off,TaskLockAchievement,,,,SwapActive_09A_Artemis_EP_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M15_Cine_ArtemisDefeat,TaskInteract,,,1,09A_M15_Cine_ArtemisDefeat,,,,,,,QuestAdiana,,,,,,,,IO_09A_M15_Cine_ArtemisDefeat,,,09A_M15_Cine_ArtemisDefeat_Interact,,,,,,,,,,,,,,,,,,,,@09A_M15_Cine_ArtemisDefeat,,729.1399 789.3156 32.5088,,,,,,,,,,,,false,,,,,
 09A_M15_ArtemisDefeat_Cinematic_Watched,TaskUnlockAchievement,,,,Cinematic_ShadowAwakens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
-09A_M15_Container_UnlockTrialExit,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_Lock_TrialAchievement_Enter,09A_M15_Unlock_TrialAchievement_Exit,,,
+09A_M15_Container_UnlockTrialExit,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_Lock_TrialAchievement_Enter,09A_M15_Unlock_TrialAchievement_Exit,09A_M15_Inside_SoulTrial_Off,09A_M15_Container_TrialExit,
 09A_M15_Lock_TrialAchievement_Enter,TaskLockAchievement,,,,09A_M15_ArtemisTrialActive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M15_Unlock_TrialAchievement_Exit,TaskUnlockAchievement,,,,09A_M15_ArtemisTrialComplete,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+09A_M15_Inside_SoulTrial_Off,TaskLockAchievement,,,,09A_M15_Inside_SoulTrial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M15_Container_TrialExit,PartialTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_TriggerArea_TrialExit,09A_M15_DummyPin_TrialExit,,,
 09A_M15_TriggerArea_TrialExit,TaskTriggerArea,,,1,,,,,,,,,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,TriggerVol_09A_M15_EP_Top,@09A_M15_ExitTrial,,,,,,,,,,,,,,,,,,,
 09A_M15_DummyPin_TrialExit,TaskTriggerArea,,,1,,,,,,,,QuestAdiana,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,,,,728.87 812.74 416.93,1,,true,,,,,,,,,,,,,,
-09A_M15_Container_04,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@09A_M15_Container_04,,,,,,,,,,,,,,,09A_M15_Container_SwapActive_End_On,09A_M15_Container_SwapActive2_End_On,09A_M15_Container_SwapActive_AmbNPC_On,09A_M15_TriggerArea_Warcamp,
+09A_M15_Container_04,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_Container_SwapActive_End_On,09A_M15_Container_SwapActive2_End_On,09A_M15_Container_SwapActive_AmbNPC_On,09A_M15_TriggerArea_Warcamp,
 09A_M15_Container_SwapActive_End_On,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M15_SwapActive_Trahern_End_On,09A_M15_SwapActive_Taurus_End_On,09A_M15_SwapActive_Hargest_End_On,09A_M15_SwapActive_Kim_End_On,09A_M15_SwapActive_Riches_End_On
 09A_M15_SwapActive_Trahern_End_On,TaskUnlockAchievement,,,,SwapActive_09A_Trahern_End_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_M15_SwapActive_Taurus_End_On,TaskUnlockAchievement,,,,SwapActive_09A_Taurus_End_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
@@ -784,7 +801,7 @@ TEMP_SwapActive_Morgaine_LC_Off,TaskLockAchievement,,,,SwapActive_09A_Morgaine_L
 09A_S8_UnlockKievan,TaskUnlockAchievement,,,1,SwapActive_09A_Kievan_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 09A_S9_Container_Main,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09A_S9_Container01,09A_S9_Container02,09A_S9_Container03,,
 09A_S9_Container01,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_S9_Tools1,,,,
-09A_S9_Tools1,TaskGameEvent,,,3,,,,,,,,,,,,,,,,IO_09A_S9_Tool1,,,09A_S9_Tool1_Interact,,,,,,,,,,,,,,,,,,,,@09A_S9_Container01,,,,,true,,,,,,,,,,,,,,
+09A_S9_Tools1,TaskGameEvent,,,3,,,,,true,,ancient_ruins_40054,,,,,,,,,IO_09A_S9_Tool1,,,09A_S9_Tool1_Interact,,,,,,,,,,,,,,,,,,,,@09A_S9_Container01,,,,,true,,,,,,,,,,,,,,
 09A_S9_Tools2,TaskGameEvent,,,1,,,,,,,,,,,,,,,,IO_09A_S9_Tool2,,,09A_S9_Tool2_Interact,,,,,,,,,,,,,,,,,,,,,,9605.5117 833.8021 105.4508 ,1,,true,,,,,,,,,,,,,,
 09A_S9_Tools3,TaskGameEvent,,,1,,,,,,,,,,,,,,,,IO_09A_S9_Tool3,,,09A_S9_Tool3_Interact,,,,,,,,,,,,,,,,,,,,,,9647.9262 871.7325 104.9509,1,,true,,,,,,,,,,,,,,
 09A_S9_Container02,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@09A_S9_Container02,,,,,,,,,,,,,,,09A_S9_TalkToKievan1,09A_S9_DummyContainer,09A_S9_GrabDrink,09A_S9_PowerOn,

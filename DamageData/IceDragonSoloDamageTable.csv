@@ -7,5 +7,5 @@ Attack_Dragon_TailSlam,Bite_AI,0,0,Bullet,Heavy,Strike,,,,,,,,,,false,0.6,0.6,0.
 Attack_Dragon_TailWhip,Bite_AI,0,0,Bullet,Heavy,Strike,,,,,,,,,,false,0.75,1,1,2,2,0,20,15,20,0,0.75,0,0.8,0,0.3,0,0.8,0,0.75,0,0.8,0,0,0.2,1,0.3,,1,Small,Small,Small,0.5,0.1625,0.325
 Attack_Charge_Bite,Bite_AI,0,0,Bullet,Light,Strike,,,,,,,,,,false,0.4,1,1,0,0,0,10,10,10,0,2,0,0.8,0,1,0,0.8,0,2,0,0.8,0,0,0.2,1,0.3,,1,Small,Small,Small,0,0.1625,0.325
 Attack_GlacialSpike,Bite_AI,0,0,Bullet,Heavy,Strike,,,,,,AI_IceDMG_50,,,,false,0.3,1,1,0,0,0,10,10,10,0,1.5,0.5,0.8,0,0.5,0,0.8,0,0,0,0.8,0,0,0,1,0.3,,1,Small,Small,Small,1,1,0.1625
-Attack_Horn_R,Bite_AI,0,0,Bullet,Heavy,Slash,,,,,,AI_IceDMG_50,AI_Bleed_9,true,,false,0.4,1,1,0,0,0,10,10,10,-0.5,-0.5,0,0.8,-0.5,-0.15,0,0.8,0,0.3,0,0.8,0,0,0.2,1,0.3,,1,Small,Small,Small,0,0.1625,0.325
-Attack_Horn_L,Bite_AI,0,0,Bullet,Heavy,Slash,,,,,,AI_IceDMG_50,AI_Bleed_9,true,,false,0.4,1,1,0,0,0,10,10,10,0.5,0.5,0,0.8,0.5,0.2,0,0.8,0,0.3,0,0.8,0,0,0.2,1,0.3,,1,Small,Small,Small,0,0.1625,0.325
+Attack_Horn_R,Bite_AI,0,0,Bullet,Heavy,Slash,,,,,,AI_IceDMG_50,AI_IceDragon_Bleed_9,true,,false,0.4,1,1,0,0,0,10,10,10,-0.5,-0.5,0,0.8,-0.5,-0.15,0,0.8,0,0.3,0,0.8,0,0,0.2,1,0.3,,1,Small,Small,Small,0,0.1625,0.325
+Attack_Horn_L,Bite_AI,0,0,Bullet,Heavy,Slash,,,,,,AI_IceDMG_50,AI_IceDragon_Bleed_9,true,,false,0.4,1,1,0,0,0,10,10,10,0.5,0.5,0,0.8,0.5,0.2,0,0.8,0,0.3,0,0.8,0,0,0.2,1,0.3,,1,Small,Small,Small,0,0.1625,0.325

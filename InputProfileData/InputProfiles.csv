@@ -1,0 +1,3 @@
+DisplayName,Path,DisplayString
+Default,libs/config/defaultprofile.xml,@ui_default_profile
+Advanced,libs/config/advancedprofile.xml,@ui_advanced_profile

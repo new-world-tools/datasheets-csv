@@ -84,6 +84,7 @@ Dropper_Fire_Proximity_POI_Projectile,Siege,1,1,WorldEvents/MonarchsBluffs/Inter
 BaseHatchetAmmo,Thrown,1,1,Items/Weapons/basic_thrown,Play_Bullet_WizzBys,
 BaseSpearAmmo,Thrown,1,1,Items/Weapons/basic_thrown_spear,Play_Arrow_WhizzBys,
 AI_Naga_Fire_Projectile,Shot,1,1,Characters/SpellSlices/Naga_Fire/FireNaga_FlameVent_Projectile,Play_Arrow_WhizzBys,
+AI_GhastlyHatchets,Thrown,1,1,Items/Weapons/Ghastly_ThrownHatchet.slice,Play_Arrow_WhizzBys,
 AI_Adiana_Sprout_Projectile,Shot,1,1,Items/Weapons/MegaFlora_RazorLotus_PetalProjectile,Play_Arrow_WhizzBys,
 AI_Yonas_Magic_Projectile,Arrow,1,1,Characters/SpellSlices/AI_Yonas_Magic_Proj,Play_Arrow_WhizzBys,
 AI_Adiana_Arrow,Arrow,1,1,Items/Weapons/ai_adiana_arrow,Play_Arrow_WhizzBys,

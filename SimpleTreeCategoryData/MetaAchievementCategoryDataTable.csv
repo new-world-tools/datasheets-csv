@@ -66,3 +66,4 @@ Versus_Player,Leaderboard,5,@ui_meta_achievements_versus_player,LyShineUI\Images
 Leaderboard_Outpost_Rush,Leaderboard,7,@ui_meta_achievements_outpost_rush,LyShineUI\Images\Icons\Achievements\achievement_icon_background10.dds,true
 Leaderboard_Invasions_And_Breaches,Leaderboard,8,@ui_meta_achievements_invasions_and_breaches,LyShineUI\Images\Icons\Achievements\achievement_icon_background10.dds,true
 Territory_Control,Leaderboard,9,@ui_meta_achievements_territory_control,LyShineUI\Images\Icons\Achievements\achievement_icon_background10.dds,true
+Legacy,,13,@ui_meta_achievements_legacy,LyShineUI\Images\Icons\Achievements\achievement_icon_background.dds,

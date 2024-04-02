@@ -46,3 +46,4 @@ Shrivelled,,,,,,,HealScalingValueMultiplier:-0.5
 MammothEmpowered,,,0,0,0,0,
 NonDispellableSlow,-0.2,-0.8,0,0,0,0,"MoveSpeedMod:-0.5,SprintSpeedMod:-0.5"
 TraversalHaste,,,0,0,0,0,"MoveSpeedMod:0.5,SprintSpeedMod:0.5"
+Taunt,,,0,0,0,0,

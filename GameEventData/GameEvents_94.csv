@@ -58,3 +58,8 @@ All_Races_Success,,70,Quest,,,0,0,,,,,,,,,,,,0,,,,,,,,true
 9403_Race_Success,RidingObjectiveCompletion,45,Quest+,,,,,,,,,Riding,1100,250,,,,,,,,,,,,RidingObjectiveBuff,true
 9404_Race_Success,RidingObjectiveCompletion,60,Quest+,,,,,,,,,Riding,1200,250,,,,,,,,,,,,RidingObjectiveBuff,true
 9405_Race_Success,RidingObjectiveCompletion,60,Quest+,,,,,,,,,Riding,1300,250,,,,,,,,,,,,RidingObjectiveBuff,true
+EW_Rally_1B_Success,,65,Quest,,,0,0,,MountItem_Vitamins_T3,10,,Riding,59925,,,,,,0,,,,,,,,true
+EW_Rally_2B_Success,,65,Quest,,,0,0,,MountItem_Vitamins_T3,10,,Riding,59925,,,,,,0,,,,,,,,true
+EW_Tour_1B_Success,,65,Quest,,,0,0,,MountBuff_CustomB_T2,1,,Riding,59925,,,,,,0,,,,,,,,true
+EW_Tour_2B_Success,,65,Quest,,,0,0,,MountAttachmentItem_Shield19,1,,Riding,59925,,,,,,0,,,,,,,,true
+EW_Tour_3B_Success,,65,Quest,,,0,0,,MountBuff_HealingT2,1,,Riding,59925,,,,,,0,,,,,,,,true
