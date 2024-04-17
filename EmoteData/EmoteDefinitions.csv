@@ -158,6 +158,7 @@ Emote_DanceSwing2,Emote_SwingDance_2,ui_Emote_DanceSwing2_name,ui_Emote_DanceSwi
 Emote_DanceSwing3,Emote_SwingDance_3,ui_Emote_DanceSwing3_name,ui_Emote_DanceSwing3_description,Other,@Emote_DanceSwing3,swing3,azothhop,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_SwingDance_3.dds,,dance,,
 Emote_PlayDead,Emote_PlayDead,ui_Emote_PlayDead_name,ui_Emote_PlayDead_description,Other,@Emote_PlayDead,playdead,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_PlayDead.dds,,,,Season_4
 Emote_LolNo,Emote_LolNo,ui_Emote_LolNo_name,ui_Emote_LolNo_description,Other,@Emote_LolNo,LolNo,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_LolNo.dds,,,,
+Emote_BopDance,Emote_BopDance,ui_Emote_BopDance_name,ui_Emote_BopDance_description,Other,@Emote_BopDance,bopdance,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_BopDance.dds,,,,SpringtideBloom_2023
 Emote_Shadowbox,Emote_ShadowBoxing,ui_Emote_Shadowbox_name,ui_Emote_Shadowbox_description,Other,@Emote_Shadowbox,shadowbox,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_shadowboxing.dds,,,,Season_5
 Emote_GauntletThrow,Emote_GauntletThrow,ui_Emote_GauntletThrow_name,ui_Emote_GauntletThrow_description,Other,@Emote_GauntletThrow,gauntlet,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_GauntletThrow.dds,,,,
 Emote_Walk_Torch,Emote_Walk_Torch,ui_emote_Walk_Torch_name,ui_emote_Walk_Torch_description,Default,@emote_Walk_Torch,torchwalk,,1,1,1,0,,1,lyshineui/images/icons/emotes/emote_GrimReaper_TorchWalk.dds,,,,

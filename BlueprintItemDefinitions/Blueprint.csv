@@ -235,6 +235,7 @@ CampSkin_Igloo_A,@CampSkin_Igloo_A_MasterName,,,1,true,0,0,0,,300,0,,0,0,0,false
 CampSkin_TheTower_A,@CampSkin_TheTower_A_MasterName,,,1,true,0,0,0,,300,0,,0,0,0,false,Low,Small,MakeCamp,,Place_Camp,,WoodT1,FlintT1,,,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,
 CampSkin_Ronin_01,@CampSkin_Ronin_01_MasterName,,,1,true,0,0,0,,300,0,,0,0,0,false,Low,Small,MakeCamp,,Place_Camp,,WoodT1,FlintT1,,,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,
 CampSkin_Reaper01_A,@CampSkin_Reaper01_A_MasterName,,,1,true,0,0,0,,300,0,,0,0,0,false,Low,Small,MakeCamp,,Place_Camp,,WoodT1,FlintT1,,,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,
+CampSkin_Spring01_A,@CampSkin_Spring01_A_MasterName,,,1,true,0,0,0,,300,0,,0,0,0,false,Low,Small,MakeCamp,,Place_Camp,,WoodT1,FlintT1,,,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,
 CampSkin_Hecate01_A,@CampSkin_Hecate01_A_MasterName,,,1,true,0,0,0,,300,0,,0,0,0,false,Low,Small,MakeCamp,,Place_Camp,,WoodT1,FlintT1,,,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,
 Graveyard,@Graveyard_MasterName,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Dev,@Dev_MasterName,,,0,,1,0,0,,200,0,,0,60,0.21,false,Low,Small,,,,,BranchT1,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

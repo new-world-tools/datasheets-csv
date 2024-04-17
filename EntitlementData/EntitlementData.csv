@@ -2063,6 +2063,15 @@ Ent_Mount_MTX_8_lion_Reaper,2233,true,,,,,Mount,Mount_MTX_8_lion_Reaper,,Store,,
 Ent_MountAttachmentItem_Skin_Reaper_SkullLantern,2234,true,,,,,MountAttachment,MountAttachmentItem_Skin_Reaper_SkullLantern,,Store,,,,Ent_Xpack_RiseOfTheAngryEarth_Owner
 Ent_MountAttachmentItem_Skin_Reaper_SoulsVials,2235,true,,,,,MountAttachment,MountAttachmentItem_Skin_Reaper_SoulsVials,,Store,,,,Ent_Xpack_RiseOfTheAngryEarth_Owner
 Ent_MountAttachmentItem_Skin_Reaper_RavenShield,2236,true,,,,,MountAttachment,MountAttachmentItem_Skin_Reaper_RavenShield,,Store,,,,Ent_Xpack_RiseOfTheAngryEarth_Owner
+EntitlementSkin_SpringBloom_WoodSentry_Chest,2237,true,,,,,ItemSkin,Skin_SpringBloom_WoodSentry_Chest,,SpringEvent,,,,
+EntitlementSkin_SpringBloom_WoodSentry_Head,2238,true,,,,,ItemSkin,Skin_SpringBloom_WoodSentry_Head,,SpringEvent,,,,
+EntitlementSkin_SpringBloom_WoodSentry_Legs,2239,true,,,,,ItemSkin,Skin_SpringBloom_WoodSentry_Legs,,SpringEvent,,,,
+EntitlementSkin_SpringBloom_WoodSentry_Feet,2240,true,,,,,ItemSkin,Skin_SpringBloom_WoodSentry_Feet,,SpringEvent,,,,
+EntitlementSkin_SpringBloom_WoodSentry_Gloves,2241,true,,,,,ItemSkin,Skin_SpringBloom_WoodSentry_Gloves,,SpringEvent,,,,
+EntitlementSkin_SpringBloom_FestiveFlower_Chest,2242,true,,,,,ItemSkin,Skin_SpringBloom_FestiveFlower_Chest,,SpringEvent,,,,
+EntitlementSkin_SpringBloom_FestiveFlower_Legs,2244,true,,,,,ItemSkin,Skin_SpringBloom_FestiveFlower_Legs,,SpringEvent,,,,
+EntitlementSkin_SpringBloom_FestiveFlower_Feet,2245,true,,,,,ItemSkin,Skin_SpringBloom_FestiveFlower_Feet,,SpringEvent,,,,
+Ent_Emote_BopDance,2247,true,,,,,Emote,Emote_BopDance,,SpringEvent,,,,
 Ent_Emote_Shadowbox,2248,true,,,,,Emote,Emote_Shadowbox,,SeasonRewardTrack,,,,
 Ent_MountAttachmentItem_Skin_DarkAcademy_BearTrap,2249,true,,,,,MountAttachment,MountAttachmentItem_Skin_DarkAcademy_BearTrap,,SeasonRewardTrack,,,,
 Ent_MountAttachmentItem_Skin_DarkAcademy_Sextant,2250,true,,,,,MountAttachment,MountAttachmentItem_Skin_DarkAcademy_Sextant,,SeasonRewardTrack,,,,
@@ -2070,6 +2079,7 @@ Ent_MountAttachmentItem_Skin_DarkAcademy_SkullBear,2251,true,,,,,MountAttachment
 Ent_Emote_GauntletThrow,2252,true,,,,,Emote,Emote_GauntletThrow,,Store,,,,
 Ent_Emote_Walk_Torch,2253,true,,,,,Emote,Emote_Walk_Torch,,Store,,,,
 Ent_Emote_Walk_Wave,2254,true,,,,,Emote,Emote_Walk_Wave,,SeasonRewardTrack,,,,
+Entitlement_CampSkin_Spring01_A,2259,true,,,,,CampSkin,CampSkin_Spring01_A,,SeasonRewardTrack,,,,
 Entitlement_CampSkin_Hecate01_A,2260,true,,,,,CampSkin,CampSkin_Hecate01_A,,SeasonRewardTrack,,,,
 EntitlementTitle_Season5_BattlePass,2261,true,@ui_playertitle_season5_battlepass,@ui_playertitle_season5_battlepass_description,,LyShineUI\Images\Icons\items_hires\MI_SealedScroll.png,PlayerTitle,PlayerTitle_Season5_BattlePass,,SeasonRewardTrack,,,,
 Entitlement_Season5_UnclaimedFreePass05,2262,true,,,true,,SeasonsRewards,,,SeasonRewardTrack,,,,
