@@ -2057,6 +2057,8 @@ EntitlementSkin_Chest_S5_Rank1_LBScore_Glacial,2224,true,,,,,ItemSkin,Skin_Chest
 EntitlementSkin_Chest_S5_Rank2_LBScore_Glacial,2225,true,,,,,ItemSkin,Skin_Chest_S5_Rank2_LB_LBScore_GlacialTarn,,Leaderboards,,,,
 Ent_Emote_LolNo,2227,true,,,,,Emote,Emote_LolNo,,Store,,,,
 Ent_CampSkin_Reaper01_A,2228,true,,,,,CampSkin,CampSkin_Reaper01_A,,Store,,,,
+EntitlementSkin_RabbitsRevenge_Chest,2229,true,,,,,ItemSkin,Skin_RabbitsRevenge_Chest,,RabbitsRevenge,,,,
+Ent_Emote_PetRabbit,2230,true,,,,,Emote,Emote_RabbitPet,,RabbitsRevenge,,,,
 Ent_Mount_MTX_8_horse_Reaper,2231,true,,,,,Mount,Mount_MTX_8_horse_Reaper,,Store,,,,Ent_Xpack_RiseOfTheAngryEarth_Owner
 Ent_Mount_MTX_8_wolf_Reaper,2232,true,,,,,Mount,Mount_MTX_8_wolf_Reaper,,Store,,,,Ent_Xpack_RiseOfTheAngryEarth_Owner
 Ent_Mount_MTX_8_lion_Reaper,2233,true,,,,,Mount,Mount_MTX_8_lion_Reaper,,Store,,,,Ent_Xpack_RiseOfTheAngryEarth_Owner

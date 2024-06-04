@@ -197,7 +197,7 @@ TaskID,Type,FailOnCondition,StayActive,RequiredLevel,TargetQty,ItemName,ItemDrop
 99D_MSQ_07_PortalFight_talkToWardenD,TaskConversationTopic,,,,1,99D_JacquetDavy_B,,,,,,,,,,,,,,,,,99D_MSQ_07_Jacquet_RescuePortal,,,,,,,,,,,,,,,,,,,,,,@99D_MSQ_07_PortalFight_talkToWardenD,,8330.89 7616.69 589.86,,,,,,,,,,,,,,,,
 99D_MSQ_07_PortalFight_swapWardenD_BOff,TaskLockAchievement,,,,1,SwapActive_MSQ_SoulWardenD_B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,
 99D_MSQ_07_PortalFight_swapWardenD_AOn,TaskUnlockAchievement,,,,1,SwapActive_MSQ_SoulWardenD_A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,
-99D_MSQ_07_PortalFight_travel_container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,99D_MSQ_07_PortalFight_corruptedFight_container,99D_MSQ_07_PortalFight_GoToPOI,99D_MSQ_07_PortalFight_defeatCultists2,99D_MSQ_07_PortalFight_defeatSummoner,
+99D_MSQ_07_PortalFight_travel_container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,99D_MSQ_07_PortalFight_corruptedFight_container,99D_MSQ_07_PortalFight_defeatCultists2,99D_MSQ_07_PortalFight_defeatSummoner,,
 99D_MSQ_07_PortalFight_corruptedFight_container,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,99D_MSQ_07_PortalFight_defeatCultist,,,,
 99D_MSQ_07_PortalFight_defeatCultist,TaskKillContribution,,,,6,,,,,true,,corrupted_ritual_40304,,,,,,,,,,,,,Corruption_Swarmer_03GC03_ELITE,,,,,,,,,,,,,,,,,,,,@99D_MSQ_07_PortalFight_defeatEnemy,,,,,,,,,,,,,,,,,,
 99D_MSQ_07_PortalFight_GoToPOI,TaskGoToPOITag,,,,,,,,,true,,ancient_shrine_40312,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@99D_MSQ_07_PortalFight_GoToPOI,,,,,,,,,,,,,,,,,,

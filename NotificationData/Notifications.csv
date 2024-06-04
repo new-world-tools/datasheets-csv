@@ -36,7 +36,7 @@ Red_Button_Coin_Transferal_Disabled,@ui_feature_disabled,@ui_red_button_coin_tra
 Red_Button_Coin_Generation_Limited,@ui_feature_disabled,@ui_red_button_coin_generation_limited,,,,Minor,,,,,,
 Red_Button_Crafting_Disabled,@ui_feature_disabled,@ui_red_button_crafting_disabled,,,,Minor,,,,,,
 Damage_Ignored_Siege_Unclaimed_Points,@ui_unclaimed_points,@ui_unclaimed_points_damage_warning,,,1,Minor,,,20,,,
-Teleport_Pending,@ui_teleport_pending,@ui_notification_teleport_pending,,,,Minor,,,,,,
+Teleport_Pending,@ui_teleport_pending,@ui_notification_teleport_pending,,,,Minor,,10,,,,
 Teleport_Denied,@ui_teleport_denied,@ui_notification_teleport_denied,,,,Minor,,,,,,
 Teleport_Failed,@ui_teleport_failed,@ui_notification_teleport_failed,,,,Minor,,,,,,
 Red_Button_All_Salvaging_Disabled,@ui_feature_disabled,@ui_red_button_all_salvaging_disabled,,,,Minor,,,,,,

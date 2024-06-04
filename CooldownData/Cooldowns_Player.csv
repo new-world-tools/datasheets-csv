@@ -3,7 +3,7 @@ ID,AbilityID,Time,MinTime,WeaponTag
 2,Ability_Sword_WhirlingBlade,15,0,Sword
 3,Ability_Sword_Rush,20,0,Sword
 4,Ability_Sword_Bash,25,0,Sword
-5,Ability_Sword_FinalStand,45,0,Sword
+5,Ability_Sword_FinalStand,35,0,Sword
 6,Ability_Sword_LeapingStrike,18,0,Sword
 7,Ability_Greataxe_Whirlwind,30,0,GreatAxe
 8,Ability_Greataxe_Charge,20,0,GreatAxe
