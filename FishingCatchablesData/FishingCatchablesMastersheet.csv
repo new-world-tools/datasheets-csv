@@ -110,13 +110,6 @@ FishingOarT2,None,16-17,84,100,0.05,1.2,Lazy,false,Objects\Crafting\Props\catcha
 0223_0101_BarbedCatfish,None,12-31,20-29,100,0.15,1.3,EarlyAggressive,true,Objects\Characters\npc\natural\fish\Fish_B_Catfish.cdf,1.2,
 0223_0101_HookedSquid,None,9-18,15-29,100,0.15,1.3,TotalAggressive,true,Objects\Characters\npc\natural\fish\jav_prp_squid.cdf,1.2,
 0724_0101_CorruptionTingedFish,None,66,66,100,0.2,1.4,TotalAggressive,true,Objects\Crafting\Props\FoodStuffs\Fish\VeryRareFish_C1\Jav_Prp_VeryRareFish_C2.cdf,1,
-FishingSummerMedleySturgeonSmallT3,Small,1-12,20-29,150,0.2,0.8,"EarlyAggressive,LateAggressive,Sporadic",false,objects\characters\npc\natural\fish\Aeternum_Sturgeon_Fish.cdf,0.7,Fishing_SummerMedley_Med
-FishingSummerMedleySturgeonMediumT3,Medium,12-40,29-39,156,0.15,1.2,"EarlyAggressive,LateAggressive,TotalAggressive,Sporadic",false,objects\characters\npc\natural\fish\Aeternum_Sturgeon_Fish.cdf,1,Fishing_SummerMedley_Large
-FishingSummerMedleySturgeonLargeT3,Large,40-77,40-67,163,0.1,1.4,"EarlyAggressive,LateAggressive,TotalAggressive,Sporadic",true,objects\characters\npc\natural\fish\Aeternum_Sturgeon_Fish.cdf,1.2,Fishing_SummerMedley_Xlarge
-FishingSummerMedleyCacheT3,None,28-30,40,150,0.05,1.2,Lazy,false,objects\characters\npc\natural\fish\Summer_MedleyfaireCache.cdf,0.5,Fishing_SummerMedley_Small
-SummerMedley_PristineSoakedWood,None,16,30,125,0.05,1.2,Lazy,false,objects\characters\npc\natural\fish\Summer_PristineWood.cdf,1,Fishing_SummerMedley_Xsmall
-SummerMedley_AssortedCoral,None,3,11,125,0.05,1.2,Lazy,false,objects\characters\npc\natural\fish\Summer_SeaGrass.cdf,1,Fishing_SummerMedley_Xsmall
-SummerMedley_CautiouslyWrappedStuffing,None,9,15,125,0.05,1.2,Lazy,false,objects\characters\npc\natural\fish\Summer_WrappedStuffing.cdf,1,Fishing_SummerMedley_Xsmall
 16_Side_11_TastyFish,None,40-50,40-70,100,0.2,1.3,Sporadic,true,Objects\Crafting\Props\FoodStuffs\Fish\VeryRareFish_E1\Jav_Prp_VeryRareFish_E2.cdf,0.5,
 FishingTreasureChestT3,None,28-30,40,200,0.05,1.2,Lazy,true,Objects\Crafting\Props\catchables\Fishing_Kit07\Jav_Prp_ChestFishing.cdf,0.85,
 FishingTreasureSeaweedT2,None,28-30,40,200,0.05,1.2,Lazy,true,Objects\Crafting\Props\catchables\Fishing_Kit07\Jav_Prp_ChestFishing.cdf,0.85,
