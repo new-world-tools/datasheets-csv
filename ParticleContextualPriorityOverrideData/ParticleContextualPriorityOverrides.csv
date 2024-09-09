@@ -79,3 +79,6 @@ cFX_npc_SandwormBoss.Chomp_AOE,Required
 env_quickcourse.checkpoint,High
 wfxo_LifeStaff.shared.targeting,Required
 wfxo_Firestaff.shared.Targeting,Required
+Hercyne_Expedition.Water_Ball_Hand.magic_water_in_hand,Required
+cFX_npc_Hercyne_Typhon.Typhon_BuffingHowl_KillMinions,Normal
+cFX_npc_Hercyne_Typhon.Typhon_BuffingHowl_Leech,High

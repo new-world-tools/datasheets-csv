@@ -36,7 +36,7 @@ ID,AbilityID,Time,MinTime,WeaponTag
 35,Ability_Bow_PoisonShot,30,0,Bow
 36,Ability_Bow_RainofArrows,20,0,Bow
 37,Ability_Lifestaff_DivineEmbrace,6,0,MagicStaff
-38,Ability_Lifestaff_ScaredGround,20,0,MagicStaff
+38,Ability_Lifestaff_SacredGround,20,0,MagicStaff
 39,Ability_Lifestaff_SplashofLight,15,0,MagicStaff
 40,Ability_Lifestaff_OrbofProtection,10,0,MagicStaff
 41,Ability_Lifestaff_LightsEmbrace,4,0,MagicStaff
@@ -66,7 +66,7 @@ ID,AbilityID,Time,MinTime,WeaponTag
 65,IceMagic_Entombed,30,0,MagicGauntlet
 66,IceMagic_IceShower,30,0,MagicGauntlet
 67,IceMagic_IcePylon,10,0,MagicGauntlet
-68,Ability_VoidGauntlet_VoidBlade,25,0,VoidGauntlet
+68,Ability_VoidGauntlet_VoidBlade,10,0,VoidGauntlet
 69,Ability_VoidGauntlet_NullChamber,20,0,VoidGauntlet
 70,Ability_VoidGauntlet_Scream,25,0,VoidGauntlet
 71,Ability_VoidGauntlet_DecayingOrb,15,0,VoidGauntlet

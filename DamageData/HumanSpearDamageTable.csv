@@ -7,6 +7,6 @@ Attack_Leg_Sweep_FollowUp,Spear,0,0,,Bullet,Heavy,Thrust,,,,Deflect_Default,fals
 Dynasty_Spearman_Flying_Kick,Unarmed,0,0,,Bullet,Heavy,Strike,,AI_Stun_2sec,true,,false,0.7,1,1,1,2,1,14,20,14,0,1.2,0,0.8,0,0,0,0.8,0,1.3,0,0.8,0,1,0,Small,Small,Small,3,1.2,1,1,0.1625,0.325
 Dynasty_Spearman_Spinning_Rising_Combo,Spear,0,0,,Bullet,Light,Slash,,,,Deflect_Default,false,0.35,1,1,0,1,0,13,13,13,0,1,0,0.8,0,0,0,0.8,0,1.1,0,0.8,0,0.8,1,Small,Small,Small,3,0.35,1,0.5,0.1625,0.325
 Dynasty_Spearman_Spinning_Rising_End,Spear,0,0,,Bullet,Heavy,Slash,,,,Deflect_Default,false,0.5,1,1,2,2,2,26,24,26,0,1.3,0,0.8,0,0,0,0.8,0,1.4,0,0.8,0,1.2,1,Small,Small,Small,4,0.6,1,1,0.1625,0.325
-Deflect_Default,Unarmed,1,0,,,,Deflect,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,Small,,0,0.45,1,1,,0.1625,0.325
+Deflect_Default,Unarmed,1,0,,,,Standard,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,Small,,0,0.45,1,1,,0.1625,0.325
 Fall,Fall,1,1,,Bullet,,Falling,,,,,,1,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Small,,0,1,1,1,,0.1625,0.325
 Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Small,,1,0,1,1,,0.1625,0.325

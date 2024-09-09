@@ -1,0 +1,14 @@
+EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExpAmount,CurrencyReward,RewardsNotes,ItemReward,ItemRewardQty,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionTokens,FactionInfluenceAmount,FactionInfluenceSrc,AzothReward,AzothRewardChance,WhisperID,AchievementId,IgnoreEconomyTracker,EntitlementId,PVPXP,RemoveStatusEffectCategories,EmitTelemetry
+C91_FQ_01_UnpathedWaters_Success,,5,Quest,,,450,4375,,CRX_LightFeet_FishQuestT2,,,Fishing,50,#REF!,,,,,0,1,,,,,,,true
+C91_FQ_02_UndreamedShores_Success,,5,Quest,,,450,4375,,CRX_LightChest_FishQuestT2,,,Fishing,50,600,,,,,0,1,,,,,,,true
+C91_FQ_02_Vector_Success,,5,Quest,,,450,4375,,,,,Fishing,,600,,,,,0,1,,,,,,,true
+C91_FQ_03_DeboshedFish_Success,,10,Quest+,,,1020,7000,,CRX_FQ_TreasureT2,,,Fishing,50,600,,,,,50,1,,,,,,,true
+C91_FQ_03_Vector_Success,,10,Quest,,,850,5000,,,,,Fishing,,600,,,,,0,1,,,,,,,true
+C91_FQ_04_MelancholyBait_Success,,15,Quest+,,,1590,7875,,,,,Fishing,100,800,,,,,50,1,,,,,,,true
+C91_FQ_05_GildedTombs_Success,,15,Quest+,,,1590,7875,,CRX_FQ_TreasureT3,,,Fishing,100,800,,,,,50,1,,,,,,,true
+C91_FQ_05_Vector_Success,,15,Quest,,,1320,5625,,,,,Fishing,,800,,,,,20,1,,,,,,,true
+C91_FQ_06_RotsHead_RotsHead_Success,,30,Quest+,,,4500,10500,,CRX_FQ_TreasureT4,,,Fishing,100,800,,,,,50,1,,,,,,,true
+C91_FQ_08_11_PickUp_Perronelle_Interact,,0,Quest,,,0,0,,,,,Fishing,,0,,,,,0,0,,,,,,,true
+C91_FQ_06_Vector_Success,,30,Quest,,,3750,7500,,,,,Fishing,,600,,,,,20,1,,,,,,,true
+C91_FQ_07_DepthsClose_Success,,35,Quest+,,,4950,11375,,CRX_LightHead_FishQuestT4,,,Fishing,150,800,,,,,50,1,,,,,,,true
+C91_FQ_08_FisherKing_Success,,40,Quest+,,,5630,12250,,CRX_2hFishingPole_FQ_LueurT5,,,Fishing,150,800,,,,,50,1,,,,,,,true

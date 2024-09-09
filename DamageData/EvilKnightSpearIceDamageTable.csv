@@ -6,6 +6,6 @@ Attack_Leg_Sweep,Spear,0,0,,Bullet,Heavy,Thrust,AI_IceDMG_50,,,Deflect_Default,f
 Attack_Leg_Sweep_FollowUp,Spear,0,0,,Bullet,Heavy,Thrust,AI_IceDMG_50,,,Deflect_Default,false,0.85,1,1,0,2,0,25,20,25,0,0.5,0,0.8,0,0.5,0,0.8,0,0,0,0.8,0,0,0,Small,,3,1,1,1,30,0.1625,0.325
 Attack_Seasons_Beatings_Whirl,Spear,0,0,,Bullet,Light,Thrust,AI_IceDMG_50,,,Deflect_Default,false,0.25,1,1,0,0,0,15,10,15,0,0.5,0,0.8,0,0.5,0,0.8,0,0,0,0.8,0,0,0,Small,Small,3,0.3,1,1,30,0.1625,0.325
 Attack_Seasons_Beatings_Slam,Spear,0,0,,Ice,Heavy,Ice,,AI_Evil_Knight_SeasonsBeatings,true,Deflect_Default,false,1,1,1,1,1,1,15,10,15,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0,0,Small,Small,3,1.2,1,0,30,0.1625,0.325
-Deflect_Default,Unarmed,1,0,,,,Deflect,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,Small,,0,0.45,1,1,,0.1625,0.325
+Deflect_Default,Unarmed,1,0,,,,Standard,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,Small,,0,0.45,1,1,,0.1625,0.325
 Fall,Fall,1,1,,Bullet,,Falling,,,,,,1,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Small,,0,1,1,1,,0.1625,0.325
 Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Small,,1,0,1,1,,0.1625,0.325

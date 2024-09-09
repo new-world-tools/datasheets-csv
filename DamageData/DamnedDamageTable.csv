@@ -43,7 +43,7 @@ Damned_1H_Ranged_Pistol_Hip_Shot_Special,Musket,0,0,true,Bullet,Light,Thrust,,,,
 Damned_Spell_Fireball,CorruptedMagic,0,0,true,Bullet,Magic,Fire,,,,,,,Deflect_Default,false,0.9,1,1,1,1,1,15,10,15,0,0,0,0.8,0,0,0,0,0,0,0,0.8,0,0,,0,Small,Small,Small,0,0.33,1,1,0.1625,0.325
 Damned_Spell_GroundWave,CorruptedMagic,0,0,,Bullet,Heavy,Thrust,,,,,,,Deflect_Default,false,0.7,1,1,1,1,1,15,10,15,0,0,0,0.8,0,0,0,0,0,0,0,0.8,0,0,,0,Small,Small,Small,0,0.33,1,1,0.1625,0.325
 Damned_Spell_AOE,CorruptedMagic,0,0,,Bullet,Heavy,Thrust,,,,,,,Deflect_Default,false,1.2,1,1,1,1,1,15,10,15,0,0,0,0.8,0,0,0,0,0,0,0,0.8,0,0,,0,Small,Small,Small,0,0.33,1,1,0.1625,0.325
-Deflect_Default,Unarmed,1,0,,,,Deflect,,,,,,,,false,0,0,1,2,2,2,0,0,0,0,1,0,0.8,0,0,0,0,0,1,0,0.8,0,0,,0,Small,Small,Small,0,0.45,1,1,0.1625,0.325
+Deflect_Default,Unarmed,1,0,,,,Standard,,,,,,,,false,0,0,1,2,2,2,0,0,0,0,1,0,0.8,0,0,0,0,0,1,0,0.8,0,0,,0,Small,Small,Small,0,0.45,1,1,0.1625,0.325
 Damned_Priest_Fireball_Spell,CorruptedMagic,0,0,true,Bullet,Magic,Corruption,,,,,,,,false,0.7,1,1,2,2,2,20,15,20,0,2,0,0.8,0,0,0,0.8,0,2,0,0.8,0,0,,0,Small,Small,Small,0,0.33,1,1,0.1625,0.325
 Invasion_Priest_Fireball_Spell,CorruptedMagic,0,0,true,Bullet,Magic,Corruption,,,,,,,,false,0.7,1,1,2,2,2,20,15,20,0,2,0,0.8,0,0,0,0.8,0,2,0,0.8,0,0,,0,Small,Small,Small,0,1.4,1,1,0.1625,0.325
 Damned_Priest_GroundWave_Spell,CorruptedMagic,0,0,,Bullet,Magic,Corruption,,,,,,,,false,0.29,1,1,2,2,2,30,25,30,0,2,0,0.8,0,0,0,0.8,0,2,0,0.8,0,0,,0,Small,Small,Small,0,0.33,1,1,0.1625,0.325

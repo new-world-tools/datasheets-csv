@@ -1,10 +1,10 @@
 EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExpAmount,CurrencyReward,RewardsNotes,ItemReward,ItemRewardQty,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionTokens,FactionInfluenceAmount,FactionInfluenceSrc,AzothReward,AzothRewardChance,WhisperID,AchievementId,IgnoreEconomyTracker,EntitlementId,PVPXP,RemoveStatusEffectCategories,EmitTelemetry
-95_s01_01_CROW_GracelessRequest_success,,60,Quest,Weapons,,7500,11250,"startingthesilvercrowsmercgroupwgrace,fairlyeasyclearoutcorruptedAItask-startinganewgrouptogethersomaybeagroupbuffitem?",,,,,,0,,,,,15,1,,,,,,,true
-95_s01_03_CROW_BestOfAeternum_success,,60,Quest-,Armor,,5630,4500,posting flyers and having interviews to join the mercenary group (mini cutscene) - gold no item needed,,,,,,0,,,,,7.5,1,,,,,,,true
-95_s01_04_CROW_ZanderTheRed_success,,60,Quest,Weapons,,7500,11250,"meetzander,getrecipefromhealer,craftpotions,returntozander-weapon?Maybethemedonzander-brawlerthing?Hedoesn'tuseitanymoreprefershisfists",,,,,,0,,,,,15,1,,,,,,,true
-95_s01_05_CROW_CanonAndCoin_success,,60,Quest+,Weapons,,9380,15750,healing staff? Related to going against human corruption or something about greed- maybe a life staff primary and jewelry item as well as extra reward if you catch him (church associated?) - this is a big moment for the new team so could be a silver crow specific item,,,,,,0,,,,,30,1,,,,,,,true
-95_s01_X1_EXPD_Empyrean_success,,60,Quest+,Weapons,,9380,15750,quest to Expedition to chase down Loth,,,,,,0,,,,,30,1,,,,,,,true
-95_s01_X2_EXPD_EmpyreanRepeat_success,,60,Quest-,Armor,,5630,4500,Otmar Winkler's Wonders - he wants to collect a chart of expedition,,,,,,0,,,,,7.5,1,,,,,,,true
+95_s01_01_CROW_GracelessRequest_success,,60,Quest,Weapons,,5980,11250,"startingthesilvercrowsmercgroupwgrace,fairlyeasyclearoutcorruptedAItask-startinganewgrouptogethersomaybeagroupbuffitem?",,,,,,0,,,,,50,1,,,,,,,true
+95_s01_03_CROW_BestOfAeternum_success,,60,Quest-,Armor,,4790,4500,posting flyers and having interviews to join the mercenary group (mini cutscene) - gold no item needed,,,,,,0,,,,,25,1,,,,,,,true
+95_s01_04_CROW_ZanderTheRed_success,,60,Quest,Weapons,,5980,11250,"meetzander,getrecipefromhealer,craftpotions,returntozander-weapon?Maybethemedonzander-brawlerthing?Hedoesn'tuseitanymoreprefershisfists",,,,,,0,,,,,50,1,,,,,,,true
+95_s01_05_CROW_CanonAndCoin_success,,60,Quest+,Weapons,,7180,15750,healing staff? Related to going against human corruption or something about greed- maybe a life staff primary and jewelry item as well as extra reward if you catch him (church associated?) - this is a big moment for the new team so could be a silver crow specific item,,,,,,0,,,,,100,1,,,,,,,true
+95_s01_X1_EXPD_Empyrean_success,,60,Quest+,Weapons,,7180,15750,quest to Expedition to chase down Loth,,,,,,0,,,,,100,1,,,,,,,true
+95_s01_X2_EXPD_EmpyreanRepeat_success,,60,Quest-,,,4790,15460,Otmar Winkler's Wonders - he wants to collect a chart of expedition,CRX_RepeatableReward_Empyrean,,,,,0,,,,,30,1,,,,,,,true
 95_s01_03_Interviews_SE_Interact,,0,Quest,0,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 95_s01_04_ZanderDog_SE_Interact,,0,Quest,0,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 95_s01_05_PriestStealing_SE_Interact,,0,Quest,0,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
@@ -23,6 +23,8 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExp
 95_s01_03_HeroesPoster3_interact,,0,Quest,0,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 95_s01_05_BWFakeFundsCabinet_interact,,0,Quest,0,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 95_s01_05_ChurchFundCabinet_interact,,0,Quest,0,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
-Dungeon_GreatCleave_01_GemGather_interact,,0,Quest,0,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
+Dungeon_GreatCleave_01_GemGather_interactA,,0,Quest,0,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 95_s01_01_CROW_GracelessRequest_Interact,,0,Quest,0,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 95_s01_01_CROW_GracelessRequest_WaveComplete,,0,Quest,0,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
+Dungeon_GreatCleave_01_GemGather_interactB,,0,Quest,0,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
+Dungeon_GreatCleave_01_GemGather_interactC,,0,Quest,0,,0,0,,,,,,,0,,,,,0,0,,,,,,,true

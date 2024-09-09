@@ -1,3 +1,5 @@
-DisplayName,Path,DisplayString
-Default,libs/config/defaultprofile.xml,@ui_default_profile
-Advanced,libs/config/advancedprofile.xml,@ui_advanced_profile
+DisplayName,Path,DisplayString,Rebindable
+Default,libs/config/defaultprofile.xml,@ui_default_profile,false
+Advanced,libs/config/advancedprofile.xml,@ui_advanced_profile,false
+Custom 1,libs/config/defaultprofile.xml,@ui_custom1_profile,true
+Custom 2,libs/config/advancedprofile.xml,@ui_custom2_profile,true

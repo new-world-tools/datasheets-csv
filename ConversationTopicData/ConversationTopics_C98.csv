@@ -1,0 +1,6 @@
+ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchievement,RequiredFaction,RequiredLevel
+Covenant_DeclineRecruitment,@Covenant_DeclineRecruitment_Prompt,@Covenant_DeclineRecruitment_Response_a,,,,
+Marauders_DeclineRecruitment,@Marauders_DeclineRecruitment_Prompt,@Marauders_DeclineRecruitment_Response_a,,,,
+Syndicate_DeclineRecruitment,@Syndicate_DeclineRecruitment_Prompt,@Syndicate_DeclineRecruitment_Response_a,,,,
+FactionIntro_Covenant_01_Topic_Feldan,@FactionIntro_Covenant_01_Topic_Feldan1_prompt,@FactionIntro_Covenant_01_Topic_Feldan1_a,,,,
+FactionIntro_Covenant_01_Topic_Feldan3,@9804_Feldan_3_b_prompt,@9804_Feldan_3_b,,,,

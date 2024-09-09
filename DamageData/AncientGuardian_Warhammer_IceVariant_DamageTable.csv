@@ -5,6 +5,6 @@ Attack_Clearout,Warhammer,0,0,,Bullet,Heavy,Strike,AI_IceDMG_50,,,Deflect_Defaul
 Attack_Shockwave,Warhammer,0,0,,Bullet,Heavy,Strike,AI_IceDMG_50,AI_Stun_2sec,true,Deflect_Default,false,0.4,1,1,0,0,0,10,5,10,0,0.5,0,0.8,0,0.5,0,0.8,0,0,0,0.8,0,0,0,Small,4,0.1,1,1,0.1625,0.325
 Frosty_Flurry_Strike,Warhammer,0,0,,Bullet,Light,Strike,,,,Deflect_Default,false,0.25,1,1,0,1,0,0,5,10,0,0.6,0,0.8,0,0.6,0,0.8,0,0,0,0.8,0,0,0,Small,2,0.25,1,0,0.1625,0.325
 Frosty_Flurry_AoE,Warhammer,0,0,,Bullet,Light,Ice,,,,Deflect_Default,false,0.25,1,1,2,1,0,20,5,10,0,,0,0.8,0,0.6,0,0.8,0,0,0,0.8,0,0,0,Small,2,0.25,1,0,0.1625,0.325
-Deflect_Default,Unarmed,1,0,,,,Deflect,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,Small,0,0.45,1,1,0.1625,0.325
+Deflect_Default,Unarmed,1,0,,,,Standard,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,Small,0,0.45,1,1,0.1625,0.325
 Fall,Fall,1,1,,Bullet,,Falling,,,,,,1,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Small,0,1,1,1,0.1625,0.325
 Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Small,1,,,1,0.1625,0.325

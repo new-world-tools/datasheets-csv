@@ -10,7 +10,7 @@ Dynasty_Spearman_Spinning_Rising_End,Spear,0,0,,Bullet,Heavy,Slash,,,,Deflect_De
 Fireball_Slash,Spear,0,0,,Bullet,Light,Fire,,,,Deflect_Default,false,0.35,1,1,0,1,0,10,5,10,0,0.3,0,0.8,0,0.3,0,0.8,0,0,0,0.8,0,0,0,Small,Small,3,0.15,1,0,30,0.1625,0.325
 Fire_Cyclone,Spear,0,0,,Bullet,Light,Fire,,,,Deflect_Default,false,0.35,1,1,0,1,0,10,5,10,0,0.3,0,0.8,0,0.3,0,0.8,0,0,0,0.8,0,0,0,Small,Small,3,0.15,1,0,30,0.1625,0.325
 Stab_Swing,Spear,0,0,,Bullet,Light,Fire,,,,Deflect_Default,false,0.35,1,1,0,1,0,10,5,10,0,0.3,0,0.8,0,0.3,0,0.8,0,0,0,0.8,0,0,0,Small,Small,3,0.15,1,0,30,0.1625,0.325
-Kanji_Bomb,Spear,0,0,,Bullet,Light,Fire,,,,Deflect_Default,false,0.35,1,1,0,1,0,10,5,10,0,0.3,0,0.8,0,0.3,0,0.8,0,0,0,0.8,0,0,0,Small,Small,3,0.15,1,0,30,0.1625,0.325
-Deflect_Default,Unarmed,1,0,,,,Deflect,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,Small,,0,0.45,1,1,,0.1625,0.325
+Kanji_Bomb,Spear,0,0,,Bullet,Light,Fire,,,,Deflect_Default,false,0.4,1,1,0,1,0,10,5,10,0,0.3,0,0.8,0,0.3,0,0.8,0,0,0,0.8,0,0,0,Small,Small,3,0.15,1,0,30,0.1625,0.325
+Deflect_Default,Unarmed,1,0,,,,Standard,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,Small,,0,0.45,1,1,,0.1625,0.325
 Fall,Fall,1,1,,Bullet,,Falling,,,,,,1,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Small,,0,1,1,1,,0.1625,0.325
 Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Small,,1,0,1,1,,0.1625,0.325

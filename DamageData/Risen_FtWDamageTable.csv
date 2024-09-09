@@ -4,5 +4,5 @@ Attack_Rampage,DemoHammer,0,0,Bullet,Siege,AfflictionDisease,3,,Deflect_Default,
 Attack_Leap,DemoHammer,0,0,Bullet,Siege,AfflictionDisease,12,,Deflect_Default,1.1,1,2,2,20,15,0,1,0,0.8,0,0,0,0.8,0,0,0.2,1,Small 
 Vomit_Ball,Regurgitator_Vomitball,0,0,Bullet,Siege,AfflictionDisease,10,,Deflect_Default,1,1,1,1,15,10,0,1,0,0.8,0,0,0,0.8,0,0,0.2,1,Small 
 Vomit_Spray,Regurgitator_Vomitspray,0,0,Bullet,Siege,AfflictionDisease,30,,Deflect_Default,2.5,1,1,1,15,10,0,1,0,0.8,0,0,0,0.8,0,0,0.2,1,Small 
-Deflect_Default,Blunt_AI,1,0,,Deflect,,,,,0,1,2,2,0,0,0,1,0,0.8,0,0,0,0,0,0,1,1,
+Deflect_Default,Blunt_AI,1,0,,Standard,,,,,0,1,2,2,0,0,0,1,0,0.8,0,0,0,0,0,0,1,1,
 Fall,Fall,1,1,Bullet,Falling,,,,,1,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,

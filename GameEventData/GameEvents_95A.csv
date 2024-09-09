@@ -1,7 +1,7 @@
 EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExpAmount,CurrencyReward,RewardsNotes,ItemReward,ItemRewardQty,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionTokens,FactionInfluenceAmount,FactionInfluenceSrc,AzothReward,AzothRewardChance,WhisperID,AchievementId,IgnoreEconomyTracker,EntitlementId,PVPXP,RemoveStatusEffectCategories,EmitTelemetry
-95A_S02_VoicesoftheDesert_Success,,60,Quest,Armor,,7500,11250,,,,,,,100,,,,,15,1,,,,,,,true
-95A_T01_RiseoftheBeast_Success,,60,Quest,Armor,,7500,11250,,,,,,,100,,,,,15,1,,,,,,,true
-95A_T02_RiseoftheHero_Success,,60,Quest,Armor,,7500,11250,,,,,,,100,,,,,15,1,,,,,,,true
+95A_S02_VoicesoftheDesert_Success,,60,Quest,Armor,,5980,11250,,,,,,,100,,,,,75,1,,,,,,,true
+95A_T01_RiseoftheBeast_Success,,60,Quest,Armor,,5980,11250,,,,,,,100,,,,,75,1,,,,,,,true
+95A_T02_RiseoftheHero_Success,,60,Quest,Armor,,5980,11250,,,,,,,100,,,,,75,1,,,,,,,true
 95A_S02_SatyrFlute_interact,,0,Quest,0,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 95A_S02_LuteChest_interact,,0,Quest,0,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 95A_S02_LionDish_interact,,0,Quest,0,,0,0,,,,,,,0,,,,,0,0,,,,,,,true

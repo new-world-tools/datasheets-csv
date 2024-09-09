@@ -1,83 +1,87 @@
-Modifiers,Experience,Currency,CurrencyRewardChance,TerritoryStanding,Azoth,LootDropModifier,FactionReputationModifier,FactionTokenModifier,AzothSaltModifier,PvpXpModifier,SeasonsXpModifier,Notes,Found in
-Boss,5,1.5,,150,1,1,,,,,0,??,Flags on vitals
-Critter,0,0,,0,0,1,,,,,0,Turkeys,Flags on vitals
-Spell,0,0,,0,0,1,,,,,0,"IcePylon,IceTomb,etc..",Flags on vitals
-Darkness,0.5,0,,0,0,1,,,,,0,Creatures from darkness even,Flags on vitals
-Elite,3,1.35,,35,1,1,,,,,0,Gold creatures (elite POI's),Flags on vitals
-Elite-,2.25,1.35,,35,1,1,,,,,0,swarming,Flags on vitals
-Elite+,4,1.35,,35,1,1,,,,,0,captian,Flags on vitals
-EliteMiniBoss,5,1.5,,150,1,1,,,,,0,Elite POI Mini boss,Flags on vitals
-EliteBoss,10,1.5,,150,1,1,,,,,0,Big boss of area,Flags on vitals
-Solo,1,1,,5,1,1,,,,,0,Base creature,Flags on vitals
-Solo-,0.5,0.5,,2,1,1,,,,,0,swarmer creatures,Flags on vitals
-Solo+,2,1.15,,15,1,1,,,,,0,Silver,Flags on vitals
-Named_Solo,1,1,,5,1,1,,,,,0,Base creature,Flags on vitals
-Named_Solo+,2,1.15,,15,1,1,,,,,0,Sliver,Flags on vitals
-SoloBoss,2,1.15,,15,1,1,,,,,0,Gold with hash marks,Flags on vitals
-Solo_Quest,0,0,,0,0,1,,,,,0,Special Quest creatures,Flags on vitals
-Arena,5,7,,250,4,1,,,,,0,Spriggen Event,Flags on vitals
-DarknessMajor,1.25,1.5,,375,4,1,,,,,15,Quests,Flags on Quests (not hooked up)
-DarknessMinor,0.35,0.25,,250,2,1,,,,,0,Quests,Flags on Quests (not hooked up)
-Mission,1.5,1,,250,0,1,,,,,2,Quests,Flags on Quests (not hooked up)
-Mission-,0.75,0.5,,125,0,1,,,,,1,Quests,Flags on Quests (not hooked up)
-Mission+,2,1.5,,375,0,1,,,,,4,Quests,Flags on Quests (not hooked up)
-MissionPvP,1.8,1.15,,40,0,1,,,1,1,3,Quests,Flags on Quests (not hooked up)
-MissionPvP-,0.9,0.55,,15,0,1,,,1,1,1,Quests,Flags on Quests (not hooked up)
-MissionPvP+,2.25,1.75,,75,0,1,,,1,1,5,Quests,Flags on Quests (not hooked up)
-Project,0.5,0.5,,500,0,1,,,,,1,Quests,Flags on Quests (not hooked up)
-Project-,0.25,0.25,,250,0,1,,,,,0,Quests,Flags on Quests (not hooked up)
-Project+,0.85,0.75,,750,0,1,,,,,2,Quests,Flags on Quests (not hooked up)
-Quest,2,1,,175,1,1,,,,,5,Quests,Flags on Quests (not hooked up)
-Quest-,1,0.5,,100,0.5,1,,,,,1,Quests,Flags on Quests (not hooked up)
-Quest+,2.5,1.5,,250,2,1,,,,,10,Quests,Flags on Quests (not hooked up)
-Dungeon,1,1.35,,0,1,1,,15,,,0,Gold,Flags on vitals
-Dungeon-,1,1.35,,0,1,1,,,,,0,Gold Swarp,Flags on vitals
-Dungeon+,1,1.35,,0,1,1,,,,,0,Gold Captain,Flags on vitals
-Dungeon_NoCurrency,1,0,,0,0,1,,,,,0,,Flags on vitals
-Dungeon-_NoCurrency,1,0,,0,0,1,,,,,0,,Flags on vitals
-Dungeon+_NoCurrency,1,0,,0,0,1,,,,,0,,Flags on vitals
-DungeonMiniBoss,30,15,1,0,1,1,,,,,15,Gold Boss,Flags on vitals
-DungeonBoss,30,15,1,0,1,1,,,,,15,Gold End boss,Flags on vitals
-OutpostRushSolo,0,0,,0,0,1,,,,,0,Outpost (stay 0),
-OutpostRushSolo+,0,0,,0,0,1,,,,,0,Outpost (stay 0),
-OutpostRushElite,0,0,,0,0,1,,,,,0,Outpost (stay 0),
-OutpostRushGroup+,0,0,,0,0,1,,,,,0,Outpost (stay 0),
-FactionMissionBonus,2,9,,0,0,1,,4,,,0,Multipler for faction missions,
-ObjectivePOI,15,10,,350,0,1,,,,,0,Pending approval,New POI repeatable objectives
-ObjectivePOI-,12.5,7.5,,275,0,1,,,,,0,Pending approval,New POI repeatable objectives
-ObjectivePOI+,20,12.5,,425,0,1,,,,,0,Pending approval,New POI repeatable objectives
-PvpKill_Low,0,0,,0,0,0,0,0,0.25,0.25,5,PvP,Flags on Player Kills in PvP
-PvpKill_High,4,20,,0,0,0.5,300,350,4,4,25,PvP,Flags on Player Kills in PvP
-PvpKill_ExtraHigh,4,20,,0,0,0.75,400,450,8,8,50,PvP,Flags on Player Kills in PvP
-Player,5,1,,0,0,1,,,,,1,Player Kill,Vitals Gameevent Override
-Ally,5,1,,0,0,1,,,,,1,Player Kill,Vitals Gameevent Override
-Invasion_T1,1,7,,1.25,1,1,1,1.25,0,0,50,Invasion Bad Performance,Invasion Reward
-Invasion_T2,1.125,9,,1.5,1.125,1,1.125,1.5,0,0,50,Invasion OK Performance,Invasion Reward
-Invasion_T3,1.4,11,,1.75,1.4,1,1.4,1.75,0,0,50,Invasion Good Performance,Invasion Reward
-Invasion_T4,1.6,12,,2,1.6,1,1.6,2,0,0,50,Invasion Top Tier Performance,Invasion Reward
-War_T1,1,5,,0,1,1,1,1,2500,2500,50,War Bad Performance,War Reward
-War_T2,2,6,,0,1.125,1,1.125,1.125,3250,3250,50,War OK Performance,War Reward
-War_T3,4,7,,0,1.4,1,1.4,1.4,4000,3600,50,War Good Performance,War Reward
-War_T4,8,8,,0,1.6,1,1.6,1.6,5500,4000,50,War Top Tier Performance,War Reward
-OutpostRush_T1,0,2,,0,0.5,1,1,1,500,2000,0,OR Bad Performance,OR Reward
-OutpostRush_LOSS_T1,0,3,,0,0.7,1,1.125,1.125,3250,3250,0,OR OK Performance,OR Reward
-OutpostRush_T2,0,3,,0,0.7,1,1.125,1.125,3250,3250,25,OR OK Performance,OR Reward
-OutpostRush_T3,0,3.5,,0,0.8,1,1.4,1.4,4000,3600,25,OR Good Performance,OR Reward
-OutpostRush_T4,0,4,,0,1,1,1.6,1.6,5500,4000,25,OR Top Tier Performance,OR Reward
-Arena3v3_Loss,0,,,,,1,,,,,0,,
-Arena3v3_Win_3_Round,1,,,,,1,,,,,0,,
-Arena3v3_Win_2_Round,1,,,,,1,,,,,0,,
-Arena3v3_Win_1_Round,1,,,,,1,,,,,0,,
-Solo_StarterBeach,1,1,,0,0,1,,,,,0,Starter Beach no Territory XP,Flags on vitals
-Solo-_StarterBeach,0.5,0.5,,0,0,1,,,,,0,Starter Beach no Territory XP,Flags on vitals
-Solo+_StarterBeach,2,1.15,,0,0,1,,,,,0,Starter Beach no Territory XP,Flags on vitals
-Raid20Boss,1,1.35,,0,1,1,,,,,0,,
-Raid20MiniBoss,1,1.35,,0,1,1,,,,,0,,
-Raid20+,1,1.35,,0,1,1,,,,,0,,
-Raid20,1,1.35,,0,1,1,,,,,0,,
-Raid20-,1,1.35,,0,1,1,,,,,0,,
-Raid10Boss,1,1.35,,0,1,1,,,,,0,,
-Raid10MiniBoss,1,1.35,,0,1,1,,,,,0,,
-Raid10+,1,1.35,,0,1,1,,,,,0,,
-Raid10,1,1.35,,0,1,1,,,,,0,,
-Raid10-,1,1.35,,0,1,1,,,,,0,,
+Modifiers,Experience,Currency,CurrencyRewardChance,TerritoryStanding,Azoth,LootDropModifier,FactionReputationModifier,FactionTokenModifier,AzothSaltModifier,PvpXpModifier,SeasonsXpModifier,Found in
+Boss,5,1.5,,150,1,1,,,,,0,Flags on vitals
+Critter,0,0,,0,0,1,,,,,0,Flags on vitals
+Spell,0,0,,0,0,1,,,,,0,Flags on vitals
+Darkness,0.5,0,,0,0,1,,,,,0,Flags on vitals
+Elite,3,1.35,,35,1,1,,,,,0,Flags on vitals
+Elite-,2.25,1.35,,35,1,1,,,,,0,Flags on vitals
+Elite+,4,1.35,,35,1,1,,,,,0,Flags on vitals
+EliteMiniBoss,5,1.5,,150,1,1,,,,,0,Flags on vitals
+EliteBoss,10,1.5,,150,1,1,,,,,0,Flags on vitals
+Solo,1,1,,5,1,1,,,,,0,Flags on vitals
+Solo-,0.5,0.5,,2,1,1,,,,,0,Flags on vitals
+Solo+,2,1.15,,15,1,1,,,,,0,Flags on vitals
+Named_Solo,1,1,,5,1,1,,,,,0,Flags on vitals
+Named_Solo+,2,1.15,,15,1,1,,,,,0,Flags on vitals
+SoloBoss,2,1.15,,15,1,1,,,,,0,Flags on vitals
+Solo_Quest,0,0,,0,0,1,,,,,0,Flags on vitals
+Arena,5,7,,250,4,1,,,,,0,Flags on vitals
+DarknessMajor,1.25,1.5,,375,4,1,,,,,15,Flags on Quests (not hooked up)
+DarknessMinor,0.35,0.25,,250,2,1,,,,,0,Flags on Quests (not hooked up)
+Mission,1.5,1,,250,0,1,,,,,2,Flags on Quests (not hooked up)
+Mission-,0.75,0.5,,125,0,1,,,,,1,Flags on Quests (not hooked up)
+Mission+,2,1.5,,375,0,1,,,,,4,Flags on Quests (not hooked up)
+MissionPvP,1.8,1.15,,40,0,1,,,1,1,3,Flags on Quests (not hooked up)
+MissionPvP-,0.9,0.55,,15,0,1,,,1,1,1,Flags on Quests (not hooked up)
+MissionPvP+,2.25,1.75,,75,0,1,,,1,1,5,Flags on Quests (not hooked up)
+Project,0.5,0.5,,500,0,1,,,,,1,Flags on Quests (not hooked up)
+Project-,0.25,0.25,,250,0,1,,,,,0,Flags on Quests (not hooked up)
+Project+,0.85,0.75,,750,0,1,,,,,2,Flags on Quests (not hooked up)
+Quest,2,1,,175,1,1,,,,,5,Flags on Quests (not hooked up)
+Quest-,1,0.5,,100,0.5,1,,,,,1,Flags on Quests (not hooked up)
+Quest+,2.5,1.5,,250,2,1,,,,,10,Flags on Quests (not hooked up)
+Dungeon,1,1.35,,0,1,1,,15,,,0,Flags on vitals
+Dungeon-,1,1.35,,0,1,1,,,,,0,Flags on vitals
+Dungeon+,1,1.35,,0,1,1,,,,,0,Flags on vitals
+Dungeon_NoCurrency,1,0,,0,0,1,,,,,0,Flags on vitals
+Dungeon-_NoCurrency,1,0,,0,0,1,,,,,0,Flags on vitals
+Dungeon+_NoCurrency,1,0,,0,0,1,,,,,0,Flags on vitals
+DungeonMiniBoss,30,0,1,0,1,1,,,,,15,Flags on vitals
+DungeonBoss,30,1.5,1,0,1,1,,,,,15,Flags on vitals
+OutpostRushSolo,0,0,,0,0,1,,,,,0,
+OutpostRushSolo+,0,0,,0,0,1,,,,,0,
+OutpostRushElite,0,0,,0,0,1,,,,,0,
+OutpostRushGroup+,0,0,,0,0,1,,,,,0,
+FactionMissionBonus,2,9,,0,0,1,,4,,,0,
+ObjectivePOI,15,10,,350,0,1,,,,,0,New POI repeatable objectives
+ObjectivePOI-,12.5,7.5,,275,0,1,,,,,0,New POI repeatable objectives
+ObjectivePOI+,20,12.5,,425,0,1,,,,,0,New POI repeatable objectives
+PvpKill_Low,0,0,,0,0,0,0,0,0.25,0.25,5,Flags on Player Kills in PvP
+PvpKill_High,4,20,,0,0,0.5,300,350,4,4,25,Flags on Player Kills in PvP
+PvpKill_ExtraHigh,4,20,,0,0,0.75,400,450,8,8,50,Flags on Player Kills in PvP
+Player,5,1,,0,0,1,,,,,1,Vitals Gameevent Override
+Ally,5,1,,0,0,1,,,,,1,Vitals Gameevent Override
+Invasion_T1,1,7,,1.25,1,1,1,1.25,0,0,50,Invasion Reward
+Invasion_T2,1.125,9,,1.5,1.125,1,1.125,1.5,0,0,50,Invasion Reward
+Invasion_T3,1.4,11,,1.75,1.4,1,1.4,1.75,0,0,50,Invasion Reward
+Invasion_T4,1.6,12,,2,1.6,1,1.6,2,0,0,50,Invasion Reward
+War_T1,1,5,,0,1,1,1,1,2500,2500,50,War Reward
+War_T2,2,6,,0,1.125,1,1.125,1.125,3250,3250,50,War Reward
+War_T3,4,7,,0,1.4,1,1.4,1.4,4000,3600,50,War Reward
+War_T4,8,8,,0,1.6,1,1.6,1.6,5500,4000,50,War Reward
+War_T1_With_Defender_Bonus,1,5,,0,1,1,1,1,2500,2500,50,War Reward
+War_T2_With_Defender_Bonus,2,6,,0,1.125,1,1.125,1.125,3250,3250,50,War Reward
+War_T3_With_Defender_Bonus,4,7,,0,1.4,1,1.4,1.4,4000,3600,50,War Reward
+War_T4_With_Defender_Bonus,8,8,,0,1.6,1,1.6,1.6,5500,4000,50,War Reward
+OutpostRush_T1,0,2,,0,0.5,1,1,1,500,2000,0,OR Reward
+OutpostRush_LOSS_T1,0,3,,0,0.7,1,1.125,1.125,3250,2800,0,OR Reward
+OutpostRush_T2,0,3,,0,0.7,1,1.125,1.125,3250,2800,25,OR Reward
+OutpostRush_T3,0,3.5,,0,0.8,1,1.4,1.4,4000,3000,25,OR Reward
+OutpostRush_T4,0,4,,0,1,1,1.6,1.6,5500,3500,25,OR Reward
+Arena3v3_Loss,0,,,,,1,,,,,0,
+Arena3v3_Win_3_Round,1,,,,,1,,,,,0,
+Arena3v3_Win_2_Round,1,,,,,1,,,,,0,
+Arena3v3_Win_1_Round,1,,,,,1,,,,,0,
+Solo_StarterBeach,1,1,,0,0,1,,,,,0,Flags on vitals
+Solo-_StarterBeach,0.5,0.5,,0,0,1,,,,,0,Flags on vitals
+Solo+_StarterBeach,2,1.15,,0,0,1,,,,,0,Flags on vitals
+Raid20Boss,1,1.35,,0,1,1,,,,,0,
+Raid20MiniBoss,1,1.35,,0,1,1,,,,,0,
+Raid20+,1,1.35,,0,1,1,,,,,0,
+Raid20,1,1.35,,0,1,1,,,,,0,
+Raid20-,1,1.35,,0,1,1,,,,,0,
+Raid10Boss,1,1.35,,0,1,1,,,,,0,
+Raid10MiniBoss,1,1.35,,0,1,1,,,,,0,
+Raid10+,1,1.35,,0,1,1,,,,,0,
+Raid10,1,1.35,,0,1,1,,,,,0,
+Raid10-,1,1.35,,0,1,1,,,,,0,

@@ -1,69 +1,43 @@
-CostID,ManaCost
-Celestial_Heal_AoE,40
-Celestial_Heal_AoE_Staff,40
-Celestial_Life_DMG_Absorb,35
-Celestial_Life_DMG_Bonus,35
-Celestial_Revive,50
-Celestial_Heal_AoE_Staff_Mana_Upgrade,15
-Elemental_Fire_AoE,50
-Elemental_Fire_AoE_Staff,50
-Elemental_Fire_Projectile,0
-Elemental_Fire_Projectile_Special,10
-Elemental_Fire_Combustion,35
-Elemental_FireGrenade,25
-Elemental_Fire_Staff_Heavy,50
-Elemental_CC_Slow,10
-Elemental_CC_Silenced,35
-Elemental_CC_Weakness,35
-Elemental_Fire_Projectile_Charged,30
-Elemental_Fire_Gauntlet_Dash,20
-Siphon_Healing_Mana_Check,2
-LifeStaff_TouchOfLife,25
-LifeStaff_Smite,25
-LifeStaff_HolyShield,15
-LifeStaff_HealingWave,15
-LifeStaff_HolyShield_Mana_Upgrade,15
-LifeStaff_TouchOfLife_Mana_Upgrade,20
-LifeStaff_Speed_Intro,30
-LifeStaff_HolyShield_Intro,15
-LifeStaff_HolyShield_Kickout,3
-LifeStaff_Primary,0
-LifeStaff_Heavy,6
-FireStaff_Incinerate,22
-FireStaff_FlameThrower,2.5
-FireStaff_PillarOfFire,15
-FireStaff_Storm,30
-FireStaff_FlameThrower_Cancel,5
-FireStaff_Speed_Intro,30
-FireStaff_Siege,25
-FireStaff_Siege_Recharge_ManaCheck,26
-FireStaff_Storm_Mana_Upgrade,25
-FireStaff_Primary,0
-FireStaff_Heavy,6
-FireStaff_Heavy_Range,10
-FireStaff_Heavy_Speed,15
-Siphon_Healing_Check_To_Cast,5
-FireStaff_Speed_Cost,30
-IceMagic_Primary,0
-IceMagic_Heavy,6
-IceMagic_Block,10
-IceMagic_Spikes,15
-IceMagic_IceStorm,25
-IceMagic_IceStorm_Mana,5
-IceMagic_WindChill,20
-IceMagic_Entombed,0
-IceMagic_Entombed_Break,10
-IceMagic_IceShower,25
-IceMagic_IcePylon,15
-LifeStaff_LightsEmbrace,18
-LifeStaff_OrbofLight,16
-LifeStaff_Beacon,16
-VoidGauntlet_Primary,0
-VoidGauntlet_Heavy,6
-VoidGauntlet_VoidBlade,20
-VoidGauntlet_NullChamber,30
-VoidGauntlet_Scream,25
-VoidGauntlet_DecayingOrb,20
-VoidGauntlet_DrainingTether,25
-VoidGauntlet_EssenceRupture,25
-Zero_Mana,0
+CostID,ManaCost,DevHelper_Legend
+LifeStaff_Primary,0,Light Attack
+LifeStaff_Heavy,0,Heavy Attack
+LifeStaff_TouchOfLife,25,Divine Embrace
+LifeStaff_TouchOfLife_Mana_Upgrade,20,Divine Embrace Privledge Upgrade
+LifeStaff_HolyShield,15,Splash Of Light
+LifeStaff_HealingWave,15,Sacred Ground
+LifeStaff_OrbofLight,16,Orb Of Protection
+LifeStaff_Beacon,16,Beacon
+LifeStaff_LightsEmbrace,18,Light's Embrace
+FireStaff_Primary,0,Light Attack
+FireStaff_Heavy,0,Heavy Attack
+FireStaff_PillarOfFire,15,Pillar Of Fire
+FireStaff_Storm,25,Meteor Shower
+FireStaff_Storm_Mana_Upgrade,20,Meteor Shower
+FireStaff_Siege,25,Fireball
+FireStaff_FlameThrower,2.5,Flamethrower
+FireStaff_FlameThrower_Cancel,5,Flamethrower
+FireStaff_Incinerate,22,Incinerate
+FireStaff_Speed_Intro,30,Burnout
+FireStaff_Speed_Cost,30,Burnout
+FireStaff_Heavy_Range,10,?
+FireStaff_Heavy_Speed,15,?
+IceMagic_Primary,0,Light Attack
+IceMagic_Heavy,0,Heavy Attack
+IceMagic_Block,10,Block
+IceMagic_Spikes,15,Ice Spikes
+IceMagic_IceStorm,25,Ice Storm
+IceMagic_IceStorm_Mana,5,Ice Storm Storm Summoner Upgrade
+IceMagic_WindChill,20,Windchill
+IceMagic_Entombed,0,Entomb
+IceMagic_Entombed_Break,10,Entomb
+IceMagic_IceShower,25,Ice Shower
+IceMagic_IcePylon,15,Ice Pylon
+VoidGauntlet_Primary,0,Light Attack
+VoidGauntlet_Heavy,0,Heavy Attack
+VoidGauntlet_VoidBlade,5,Void Blade
+VoidGauntlet_NullChamber,25,Oblivion
+VoidGauntlet_Scream,25,Scream
+VoidGauntlet_DecayingOrb,16,Orb of Decay
+VoidGauntlet_DrainingTether,20,Baleful Tether
+VoidGauntlet_EssenceRupture,18,Essense Rupture
+Zero_Mana,0,?

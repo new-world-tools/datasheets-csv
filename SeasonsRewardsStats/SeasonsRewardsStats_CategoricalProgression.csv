@@ -13,3 +13,4 @@ CategoricalProgressionFactionTokens,CategoricalProgression,"SyndicateTokens,Mara
 CategoricalProgressionCraftingPostCap,CategoricalProgression,"Weaponsmithing_PostCap,Armoring_PostCap,Jewelcrafting_PostCap,Arcana_PostCap,Cooking_PostCap,Furnishing_PostCap,Engineering_PostCap",Ranked,,,
 CategoricalProgressionGatheringPostCap,CategoricalProgression,"Fishing_PostCap,Skinning_PostCap,Mining_PostCap,Logging_PostCap,Harvesting_PostCap",Ranked,,,
 CategoricalProgressionTerritoryStanding,CategoricalProgression,"2,4,5,6,8,9,10,11,12,13,14,15,16",Points,,,
+CategoricalProgressionRefiningPostCap,CategoricalProgression,"Smelting_PostCap,Woodworking_PostCap,Leatherworking_PostCap,Weaving_PostCap,Stonecutting_PostCap",Ranked,,,

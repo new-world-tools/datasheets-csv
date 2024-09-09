@@ -1,16 +1,17 @@
 ScheduleId,StartDate,EndDate,StartWeekday,EndWeekday,UTC,ScheduledQuestDescription,Comments
 test_1,*-*-*T*:25:00,*-*-*T*:30:00,,,false,,"Forinternaltesting,donotremove"
 test_2,,,Wednesday,Thursday,false,,"Forinternaltesting,donotremove"
-TurkeyTerror,2023-11-15T*:*:*,2023-11-29T*:*:*,,,,,TurkeyTerror Event
-LegacyOfCrassus,2024-01-09T*:*:*,2024-01-23T*:*:*,,,,,Legacy of Crassus February Event (Modified for dates 2024)
-EggcitingDefense,2023-08-14T*:*:*,2023-08-28T*:*:*,,,,,Eggciting Defense August Event
+TurkeyTerror,2024-11-19T*:*:*,2024-12-03T*:*:*,,,,,TurkeyTerror Event
+LegacyOfCrassus,2024-01-09T*:*:*,2024-01-23T*:*:*,,,,,Legacy of Crassus Second Release (Modified for dates 2024)
+EggcitingDefense,2024-09-24T*:*:*,2024-10-08T*:*:*,,,,,Siege of Sulfur Defense Second Release (Modified for dates 2024)
+FuryOfTheSpriggan,2024-07-02T*:*:*,2024-07-16T*:*:*,,,,,Fury of the Spriggan Second Release (Modified for dates 2024)
 EventKill,*-01-01T*:*:*,*-03-31T*:*:*,,,,,For Diamond Gypsum Events (JuniperBag)
 EventDarkness,*-04-01T*:*:*,*-06-30T*:*:*,,,,,For Diamond Gypsum Events (RitualBag)
 EventGather,*-07-01T*:*:*,*-09-30T*:*:*,,,,,For Diamond Gypsum Events (BagofEarthGifts)
 EventChest,*-10-01T*:*:*,*-12-31T*:*:*,,,,,For Diamond Gypsum Events (ConcealedVault)
 FortunesOfTheBold,2023-08-16T*:*:*,2023-08-30T*:*:*,,,false,,For C2C event Fortunes of the Bold (Rafflebones)
-EventSummer,2023-07-19T*:*:*,2023-08-15T*:*:*,,,true,,Summer Medleyfaire
-EventHalloween,2023-10-18T06:15:00,2023-11-15T07:15:00,,,true,,Nightveil Hollow
+EventSummer,2024-06-04T*:*:*,2024-07-02T*:*:*,,,true,,Summer Medleyfaire
+EventHalloween,2024-10-22T06:15:00,2024-11-05T07:15:00,,,true,,Nightveil Hollow
 EventWinter,2023-12-01T13:15:00,2024-01-10T07:15:00,,,true,,Winter Convergence
 EventSpring,2024-04-09T*:*:*,2024-05-01T*:*:*,,,true,,Springtide Bloom
 EventLunarNewYear,2024-02-06T*:*:*,2024-02-20T*:*:*,,,false,,Lunar New Year

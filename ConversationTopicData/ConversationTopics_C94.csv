@@ -1,0 +1,11 @@
+ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchievement,RequiredFaction,RequiredLevel
+9401_Hint,@9401_Hint_Prompt,@9401_Hint_Response,,,,
+9402_Hint,@9402_Hint_Prompt,@9402_Hint_Response,,,,
+9403_Hint,@9403_Hint_Prompt,@9403_Hint_Response,,,,
+9404_Hint,@9404_Hint_Prompt,@9404_Hint_Response,,,,
+9405_Hint,@9405_Hint_Prompt,@9405_Hint_Response,,,,
+9401_HorseTalk,@9401_FirstHorse_prompt,@9401_FirstHorse_start,,,,
+9405_LionTalk,@9405_FirstLion_prompt,@9405_Kaluru_01_Dialogue,,,,
+9401_GoTo_Jochi_Topic,@9401_Autopush_Prompt,@9401_JochiKhan_02_Dialogue_a,,,,
+9402_GoTo_Francois_Topic,@9402_Autopush_Prompt,@9402_FranciosDeLaRama_02_Dialogue_a,,,,
+9403_GoTo_Valencia_Topic,@9403_Autopush_Prompt,@9403_ValenciaIznov_02_Dialogue,,,,

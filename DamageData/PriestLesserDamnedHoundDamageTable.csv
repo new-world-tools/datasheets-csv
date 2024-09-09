@@ -13,4 +13,4 @@ Attack_Hamstring,Bite_AI,0,0,Bullet,Heavy,Slash,,AI_Weaken,true,Deflect_Default,
 Attack_Hamstring_Hard,Bite_AI,0,0,Bullet,Heavy,Slash,AI_CorruptionDMG_50,AI_Weaken,true,Deflect_Default,false,0.8,1,1,3,3,3,30,30,30,0,2,0,0.8,0,2,0,0.8,0,0,0,0.8,1.5,1.6,0,1,0.65,1,Small ,1,0.1625,0.325
 Fall,Fall,1,1,Bullet,,Falling,,,,,,1,0,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Small,1,0.1625,0.325
 Reaction_Breakout,Fall,1,1,Bullet,,Falling,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,Small,1,0.1625,0.325
-Deflect_Default,Unarmed,1,0,,,Deflect,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,0,1,1,,1,0.1625,0.325
+Deflect_Default,Unarmed,1,0,,,Standard,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,0,1,1,,1,0.1625,0.325
