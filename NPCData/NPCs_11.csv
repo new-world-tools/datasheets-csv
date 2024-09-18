@@ -10,7 +10,7 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 1122_Innkeep,@1122_Innkeep_Title,@1122_Innkeep,,1122_00_Innkeep,1122_01_Innkeep,1122_02_Innkeep,,,,,,,,,,,,,,,,,
 1123_Fisher,@1123_Fisher_Title,@1123_Fisher,,1123_01_BLANK,1123_02_BLANK,1123_03_BLANK,,,,,,,,,,,,,,,,,
 1124_PierreAuguste,@1124_PierreAuguste_Title,@1124_PierreAuguste,,1124_PierreAuguste_Default,1124_PierreAuguste_2,1124_PierreAuguste_3,1124_PierreAuguste_4,,,,,,,,,,,,,,,,
-1124_PierreAuguste2,@1124_PierreAuguste2_Title,@1124_PierreAuguste2,,1124_PierreAuguste2_Default,1124_PierreAuguste2_1,,,,,,,,,,,,,,,,,,
+1124_PierreAuguste2,@1124_PierreAuguste2_Title,@1124_PierreAuguste2,,1124_PierreAuguste_Default,1124_PierreAuguste_2,1124_PierreAuguste_3,1124_PierreAuguste_4,1124_PierreAuguste2_Default,1124_PierreAuguste2_1,,,,,,,,,,,,,,
 1124_Pierre_Note,@1124_Pierre_note_Title,@1124_Pierre_Note,@1124_Override,1124_Pierre_Note_Default,1124_Pierre_Note_1,,,,,,,,,,,,,,,,,,
 1125_McKeys,@1125_McKeys_Title,@1125_McKeys,,1125_01_McKeys_Default,1125_02_McKeys,1125_03_McKeys_Final,,,,,,,,,,,,,,,,,
 1126_Leilani,@1126_Leilani_Title,@1126_Leilani,,1126_Leilani_Default,1126_Leilani_2,1126_Leilani_3,1126_Leilani_4,1126_Leilani_5,1126_Leilani_6_Final,,,,,,,,,,,,,,
