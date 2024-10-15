@@ -1,6 +1,6 @@
 BalanceTarget,BalanceCategory,AbilityBaseDamageAdjustment,WeaponBaseDamageAdjustment,AffixStatAdjustment,IncomingHealAdjustment,SelfHealAdjustment,ConsumableHealAdjustment,PotencyAdjustment,DurationAdjustment
 HealingAdjustments,Healing,,,,,-0.1,,,
-Blunderbuss,ItemClass,,-0.1562,,,,,,
+Blunderbuss,ItemClass,,-0.2,,,,,,
 Bow,ItemClass,,-0.1632,,,,,,
 FIreStaff,ItemClass,,-0.05,,,,,,
 IceMagic,ItemClass,,-0.05,,,,,,

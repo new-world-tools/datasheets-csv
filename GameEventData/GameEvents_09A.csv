@@ -178,7 +178,7 @@ Cyclic_09A_S7_CL3_Interact,,0,Quest,,,0,0,,,,,,,,,,,,,0,,,,,,,true
 09A_M13_Success,,79,Quest+,,,16000,19075,,WritOfAdventure,1,,,,,,,,,40,1,,,,,,,true
 09A_M14_Success,,79,Quest+,,,16000,19075,,Skin_FirstLightZone_AzothStaff_Box,1,,,,,,,,,40,1,,,,,,,true
 09A_M15_Success,,80,Quest+,,,16000,19250,,CRX_09A_M15_2hBow_T5,1,,,,,,,,,40,1,,,,,,,true
-09A_S0_Success,,60,Quest,,,4500,11250,,GatherPasteT1,1,,,,,,,,,15,1,,,,,,,true
+09A_S0_Success,,60,Quest,,,4500,11250,,GatherPasteT1,1,,,,,,,,,15,1,,09A_S0,,,,,true
 09A_S1_Success,,61,Quest,,,6750,11375,,CRX_09A_S2_2hLifeStaffT5,1,,,,,,,,,15,1,,,,,,,true
 09A_S2_Success,,61,Quest,,,6750,11375,,,,,,,,,,,,15,1,,,,,,,true
 09A_S3_Success,,62,Quest,,,6900,11500,,,,,,,,,,,,15,1,,,,,,,true

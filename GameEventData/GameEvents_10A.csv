@@ -34,7 +34,7 @@ C10A_M1_Success,,65,Quest,Armor,,3770,11875,,,,,,,700,,,,,75,1,,,,,,,,true
 C10A_M2_Success,,65,Quest,Armor,,2520,11875,,,,,,,700,,,,,75,1,,,,,,,,true
 C10A_M2_Chair_Interact,,0,Quest,,,,,,,,,,,,,,,,,0,,,,,,,,true
 C10A_M3_Success,,65,Quest+,Armor,,3020,16625,,,,,,,700,,,,,100,1,,,,,,,,true
-C10A_M4_Success,,65,Quest+,Armor,,4530,16625,,,,,,,700,,,,,100,1,,,,,,,,true
+C10A_M4_Success,,65,Quest+,Armor,,4530,95000,,DoubloonAntique05,1,,,,700,,,,,100,1,,,,,,,,true
 C10A_M4_Flowers1_Interact,,0,Quest,,,,,,,,,,,,,,,,,0,,,,,,,,true
 C10A_M4_Flowers2_Interact,,0,Quest,,,,,,,,,,,,,,,,,0,,,,,,,,true
 C10A_M4_Flowers3_Interact,,0,Quest,,,,,,,,,,,,,,,,,0,,,,,,,,true
