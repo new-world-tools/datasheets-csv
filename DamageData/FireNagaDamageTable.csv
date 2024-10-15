@@ -3,6 +3,7 @@ Slash,Unarmed,0,0,Bullet,Light,Slash,,AI_FireNaga_Flamethrower_DoT,true,Deflect_
 Slash_Combo,Unarmed,0,0,Bullet,Light,Slash,,AI_FireNaga_Flamethrower_DoT,true,Deflect_Default,false,0.5,1,1,0,1,0,20,5,10,0,0.8,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.6,1,0,,,0.1625,0.325
 Overhead,Unarmed,0,0,Bullet,Heavy,Strike,true,AI_FireNaga_Flamethrower_DoT,,Deflect_Default,false,2,1,1,4,4,0,30,15,10,0,1,0,0.8,0,1,0,0.8,0.8,0,0,0.8,0,0.3,0.3,1,Small,Small,3,1.8,1,0,,,0.1625,0.325
 Fire_Shot,FireStaff_Proj,0,0,Bullet,Light,Fire,true,AI_FireNaga_Flamethrower_DoT,true,Deflect_Default,false,0.8,1,1,0,1,0,20,5,10,0,0.8,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.6,1,0,,,0.1625,0.325
+Fire_Shot_Vent,FireStaff_Proj,0,0,Bullet,Light,Fire,true,AI_FireNaga_Flamethrower_DoT,true,Deflect_Default,false,1,1,1,0,1,0,20,5,10,0,0.8,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.6,1,0,,,0.1625,0.325
 Flamethrower_Weak,Unarmed,0,0,Bullet,Light,Fire,true,AI_FireNaga_Flamethrower_DoT,false,Deflect_Default,false,0.8,1,1,0,1,0,10,5,10,0,0,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.8,1,0,,,0.1625,0.325
 Flamethrower_Medium,Unarmed,0,0,Bullet,Light,Fire,true,AI_FireNaga_Flamethrower_DoT,false,Deflect_Default,false,1,1,1,0,1,0,20,10,10,0,0,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,1,1,0,,,0.1625,0.325
 Flamethrower_Strong,Unarmed,0,0,Bullet,Heavy,Fire,true,AI_FireNaga_Flamethrower_DoT,false,Deflect_Default,false,1.6,1,1,4,4,0,30,15,10,0,1,0,0.8,0,1,0,0.8,0.8,0,0,0.8,0,0.3,0.3,1,Small,Small,3,1.2,1,0,,,0.1625,0.325

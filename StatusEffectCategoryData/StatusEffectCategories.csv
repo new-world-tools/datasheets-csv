@@ -25,7 +25,7 @@ UnclampedRend,,,,,,,"ABSStandard:-1.0,ABSSiege:-1.0,ABSStrike:-1.0,ABSSlash:-1.0
 UnclampedFortify,,,,,,,"ABSStandard:5.0,ABSSiege:5.0,ABSStrike:5.0,ABSSlash:5.0,ABSThrust:5.0,ABSArcane:5.0,ABSFire:5.0,ABSIce:5.0,ABSNature:5.0,ABSLightning:5.0,ABSCorruption:5.0,ABSAcid:5.0"
 UnclampedWeaken,,,,,,,"DMGStandard:0,DMGSiege:0,DMGStrike:0,DMGSlash:0,DMGThrust:0,DMGArcane:0,DMGFire:0,DMGIce:0,DMGNature:0,DMGLightning:0,DMGCorruption:0,DMGAcid:0"
 UnclampedEmpower,,,,,,,"DMGStandard:5.0,DMGSiege:5.0,DMGStrike:5.0,DMGSlash:5.0,DMGThrust:5.0,DMGArcane:5.0,DMGFire:5.0,DMGIce:5.0,DMGNature:5.0,DMGLightning:5.0,DMGCorruption:5.0,DMGAcid:5.0"
-UnclampedDisease,,,,,,,"HealMod:-1.0,NonConsumableHealMod:-1.0,ConsumableHealMod:-1.0,DmgPctToHealthHealMod:-1.0"
+UnclampedDisease,,,,,,,"HealMod:-2.0,NonConsumableHealMod:-2.0,ConsumableHealMod:-2.0,DmgPctToHealthHealMod:-2.0"
 UnclampedHaste,,,,0,0,0,"MoveSpeedMod:1,SprintSpeedMod:1"
 UnclampedFactionResourceMod,,,,,,,"FactionReputationMod:3.0,FactionTokensMod:3.0 "
 UnclampedAzothMod,,,,,,,AzothMod:3.0
@@ -47,3 +47,4 @@ MammothEmpowered,,,0,0,0,0,
 NonDispellableSlow,-0.2,-0.8,0,0,0,0,"MoveSpeedMod:-0.5,SprintSpeedMod:-0.5"
 TraversalHaste,,,0,0,0,0,"MoveSpeedMod:0.5,SprintSpeedMod:0.5"
 Taunt,,,0,0,0,0,
+ABSCapped90Percent,,,,,,,"ABSStandard:0.9,ABSSiege:0.9,ABSStrike:0.9,ABSSlash:0.9,ABSThrust:0.9,ABSArcane:0.9,ABSFire:0.9,ABSIce:0.9,ABSNature:0.9,ABSLightning:0.9,ABSCorruption:0.9,ABSAcid:0.9"

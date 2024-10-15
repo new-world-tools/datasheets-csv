@@ -1,14 +1,21 @@
 EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExpAmount,CurrencyReward,RewardsNotes,ItemReward,ItemRewardQty,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionTokens,FactionInfluenceAmount,FactionInfluenceSrc,AzothReward,AzothRewardChance,WhisperID,AchievementId,IgnoreEconomyTracker,EntitlementId,PVPXP,RemoveStatusEffectCategories,EmitTelemetry
-99D_MSQ_01_RescueWarden_success,,40,MSQ,,,4750,7000,,QuestReward_MSQ2GC_Soulward,,,,,,,,,,10,1,,,,,,,true
-99D_MSQ_02_ClimbRuins_success,,40,MSQ,,,4750,7000,coatingcorruptedt4 x3,QuestReward_MSQ2GC_Container01,,,,,,,,,,10,1,,,,,,,true
-99D_MSQ_03_ThorpeBackstory_success,,40,MSQ,,,4750,7000,potionfamilywardcorruptedt4 x3,QuestReward_MSQ2GC_Container02,,,,,,,,,,10,1,,,,,,,true
-99D_MSQ_04_DestroyMines_success,,40,MSQ,,,4750,7000,,QuestReward_MSQ2GC_MediumHead_CorruptedVision,,,,,,,,,,10,1,,,,,,,true
-99D_MSQ_05_CrossBridge_success,,40,MSQ,,,4750,7000,,QuestReward_MSQ2GC_2hStaffFire_Flagstaff,,,,,,,,,,10,1,,,,,,,true
-99D_MSQ_06_DestroyPortals_success,,50,MSQ,,,5750,8000,,gypsumorb,,,,,,,,,,10,1,,,,,,,true
-99D_MSQ_07_PortalFight_success,,50,MSQ,,,5750,8000,,QuestReward_MSQ2GC_MediumChest_SecretFire,,,,,,,,,,10,1,,,,,,,true
-99D_MSQ_08_ThorpeFight_success,,50,MSQ,,,5750,8000,,QuestReward_MSQ2GC_Earring_DeckhandsPromotion,,,,,,,,,,10,1,,,,,,,true
-99D_MSQ_09_Outpost_success,,50,MSQ,,,5750,8000,,QuestReward_MSQ2GC_LifeStaff_Concern,,,,,,,,,,10,1,,,,,,,true
-99D_MSQ_10_CaerDun_success,,50,MSQ,,,5750,8000,potionfamiliywardancientt4 x3,QuestReward_MSQ2GC_Container03,,,,,,,,,,10,1,,,,,,,true
+99D_MSQ_01_RescueWarden_success,,40,MSQ,,,16000,7000,,QuestReward_MSQ2GC_Soulward,,,,,,,,,,50,1,,,,,,,true
+99D_MSQ_02_ClimbRuins_success,,40,MSQ,,,16000,7000,,CRX_QuestReward_GC_MSQ_Musket,,,,,,,,,,50,1,,,,,,,true
+99D_MSQ_03_ThorpeBackstory_success,,40,MSQ,,,17000,7000,,CRX_QuestReward_GC_MSQ_Warhammer,,,,,,,,,,50,1,,,,,,,true
+99D_MSQ_04_DestroyMines_success,,40,MSQ,,,17000,7000,,QuestReward_MSQ2GC_MediumHead_CorruptedVision,,,,,,,,,,50,1,,,,,,,true
+99D_MSQ_05_CrossBridge_success,,40,MSQ,,,18000,7000,,QuestReward_MSQ2GC_2hStaffFire_Flagstaff,,,,,,,,,,50,1,,,,,,,true
+99D_MSQ_06_DestroyPortals_success,,50,MSQ,,,18000,8000,,CRX_QuestReward_GC_MSQ_Hatchet,,,,,,,,,,100,1,,,,,,,true
+99D_MSQ_07_PortalFight_success,,50,MSQ,,,19000,8000,,CRX_QuestReward_GC_MSQ_IceGauntlet,,,,,,,,,,100,1,,,,,,,true
+99D_MSQ_08_ThorpeFight_success,,50,MSQ,,,25000,8000,,QuestReward_MSQ2GC_Earring_DeckhandsPromotion,,,,,,,,,,100,1,,,,,,,true
+99D_MSQ_09_Outpost_success,,50,MSQ,,,14000,8000,,QuestReward_MSQ2GC_LifeStaff_Concern,,,,,,,,,,100,1,,,,,,,true
+99D_MSQ_09_Outpost_success_destroyer,,50,MSQ,,,14000,8000,,CRX_QuestReward_ArcTyp_GC_Des_Chest,,,,,,,,,,100,1,,,,,,,true
+99D_MSQ_09_Outpost_success_musketeer,,50,MSQ,,,14000,8000,,CRX_QuestReward_ArcTyp_GC_Mus_Chest,,,,,,,,,,100,1,,,,,,,true
+99D_MSQ_09_Outpost_success_mystic,,50,MSQ,,,14000,8000,,CRX_QuestReward_ArcTyp_GC_Mys_Chest,,,,,,,,,,100,1,,,,,,,true
+99D_MSQ_09_Outpost_success_occultist,,50,MSQ,,,14000,8000,,CRX_QuestReward_ArcTyp_GC_Occ_Chest,,,,,,,,,,100,1,,,,,,,true
+99D_MSQ_09_Outpost_success_ranger,,50,MSQ,,,14000,8000,,CRX_QuestReward_ArcTyp_GC_Ran_Chest,,,,,,,,,,100,1,,,,,,,true
+99D_MSQ_09_Outpost_success_soldier,,50,MSQ,,,14000,8000,,CRX_QuestReward_ArcTyp_GC_Sol_Chest,,,,,,,,,,100,1,,,,,,,true
+99D_MSQ_09_Outpost_success_swordsman,,50,MSQ,,,14000,8000,,CRX_QuestReward_ArcTyp_GC_Swo_Chest,,,,,,,,,,100,1,,,,,,,true
+99D_MSQ_10_CaerDun_success,,50,MSQ,,,16000,8000,,CRX_QuestReward_GC_MSQ_Amulet,,,,,,,,,,100,1,,,,,,,true
 IO_99D_MSQ_01_BrokenCart_interact,,0,Quest,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 IO_99D_MSQ_01_LootedCart_interact,,0,Quest,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 IO_99D_MSQ_01_SupplyCrateFood_interact,,0,Quest,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true

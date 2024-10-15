@@ -5,5 +5,5 @@ Attack_Claw_Strike_Bi,Bear_Claw,0,0,Bullet,Light,Strike,,,,,false,0.5,1,1,1,1,1,
 Attack_Charge,Bear_Claw,0,0,Bullet,Heavy,Strike,,,,,false,1,1,1,4,4,4,45,35,45,2.5,2.5,0,0.8,2.5,2.5,0,0.8,0,0,0,0.8,1.1,1.1,1,0,0,1.5,1,Large,Large,1,0.1625,0.325
 Attack_Slam,Bear_Claw,0,0,Bullet,Heavy,Strike,,,,,false,0.6,1,1,5,5,5,35,30,35,0,0.5,0,0.8,0,0.5,0,0.8,0,0,0,0.8,0.75,0.75,1,0,0,0.7,1,Large,Large,1,0.1625,0.325
 Deflect_Default,Bear_Claw,0,0,Bullet,,Strike,,,,,false,0,1,1,2,2,2,25,30,25,0,2.5,0,0.8,0,2.5,0,0.8,0,0,0,0.8,0.75,0.75,1,0,0,1,1,Large,Large,1,0.1625,0.325
-Attack_Rampage,Bear_Claw,1,0,Bullet,,Deflect,,,,,false,1,1,1,5,5,5,35,30,35,0,2,0,0.8,0,2,0,0.8,0,0,0,0.8,0.9,0.9,1,0,0,0.4,1,Large,Large,1,0.1625,0.325
+Attack_Rampage,Bear_Claw,1,0,Bullet,,Standard,,,,,false,1,1,1,5,5,5,35,30,35,0,2,0,0.8,0,2,0,0.8,0,0,0,0.8,0.9,0.9,1,0,0,0.4,1,Large,Large,1,0.1625,0.325
 Fall,Fall,1,1,Bullet,,Falling,,,,,,1,1,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8,1,1,1,0,0,1,1,Large,Large,1,0.1625,0.325

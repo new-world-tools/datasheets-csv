@@ -1,0 +1,4 @@
+ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchievement,RequiredFaction,RequiredLevel
+C91_FQ_08_FisherKing_T1,@C91_FQ_08_FisherKing_turnin_prompt,@C91_FQ_08_FisherKing_turnin,,,,
+C91_Khadijah_ExplainHotspots,@C91_Khadijah_ExplainHotspots_prompt,@C91_Khadijah_ExplainHotspots_response,,,,
+C91_Ishii_ExplainHotspots,@C91_Ishii_ExplainHotspots_prompt,@C91_Ishii_ExplainHotspots_response,,,,

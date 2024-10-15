@@ -1,0 +1,8 @@
+NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,ConversationStateId2,ConversationStateId3,ConversationStateId4,ConversationStateId5,ConversationStateId6,ConversationStateId7,ConversationStateId8,ConversationStateId9,ConversationStateId10,ConversationStateId11,ConversationStateId12,ConversationStateId13,ConversationStateId14,ConversationStateId15,ConversationStateId16,ConversationStateId17,ConversationStateId18,ConversationStateId19,ConversationStateId20
+fish_perronelle,@fish_perronelle_t,@fish_perronelle,,fish_perronelle_00,fish_perronelle_01,fish_perronelle_02,fish_Perronelle_Vector_03,,,,,,,,,,,,,,,,
+fish_perronelle_B,@fish_perronelle_t,@fish_perronelle,,fish_perronelle_03,,,,,,,,,,,,,,,,,,,
+fish_perronelle_C,@fish_perronelle_t,@fish_perronelle,,fish_perronelle_00,fish_perronelle_03,fish_perronelle_04,,,,,,,,,,,,,,,,,
+fish_khadijah,@fish_khadijah_t,@fish_khadijah,,fish_khadijah_00,fish_khadijah_01,fish_khadijah_Vector_03,fish_khadijah_02,fish_khadijah_03,Fish_khadijah_Vector_06,,,,,,,,,,,,,,
+fish_ishikawa,@fish_ishikawa_t,@fish_ishikawa,,fish_ishikawa_00,fish_ishikawa_01,fish_ishikawa_02,fish_urashima_Vector_05,fish_ishikawa_03,,,,,,,,,,,,,,,
+fish_pelles_A,@fish_pelles_t,@fish_pelles,,fish_pelles_00,fish_pelles_01,fish_pelles_02,,,,,,,,,,,,,,,,,
+fish_pelles_B,@fish_pelles_king_t,@fish_pelles_king,,fish_pelles_00,fish_pelles_01,fish_pelles_02,fish_pelles_03,,,,,,,,,,,,,,,,

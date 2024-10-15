@@ -5,7 +5,7 @@ Overhead_Slash,Blunt_AI,0,0,Bullet,Heavy,Slash,false,,,,Deflect_Default,false,0.
 Lunge,Blunt_AI,0,0,Bullet,Heavy,Slash,false,,,,Deflect_Default,false,0.7,0.6,0.6,3,3,3,30,25,30,0,3,0,0.8,0,3,0,0.8,0,0,0,0.8,0,0.9,0.9,1,Small,Small,3,0.8,1,0,1,0.1625,0.325
 NeedleThrow,Blunt_AI,0,0,Bullet,Light,Thrust,false,,,,Deflect_Default,false,0.4,0.4,0.4,0,1,0,10,5,10,0,0,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.1,1,0,1,0.1625,0.325
 NeedleExplosion,Blunt_AI,0,0,Bullet,Light,Thrust,false,,,,Deflect_Default,false,0.4,0.5,0.5,1,1,1,10,5,10,0,3,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.1,1,0,1,0.1625,0.325
-NightmareHowl,Blunt_AI,1,0,Bullet,Heavy,Arcane,true,,,,Deflect_Default,false,1.2,0.8,0.8,0,0,0,10,15,10,0,0,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.8,0.8,1,Small,Small,3,0.8,1,0,1,0.1625,0.325
+NightmareHowl,Blunt_AI,1,0,Bullet,Heavy,Arcane,true,,,,Deflect_Default,false,1,1,1,0,0,0,10,15,10,0,0,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.8,0.8,1,Small,Small,3,0.8,1,0,1,0.1625,0.325
 WingGust,Blunt_AI,0,0,Bullet,Heavy,Strike,false,,,,Deflect_Default,false,0,0,0,4,1,1,10,15,10,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.8,0.8,1,Small,Small,3,0.8,1,0,1,0.1625,0.325
 Fall,Fall,1,1,Bullet,,Falling,false,,,,,false,1,1,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,0,0,1,,1,0.1625,0.325
 Reaction_Breakout,Fall,1,1,Bullet,,Falling,false,,,,,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Small,Small,1,,,,1,0.1625,0.325

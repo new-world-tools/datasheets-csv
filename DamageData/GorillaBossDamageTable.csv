@@ -53,5 +53,5 @@ Hazard_Lightning_Detonate,Unarmed,0,1,Bullet,Magic,Lightning,,,,,false,0.8,1,1,0
 ApplyAzothCharge,Unarmed,0,1,Bullet,Magic,Strike,,AI_Gorilla_Boss_AzothCharge,false,,false,0,1,1,0,0,0,0,0,0,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,0,0,0,0,0,,,0,0,0
 ApplyRiftIODepleted,Unarmed,0,0,Bullet,Heavy,Strike,,AI_Gorilla_Boss_RiftIO_Depleted,false,,false,1,1,1,88,88,88,45,45,45,1,1,0,0.8,1,1,0,0.8,0,0,0,0.9,1.1,1.1,1,0,0,1.5,1,Large,Large,0,0.1625,0.325
 ClearPlayerStatusEffects,Unarmed,0,1,Bullet,Magic,Strike,,AI_Gorilla_Boss_ClearPlayerStatusEffects,false,,false,0,1,1,0,0,0,0,0,0,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,0,0,0,0,0,,,0,0,0
-Deflect_Default,Unarmed,1,0,,,Deflect,,,,,false,0,1,1,2,2,2,25,30,25,0,1,0,0.8,0,1,0,0.8,0,0,0,0.9,0.75,0.75,1,0,0,1,1,Large,Large,1,0.1625,0.325
+Deflect_Default,Unarmed,1,0,,,Standard,,,,,false,0,1,1,2,2,2,25,30,25,0,1,0,0.8,0,1,0,0.8,0,0,0,0.9,0.75,0.75,1,0,0,1,1,Large,Large,1,0.1625,0.325
 Fall,Fall,1,1,Bullet,,Falling,,,,,false,1,1,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.9,0.9,1,0,0,1,1,Large,Large,1,0.1625,0.325

@@ -7,7 +7,7 @@ Attack_Charge,Bear_Claw,0,0,Bullet,Heavy,Strike,,,,Deflect_Default,false,1,1,1,2
 Attack_Charge_Hard,Bear_Claw,0,0,Bullet,Heavy,Strike,AI_CorruptionDMG_50,,,Deflect_Default,false,1,1,1,2,2,2,24,27,24,1.5,1.8,0,0.8,3,1.8,0,0.8,0,0,0,0,0,0,0,0.3,2,Large,Large,1,0,0.1625,0.325
 Attack_Slam,Bear_Claw,0,0,Bullet,Heavy,Strike,,,,Deflect_Default,false,0.45,1,1,1,1,1,10,15,10,0,0.3,0,0.8,0,0.3,0,0.8,0,0,0,0,0,0,0,0.25,1.25,Large,Large,1,16,0.1625,0.325
 Attack_Slam_Hard,Bear_Claw,0,0,Bullet,Heavy,Strike,AI_CorruptionDMG_50,,,Deflect_Default,false,0.45,1,1,1,1,1,13,18,13,0,0.3,0,0.8,0,0.3,0,0.8,0,0,0,0,0,0,0,0.25,1.25,Large,Large,1,16,0.1625,0.325
-Deflect_Default,Bear_Claw,1,0,,,Deflect,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,,2,,Large,Large,1,0,0.1625,0.325
+Deflect_Default,Bear_Claw,1,0,,,Standard,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,,2,,Large,Large,1,0,0.1625,0.325
 Attack_Rampage,Bear_Claw,0,0,Bullet,Heavy,Strike,,,,Deflect_Default,false,0.75,1,1,1,1,1,12,10,12,0,0.35,0,0.8,0,0.35,0,0.8,0,0,0,0,0,0,0,0.2,1.25,Large,Large,1,0,0.1625,0.325
 Attack_Rampage_Hard,Bear_Claw,0,0,Bullet,Heavy,Strike,AI_CorruptionDMG_50,,,Deflect_Default,false,0.75,1,1,1,1,1,15,18,15,0,0.35,0,0.8,0,0.35,0,0.8,0,0,0,0,0,0,0,0.2,1.25,Large,Large,1,0,0.1625,0.325
 Fall,Fall,1,1,Bullet,,Falling,,,,,,1,1,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Large,Large,1,0,0.1625,0.325

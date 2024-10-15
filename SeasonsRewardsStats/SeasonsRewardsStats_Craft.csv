@@ -44,3 +44,7 @@ CraftWardT5,Craft,,,5,,,,,,,PotionElemDefense,,,,,
 CraftWeaponT5,Craft,,,5,,,Weapon,,,,,,,,,
 CraftGearT4,Craft,,,4,,,,,,,,,,,,"ArmorPlate,ArmorCloth,ArmorLeather,ArmorFur,ArmorPlateHeavy,ArmorRobe,PatternArmorLight,PatternArmorMedium,PatternArmorHeavy,PrismaticArmorPlate,PrismaticArmorCloth,PrismaticArmorLeather,PrismaticArmorFur,PrismaticArmorPlateHeavy,PrismaticArmorRobe,ScarabArmorPlate,ScarabArmorCloth,ScarabArmorLeather,ScarabArmorFur,ScarabArmorPlateHeavy,ScarabArmorRobe,MeleeWeapons,RangedWeapons,PrismaticMeleeWeapons,PrismaticRangedWeapons,ScarabMeleeWeapons,ScarabRangedWeapons,Blunderbuss,Bows,Flail,GauntletIce,GauntletVoid,Greataxes,Greatswords,Hatchets,Longswords,Muskets,Rapiers,Shields,Spears,StaffFire,StaffLife,WarHammers,PrismaticBlunderbuss,PrismaticBows,PrismaticFlail,PrismaticGauntletIce,PrismaticGauntletVoid,PrismaticGreataxes,PrismaticGreatswords,PrismaticHatchets,PrismaticLongswords,PrismaticMuskets,PrismaticRapiers,PrismaticShields,PrismaticSpears,PrismaticStaffFire,PrismaticStaffLife,PrismaticWarHammers,ScarabBlunderbuss,ScarabBows,ScarabFlail,ScarabGauntletIce,ScarabGauntletVoid,ScarabGreataxes,ScarabGreatswords,ScarabHatchets,ScarabLongswords,ScarabMuskets,ScarabRapiers,ScarabShields,ScarabSpears,ScarabStaffFire,ScarabStaffLife,ScarabWarHammers"
 CraftFoodT3,Craft,,,3,,,Food,,,,,,,,,
+RefineT3Resource,Craft,,,3,,,Resource,,,,,Refining,,,,
+CraftFurnishingT3,Craft,,,3,,,,,,,,,,Furnishing,,
+CraftTrinketT4,Craft,,,4,,,Jewelry,,,,,,,,,
+CraftWithDoubloon,Craft,CK_PVEResource_DoubloonToken,,,,,,,,,,,,,,

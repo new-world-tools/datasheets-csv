@@ -1,0 +1,3 @@
+EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExpAmount,CurrencyReward,RewardsNotes,ItemReward,ItemRewardQty,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionTokens,FactionInfluenceAmount,FactionInfluenceSrc,AzothReward,AzothRewardChance,WhisperID,AchievementId,IgnoreEconomyTracker,EntitlementId,PVPXP,RemoveStatusEffectCategories,EmitTelemetry
+81_placeholder_success,,5,Quest,,,450,4375,,,,,,,250,,,,,0,1,,,,,,,true
+81_placeholder_interact,,0,Quest,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true

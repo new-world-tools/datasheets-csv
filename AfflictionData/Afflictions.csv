@@ -12,3 +12,4 @@ AfflictionCurse4,10,,9999,15,9999,45,true,true,,80d6872b,blowback,blowback,808f5
 AfflictionCurse2,11,,9999,8,9999,45,true,true,true,80fc9842,combustible,combustible,80853b22,@ui_affliction_mutcurse2,@ui_afflicted_mutcurse2,@ui_affliction_mutcurse2_tooltip,@ui_afflicted_mutcurse2_tooltip
 AfflictionSpores,12,SporeSickness,1,30,1.1,0,false,,,80ef651a,spore,combustible,80b0460c,@ui_affliction_spores,@ui_afflicted_spores,@ui_affliction_spores_tooltip,@ui_afflicted_spores_tooltip
 AfflictionStunned,13,Stunned_Afflict,1,3,1.1,4,false,,,80b8b8b8,frostbite,frostbite,80f8f5f2,@ui_affliction_stunned,@ui_afflicted_stunned,@ui_affliction_stunned_tooltip,@ui_afflicted_stunned_tooltip
+AfflictionFatigue,14,Drowning,0.075,4,1.1,20,false,,,80ffcf1c,drowning,,80ffa91c,@ui_affliction_fatigue,@ui_afflicted_drowning,@ui_affliction_fatigue_tooltip,@ui_afflicted_drowning_tooltip

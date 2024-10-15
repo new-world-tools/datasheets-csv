@@ -3,6 +3,6 @@ Attack_Swing_L,Warhammer,0,0,,Bullet,Light,Strike,,,,Deflect_Default,false,0.25,
 Attack_Mighty_Gavel,Warhammer,0,0,,Bullet,Heavy,Strike,,,,Deflect_Default,false,0.5,1,1,0,1,0,10,5,10,0,2.5,0,0.8,0,2.5,0,0.8,0,0,0,0.8,0,0,0,Small,2,1.5,1,0,0.1625,0.325
 Attack_Clearout,Warhammer,0,0,,Bullet,Heavy,Strike,,,,Deflect_Default,false,0.35,1,1,4,4,4,45,40,45,0,5,0,0.8,0,5,0,0.8,0,0,0,0.8,0,0,0,Small,2,0.25,1,1,0.1625,0.325
 Attack_Shockwave,Warhammer,0,0,,Bullet,Heavy,Strike,,AI_Stun_2sec,true,Deflect_Default,false,0.4,1,1,0,0,0,10,5,10,0,0.5,0,0.8,0,0.5,0,0.8,0,0,0,0.8,0,0,0,Small,4,0.1,1,1,0.1625,0.325
-Deflect_Default,Unarmed,1,0,,,,Deflect,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,Small,0,0.45,1,1,0.1625,0.325
+Deflect_Default,Unarmed,1,0,,,,Standard,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,Small,0,0.45,1,1,0.1625,0.325
 Fall,Fall,1,1,,Bullet,,Falling,,,,,,1,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Small,0,1,1,1,0.1625,0.325
 Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Small,1,,,1,0.1625,0.325

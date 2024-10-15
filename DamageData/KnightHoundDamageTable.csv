@@ -8,6 +8,6 @@ Attack_Hamstring,Bite_AI,0,0,,Bullet,Heavy,Slash,,AI_Bleed_9,true,Deflect_Defaul
 Attack_Hamstring_Windup,Bite_AI,0,0,,Bullet,Light,Slash,,,,Deflect_Default,false,0.15,1,1,0,0,0,0,0,0,0,0,0,0.8,0,0,0,0.8,0,1,0,0.8,0.6,1.6,0,1,0.8,1,Small ,0.1,0.1625,0.325
 Fall,Fall,1,1,,Bullet,,Falling,,,,,false,1,1,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Small ,1,0.1625,0.325
 Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,,false,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,10,1,Small ,1,0.1625,0.325
-Mage_Rolling_Spell,StaffSpells_No_Environment,0,0,true,Bullet,Magic ,Magic,,AI_Snare_6sec,,,false,0.25,1,1,0,0,0,30,25,30,0,0,0,0.8,0,0,0,0.8,0,1,0,0.8,0,0,0,Small,0,0.33,1,1,0.1625,0.325
+Mage_Rolling_Spell,StaffSpells_No_Environment,0,0,true,Bullet,Magic ,Arcane,,AI_Snare_6sec,,,false,0.25,1,1,0,0,0,30,25,30,0,0,0,0.8,0,0,0,0.8,0,1,0,0.8,0,0,0,Small,0,0.33,1,1,0.1625,0.325
 Attack_Breakout,Bite_AI,0,0,,Bullet,Heavy,Slash,,,,Deflect_Default,false,0.9,1,1,3,3,3,30,25,30,0,2,0,0.8,0,2,0,0.8,0,1,0,0.12,0.6,1.6,0,1,0.5,1,Small ,1,0.1625,0.325
-Deflect_Default,Unarmed,1,0,,,,Deflect,,,,,,0,1,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,0,1,1,,1,0.1625,0.325
+Deflect_Default,Unarmed,1,0,,,,Standard,,,,,,0,1,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,0,1,1,,1,0.1625,0.325

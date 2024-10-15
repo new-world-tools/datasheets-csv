@@ -1,8 +1,8 @@
 DamageID,WeaponCategory,IgnoreInvulnerable,NoReaction,IsRanged,SurfaceImpactEffect,AttackType,DamageType,Affixes,StatusEffect,EffectOnlyOnDamage,DeflectDamageID,CanCrit,DmgCoef,DmgCoefHead,DmgCoefCrit,PowerLevel,BlockPowerLevel,CritPowerLevel,HitStun,BlockHitStun,CritHitStun,ImpactDistanceX,ImpactDistanceY,ImpactDistanceZ,ImpactDecayRate,CritImpactDistanceX,CritImpactDistanceY,CritImpactDistanceZ,CritImpactDecayRate,BlockImpactDistanceX,BlockImpactDistanceY,BlockImpactDistanceZ,BlockImpactDecayRate,AddDmg,StaggerDmgModifier,StaggerResistModifier,CameraShakeID,ImpactRating,BlockStaminaDmgMod,BlockAbsorptionModifier,StunBreakoutIncrement,HitRuneCharge,HitBlockedRuneCharge
-Broken_2H_Slash_L_Pick,Sword,0,0,,Bullet,Light,Strike,,,,,false,0.25,1,1,0,1,0,15,10,15,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,1,1,Small,0,0.15,1,0,0.1625,0.325
-Broken_2H_Slash_L_Pick_Frenzy,Sword,0,0,,Bullet,Light,Strike,AI_CorruptionDMG_50,,,,false,0.25,1,1,0,1,0,15,10,15,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,1,1,Small,0,0.2,1,0,0.1625,0.325
-Broken_2H_Slash_L_R_Strike,Sword,0,0,,Bullet,Heavy,Strike,,,,,false,0.3,1,1,0,1,0,30,25,30,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,1,1,Small,0,0.15,1,0,0.1625,0.325
-Broken_2H_Slash_L_R_Strike_Frenzy,Sword,0,0,,Bullet,Heavy,Strike,AI_CorruptionDMG_50,,,,false,0.3,1,1,0,1,0,30,25,30,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,1,1,Small,0,0.2,1,0,0.1625,0.325
+Broken_2H_Slash_L_Pick,Sword,0,0,,Bullet,Light,Strike,,,,,false,0.35,1,1,1,1,1,15,15,15,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,1,1,Small,0,0.15,1,0,0.1625,0.325
+Broken_2H_Slash_L_Pick_Frenzy,Sword,0,0,,Bullet,Light,Strike,AI_CorruptionDMG_50,,,,false,0.35,1,1,1,1,1,15,15,15,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,1,1,Small,0,0.2,1,0,0.1625,0.325
+Broken_2H_Slash_L_R_Strike,Sword,0,0,,Bullet,Heavy,Strike,,,,,false,0.35,1,1,1,1,1,15,15,15,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,1,1,Small,0,0.15,1,0,0.1625,0.325
+Broken_2H_Slash_L_R_Strike_Frenzy,Sword,0,0,,Bullet,Heavy,Strike,AI_CorruptionDMG_50,,,,false,0.35,1,1,1,1,1,15,15,15,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,1,1,Small,0,0.2,1,0,0.1625,0.325
 Broken_2H_TurnAround_Overhead_Strike,Sword,0,0,,Bullet,Heavy,Strike,,,,,false,0.5,1,1,0,0,0,35,30,35,0,1.2,0,0.8,0,1.8,0,0.8,0,0,0,0.8,0,1,1,Small,0,1,1,1,0.1625,0.325
 Broken_2H_TurnAround_Overhead_Strike_Frenzy,Sword,0,0,,Bullet,Heavy,Strike,AI_CorruptionDMG_50,,,,false,0.5,1,1,0,0,0,35,30,35,0,1.2,0,0.8,0,1.8,0,0.8,0,0,0,0.8,0,1,1,Small,0,1,1,1,0.1625,0.325
 Broken_2H_Overhead_Strike,Sword,0,0,,Bullet,Heavy,Strike,,,,,false,0.5,1,1,0,0,0,25,20,25,0,1.5,0,0.8,0,1.5,0,0.8,0,0,0,0.8,0,1,1,Large_long,0,1,1,0,0.1625,0.325

@@ -1,0 +1,11 @@
+ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchievement,RequiredFaction,RequiredLevel
+01_Grace_Goodbye_WW,@01_Grace_Goodbye_prompt,@01_Grace_Goodbye_a_new,01_Grace_Goodbye_WW,,,
+01_Grace_Goodbye_MB,@01_Grace_Goodbye_prompt,@01_Grace_Goodbye_a_new,01_Grace_Goodbye_MB,,,
+01_Grace_Goodbye_WW_Final,@01_Grace_Goodbye_next2_prompt,@01_Grace_Greet_04_a,,01_Grace_Goodbye_WW,,
+01_Grace_Goodbye_MB_Final,@01_Grace_Goodbye_next2_prompt,@01_Grace_Greet_04_a,,01_Grace_Goodbye_MB,,
+01_boarfeast_topicTime,@01_boarfeast_topicTime_prompt,@01_boarfeast_topicTime_a,,,,
+01_boarfeast_topicTime_MB,@01_boarfeast_topicTime_prompt,@01_boarfeast_topicTime_a_MB,,,,
+01_boarfeast_topicOrigin,@01_boarfeast_topicOrigin_prompt,@01_boarfeast_topicOrigin_a,,,,
+01_boarfeast_topicOrigin_MB,@01_boarfeast_topicOrigin_prompt,@01_boarfeast_topicOrigin_a_MB,,,,
+01_crewmates_topicCorrupted,@01_crewmates_topicCorrupted_prompt,@01_crewmates_topicCorrupted_a,,,,
+01_crewmates_topicCorrupted_MB,@01_crewmates_topicCorrupted_prompt,@01_crewmates_topicCorrupted_a_MB,,,,

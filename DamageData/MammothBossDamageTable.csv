@@ -25,6 +25,6 @@ Focus_Earth_Root_Ice,Unarmed,0,0,,Bullet,Heavy,Nature,,Mammoth_Earth_Root_Feedba
 Focus_Earth_Root_Lightning,Unarmed,0,0,,Bullet,Heavy,Nature,,Mammoth_Earth_Root_Feedback_Lightning,false,Deflect_Default,false,0.75,0.5,0.5,0,1,0,10,5,10,0,0,0,0.8,0,0.5,0,0.8,0,0,0,0.8,0,0,0,Small,3,0.1,1,0,0.1625,0.325
 Focus_Earth_Root_Void,Unarmed,0,0,,Bullet,Heavy,Nature,,Mammoth_Earth_Root_Feedback_Void,false,Deflect_Default,false,0.75,0.5,0.5,0,1,0,10,5,10,0,0,0,0.8,0,0.5,0,0.8,0,0,0,0.8,0,0,0,Small,3,0.1,1,0,0.1625,0.325
 Phase_Trigger,Unarmed,0,0,,Bullet,Heavy,Nature,,Mammoth_Boss_PhaseTrigger,false,Deflect_Default,false,0,0,0,0,1,0,10,5,10,0,0,0,0.8,0,0.5,0,0.8,0,0,0,0.8,0,0,0,Small,3,0.1,1,0,0.1625,0.325
-Deflect_Default,Unarmed,1,0,,,,Deflect,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,Small,0,0.45,1,1,0.1625,0.325
+Deflect_Default,Unarmed,1,0,,,,Standard,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,Small,0,0.45,1,1,0.1625,0.325
 Fall,Fall,1,1,,Bullet,,Falling,,,,,,1,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Small,0,1,1,1,0.1625,0.325
 Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Small,1,,,1,0.1625,0.325

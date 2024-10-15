@@ -3,8 +3,10 @@ GatherResource,Gather,,,Resource,,,"Skinning,Mining,Logging,Harvesting",
 GatherT5ResourceNode,Gather,,5,,,true,"Skinning,Mining,Logging,Harvesting",
 SkinT5Animal,Gather,,5,,Rawhide+Resource,true,Skinning,
 LootSulfurChest,Gather,,,,,true,,LootLargeT3ElitePOI_SulfurChestOnly
-LootEliteChest,Gather,,,,,true,,LootLargeT3ElitePOI
+LootEliteChest,Gather,,,,,true,,"LootLargeT3ElitePOI,LootLargeT3ElitePOI_SulfurChestOnly,LootLargeT3ElitePOI_BeastChestOnly"
 GatherPrismabloom,Gather,,,Resource,,true,,DyePlantDesertRose
 GatherSporePods,Gather,,,,,true,,"FL_SporePod_AngryEarth,FL_SporePod_AngryEarth_Elite,FL_SporePod_Ancients,FL_SporePod_Beasts,FL_SporePod_Beasts_Elite"
 LootBeastChest,Gather,,,,,true,,LootLargeT3ElitePOI_BeastChestOnly
 GatherT52ResourceNode,Gather,"OreT52,WoodT52,FiberT52,RawhideT52",5,Resource,,true,"Skinning,Mining,Logging,Harvesting",
+GatherCKPvPChest,Gather,,,,,true,,"10ws_DoubloonChestPvP_Small,10ws_DoubloonChestPvP_Medium,10ws_DoubloonChestPvP_Large"
+GatherCKPvPDoubloon,Gather,CK_PVPResource_DoubloonToken,,,,,,

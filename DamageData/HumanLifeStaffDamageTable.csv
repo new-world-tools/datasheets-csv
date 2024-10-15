@@ -3,6 +3,6 @@ Spell_Ice_Storm,Bow,0,0,,Bullet,Light,Nature,,,,Deflect_Default,false,0.35,1,1,0
 Spell_Ice_Spikes,Bow,0,0,,Bullet,Heavy,Nature,,,,Deflect_Default,false,0.75,1,1,1,1,1,15,10,15,0,2.5,0,0.8,0,2.5,0,0.8,0,0,0,0.8,0,0,0,Small,0,1,1,0,0.1625,0.325
 Spell_Ice_Spikes_End,Bow,0,0,,Bullet,Heavy,Nature,,,,Deflect_Default,false,1,1,1,1,1,1,15,10,15,0,2.5,0,0.8,0,2.5,0,0.8,0,0,0,0.8,0,0,0,Small,0,1.2,1,0,0.1625,0.325
 Projectile,Bow,0,0,true,Bullet,Light,Nature,,,,Deflect_Default,false,0.3,1,1,0,1,0,15,10,15,0,0,0,0.8,0,0.3,0,0.8,0,0,0,0.8,0,0,0,Small,0,0.1,1,1,0.1625,0.325
-Deflect_Default,Unarmed,1,0,,,,Deflect,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,Small,0,0.45,1,1,0.1625,0.325
+Deflect_Default,Unarmed,1,0,,,,Standard,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,Small,0,0.45,1,1,0.1625,0.325
 Fall,Fall,1,1,,Bullet,,Falling,,,,,,1,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Small,0,1,1,1,0.1625,0.325
 Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Small,1,,,1,0.1625,0.325

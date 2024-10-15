@@ -4,10 +4,10 @@ Minion_Left_Hand_Ground_Pound,Unarmed,,0,0,,Heavy,Strike,,,,Deflect_Default,fals
 Overhead_Slam,Unarmed,,0,0,,Heavy,Strike,,AI_Stun_2sec,true,Deflect_Default,false,,,1,1,8,8,3,20,20,15,0,2,0,0.8,0,2,0,0.8,0,0,0,0.8,0,1.5,1.5,Small,3,1.25,1,0,0.1625,0.325
 Splinter_Thorn,Unarmed,,0,0,,Heavy,Thrust,,,,Deflect_Default,false,,,1,1,4,4,4,20,20,15,0,2,0,0.8,0,2,0,0.8,0,0,0,0.8,0,1,1,Small,3,1,1,0,0.1625,0.325
 Earth_Spike,Unarmed,,0,0,,Heavy,Nature,,,,Deflect_Default,false,,,1.15,1,4,4,4,10,10,5,0,4,0,0.8,0,4,0,0.8,0,0,0,0.8,0,1,1,Small,3,0.5,1,0,0.1625,0.325
-Swipe_Left,Unarmed,,0,0,,Light,Slash,,,,Deflect_Default,false,,,0.6,1,0,0,0,20,20,15,1,2,0,0.8,1,2,0,0.8,0,0,0,0.8,0,1,1,Small,3,0.6,1,0,0.1625,0.325
+Swipe_Left,Unarmed,,0,0,,Light,Slash,,,,Deflect_Default,false,,,0.5,1,0,0,0,20,20,15,1,2,0,0.8,1,2,0,0.8,0,0,0,0.8,0,1,1,Small,3,0.6,1,0,0.1625,0.325
 Minion_Swipe_Left,Unarmed,,0,0,,Light,Slash,,,,Deflect_Default,false,,,0.4,1,0,0,0,10,10,10,0.5,0.5,0,0.8,0.5,0.5,0,0.8,0,0,0,0.8,0,1,1,Small,3,0.6,1,0,0.1625,0.325
 Swipe_Left_Combo,Unarmed,,0,0,,Heavy,Slash,,,,Deflect_Default,false,,,0.6,1,4,4,4,20,20,15,2.5,2,0,0.8,2.5,2,0,0.8,0,0,0,0.8,0,1,1,Small,3,0.35,1,0,0.1625,0.325
-Swipe_Right,Unarmed,,0,0,,Light,Slash,,,,Deflect_Default,false,,,0.6,1,0,0,0,20,20,15,-1,2,0,0.8,-1,2,0,0.8,0,0,0,0.8,0,1,1,Small,3,0.6,1,0,0.1625,0.325
+Swipe_Right,Unarmed,,0,0,,Light,Slash,,,,Deflect_Default,false,,,0.5,1,0,0,0,20,20,15,-1,2,0,0.8,-1,2,0,0.8,0,0,0,0.8,0,1,1,Small,3,0.6,1,0,0.1625,0.325
 Minion_Swipe_Right,Unarmed,,0,0,,Light,Slash,,,,Deflect_Default,false,,,0.4,1,0,0,0,10,10,10,-0.5,0.5,0,0.8,-0.5,0.5,0,0.8,0,0,0,0.8,0,1,1,Small,3,0.6,1,0,0.1625,0.325
 Swipe_Right_Combo,Unarmed,,0,0,,Heavy,Slash,,,,Deflect_Default,false,,,0.4,1,2,2,2,20,20,15,1,2,0,0.8,1,2,0,0.8,0,0,0,0.8,0,1,1,Small,3,0.35,1,0,0.1625,0.325
 Tail_Swipe_Windup,Unarmed,,0,0,,Light,Strike,,,,Deflect_Default,false,,,0.2,1,4,4,4,20,20,15,2,3,0,0.8,2,3,0,0.8,0,0,0,0.8,0,1,1,Small,3,0.5,1,0,0.1625,0.325

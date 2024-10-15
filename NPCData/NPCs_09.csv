@@ -1,5 +1,5 @@
 NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,ConversationStateId2,ConversationStateId3,ConversationStateId4,ConversationStateId5,ConversationStateId6,ConversationStateId7,ConversationStateId8,ConversationStateId9,ConversationStateId10,ConversationStateId11,ConversationStateId12,ConversationStateId13,ConversationStateId14,ConversationStateId15,ConversationStateId16,ConversationStateId17,ConversationStateId18,ConversationStateId19,ConversationStateId20
-0907_Commander,@0907_Commander_title,@0907_Commander,,0907_00_Commander,0907_01_Commander_PostRSE,0907_02_Commander_PostRSE,,,,,,,,,,,,,,,,,
-0908_Alchemist,@0908_Alchemist_title,@0908_Alchemist,,0908_00_Alchemist,0908_01_Alchemist_PostRSE,0908_02_Alchemist_PostRSE,,,,,,,,,,,,,,,,,
-0909_Adjudicator,@0909_Adjudicator_title,@0909_Adjudicator,,0909_00_Adjudicator,0909_01_Adjudicator_PostRSE,0909_02_Adjudicator_PostRSE,,,,,,,,,,,,,,,,,
-0922_Innkeep,@0922_Innkeep_title,@0922_Innkeep,,0922_00_Innkeep,,,,,,,,,,,,,,,,,,,
+0907_Commander,@0907_Commander_title,@0907_Commander,,0000_Old_Data,,,,,,,,,,,,,,,,,,,
+0908_Alchemist,@0908_Alchemist_title,@0908_Alchemist,,0000_Old_Data,,,,,,,,,,,,,,,,,,,
+0909_Adjudicator,@0909_Adjudicator_title,@0909_Adjudicator,,0000_Old_Data,,,,,,,,,,,,,,,,,,,
+0922_Innkeep,@0922_Innkeep_title,@0922_Innkeep,,0000_Old_Data,,,,,,,,,,,,,,,,,,,

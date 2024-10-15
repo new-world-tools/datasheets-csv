@@ -1,0 +1,6 @@
+ConversationTopicId,PlayerPrompt,NPCResponse,AchievementUnlock,RequiredAchievement,RequiredFaction,RequiredLevel,ProvidedTopics
+95A_Rima_Topic01,@95A_S02_VoicesoftheDesert_TalkRima_Prompt,@95A_S02_VoicesoftheDesert_TalkRima_a,,,,,
+95A_Rima_Topic02,@95A_S02_VoicesoftheDesert_RimaSong_Prompt,@95A_S02_VoicesoftheDesert_RimaSong_a,,,,,
+95A_Rima_Topic03,@95A_S02_VoicesoftheDesert_RimaJoin_Prompt,@95A_S02_VoicesoftheDesert_RimaJoin_a,,,,,
+95A_Zander_Topic01,@95A_S02_VoicesoftheDesert_TalkZander_Prompt,@95A_S02_VoicesoftheDesert_TalkZander_a,,,,,
+95A_Jackal_Topic01,@95A_S02_VoicesoftheDesert_TalkJackal_Prompt,@95A_S02_VoicesoftheDesert_TalkJackal,,,,,

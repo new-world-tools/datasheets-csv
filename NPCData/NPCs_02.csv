@@ -1,4 +1,1 @@
 NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,ConversationStateId2,ConversationStateId3,ConversationStateId4,ConversationStateId5,ConversationStateId6,ConversationStateId7,ConversationStateId8,ConversationStateId9,ConversationStateId10,ConversationStateId11,ConversationStateId12,ConversationStateId13,ConversationStateId14,ConversationStateId15,ConversationStateId16,ConversationStateId17,ConversationStateId18,ConversationStateId19,ConversationStateId20
-0207_Commander,@0207_Commander_title,@0207_Commander,,0207_00_Commander,0207_01pre_Commander,0207_01_Commander,0207_02_Commander,0207_03_Commander,,,,,,,,,,,,,,,
-0209b_Adjudicator,@0209_Adjudicator_title,@0209b_Adjudicator,,0209b_00_Adjudicator,0209b_01pre_Adjudicator,0209b_01_Adjudicator,,,,,,,,,,,,,,,,,
-0238_Alchemist,@0238_Alchemist_title,@0238_Alchemist,,0238_Alchemist_00,0238_Alchemist_01pre,0238_Alchemist_01,0238_Alchemist_02,0238_Alchemist_03,,,,,,,,,,,,,,,

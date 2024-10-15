@@ -4,7 +4,7 @@ Attack_Trunk_Slam,Unarmed,0,0,,Bullet,Heavy,Strike,,,,Deflect_Default,false,0.6,
 Attack_Tusk_Slash_L,Unarmed,0,0,,Bullet,Heavy,Slash,,,,Deflect_Default,false,0.35,1,1,1,1,0,10,5,10,0,0,0,0.8,0,0.5,0,0.8,0,0,0,0.8,0,0,0,Small,,,,1,0.25,1,0,0.1625,0.325
 Attack_Tusk_Slash_R,Unarmed,0,0,,Bullet,Heavy,Slash,,,,Deflect_Default,false,0.35,1,1,1,1,0,10,5,10,0,0,0,0.8,0,0.5,0,0.8,0,0,0,0.8,0,0,0,Small,,,,1,0.25,1,0,0.1625,0.325
 Attack_Tusk_Thrust,Unarmed,0,0,,Bullet,Heavy,Thrust,,,,Deflect_Default,false,0.7,1,1,2,1,0,10,5,10,0,0,0,0.8,0,0.5,0,0.8,0,0,0,0.8,0,0,0,Small,,,,1,0.5,1,0,0.1625,0.325
-Deflect_Default,Unarmed,1,0,,,,Deflect,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,Small,,,,0,0.45,1,1,0.1625,0.325
+Deflect_Default,Unarmed,1,0,,,,Standard,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,Small,,,,0,0.45,1,1,0.1625,0.325
 Fall,Fall,1,1,,Bullet,,Falling,,,,,,1,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Small,,,,0,1,1,1,0.1625,0.325
 Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Small,,,,1,,,1,0.1625,0.325
 Storm_Herald,Unarmed,0,0,,Bullet,Heavy,Lightning,,,,Deflect_Default,false,0.4,1,1,0,1,0,10,5,10,0,0,0,0.8,0,0.5,0,0.8,0,0,0,0.8,0,0,0,Small,,,,0,0.35,1,0,0.1625,0.325

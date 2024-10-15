@@ -13,4 +13,4 @@ Muddy_Roots,ClubSpriggan,0,0,,,Bullet,Heavy,Strike,,,,Deflect_Default,false,0.2,
 Muddy_Roots_Wipe,ClubSpriggan,1,0,,true,Bullet,Heavy,Strike,,StatusEffect_Boss_TeamWipe,false,Deflect_Default,false,999,1,1,5,4,5,0,0,0,0,3,0,0.8,0,3,0,0.8,0,3,0,0.8,0,0,,1,,,1,0,1,1,,0.1625,0.325
 Muddy_Roots_KnockBack,ClubSpriggan,1,0,,true,Bullet,Heavy,Strike,,,,Deflect_Default,false,0,1,1,4,4,4,0,0,0,0,5,0,0.8,0,5,0,0.8,0,5,0,0.8,0,0,,1,,,1,0,1,1,true,0.1625,0.325
 Adds_Wipe,ClubSpriggan,1,0,,true,Bullet,Heavy,Strike,,,,Deflect_Default,false,999,1,1,0,0,0,0,0,0,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,,1,,,1,0,1,1,,0.1625,0.325
-Deflect_Default,Unarmed,1,0,,,,,Deflect,,,,Deflect_Default,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,0,0,0,0,1,0,0.8,0,0,0,0,Small,Small,0,0.45,1,1,,0.1625,0.325
+Deflect_Default,Unarmed,1,0,,,,,Standard,,,,Deflect_Default,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,0,0,0,0,1,0,0.8,0,0,0,0,Small,Small,0,0.45,1,1,,0.1625,0.325

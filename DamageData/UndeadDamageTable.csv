@@ -24,7 +24,7 @@ Undead_1H_Ranged_Pistol_Hip_Shot,Musket,0,0,true,Bullet,Light,Thrust,,,,,,,Defle
 Undead_Spell_Fireball,Torch,0,0,true,Bullet,,Thrust,,,,,,,Deflect_Default,false,1.83,1,1.83,1,1,1,15,10,15,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,,0,Small,Small,Small,3,0.33,1,1,0.1625,0.325
 Undead_Spell_GroundWave,Unarmed,0,0,,Bullet,,Thrust,,,,,,,Deflect_Default,false,1.37,1,1.37,1,1,1,15,10,15,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,,0,Small,Small,Small,3,0.33,1,1,0.1625,0.325
 Undead_Spell_AOE,Unarmed,0,0,,Bullet,,Thrust,,,,,,,Deflect_Default,false,2.43,1,2.43,1,1,1,15,10,15,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,,0,Small,Small,Small,3,0.33,1,1,0.1625,0.325
-UndeadDeflect_Default,Unarmed,1,0,,,,Deflect,,,,,,,,false,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,0,0,0.8,0,1,0,0.8,0,0,,0,Small,Small,Small,3,0.45,1,1,0.1625,0.325
+UndeadDeflect_Default,Unarmed,1,0,,,,Standard,,,,,,,,false,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,0,0,0.8,0,1,0,0.8,0,0,,0,Small,Small,Small,3,0.45,1,1,0.1625,0.325
 Undead_Fireball_Spell,StaffSpells_No_Environment,0,0,true,Bullet,Arcane,Arcane,,,,,,,,false,1.44,1,1.44,2,2,2,20,15,20,0,2,0,0.8,0,1,0,0.8,0,2,0,0.8,0,0,,0,Small,Small,Small,3,0.33,1,1,0.1625,0.325
 Undead_GroundWave_Spell,StaffSpells_No_Environment,0,0,,Bullet,Arcane,Arcane,,,,,,,,false,0.29,1,0.29,2,2,2,30,25,30,0,2,0,0.8,0,1,0,0.8,0,2,0,0.8,0,0,,0,Small,Small,Small,3,0.33,1,1,0.1625,0.325
 Undead_Ranged_AOE_Spell,StaffSpells_No_Environment,0,0,,Bullet,Arcane,Arcane,,,,,,,,false,0.8,0.8,0.8,3,3,3,30,25,30,0,2,0,0.8,0,0,0,0.8,0,2,0,0.8,0,0,,0,Small,Small,Small,3,0.33,1,1,0.1625,0.325

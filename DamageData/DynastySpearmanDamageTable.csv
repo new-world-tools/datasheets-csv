@@ -15,4 +15,4 @@ Dynasty_Spearman_Light_Swipe,Spear,0,0,,Bullet,Light,Slash,,,,,,,Deflect_Default
 Dynasty_Spearman_Heavy_Swipe,Spear,0,0,,Bullet,Heavy,Slash,,,,,,,Deflect_Default,false,0.42,1,1,1,1,1,14,19,14,0,1.45,0,0.8,0,0,0,0.8,0,1.4,0,0.8,0,1.2,,1,Small,Small,Small,3,0.6,1,1,0.1625,0.325
 Fall,Fall,1,1,,Bullet,,Falling,,,,,,,,false,1,0,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,Small,Small,Small,0,1,1,1,0.1625,0.325
 Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,,,,,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,10,Small,Small,Small,1,,,0,0.1625,0.325
-Deflect_Default,Unarmed,1,0,,,,Deflect,,,,,,,,false,0,0,1,2,2,2,0,0,0,0,1,0,0.8,0,0,0,0,0,1,0,0.8,0,0,,0,Small,Small,Small,0,0.45,1,1,0.1625,0.325
+Deflect_Default,Unarmed,1,0,,,,Standard,,,,,,,,false,0,0,1,2,2,2,0,0,0,0,1,0,0.8,0,0,0,0,0,1,0,0.8,0,0,,0,Small,Small,Small,0,0.45,1,1,0.1625,0.325

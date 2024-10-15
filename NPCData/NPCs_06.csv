@@ -1,3 +1,3 @@
 NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,ConversationStateId2,ConversationStateId3,ConversationStateId4,ConversationStateId5,ConversationStateId6,ConversationStateId7,ConversationStateId8,ConversationStateId9,ConversationStateId10,ConversationStateId11,ConversationStateId12,ConversationStateId13,ConversationStateId14,ConversationStateId15,ConversationStateId16,ConversationStateId17,ConversationStateId18,ConversationStateId19,ConversationStateId20
-0623_Fisher,@0623_Fisher_title,@0623_Fisher,,0623_00_Fisher,0623_01_Fisher,0623_02_Fisher,0623_03_Fisher,,,,,,,,,,,,,,,,
-0699_Barkimedes,@0699_Barkimedes_title,@0699_Barkimedes,,0699_00_Barkimedes,0699_01_Barkimedes,0699_02_Barkimedes,0699_03_Barkimedes,,,,,,,,,,,,,,,,
+0623_Fisher,@0623_Fisher_title,@0623_Fisher,,0000_Old_Data,,,,,,,,,,,,,,,,,,,
+0699_Barkimedes,@0699_Barkimedes_title,@0699_Barkimedes,,0000_Old_Data,,,,,,,,,,,,,,,,,,,

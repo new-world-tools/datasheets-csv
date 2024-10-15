@@ -1,43 +1,46 @@
 Index,Name,Color,Category,IsEntitlement,ColorAmount,ColorOverride,SpecColor,SpecAmount,MaskGlossShift
 4,PrimeBlue,#00A8E1,Reserved,1,1,0.1,#31608c,1,0.5
 6,Gold,#f4d481,Reserved,1,1,0.15,#daa350,1,0.75
-22,AmazonOrange,#FF9900,Reserved,1,1,0.05,#FF9900,0.15,0.5
-23,TwitchPurple,#9472c8,Reserved,1,1,0.1,#40365f,1,0.5
-24,Black,#000000,Test,1,1,0.05,#000000,0.15,0.5
-25,White,#FFFFFF,Test,1,1,0.05,#FFFFFF,0.15,0.5
-26,Red,#FF0000,Test,1,1,0.05,#FF0000,0.15,0.5
-27,Ship Gray,#403d44,Reserved,1,1,0.5,#1d1b21,1,0.5
-28,Soft Coal,#474547,Reserved,1,1,0.5,#141214,1,0.5
-29,Blemished pearl,#858b93,Reserved,1,1,0.1,#464f5b,0.5,0.5
-30,Sublime Bone,#b1b6be,Reserved,1,1,0.05,#7d7f85,0.7,0.5
-31,Sandalwood,#7e6041,Reserved,1,1,0.2,#322110,1,0.5
-32,Bleached Cofee,#9d826e,Reserved,1,1,0.1,#533b2c,1,0.5
-33,Smoldering Scarlet,#4c1e21,Reserved,1,1,0.5,#200707,1,0.5
-34,Blood,#6c1201,Reserved,1,1,0.4,#2c0b06,1,0.5
-35,Rouge,#a64168,Reserved,1,1,0.1,#72182b,1,0.5
-36,Viola,#c88ba8,Reserved,1,1,0.1,#8e4d64,1,0.5
-37,Ageless Bronze,#a34917,Reserved,1,1,0.2,#a34917,0.3,0.5
-38,Burnt Sienna,#e5824b,Reserved,1,1,0.1,#e5824b,0.3,0.5
-39,Silt,#b1a63d,Reserved,1,1,0.1,#b1a63d,0.3,0.5
-40,Blond,#dabc64,Reserved,1,1,0.05,#dabc64,0.3,0.5
-41,Sushi Green,#97b632,Reserved,1,1,0.07,#425714,1,0.45
-42,Key Lime,#b6be6b,Reserved,1,1,0.05,#4b4c22,1,0.5
-43,Forest Green,#204705,Reserved,1,1,0.5,#040f00,1,0.5
-44,Green Grass,#2a5c07,Reserved,1,1,0.5,#082003,1,0.5
-45,Mantis,#71bd64,Reserved,1,1,0.1,#2a5427,1,0.5
-46,Angelic Satin,#035f74,Reserved,1,1,0.2,#035f74,0.3,0.5
-47,Tradewind,#54b2ac,Reserved,1,1,0.1,#54b2ac,0.3,0.5
-48,Hidden Stream,#84baac,Reserved,1,1,0.1,#84baac,0.3,0.5
-49,Blued Steel,#2d4483,Reserved,1,1,0.3,#19274e,1,0.5
-50,Supreme Saphire,#3f71a6,Reserved,1,1,0.2,#3f71a6,0.3,0.5
-51,Fierce Cobalt,#7895cf,Reserved,1,1,0.1,#7895cf,0.3,0.5
-52,Spring Grape,#5c4686,Reserved,1,1,0.2,#5c4686,0.3,0.5
-53,Butterfly Wing,#6b548c,Reserved,1,1,0.2,#6b548c,0.3,0.5
-54,Tranquil Blossom,#aa93c7,Reserved,1,1,0.05,#aa93c7,0.3,0.5
-55,Deep Velvet,#3e234e,Reserved,1,1,0.3,#3e234e,0.3,0.5
-56,Crushed Berry,#561a56,Reserved,1,1,0.2,#561a56,0.3,0.5
-57,Lavender,#ac7db3,Reserved,1,1,0.05,#ac7db3,0.3,0.5
-58,Silver,#d0d9e1,Reserved,1,1,0.2,#929697,1,0.75
+22,AmazonOrange,#FF9900,Orange,1,1,0.05,#FF9900,0.15,0.5
+23,TwitchPurple,#9472c8,Purple,1,1,0.1,#40365f,1,0.5
+24,Black,#000000,Black,1,1,0.05,#000000,0.15,0.5
+25,White,#FFFFFF,White,1,1,0.05,#FFFFFF,0.15,0.5
+26,Red,#FF0000,Red,1,1,0.05,#FF0000,0.15,0.5
+27,Ship Gray,#403d44,Grey,1,1,0.5,#1d1b21,1,0.5
+28,Soft Coal,#474547,Grey,1,1,0.5,#141214,1,0.5
+29,Blemished pearl,#858b93,Grey,1,1,0.1,#464f5b,0.5,0.5
+30,Sublime Bone,#b1b6be,Grey,1,1,0.05,#7d7f85,0.7,0.5
+31,Sandalwood,#7e6041,Brown,1,1,0.2,#322110,1,0.5
+32,Bleached Cofee,#9d826e,Brown,1,1,0.1,#533b2c,1,0.5
+33,Smoldering Scarlet,#4c1e21,Red,1,1,0.5,#200707,1,0.5
+34,Blood,#6c1201,Red,1,1,0.4,#2c0b06,1,0.5
+35,Rouge,#a64168,REd,1,1,0.1,#72182b,1,0.5
+36,Viola,#c88ba8,Red,1,1,0.1,#8e4d64,1,0.5
+37,Ageless Bronze,#a34917,Orange,1,1,0.2,#a34917,0.3,0.5
+38,Burnt Sienna,#e5824b,Orange,1,1,0.1,#e5824b,0.3,0.5
+39,Silt,#b1a63d,Yellow,1,1,0.1,#b1a63d,0.3,0.5
+40,Blond,#dabc64,Yellow,1,1,0.05,#dabc64,0.3,0.5
+41,Sushi Green,#97b632,Green,1,1,0.07,#425714,1,0.45
+42,Key Lime,#b6be6b,Green,1,1,0.05,#4b4c22,1,0.5
+43,Forest Green,#204705,Green,1,1,0.5,#040f00,1,0.5
+44,Green Grass,#2a5c07,Green,1,1,0.5,#082003,1,0.5
+45,Mantis,#71bd64,Green,1,1,0.1,#2a5427,1,0.5
+46,Angelic Satin,#035f74,Blue,1,1,0.2,#035f74,0.3,0.5
+47,Tradewind,#54b2ac,Blue,1,1,0.1,#54b2ac,0.3,0.5
+48,Hidden Stream,#84baac,Blue,1,1,0.1,#84baac,0.3,0.5
+49,Blued Steel,#2d4483,Blue,1,1,0.3,#19274e,1,0.5
+50,Supreme Saphire,#3f71a6,Blue,1,1,0.2,#3f71a6,0.3,0.5
+51,Fierce Cobalt,#7895cf,Blue,1,1,0.1,#7895cf,0.3,0.5
+52,Spring Grape,#5c4686,Purple,1,1,0.2,#5c4686,0.3,0.5
+53,Butterfly Wing,#6b548c,Purple,1,1,0.2,#6b548c,0.3,0.5
+54,Tranquil Blossom,#aa93c7,Purple,1,1,0.05,#aa93c7,0.3,0.5
+55,Deep Velvet,#3e234e,Purple,1,1,0.3,#3e234e,0.3,0.5
+56,Crushed Berry,#561a56,Purple,1,1,0.2,#561a56,0.3,0.5
+57,Lavender,#ac7db3,Purple,1,1,0.05,#ac7db3,0.3,0.5
+58,Silver,#d0d9e1,Grey,1,1,0.2,#929697,1,0.75
+60,Xbox Green,#107B10,Green,1,1,0.1,#107B10,0.3,0.5
+61,Playstation Blue,#0070D1,Blue,1,1,0.1,#0070D1,0.3,0.5
+62,PC Red,#a3252e,Red,1,1,0.15,#6c1919,1,0.5
 100,Frozen Basalt,#384952,Grey,0,1,0.5,#192228,1,0.5
 101,Crumbled Rock,#5b5a61,Grey,0,1,0.2,#262629,1,0.45
 102,Dove Gray,#6c6869,Grey,0,1,0.2,#2c292b,1,0.5
