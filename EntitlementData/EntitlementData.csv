@@ -2149,7 +2149,7 @@ Ent_Emote_Walk_FingerGuns,2351,true,,,,,Emote,Emote_Walk_FingerGuns,,SeasonRewar
 Ent_Emote_BiteMedal,2352,true,,,,,Emote,Emote_BiteMedal,,SeasonRewardTrack,,,,
 Entitlement_SeasonPassPurchase_Season6,2355,true,,,,,SeasonsRewards,SeasonPass,,Store,,,,
 Entitlement_SeasonPassLevels_Season6,2356,true,,,true,,SeasonsRewards,SeasonLevel,,Store,,,,
-EntitlementSkin_TurkeyTerror_Flail,2359,true,,,,,ItemSkin,Skin_Flail_TTMeat,,TurkeyTerror,,,,
+EntitlementSkin_TurkeyTerror_Flail,2359,true,,,,,ItemSkin,Skin_TT_Meat_Flail,,TurkeyTerror,,,,
 EntitlementSkin_HercyneCompletion_Chest,2360,false,,,,,ItemSkin,Skin_HercyneCompletion_Chest,,,,,,
 EntitlemenSkin_Head_Maestro2024,2361,false,,,,,ItemSkin,Skin_Head_Maestro2024,,SummerEvent,,,,
 EntitlemenSkin_Hands_Maestro2024,2362,false,,,,,ItemSkin,Skin_Hands_Maestro2024,,SummerEvent,,,,
@@ -2376,6 +2376,7 @@ entSkin_MTX_PreOrder_Base_head,2605,true,,,,,ItemSkin,Skin_MTX_PreOrder_Base_hea
 entSkin_MTX_PreOrder_Base_feet,2606,true,,,,,ItemSkin,Skin_MTX_PreOrder_Base_feet,,Store,,,,
 entSkin_MTX_PreOrder_Base_hands,2607,true,,,,,ItemSkin,Skin_MTX_PreOrder_Base_gloves,,Store,,,,
 entSkin_MTX_PreOrder_Base_legs,2608,true,,,,,ItemSkin,Skin_MTX_PreOrder_Base_legs,,Store,,,,
+Ent_Mount_MTX_bear_Hippo,2610,true,,,,,Mount,Mount_MTX_bear_Hippo,,Store,,,,Ent_Xpack_RiseOfTheAngryEarth_Owner
 entSkin_IsabellaEyes_Blue_head,2612,true,,,,,ItemSkin,Skin_IsabellaEyes_Blue_head,,,,,,
 entSkin_IsabellaEyes_Green_head,2613,true,,,,,ItemSkin,Skin_IsabellaEyes_Green_head,,,,,,
 entSkin_IsabellaEyes_Orange_head,2614,true,,,,,ItemSkin,Skin_IsabellaEyes_Orange_head,,,,,,
