@@ -2402,3 +2402,5 @@ entSkin_PRO_Aelstrom_Dark_head,2633,true,,,,,ItemSkin,Skin_PRO_Aelstrom_Dark_hea
 entSkin_PRO_Aelstrom_Dark_legs,2634,true,,,,,ItemSkin,Skin_PRO_Aelstrom_Dark_legs,,Prime,,,,
 entSkin_PRO_Aelstrom_Dark_feet,2635,true,,,,,ItemSkin,Skin_PRO_Aelstrom_Dark_feet,,Prime,,,,
 entSkin_PRO_Aelstrom_Dark_hands,2636,true,,,,,ItemSkin,Skin_PRO_Aelstrom_Dark_hands,,Prime,,,,
+FTAPT,2637,true,,,true,,Misc,,,,,,,
+Ent_Mount_MTX_1_Turkey,2638,true,,,,,Mount,Mount_MTX_1_Turkey,,Store,,,,Ent_Xpack_RiseOfTheAngryEarth_Owner
