@@ -2376,6 +2376,7 @@ entSkin_MTX_PreOrder_Base_head,2605,true,,,,,ItemSkin,Skin_MTX_PreOrder_Base_hea
 entSkin_MTX_PreOrder_Base_feet,2606,true,,,,,ItemSkin,Skin_MTX_PreOrder_Base_feet,,Store,,,,
 entSkin_MTX_PreOrder_Base_hands,2607,true,,,,,ItemSkin,Skin_MTX_PreOrder_Base_gloves,,Store,,,,
 entSkin_MTX_PreOrder_Base_legs,2608,true,,,,,ItemSkin,Skin_MTX_PreOrder_Base_legs,,Store,,,,
+Ent_Mount_MTX_bear_Winter,2609,true,,,,,Mount,Mount_MTX_bear_Winter,,Store,,,,Ent_Xpack_RiseOfTheAngryEarth_Owner
 Ent_Mount_MTX_bear_Hippo,2610,true,,,,,Mount,Mount_MTX_bear_Hippo,,Store,,,,Ent_Xpack_RiseOfTheAngryEarth_Owner
 entSkin_IsabellaEyes_Blue_head,2612,true,,,,,ItemSkin,Skin_IsabellaEyes_Blue_head,,,,,,
 entSkin_IsabellaEyes_Green_head,2613,true,,,,,ItemSkin,Skin_IsabellaEyes_Green_head,,,,,,
@@ -2404,3 +2405,9 @@ entSkin_PRO_Aelstrom_Dark_feet,2635,true,,,,,ItemSkin,Skin_PRO_Aelstrom_Dark_fee
 entSkin_PRO_Aelstrom_Dark_hands,2636,true,,,,,ItemSkin,Skin_PRO_Aelstrom_Dark_hands,,Prime,,,,
 FTAPT,2637,true,,,true,,Misc,,,,,,,
 Ent_Mount_MTX_1_Turkey,2638,true,,,,,Mount,Mount_MTX_1_Turkey,,Store,,,,Ent_Xpack_RiseOfTheAngryEarth_Owner
+entMount_MTX_Horse_Rudolph,2664,true,,,,,Mount,Mount_MTX_horse_Rudolph,,Store,Entitlements_WinterHoliday,Ent_Xpack_RiseOfTheAngryEarth_Owner,,Ent_Xpack_RiseOfTheAngryEarth_Owner
+EntMTX_Nutcracker_Apparel1,2669,true,,,,,ItemSkin,MTX_Nutcracker_Apparel1_Head+MTX_Nutcracker_Apparel1_Chest+MTX_Nutcracker_Apparel1_Hands+MTX_Nutcracker_Apparel1_Legs+MTX_Nutcracker_Apparel1_Feet,,Store,Entitlements_WinterHoliday,,,
+entMTX_Tools_CandyCane,2670,true,,,,,ItemSkin,MTX_FishingPole_CandyCane+MTX_AzothStaff_CandyCane+MTX_LoggingAxe_CandyCane+MTX_Pickaxe_CandyCane+MTX_Sickle_CandyCane+MTX_SkinningKnife_CandyCane,,Store,Entitlements_WinterHoliday,,,
+entMTX_FunnyHat_HolidayHat,2671,true,,,,,ItemSkin,MTX_FunnyHat_HolidayHat,,Store,Entitlements_WinterHoliday,,,
+entMTX_FunnyHat_ElfHat,2672,true,,,,,ItemSkin,MTX_FunnyHat_ElfHat,,Store,Entitlements_WinterHoliday,,,
+EntCache_Dec2024_Container,2750,true,,,true,,InventoryItem,Dec2024_Container,,Prime,Entitlements_WinterHoliday,,,

@@ -1977,3 +1977,16 @@ Skin_Chest_S6_Rank2_LB_Territory,2053,1,,EquippableChest,,,Skin_Chest_S6_Rank2_L
 Skin_Chest_S6_Rank2_LB_War,2054,1,,EquippableChest,,,Skin_Chest_S6_Rank2_LB_War,,false
 Skin_Chest_S6_Rank2_LB_OPR,2055,1,,EquippableChest,,,Skin_Chest_S6_Rank2_LB_OPR,,false
 Skin_Chest_S6_Rank2_LB_LBClear_GlacialTarn,2056,1,,EquippableChest,,,Skin_Chest_S6_Rank2_LB_LBClear_GlacialTarn,,false
+MTX_Nutcracker_Apparel1_chest,2097,1,,EquippableChest,,,MTX_Nutcracker_Apparel1_chest,Nutcracker,false
+MTX_Nutcracker_Apparel1_head,2098,1,,EquippableHead,,,MTX_Nutcracker_Apparel1_head,Nutcracker,false
+MTX_Nutcracker_Apparel1_legs,2099,1,,EquippableLegs,,,MTX_Nutcracker_Apparel1_legs,Nutcracker,false
+MTX_Nutcracker_Apparel1_feet,2100,1,,EquippableFeet,,,MTX_Nutcracker_Apparel1_feet,Nutcracker,false
+MTX_Nutcracker_Apparel1_hands,2101,1,,EquippableHands,,,MTX_Nutcracker_Apparel1_hands,Nutcracker,false
+MTX_FunnyHat_HolidayHat,2102,1,,EquippableHead,,,MTX_FunnyHat_HolidayHat,,false
+MTX_FunnyHat_ElfHat,2103,1,,EquippableHead,,,MTX_FunnyHat_ElfHat,,false
+MTX_FishingPole_CandyCane,2104,1,,EquippableTool,FishingPole,,MTX_FishingPole_CandyCane,CandyCane,false
+MTX_AzothStaff_CandyCane,2105,1,,EquippableTool,AzothStaff,,MTX_AzothStaff_CandyCane,CandyCane,false
+MTX_LoggingAxe_CandyCane,2106,1,,EquippableTool,LoggingAxe,,MTX_LoggingAxe_CandyCane,CandyCane,false
+MTX_Pickaxe_CandyCane,2107,1,,EquippableTool,Pickaxe,,MTX_Pickaxe_CandyCane,CandyCane,false
+MTX_Sickle_CandyCane,2108,1,,EquippableTool,Sickle,,MTX_Sickle_CandyCane,CandyCane,false
+MTX_SkinningKnife_CandyCane,2109,1,,EquippableTool,SkinningKnife,,MTX_SkinningKnife_CandyCane,CandyCane,false

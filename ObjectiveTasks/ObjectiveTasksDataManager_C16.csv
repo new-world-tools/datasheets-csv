@@ -536,7 +536,12 @@ TaskID,Type,FailOnCondition,StayActive,RequiredLevel,TargetQty,ItemName,ItemDrop
 1624_0801_d_04_01_SliceSwap_1624_Imhotep_v4p3_On,TaskUnlockAchievement,,,,1,SwapActive_1624_Imhotep_v4p3_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 1624_0801_d_04_02_TriggerArea_Library,TaskTriggerArea,,,,1,,,,,,,,,,,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,TriggerVol_16_Library,@1624_0801_agodawakens_returnLibrary,,6456 8314 168,,,,,,,,,,,,,,,,,
 1624_0801_d_04_03_TalkTo_1625_Ghazi_p6,TaskConversationTopic,,,,,1625_Ghazi_p6,,,,,,,,,,,,,,,,,,Topic_1625_0801_GhaziTalkTo,,,,,,,,,,,,,,,,,,,,,,@12_Default_Task_TalkTo,,,,,,,,,,,,,,,,,,,
-1624_1001_d_00_container_thewildhuntress,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1624_1001_d_00_container_SliceSwaps,1624_1001_d_01_Goto,1624_1001_d_02_container_daughterwell,1624_1001_d_02_05_TriggerArea_Library,
+1624_1001_d_00_container_thewildhuntress,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1624_1001_d_00_container_resets,1624_1001_d_01_Goto,1624_1001_d_02_container_daughterwell,1624_1001_d_02_05_TriggerArea_Library,
+1624_1001_d_00_container_resets,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1624_1001_d_00_NecropolisComplete,1624_1001_d_00_SliceSwap_1624_Imhotep_v4p2_Off,1624_1001_d_00_SliceSwap_ArtemisShrine_reset,1624_1001_d_00_ElysianVector_Morgaine_Swap,1624_1001_d_00_container_SliceSwaps
+1624_1001_d_00_NecropolisComplete,TaskUnlockAchievement,,,,1,16_NecropolisComplete,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+1624_1001_d_00_SliceSwap_1624_Imhotep_v4p2_Off,TaskLockAchievement,,,,1,SwapActive_1624_Imhotep_v4p2_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+1624_1001_d_00_SliceSwap_ArtemisShrine_reset,TaskLockAchievement,,,,1,16_HuntressCinematic_Unlock,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
+1624_1001_d_00_ElysianVector_Morgaine_Swap,TaskLockAchievement,,,,1,SwapActive_09a_MorgaineVector_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 1624_1001_d_00_container_SliceSwaps,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,1624_1001_d_00_SliceSwap_1624_Imhotep_v4p3_On,1624_1001_d_00_SliceSwap_99A_AdianaCanary_Off,1624_1001_d_00_SliceSwap_99A_Anthurus_Off,,
 1624_1001_d_00_SliceSwap_1624_Imhotep_v4p3_On,TaskUnlockAchievement,,,,1,SwapActive_1624_Imhotep_v4p3_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 1624_1001_d_00_SliceSwap_99A_AdianaCanary_Off,TaskUnlockAchievement,,,,1,SwapActive_CanaryAdiana_Off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,

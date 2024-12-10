@@ -1,4 +1,4 @@
-AchievementID,AchievementIndex,Category,GameEventId,Is Deprecated,"New AchivementIndex values must increase, current maximum is 32,000",15681,AchivementsIndex &gt; 32000 will require a code change!
+AchievementID,AchievementIndex,Category,GameEventId,Is Deprecated,"New AchivementIndex values must increase, current maximum is 32,000",15683,AchivementsIndex &gt; 32000 will require a code change!
 Map_Unlock_1,0,Map,Read_LoreItem,,,,
 Map_Unlock_2,1,Map,Read_LoreItem,,,,
 Map_Unlock_3,2,Map,Read_LoreItem,,,,
@@ -15368,3 +15368,5 @@ AwardAchievement_Mount_Bear_1,15678,Mount,,,,,
 Quest_Isabella_Active,15679,Objective,,,,,
 Apophis_Puzzle_Failsafe,15680,Objective,,,,,
 MountType_Unlock_Turkey,15681,Mount,,,,,
+05_Quest_23R,15682,Objective,,,,,
+05_Quest_24R,15683,Objective,,,,,
