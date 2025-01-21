@@ -71,4 +71,5 @@ ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,ForceConvers
 99E_Yash_p1_00,Linear_Objective,true,@99E_Yash_00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 99E_Yash_p1_01,Linear_Objective,false,@99E_MSQ_10_ToCaerDun_yash_01_StartTalkTo_a,,,,,,99E_MSQ_10_ToCaerDun,99E_MSQ_10_d_02_04_TalkTo_Yash_01,,,,,,,,,,,,Topic_99E_Yash_p1_01,,,,,,,,,,,,
 99E_Yash_p2_01,Linear_Objective,false,@99E_MSQ_10_ToCaerDun_yash_02_StartTalkTo,,,,,,99E_MSQ_10_ToCaerDun,99E_MSQ_10_d_03_05_TalkTo_Yash_02,,,,,,,,,,,,Topic_99E_Yash_p2_01,,,,,,,,,,,,
-99E_Yash_p2_02,Linear_Objective,false,@99E_Yash_p2_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+99E_Yash_p2_02,Linear_Objective,false,@99E_Yash_p2_02,,,,,99E_MSQ_09,,,,,,,,,,,,,,,,,,,,,,,,,,
+99E_Yash_p2_03,Linear_Objective,true,@99E_Yash_p2_02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

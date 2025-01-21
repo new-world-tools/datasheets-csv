@@ -7,9 +7,9 @@ TerritoryID,NameLocalizationKey,IsPOI,IsDiscoverable,IsChartable,DefaultAchievem
 9006,@ui_area_monarchsbluff_6,true,,true,,,,monarchsbluff6_9006_charted,monarchsbluff6,Music_Territory,MonarchsBluffs,,2,true,true,0,17,,,,,,,,,,,,,,,
 9007,@ui_area_monarchsbluff_7,true,,true,,,,monarchsbluff7_9007_charted,monarchsbluff7,Music_Territory,MonarchsBluffs,,2,true,true,0,15,,,,,,,,,,,,,,,
 9008,@ui_area_monarchsbluff_8,true,,true,,,,monarchsbluff8_9008_charted,monarchsbluff8,Music_Territory,MonarchsBluffs,,2,true,true,0,15,,,,,,,,,,,,,,,
-9009,@ui_area_monarchsbluff_9,true,,true,,,,starterbeach_9009_charted,starterbeach,Music_Territory,MonarchsBluffs,,2,true,true,0,6,,,ENABLED,,100 200 255 140,,,150,300,30,,25,,0.1,4096
+9009,@ui_area_monarchsbluff_9,true,,true,,,,starterbeach_9009_charted,starterbeach,Music_Territory,MonarchsBluffs,,2,true,true,0,6,,,ENABLED,,100 200 255 140,,,150,300,30,,25,,0.14,4096
 9010,@ui_area_monarchsbluff_10,true,,true,,,,monarchsbluff10_9010_charted,monarchsbluff10,Music_Territory,MonarchsBluffs,,2,true,true,0,8,,,,,,,,,,,,,,,
-9011,@ui_area_southwindsward_1,true,,true,,,,starterbeach_9011_charted,starterbeach,Music_Territory,South Windsward,,2,true,true,0,6,,,ENABLED,,250 130 80 180,,,150,300,30,,25,,0.1,4096
+9011,@ui_area_southwindsward_1,true,,true,,,,starterbeach_9011_charted,starterbeach,Music_Territory,South Windsward,,2,true,true,0,6,,,ENABLED,,250 130 80 180,,,150,300,30,,25,,0.14,4096
 9012,@ui_area_southwindsward_2,true,,true,,,,southwindsward2_9012_charted,southwindsward2,Music_Territory,South Windsward,,2,true,true,0,25,,,,,,,,,,,,,,,
 9013,@ui_area_southwindsward_3,true,,true,,,,southwindsward3_9013_charted,southwindsward3,Music_Territory,South Windsward,,2,true,true,0,25,,,,,,,,,,,,,,,
 9014,@ui_area_southwindsward_4,true,,true,,,,southwindsward4_9014_charted,southwindsward4,Music_Territory,South Windsward,,2,true,true,0,20,,,,,,,,,,,,,,,

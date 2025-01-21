@@ -165,7 +165,7 @@ whisper_test_03,GAME_EVENT,,Whisper_Timeline_01,15,,Play_SFX_Whisper_Start_03,Pl
 09A_M3_RescueRangerA_Subtitle,GAME_EVENT,,,8,09A_M3_RescueRangerA_Subtitle_Interact,,,,,@09A_Ranger_Bark_1,,false,
 09A_M3_RescueRangerB_Subtitle,GAME_EVENT,,,8,09A_M3_RescueRangerB_Subtitle_Interact,,,,,@09A_Ranger_Bark_2,,false,
 09A_M3_RescueRangerC_Subtitle,GAME_EVENT,,,8,09A_M3_RescueRangerC_Subtitle_Interact,,,,,@09A_Ranger_Bark_3,,false,
-09A_M3_VOLoreNote_Riches,GAME_EVENT,,,15,09A_M3_VOLoreNote_Riches_Interact,,,,Play_npc_09A_M3_SurvivalistRiches_VOLoreNote,@09A_M3_SurvivalistRiches_VOLoreNote,,false,
+09A_M3_VOLoreNote_Riches,GAME_EVENT,,,15,09A_M3_VOLoreNote_Riches_Interact,,,,Play_npc_09A_M3_SurvivalistRiches_VOLoreNote,,,false,
 09A_S2_TrappedRangerA_Subtitle,GAME_EVENT,,,8,09A_S2_RescueRangerA_Subtitle_Interact,,,,,@09A_RangerRescue_Bark_1,,false,
 09A_S2_TrappedRangerB_Subtitle,GAME_EVENT,,,8,09A_S2_RescueRangerB_Subtitle_Interact,,,,,@09A_RangerRescue_Bark_2,,false,
 09A_S2_TrappedRangerC_Subtitle,GAME_EVENT,,,8,09A_S2_RescueRangerC_Subtitle_Interact,,,,,@09A_RangerRescue_Bark_3,,false,

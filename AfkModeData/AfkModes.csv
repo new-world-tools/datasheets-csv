@@ -1,0 +1,7 @@
+AfkModeId,ResetMinMove,ScaleAfkTimerAmount,UpdatePlayerPopulationCheckDelaySeconds,WarnSeconds,DisconnectSeconds
+Default,0.01,1,10,900,1200
+Disabled,0,1,10,0,0
+3v3Arena,1,1,10,180,300
+OutpostRush,1,1,10,180,300
+Raid,1,1,10,180,300
+War,1,1,10,180,300

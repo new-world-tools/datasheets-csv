@@ -1,0 +1,13 @@
+ChapterId,ChapterType,ChapterTypeIndex,ChapterIndex,ChapterTaskCount,ChapterRewardId
+Season7Chapter1,Chapter,1,1,4,S7_Journey_Ch01_Complete
+Season7Chapter2,Chapter,1,2,5,S7_Journey_Ch02_Complete
+Season7Chapter3,Chapter,1,3,5,S7_Journey_Ch03_Complete
+Season7Chapter4,Chapter,1,4,6,S7_Journey_Ch04_Complete
+Season7Chapter5,Chapter,1,5,7,S7_Journey_Ch05_Complete
+Season7Challenge,Challenge,1,6,10,
+Season7SeasonalServerChapter1,SeasonalServerChapter,2,1,4,S7_Journey_SSCh01_Complete
+Season7SeasonalServerChapter2,SeasonalServerChapter,2,2,4,S7_Journey_SSCh02_Complete
+Season7SeasonalServerChapter3,SeasonalServerChapter,2,3,5,S7_Journey_SSCh03_Complete
+Season7SeasonalServerChapter4,SeasonalServerChapter,2,4,5,S7_Journey_SSCh04_Complete
+Season7SeasonalServerChapter5,SeasonalServerChapter,2,5,5,S7_Journey_SSCh05_Complete
+Season7SeasonalServerChallenge,SeasonalServerChallenge,2,6,4,S7_Journey_SSBonus_Complete

@@ -1,2 +1,3 @@
-TrackedStatID,StatType,POITags
-CaptureFCP,CaptureFCP,
+TrackedStatID,StatType,POITags,RequiredWorldTag
+CaptureFCP,CaptureFCP,,
+CaptureFCPSS,CaptureFCP,,SeasonalServer

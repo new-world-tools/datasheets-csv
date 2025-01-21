@@ -1,6 +1,7 @@
-TrackedStatID,StatType,TargetID,Level,MinWeight,PerUse,Precision,ItemRarity
-CatchPoundageOfFish,Fishing,,,,,2,
-CatchRareFish,Fishing,,2,,true,,1
-CatchTreasureChest,Fishing,"FishingTreasureChestT3,FishingTreasureGoodProvisionT3,FishingTreasurePigmentT3,FishingTreasureGearT3,FishingTreasureMoteT3,FishingTreasureSeaweedT2,FishingTreasureBootT2,FishingTreasureOarT2,FishingTreasureSwordT2,FishingTreasureHammerT2",,,true,,
-CatchBrimstoneLegendaryFish,Fishing,FishingAnmisemaT5,,,,,
-CatchAeternumSturgeon,Fishing,"FishingSummerMedleySturgeonSmallT3,FishingSummerMedleySturgeonMediumT3,FishingSummerMedleySturgeonLargeT3",,,true,,
+TrackedStatID,StatType,TargetID,Level,MinWeight,PerUse,Precision,ItemRarity,RequiredWorldTag
+CatchPoundageOfFish,Fishing,,,,,2,,
+CatchRareFish,Fishing,,2,,true,,1,
+CatchTreasureChest,Fishing,"FishingTreasureChestT3,FishingTreasureGoodProvisionT3,FishingTreasurePigmentT3,FishingTreasureGearT3,FishingTreasureMoteT3,FishingTreasureSeaweedT2,FishingTreasureBootT2,FishingTreasureOarT2,FishingTreasureSwordT2,FishingTreasureHammerT2",,,true,,,
+CatchBrimstoneLegendaryFish,Fishing,FishingAnmisemaT5,,,,,,
+CatchAeternumSturgeon,Fishing,"FishingSummerMedleySturgeonSmallT3,FishingSummerMedleySturgeonMediumT3,FishingSummerMedleySturgeonLargeT3",,,true,,,
+CatchNonFishSS,Fishing,"FishingSeaweedT1,FishingBootT2,FishingAnchorT2,FishingFishSwordT2,FishingHeadedHammerT2,FishingOarT2,FishingTreasureChestT3,FishingTreasureBootT2,FishingTreasureOarT2,FishingTreasureGoodProvisionT3,FishingTreasurePigmentT3,FishingTreasureMoteT3,FishingTreasureGearT3,FishingTreasureHammerT2,FishingTreasureSwordT2,FishingTreasureSeaweedT2",,,true,,,SeasonalServer

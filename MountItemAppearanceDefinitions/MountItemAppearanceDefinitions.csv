@@ -40,3 +40,6 @@ MountAttachmentItem_Skin_Journal_Setting,true,None,false,,,,,,,false,,,,,,,,"-0.
 MountAttachmentItem_Skin_ScrollContainer_Setting,true,None,false,,,,,,,false,,,,,,,,"0.0,-0.1,0.0","0,20,0","1.1,1.1,1.1","0.0,-0.1,0.0","0,20,0","1.1,1.1,1.1",,
 MountAttachmentItem_Skin_TOA_Flag_Setting,true,None,false,,,,,,,false,,,,,,,,"0.0675,0.0,0.0","0.0,0.0,0.0",,"-0.0675,0.0,0.0","0.0,0.0,0.0",,,
 MountAttachmentItem_Skin_BarbarianSkulls_Setting,true,None,false,,,,,,,false,,,,,,,,"0.0675,0.0,0.0","0.0,0.0,0.0",,"-0.0675,0.0,0.0","0.0,0.0,0.0",,,
+MountAttachmentItem_Skin_ConquistadorSkull_Setting,true,RightSide,false,,,,,,,false,,,,,,,,"-0.1,0.0,-0.1","75.0,0.0,180",,"0.1,0.0,-0.1","75.0,0.0,0.0",,,
+MountAttachmentItem_Skin_ConquistadorShield_Setting,true,None,false,,,,,,,false,,,,,,,,"0.08,-0.05,-0.2","90,15,0","1.0,1.0,1.0","-0.08,-0.05,-0.2","90,15,0","1.0,1.0,1.0",,
+MountAttachmentItem_Skin_ZombieHand_Setting,true,None,false,,,,,,,false,,,,,,,,"0.08,0,-0.2","90,5,0","0.55,0.55,0.55","-0.08,0,-0.2","90,5,0","0.55,0.55,0.55",,

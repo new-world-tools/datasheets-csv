@@ -10,3 +10,4 @@ LootBeastChest,Gather,,,,,true,,LootLargeT3ElitePOI_BeastChestOnly
 GatherT52ResourceNode,Gather,"OreT52,WoodT52,FiberT52,RawhideT52",5,Resource,,true,"Skinning,Mining,Logging,Harvesting",
 GatherCKPvPChest,Gather,,,,,true,,"10ws_DoubloonChestPvP_Small,10ws_DoubloonChestPvP_Medium,10ws_DoubloonChestPvP_Large"
 GatherCKPvPDoubloon,Gather,CK_PVPResource_DoubloonToken,,,,,,
+GatherCKPvPBuriedTreasure,Gather,CK_PVEResource_DoubloonToken,,,,true,,LootLargeT3ElitePOI_CutlassTreasure

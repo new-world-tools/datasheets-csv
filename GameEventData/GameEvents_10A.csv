@@ -22,7 +22,7 @@ C10A_Q3_Success,,65,Quest,Armor,,3770,11875,,,,,,,700,,,,,75,1,,C10A_Q3R,,,,,,tr
 C10A_Q4_Success,,65,Quest,Armor,,3770,11875,,,,,,,800,,,,,75,1,,C10A_Q4R,,,,,,true
 10A_Q4_EncounterComplete_Interact,,0,Quest,,,0,0,,,,,,,,,,,,,0,,,,,,,,true
 10A_Q4_ChestA_Interact,,0,Quest,,,0,0,,,,,,,,,,,,,0,,,,,,,,true
-10A_Q4_ChestB_Interact,,0,Quest,,,0,0,,[LTID]DoubloonChestPvPSmall,,,,,,,,,,,0,,,,,,,,true
+10A_Q4_ChestB_Interact,,0,Quest,,,0,0,,[LTID]DoubloonChestPvPLarge_Spectral,,,,,,,,,,,0,,,,,,,,true
 10A_Q4_ChestDummy_Interact,,0,Quest,,,0,0,,,,,,,,,,,,,0,,,,,,,,true
 C10A_Q5_Success,,65,Quest,Armor,,3770,11875,,,,,,,800,,,,,75,1,,C10A_Q5R,,,,,,true
 10A_Q5_OfferGems_Interact,,0,Quest,,,0,0,,,,,,,,,,,,,0,,,,,,,,true

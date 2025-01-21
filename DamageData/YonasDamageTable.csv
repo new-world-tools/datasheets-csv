@@ -7,7 +7,7 @@ Magic_KnockBack,AncientMagic,1,0,,true,Bullet,Magic,Arcane,,,,,,true,,,Deflect_D
 Magic_KnockDown,AncientMagic,1,0,,true,Bullet,Magic,Arcane,,,,,,,,,Deflect_Default,false,0,0,0,4,4,4,25,20,25,0,7,0,0.8,0,0,0,0,0,7,0,0.8,0,0.8,,1.75,Small,Small,Small,1,0.7,1,1,0.1625,0.325
 1H_Melee_Primary,Sword,0,0,,false,Bullet,Light,Slash,,,,,,,,,Deflect_Default,false,0.2,1,1,0,0,0,30,25,30,0,2,0,0.8,0,0,0,0,0,2,0,0.8,0,0,,0,Small,Small,Small,3,0.33,1,0,0.1625,0.325
 1H_Melee_Primary_Heavy,Sword,0,0,,false,Bullet,Heavy,Slash,,,,,,,,,Deflect_Default,false,0.25,1,1,2,2,2,30,25,30,0,2,0,0.8,0,0,0,0,0,2,0,0.8,0,0,,0,Small,Small,Small,3,0.33,1,0,0.1625,0.325
-Magic_AOE,AncientMagic,0,1,,false,Bullet,Magic,Arcane,,,,,,,,,Deflect_Default,true,0.1,0.15,0.15,0,0,0,30,25,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,Small,Small,Small,3,0.33,1,0,0.1625,0.325
+Magic_AOE,AncientMagic,0,1,,false,Bullet,Magic,Arcane,,,,,,,,,Deflect_Default,true,0,0,0,0,0,0,30,25,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,Small,Small,Small,3,0.33,1,0,0.1625,0.325
 Chained_Pull,CorruptedMagic,1,0,,true,Bullet,Magic,Corruption,,,,,,,true,,Deflect_Default,false,0,0,0,3,3,3,30,30,30,0,-1,0,0.7,0,-1,0,0.7,0,-1,0,0.7,0,1.5,,1.5,Small,Small,Small,3,0,1,16,0.1625,0.325
 Time_Bomb,Unarmed,1,0,,true,Bullet,Heavy,Strike,,,,,AI_Yonas_TimeBomb,,,,Deflect_Default,false,100,1,0,4,4,4,20,20,15,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,1.5,,1.5,Small,Small,Small,3,1.25,1,0,0.1625,0.325
 Pull,Unarmed,1,0,true,true,Bullet,Magic,Corruption,,,,,,,true,,Deflect_Default,false,0,0,0,3,3,3,30,30,30,0,-1,-2,0.7,0,-1,-2,0.7,0,-1,-2,0.7,0,1.5,,1.5,Small,Small,Small,3,0,1,50,0.1625,0.325

@@ -1,5 +1,5 @@
 WarboardStatID,InGameStat,EndGameStat,BonusDistanceRange,InRangeBonusMultiplier,AG_TotalDamageDealt,AG_HealingDone,AG_Score,AG_AITakedowns,AG_PlayerTakedowns,AG_TotalResourcesDeposited
-PlayerKills,true,true,0,1,0,0,50,0,1,0
+PlayerKills,true,true,14,1.25,0,0,50,0,1,0
 AIKills,false,true,0,1,0,0,20,1,0,0
 InfusedWoodGathered,false,true,0,1,0,0,0,0,0,0
 InfusedOreGathered,false,true,0,1,0,0,0,0,0,0
@@ -8,16 +8,16 @@ InfusedWoodDeposited,false,true,0,1,0,0,2.4,0,0,1
 InfusedOreDeposited,false,true,0,1,0,0,2.4,0,0,1
 InfusedHideDeposited,false,true,0,1,0,0,2.4,0,0,1
 AzothEssenceDeposited,false,false,0,1,0,0,1.2,0,0,1
-DamageToPlayers,false,true,0,1,1,0,0.005,0,0,0
+DamageToPlayers,false,true,14,1.25,1,0,0.005,0,0,0
 DamageToAI,false,true,0,1,1,0,0.0025,0,0,0
 DamageToOther,false,true,0,1,1,0,0.0025,0,0,0
 DamageWithSiegeWeapons,false,true,0,1,1,0,0.005,0,0,0
 HealingDoneToSelf,false,true,0,1,0,1,0,0,0,0
-HealingDoneToAllies,false,true,0,1,0,1,0.0075,0,0,0
-TotalDamageDealt,false,true,0,1,0,0,0,0,0,0
+HealingDoneToAllies,true,true,0,1,0,1,0.0075,0,0,0
+TotalDamageDealt,true,true,0,1,0,0,0,0,0,0
 HealingDone,false,true,0,1,0,0,0,0,0,0
 Score,true,true,0,1,0,0,0,0,0,0
-PlayerAssists,true,true,0,1,0,0,50,0,1,0
+PlayerAssists,true,true,14,1.25,0,0,50,0,1,0
 AIAssists,false,true,0,1,0,0,15,1,0,0
 Deaths,true,true,0,1,0,0,0,0,0,0
 AlliesRevived,false,true,0,1,0,0,0,0,0,0
@@ -25,4 +25,4 @@ AITakedowns,true,true,0,1,0,0,0,0,0,0
 PlayerTakedowns,false,true,0,1,0,0,50,0,1,0
 CapturePointContests,false,true,0,1,0,0,0.42,0,0,0
 TotalResourcesDeposited,true,true,0,1,0,0,0,0,0,0
-DamageBlocked,false,true,0,1,0,0,0.01,0,0,0
+DamageBlocked,true,true,14,1.25,0,0,0.01,0,0,0

@@ -1,3 +1,8 @@
-TrackedStatID,StatType,Level,IsPermanent
-ObtainLevel60,ObtainLevel,60,true
-ObtainLevel65,ObtainLevel,65,true
+TrackedStatID,StatType,Level,IsPermanent,RequiredWorldTag
+ObtainLevel60,ObtainLevel,60,true,
+ObtainLevel65,ObtainLevel,65,true,
+ObtainLevel25SS,ObtainLevel,25,true,SeasonalServer
+ObtainLevel35SS,ObtainLevel,35,true,SeasonalServer
+ObtainLevel45SS,ObtainLevel,45,true,SeasonalServer
+ObtainLevel55SS,ObtainLevel,55,true,SeasonalServer
+ObtainLevel65SS,ObtainLevel,65,true,SeasonalServer

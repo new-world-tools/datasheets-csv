@@ -166,3 +166,8 @@ Emote_Walk_Torch,Emote_Walk_Torch,ui_emote_Walk_Torch_name,ui_emote_Walk_Torch_d
 Emote_Walk_Wave,Emote_Walk_Wave,ui_Emote_Walk_Wave_name,ui_Emote_Walk_Wave_description,Other,@Emote_Walk_Wave,walkwave,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_celebrationWaveWalk.dds,,,,,Season_5
 Emote_Walk_FingerGuns,Emote_Walk_FingerGuns,ui_Emote_Walk_FingerGuns_name,ui_Emote_Walk_FingerGuns_description,Other,@Emote_Walk_FingerGuns,fingerguns,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_FingerGunsWalk.dds,,,,,Season_6
 Emote_BiteMedal,Emote_BiteMedal,ui_Emote_BiteMedal_name,ui_Emote_BiteMedal_description,Other,@Emote_BiteMedal,bitemedal,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_BiteMedal.dds,,,,,Season_6
+Emote_NailFile,Emote_NailFile,ui_Emote_NailFile_name,ui_Emote_NailFile_description,Other,@Emote_NailFile,nails,preen,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_NailFile.dds,,,,,Season_7
+Emote_LizardRun,Emote_Walk_Lizard,ui_Emote_LizardRun_name,ui_Emote_LizardRun_description,Other,@Emote_LizardRun,lizardrun,,1,0,1,0,,1,lyshineuI/Images/icons/emotes/emote_LizardRun.dds,,,,,Season_7
+Emote_Wings,Emote_Wings,ui_Emote_Wings_name,ui_Emote_Wings_description,Other,@Emote_Wings,ascend,wings,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_celebrationWaveWalk.dds,,,,,
+Emote_CrabWalk,Emote_Walk_Crab,ui_Emote_CrabWalk_name,ui_Emote_CrabWalk_description,Other,@Emote_CrabWalk,turtle,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_BreakdancingCrabWalk.dds,,,,,
+Emote_Mantrum,Emote_Mantrum,ui_Emote_Mantrum_name,ui_Emote_Mantrum_description,Other,@Emote_Mantrum,groundbrawl,brawl,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Mantrum.dds,,,,,

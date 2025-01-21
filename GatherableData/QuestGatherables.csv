@@ -469,7 +469,7 @@ Cyclic_99D_MSQ_BallistaRotate,@Cyclic_99D_MSQ_BallistaRotate_DisplayName,Handcra
 10A_Q1_PylonA,@10A_Q1_PylonA_DisplayName,None,None,,Empty,,60,60,None,,,3,false,NoToolNecessary,false,10A_Q1_PylonA_Interact,,,,,true,false,,,,,,false,,,,,,,,,,
 10A_Q1_PylonB,@10A_Q1_PylonB_DisplayName,None,None,,Empty,,60,60,None,,,3,false,NoToolNecessary,false,10A_Q1_PylonB_Interact,,,,,true,false,,,,,,false,,,,,,,,,,
 10A_Q1_PylonC,@10A_Q1_PylonC_DisplayName,None,None,,Empty,,60,60,None,,,3,false,NoToolNecessary,false,10A_Q1_PylonC_Interact,,,,,true,false,,,,,,false,,,,,,,,,,
-10A_Q2_AncientCage,@10A_Q2_AncientCage_DisplayName,None,None,Emote_FistShake,Empty,,84600,84600,None,,,2,false,NoToolNecessary,true,10A_Q2_AncientCage_Interact,,,,,true,true,,,,,,,,,,,,,,,,
+10A_Q2_AncientCage,@10A_Q2_AncientCage_DisplayName,Handcrafting,Handcrafting,,Empty,,84600,84600,None,,,2,false,NoToolNecessary,true,10A_Q2_AncientCage_Interact,,,,,true,true,,,,,,,,,,,,,,,,
 10A_Q2_PrisonCellA,@10A_Q2_PrisonCellA_DisplayName,Handcrafting,Handcrafting,,Empty,,84600,84600,None,,,3,false,NoToolNecessary,false,10A_Q2_PrisonCellA_Interact,,,,,true,true,,,,,,,,,,,,,,,,
 10A_Q2_PrisonCellB,@10A_Q2_PrisonCellB_DisplayName,Handcrafting,Handcrafting,,Empty,,84600,84600,None,,,3,false,NoToolNecessary,false,10A_Q2_PrisonCellB_Interact,,,,,true,true,,,,,,,,,,,,,,,,
 10A_Q2_PrisonCellC,@10A_Q2_PrisonCellC_DisplayName,Handcrafting,Handcrafting,,Empty,,84600,84600,None,,,3,false,NoToolNecessary,false,10A_Q2_PrisonCellC_Interact,,,,,true,true,,,,,,,,,,,,,,,,

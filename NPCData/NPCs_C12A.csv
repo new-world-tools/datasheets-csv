@@ -27,7 +27,7 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 12_PercillaWallen_02,@12_PercillaWallen_title1,@12_PercillaWallen_1,,12_00_PercillaWallen,12_01_PercillaWallen,12_02_PercillaWallen,12_03_PercillaWallen,12_04_PercillaWallen,12_05_PercillaWallen,12_06_PercillaWallen,12_07_PercillaWallen,,,,,,,,,,,,
 12_PercillaWallen_03,@12_PercillaWallen_title1,@12_PercillaWallen_1,,12_00_PercillaWallen,12_01_PercillaWallen,12_02_PercillaWallen,12_03_PercillaWallen,12_04_PercillaWallen,12_05_PercillaWallen,12_06_PercillaWallen,12_07_PercillaWallen,,,,,,,,,,,,
 12_YoungeGeiser,@12_YoungeGeiser_title,@12_YoungeGeiser,,12_00_YoungeGeiser,12_01_YoungeGeiser,12_02_YoungeGeiser,,,,,,,,,,,,,,,,,
-12_OldeGeiser,@12_OldeGeiser_title,@12_OldeGeiser,,12_00_OldeGeiser,12_01_OldeGeiser,12_02_OldeGeiser,,,,,,,,,,,,,,,,,
+12_OldeGeiser,@12_OldeGeiser_title,@12_OldeGeiser,,12_00_OldeGeiser,,,,,,,,,,,,,,,,,,,
 12_EddaYonkers,@12_EddaYonkers_title,@12_EddaYonkers,,12_00_EddaYonkers,12_01_EddaYonkers,12_02_EddaYonkers,,,,,,,,,,,,,,,,,
 12_FionaMurphy,@12_FionaMurphy_title,@12_FionaMurphy,,12_00_FionaMurphy,12_01_FionaMurphy,12_02_FionaMurphy,,,,,,,,,,,,,,,,,
 12_HugoMolina,@12_HugoMolina_title,@12_HugoMolina,,12_00_HugoMolina,12_01_HugoMolina,12_02_HugoMolina,,,,,,,,,,,,,,,,,

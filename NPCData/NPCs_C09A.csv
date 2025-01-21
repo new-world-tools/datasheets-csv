@@ -8,7 +8,7 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 09a_Yoon_B,@09a_Yoon_title,@09a_Yoon,,09a_Yoon_B_Default,09a_Yoon_B_01,,,,,,,,,,,,,,,,,,
 09a_Yoon_WC,@09a_Yoon_title,@09a_Yoon,,09a_Yoon_WC_Default,,,,,,,,,,,,,,,,,,,
 09a_Trahern_WC,@09a_Trahern_title,@09a_Trahern,,09a_Trahern_WC_Default,09a_Trahern_WC_BS_01,09a_Trahern_WC_EG_01,09a_Trahern_WC_SM_01,09a_Trahern_WC_RW_01,09a_Trahern_WC_02,,,,,,,,,,,,,,
-09a_Trahern_SD,@09a_Trahern_title,@09a_Trahern,,09a_Trahern_SD_Default,09a_Trahern_SD_01,,,,,,,,,,,,,,,,,,
+09a_Trahern_SD,@09a_Trahern_title,@09a_Trahern,,09a_Trahern_SD_Dungeon_Entrance,09a_Trahern_SD_01,,,,,,,,,,,,,,,,,,
 09a_Trahern_RR,@09a_Trahern_title,@09a_Trahern,,09a_Trahern_RR_Default,,,,,,,,,,,,,,,,,,,
 09a_Trahern_Tav,@09a_Trahern_title,@09a_Trahern,,09a_Trahern_Tav_Default,09a_Trahern_Tav_01,,,,,,,,,,,,,,,,,,
 09a_Trahern_HG,@09a_Trahern_title,@09a_Trahern,,09a_Trahern_SD_Default,09a_M13_Trahern_HG_Delivery,,,,,,,,,,,,,,,,,,

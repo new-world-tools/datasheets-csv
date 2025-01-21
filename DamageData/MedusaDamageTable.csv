@@ -10,6 +10,7 @@ Poison_Spit,Unarmed,0,0,Bullet,Heavy,Nature,true,,,Deflect_Default,true,0.2,1,1,
 Poison_Pool,Unarmed,0,0,Bullet,Heavy,Nature,,,,Deflect_Default,false,0,1,1,0,0,0,35,30,35,0,1,0,0.8,0,3,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0,1,0,,,0.1625,0.325
 GorgonsGaze,Unarmed,0,0,Bullet,Heavy,Strike,,AI_Medusa_Gaze,,Deflect_Default,false,0,1,1,0,0,0,35,30,35,0,0,0,0.8,0,3,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0,1,0,,,0.1625,0.325
 GorgonsGaze_Minion,Unarmed,1,1,Bullet,Heavy,Strike,,AI_Medusa_Petrification_Minion,,Deflect_Default,false,0,1,1,0,0,0,35,30,35,0,0,0,0.8,0,3,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0,1,0,,,0.1625,0.325
+GorgonsGaze_Minion_Shatter,Unarmed,1,1,Bullet,Heavy,Strike,,AI_Medusa_Petrification_Minion_Shatter,,Deflect_Default,false,0,1,1,0,0,0,35,30,35,0,0,0,0.8,0,3,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0,1,0,,,0.1625,0.325
 GorgonsGaze_Maze,Unarmed,1,1,Bullet,Heavy,Strike,,AI_Medusa_Gaze_Maze,,Deflect_Default,false,0,1,1,0,0,0,35,30,35,0,0,0,0.8,0,3,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0,1,0,,,0.1625,0.325
 Petrification,Unarmed,0,0,Bullet,Heavy,Strike,,,,Deflect_Default,false,0,1,1,0,0,0,100,100,100,0,0,0,0.8,0,3,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0,1,0,,,0.1625,0.325
 TargetMarker_Gaze_Minion,Unarmed,1,1,Bullet,Heavy,Strike,,AI_Medusa_TargetMarker_Gaze,,Deflect_Default,false,0,1,1,0,0,0,35,30,35,0,0,0,0.8,0,3,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0,1,0,,,0.1625,0.325

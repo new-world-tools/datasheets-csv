@@ -106,4 +106,4 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExp
 03_SQ_06_AscensionCurse_success,,48,Quest+,Armor,,3750,13650,,QuestReward_ZQ2GC_BadBlood,,,,,0,,,,,0,0,,,,,,,true
 03_SQ_05_Glyph_01_interact,,0,Quest-,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 03_SQ_03_GraveDigger_interact,,0,Quest,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
-Kiln_Tutorial_Done,,0,Quest,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
+Kiln_Tutorial_Done,,60,Quest+,,,4310,15750,,,,,,,0,,,,,0,0,,,,,,,true

@@ -919,7 +919,10 @@ PlatformRepeaterT2,PlatformRepeaterT2AutoBuild,,,,,,,1,0,1,11,Battle_Token,Battl
 PlatformRepeaterT3,PlatformRepeaterT3AutoBuild,,,,,,,1,0,1,11,Battle_Token,Battle_Token,0,50,0,,,,0,0,,false
 PowderKegT2,PowderKegT2,,,,,,,1,0,1,12,Battle_Token,Battle_Token,0,50,0,,,,0,0,,false
 OR_PowderKeg,OR_PowderKeg,,,,,,,1,0,1,1,Battle_Token,Battle_Token,0,0,0,OutpostRushAzothEssence,50,,0,0,,false
+OR_Bulwark,OR_Bulwark,,,,,,,1,0,1,1,Battle_Token,Battle_Token,0,0,0,OutpostRushAzothEssence,50,,0,0,,false
 OR_PotionHealth,OR_PotionHealth,,,,,,,1,0,5,2,Battle_Token,Battle_Token,0,0,0,OutpostRushAzothEssence,25,,0,0,,false
+OR_PotionRegen,OR_PotionRegen,,,,,,,1,0,5,2,Battle_Token,Battle_Token,0,0,0,OutpostRushAzothEssence,25,,0,0,,false
+OR_PotionCleanse,OR_PotionCleanse,,,,,,,1,0,3,3,Battle_Token,Battle_Token,0,0,0,OutpostRushAzothEssence,25,,0,0,,false
 OR_PotionMana,OR_PotionMana,,,,,,,1,0,5,3,Battle_Token,Battle_Token,0,0,0,OutpostRushAzothEssence,25,,0,0,,false
 OR_PotionStamina,OR_PotionStamina,,,,,,,1,0,5,4,,,0,0,0,,25,,0,0,,false
 OR_FoodSpeed,OR_FoodSpeed,,,,,,,1,0,5,5,Battle_Token,Battle_Token,0,0,0,OutpostRushAzothEssence,25,,0,0,,false

@@ -35,7 +35,7 @@ TaskID,Type,FailOnCondition,StayActive,RequiredLevel,TargetQty,ItemName,ItemDrop
 02A_Side03_02_02_container1,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,02A_Side03_02_02_01_Swap_Shui2_off,02A_Side03_02_02_02_Swap_Shui3_on,02A_Side03_02_02_03_Task_Kill_Hunters,02A_Side03_02_02_04_Task_Loot_Butchers,
 02A_Side03_02_02_01_Swap_Shui2_off,TaskLockAchievement,,,,1,SwapActive_02A_Ranger_2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,
 02A_Side03_02_02_02_Swap_Shui3_on,TaskUnlockAchievement,,,,1,SwapActive_02A_Ranger_3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,
-02A_Side03_02_02_03_Task_Kill_Hunters,TaskKillContribution,,,,3,,,,,true,,corrupted_camp_40335,,,,,,,,,,,,,Damned_Villager_AxeThrower_02BW05,,,,,,,,,,,,,,,,,,,,@02A_Side03_02_Belly_Task_Hunters,,,,,,,,,,,,,,,,,,
+02A_Side03_02_02_03_Task_Kill_Hunters,TaskKillContribution,,,,3,,,,,true,,corrupted_camp_40335,,,,,,,,,,,,,Corrupted,,,,,,,,,,,,,,,,,,,,@02A_Side03_02_Belly_Task_Hunters,,,,,,,,,,,,,,,,,,
 02A_Side03_02_02_04_Task_Loot_Butchers,TaskHaveAndReturnItems,,,,2,0230_0201_RustheartRation,Damned_Villager_Cleaver_02BW05,100,,true,,corrupted_camp_40335,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@02A_Side03_02_Belly_Task_Butcher,,,,,,,,,,,,,,,,,,
 02A_Side04_01_Location_container,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,02A_Side04_01_place_easel1,02A_Side04_01_place_easel2,02A_Side04_01_place_easel3,,
 02A_Side04_01_place_easel1,TaskGameEvent,,1,,1,,,,,,,,,,,,,,,,,IO_0231_WolcottsEaselA,,,0231_WolcottsEaselA_interact,,,,,,,,,,,,,,,,,,,,@02A_Side04_01_Location_placeEasel1,,9982.0 6344.0 231.03,,,,,,,,,,,,,,,,

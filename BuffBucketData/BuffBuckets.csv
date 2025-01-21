@@ -119,6 +119,8 @@ DamnedCultistNamed02Buffs,AND,,AI_SelfDestruct_Corruption_Buff,StatusEffect,1,AI
 DamnedCultistNamed02Buffs_Probs,,0,0,,,0,,,,,,,,,,,,,,
 DamnedGreatAxemanNamed01Buffs,AND,,AI_Corruption_Pool_Buff,StatusEffect,1,,,,,,,,,,,,,,,
 DamnedGreatAxemanNamed01Buffs_Probs,,0,0,,,,,,,,,,,,,,,,,
+DamnedPriestMinibossRestlessShoresBuffs,AND,,AI_CorruptedPriest_MinHealth_35,StatusEffect,1,,,,,,,,,,,,,,,
+DamnedPriestMinibossRestlessShoresBuffs_Probs,,0,0,,,,,,,,,,,,,,,,,
 DesertCoyoteNamed00Buffs,AND,,AI_LightningDamage_Buff,StatusEffect,1,AI_StaminaDamage_Buff,StatusEffect,1,RandomUtilityBuff,BuffBucket,1,,,,,,,,,
 DesertCoyoteNamed00Buffs_Probs,,0,0,,,0,,,0,,,,,,,,,,,
 DesertCoyoteNamed01Buffs,AND,,AI_LightningDamage_Buff,StatusEffect,1,AI_StaminaDamage_Buff,StatusEffect,1,RandomUtilityBuff,BuffBucket,1,,,,,,,,,

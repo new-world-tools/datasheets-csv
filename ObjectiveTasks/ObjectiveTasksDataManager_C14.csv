@@ -724,4 +724,4 @@ FM_14_EXP_03_leg_A_task,TaskHaveAndReturnItems,,1,4,FM_loot_item_39,Totem_Dryad_
 14_SQ_06_SylphidDyes_Container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@14_SQ_06_SylphidDyes_Container,,,1,,,,,,,,,,,,14_SQ_06_SylphidDyes_GoToWolcott,14_SQ_06_SylphidDyes_TalkToWolcott,14_SQ_06_SylphidDyes_Task_Dyes,,
 14_SQ_06_SylphidDyes_GoToWolcott,TaskGoToPOITag,,,,,,,,,,,crater_feralledge_50313,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@14_SQ_06_SylphidDyes_GoToWolcott,,,,,,,,,,,,,,,,,,,
 14_SQ_06_SylphidDyes_TalkToWolcott,TaskConversationTopic,,,,14_Wolcott,,,,,,,,,,,,,,,,,,14_Wolcott_T1,,,,,,,,,,,,,,,,,,,,,,@14_SQ_06_SylphidDyes_TalkToWolcott,,11395 7221 240.1304,,,,,,,,,,,,,,,,,
-14_SQ_06_SylphidDyes_Task_Dyes,TaskHaveAndReturnItems,,1,2,14_SQ_06_SylphidDyes_Dye,Boar_Stripped_51,100,,,true,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@14_SQ_06_SylphidDyes_Task_Dyes,,,,,,,,,,,,,,,,,,,
+14_SQ_06_SylphidDyes_Task_Dyes,TaskHaveAndReturnItems,,1,2,14_SQ_06_SylphidDyes_Dye,Boar_Stripped_51,100,,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@14_SQ_06_SylphidDyes_Task_Dyes,,11201.4736 7390.1665 160.4527,,,,,,,,,,,,,,,,,

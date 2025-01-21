@@ -2,3 +2,4 @@ TrackedStatID,StatType,IsPVP,IsHealing,IsDamage,GameMode
 DamageOrHealInArena3v3,Combat,true,true,true,Arena3v3
 DamageOrHealInRuneforgeTrial,Combat,,true,true,TrialSeason04
 HealAnywhere,Combat,,true,,
+DamageOrHealRaid,Combat,,true,true,RaidCutlassKeys00

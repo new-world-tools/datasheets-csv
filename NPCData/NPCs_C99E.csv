@@ -41,6 +41,6 @@ NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,C
 99E_Galahad_p4a,@99E_Galahad_title,@99E_Galahad,,99E_Galahad_p4_00,99E_Galahad_p4a_01,,,,,,,,,,,,,,,,,,
 99E_Adiana,@99E_Adiana_title,@99E_Adiana,,99E_Adiana_00,99E_Adiana_01,,,,,,,,,,,,,,,,,,
 99E_Yash_p1,@99E_Yash_title,@99E_Yash,,99E_Yash_p1_00,99E_Yash_p1_01,,,,,,,,,,,,,,,,,,
-99E_Yash_p2,@99E_Yash_title,@99E_Yash,,99E_Yash_p1_00,99E_Yash_p2_01,99E_Yash_p2_02,,,,,,,,,,,,,,,,,
-99E_Yash_p3,@99E_Yash_title,@99E_Yash,,99E_Yash_p1_00,99F_Yash_02,,,,,,,,,,,,,,,,,,
+99E_Yash_p2,@99E_Yash_title,@99E_Yash,,99E_Yash_p1_00,99E_Yash_p2_02,99E_Yash_p2_01,,,,,,,,,,,,,,,,,
+99E_Yash_p3,@99E_Yash_title,@99E_Yash,,99E_Yash_p2_03,99F_Yash_02,,,,,,,,,,,,,,,,,,
 99E_Myrddin,@99E_Myrddin_title,@99E_Myrddin,,99E_Myrddin_00,99E_Myrddin_01,,,,,,,,,,,,,,,,,,

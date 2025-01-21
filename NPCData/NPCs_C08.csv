@@ -1,6 +1,6 @@
 NPCId,Title,GenericName,InteractOptionDisplayNameOverride,ConversationStateId1,ConversationStateId2,ConversationStateId3,ConversationStateId4,ConversationStateId5,ConversationStateId6,ConversationStateId7,ConversationStateId8,ConversationStateId9,ConversationStateId10,ConversationStateId11,ConversationStateId12,ConversationStateId13,ConversationStateId14,ConversationStateId15,ConversationStateId16,ConversationStateId17,ConversationStateId18,ConversationStateId19,ConversationStateId20
 0803_Survivalist,@0803_Survivalist_t,@0803_Survivalist,,0803_00_Survivalist,,,,,,,,,,,,,,,,,,,
-0807_Commander,@0807_Commander_t,@0807_Commander,,0807_00_Commander,0807_01pre_Commander,0807_01_Commander,0807_02_Commander,0807_03_Commander,0807_04pre_Commander,0807_04_Commander,0807_05pre_Commander,0807_05_Commander,,,,,,,,,,,
+0807_Commander,@0807_Commander_t,@0807_Commander,,0807_00_Commander,0807_01pre_Commander,0807_01_Commander,0807_02_Commander,0807_03_Commander,,,,,,,,,,,,,,,
 0808_Alchemist,@0808_Alchemist_t,@0808_Alchemist,,0808_00_Alchemist,0808_01pre_Alchemist,0808_01_Alchemist,0808_02_Alchemist,0808_03_Alchemist,,,,,,,,,,,,,,,
 0809_Adjudicator,@0809_Adjudicator_t,@0809_Adjudicator,,0809_00_Adjudicator,0809_01pre_Adjudicator,0809_01_Adjudicator,0809_02_Adjudicator,0809_03_Adjudicator,,,,,,,,,,,,,,,
 0810_Barkeep,@0810_Barkeep_t,@0810_Barkeep,,0810_00_Barkeep,,,,,,,,,,,,,,,,,,,
