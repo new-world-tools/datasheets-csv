@@ -3,8 +3,8 @@ Index,Name,Color,Category,IsEntitlement,ColorAmount,ColorOverride,SpecColor,Spec
 6,Gold,#f4d481,Reserved,1,1,0.15,#daa350,1,0.75
 22,AmazonOrange,#FF9900,Orange,1,1,0.05,#FF9900,0.15,0.5
 23,TwitchPurple,#9472c8,Purple,1,1,0.1,#40365f,1,0.5
-24,Black,#1c1a1a,Black,1,1,0.1,#000000,0.5,0.5
-25,White,#dbdbdb,White,1,1,0.15,#dbdbdb,0.3,0.5
+24,Black,#000000,Black,1,1,0.05,#000000,0.8,0.5
+25,White,#FFFFFF,White,1,1,0.15,#FFFFFF,0.3,0.5
 26,Red,#FF0000,Red,1,1,0.05,#FF0000,0.15,0.5
 27,Ship Gray,#403d44,Grey,1,1,0.5,#1d1b21,1,0.5
 28,Soft Coal,#474547,Grey,1,1,0.5,#141214,1,0.5
