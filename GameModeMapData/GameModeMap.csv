@@ -35,9 +35,9 @@ QuestMotherwell,QuestMotherwell,Dungeon/MotherwellEdengrove/MotherwellScript,,,,
 QuestMedea,QuestMedea,Dungeon/MedeaWindsward/MedeaScript,,,,,coatlicue\NewWorld_VitaeEterna,"8436,2615,256,256","8504,2663,56.6259,90",,NW_ORI_EG_QuestMedea,0.375,256,false,0
 QuestNihilo,QuestNihilo,Dungeon/NihiloGreatCleave/LeviathanScript,,,,,coatlicue\NW_ORI_GC_QuestNihilo,"777.0,534.0,640.0,640.0","1033.0,707.0,169.5,90.0",,NW_ORI_GC_QuestNihilo,0.175,125,false,0
 QuestYonas,QuestYonas,Dungeon/YonasCave/YonasScript,,,,,coatlicue\NewWorld_VitaeEterna,"8766.0,6596.0,96.0,96.0","8784.0,6608.0,314.1,0.0",,,0.1,50,false,0
-TrialSeason02Q13,TrialSeason02Q13,Dungeon/LevelScripts/TrialSeason02Q13,,,,,coatlicue\NW_Trial_Season_02_Q13,"940.0,940.0,64.0,160.0","973.0,1085.0,142.0,180",,NW_Trial_Season_02_Q13,0.375,99999,false,0
+TrialSeason02Q13,TrialSeason02Q13,Dungeon/LevelScripts/TrialSeason02Q13,,,,,coatlicue\NW_Trial_Season_02_Q13,"940.0,940.0,64.0,160.0","973.0,1085.0,142.0,180",,NW_Trial_Season_02_Q13,0.375,150,false,0
 TrialSeason02Q12,TrialSeason02Q12,Dungeon/LevelScripts/TrialSeason02Q12,,,,,coatlicue\NW_Trial_Season_02,"921.0,916.0,256.0,256.0","1056.269,987.204,98.031,0",,NW_Trial_Season_02,0.125,125,true,6
-TrialSeason04Q02,TrialSeason04Q02,Dungeon/LevelScripts/TrialSeason04Q02,,,,,coatlicue\NW_Trial_Season_04_DaichiDojo,"277.0,375.0,64.0,64.0","308.0,416.0,75.0,180",,NW_Trial_Season_04_DaichiDojo,0.375,99999,true,13.8
+TrialSeason04Q02,TrialSeason04Q02,Dungeon/LevelScripts/TrialSeason04Q02,,,,,coatlicue\NW_Trial_Season_04_DaichiDojo,"277.0,375.0,64.0,64.0","308.0,416.0,75.0,180",,NW_Trial_Season_04_DaichiDojo,0.375,150,true,13.8
 TrialSeason04Q06,TrialSeason04Q06,Dungeon/LevelScripts/TrialSeason04Q06,,,,,coatlicue\NW_Trial_Season_04_DeviceRoom,"121.0,128.0,256.0,256.0","172.82,254.97,260.34,270",,NW_Trial_Season_04_DeviceRoom,0.1,50,false,0
 TrialSeason04Q05,TrialSeason04Q05,Dungeon/LevelScripts/TrialSeason04Q05,,,,,coatlicue\NW_Trial_Season_04,"145.0,6.0,512.0,512.0","213.0,258.0,248.5,270",,NW_Trial_Season_04,0.2,100,false,1
 QuestHeartforge,QuestHeartforge,Dungeon/Heartforge/HeartforgeScript,,,,,coatlicue\NewWorld_VitaeEterna,"9511.0,3128.0,96.0,96.0","9534.0,3189.0,135.0,200.0",,,0.375,256,false,0
