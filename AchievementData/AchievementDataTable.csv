@@ -1,4 +1,4 @@
-AchievementID,AchievementIndex,Category,GameEventId,Is Deprecated,"New AchivementIndex values must increase, current maximum is 32,000",15886,AchivementsIndex &gt; 32000 will require a code change!
+AchievementID,AchievementIndex,Category,GameEventId,Is Deprecated,"New AchivementIndex values must increase, current maximum is 32,000",16128,AchivementsIndex &gt; 32000 will require a code change!
 Map_Unlock_1,0,Map,Read_LoreItem,,,,
 Map_Unlock_2,1,Map,Read_LoreItem,,,,
 Map_Unlock_3,2,Map,Read_LoreItem,,,,
@@ -15591,3 +15591,4 @@ Recipe_VoidGauntlet_HarvestDamage,15883,Recipe,,,,,
 Recipe_Rapier_HasteWhenFacingTarget,15884,Recipe,,,,,
 05_Quest_23R,15885,Objective,,,,,
 05_Quest_24R,15886,Objective,,,,,
+Entitlement_725CoconutCache_Final,16128,Objective,,,,,
