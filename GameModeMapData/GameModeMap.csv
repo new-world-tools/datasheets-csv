@@ -21,7 +21,7 @@ DungeonBrimstoneSands00,DungeonBrimstoneSands00,Dungeon/LevelScripts/BrimstoneSa
 DungeonFirstLight01,DungeonFirstLight01,Dungeon/LevelScripts/FirstLight01Dungeon,,,,,coatlicue\NW_Dungeon_FirstLight_01,"384.0,384.0,960.0,960.0","651.0,1181.4,279.0,240",,NW_Dungeon_FirstLight_01,1,768,true,17.2
 DungeonGreatCleave00,DungeonGreatCleave00,Dungeon/LevelScripts/GlacialTarnDungeon,,,,,coatlicue\NW_Dungeon_GreatCleave_00,"679.0,320.0,640.0,640.0","1223,586,302,80",,NW_Dungeon_GreatCleave_00,0.75,512,false,0
 TrialBrimstoneSandworm,TrialBrimstoneSandworm,GameModes/Trials/BrimstoneSandwormTrial00,,,,,coatlicue\NewWorld_VitaeEterna,"4902.0,7698.0,128.0,128.0","4935.0,7788.0,224.0,235",,,3.2,256,false,0
-RaidCutlassKeys00,RaidCutlassKeys00,Dungeon/LevelScripts/RaidCutlassKeys00,,,,,coatlicue\NW_Raid_CutlassKeys_00,"545.0,574.0,800.0,768.0","569.0,1237.0,120.0,260",,NW_Raid_CutlassKeys_00,3.2,256,true,14.25
+RaidCutlassKeys00,RaidCutlassKeys00,Dungeon/LevelScripts/RaidCutlassKeys00,,,,,coatlicue\NW_Raid_CutlassKeys_00,"545.0,574.0,800.0,768.0","569.0,1237.0,120.0,260",,NW_Raid_CutlassKeys_00,3.2,2500,true,14.25
 TrialSeason01,TrialSeason01,Dungeon/LevelScripts/Season_Trial_01,,,,,coatlicue\NW_Trial_Season_02,"921.0,916.0,256.0,256.0","1056.0,959.0,105.5,0",,NW_Trial_Season_02,1.875,1280,false,0
 TrialSeason04,TrialSeason04,Dungeon/LevelScripts/Trial_Season_04,,,,,coatlicue\NW_Trial_Season_04,"145.0,6.0,512.0,512.0","213.0,258.0,247.0,270",,NW_Trial_Season_04,1.875,1280,true,4.2
 QuestAdiana,QuestAdiana,Dungeon/AdianaFirstLight/AdianaScript,,,,,coatlicue\NW_ORI_FL_QuestAdiana,"600.0,700.0,256.0,256.0","730.0,788,417.0,0",,NW_ORI_FL_QuestAdiana,0.2,100,false,0
