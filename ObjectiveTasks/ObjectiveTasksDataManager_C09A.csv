@@ -352,7 +352,7 @@ TaskID,Type,FailOnCondition,StayActive,TargetQty,ItemName,ItemDropVC,ItemDropPro
 09A_M5_Container_01A,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@09a_M5_Container_01A,,,,,,,,,,,,,,,09A_M5_Sap,09A_M5_RatFat,09A_M5_MulchInnards,,
 09A_M5_Sap,TaskHaveAndReturnItems,,,2,09A_M5_Sap,09A_M5_FallenLog,100,,true,,abandoned_village_40050,,,,,,,,,IO_09A_M5_FallenLog,,,,,,,,,,,,,,,,,,,,,,,@09A_M5_Sap,,,,,,,,,,,,,,,,,,,
 09A_M5_RatFat,TaskHaveAndReturnItems,,,2,09A_M5_RatFat,FL_Rat_HercyneRat_09FL02b,100,,true,,abandoned_village_40050,,true,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,@09A_M5_RatFat,,8621.685 914.880,,,,,,,,,,,,,,,,,
-09A_M5_MulchInnards,TaskHaveAndReturnItems,,,2,09A_M5_MulchInnards,AngryEarth,50,,true,,abandoned_village_40050,,true,,,8,,,,,,,,,,,,,,,,,,,,,,,,,,,@09A_M5_MulchInnards,,,,,,,,,,,,,,,,,,,
+09A_M5_MulchInnards,TaskHaveAndReturnItems,,,2,09A_M5_MulchInnards,FL_Hercyne_Corvid_09FL02b,100,,true,,abandoned_village_40050,,true,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,@09A_M5_MulchInnards,,,,,,,,,,,,,,,,,,,
 09A_M5_Container_Fragment,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,09A_M5_TriggerArea_WhisperPlant_Tanglesnap,09A_M5_WhisperPlant_Tanglesnap,09A_M5_ShrineFragment,,
 09A_M5_TriggerArea_WhisperPlant_Tanglesnap,TaskTriggerArea,,,1,,,,,,,,,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,TriggerVol_09A_M5_WhisperPlant_Tanglesnap,@09A_M5_TriggerArea_WhisperPlant_Tanglesnap,,8553.2813 976.8885 83.4611,,,true,,,,,,,,,,,,,,
 09A_M5_WhisperPlant_Tanglesnap,TaskGameEvent,,,1,09A_WhisperPlant_Tanglesnap,,,,,,,,,,,,,,,IO_09A_WhisperPlant_Tanglesnap,,,09A_WhisperPlant_Tanglesnap_Interact,,,,,,,,,,,,,,,,,,,,@09A_Task_WhisperPlant,,8562 976,,,,,,,,,,,,,,,,,

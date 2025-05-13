@@ -1,10 +1,10 @@
 ScheduleId,StartDate,EndDate,StartWeekday,EndWeekday,UTC,ScheduledQuestDescription,Comments
 test_1,*-*-*T*:25:00,*-*-*T*:30:00,,,false,,"Forinternaltesting,donotremove"
 test_2,,,Wednesday,Thursday,false,,"Forinternaltesting,donotremove"
-TurkeyTerror,2024-11-19T*:*:*,2024-12-03T*:*:*,,,,,TurkeyTerror Event
-LegacyOfCrassus,2024-01-09T*:*:*,2024-01-23T*:*:*,,,,,Legacy of Crassus Second Release (Modified for dates 2024)
-EggcitingDefense,2024-09-24T*:*:*,2024-10-08T*:*:*,,,,,Siege of Sulfur Defense Second Release (Modified for dates 2024)
-FuryOfTheSpriggan,2024-07-02T*:*:*,2024-07-16T*:*:*,,,,,Fury of the Spriggan Second Release (Modified for dates 2024)
+TurkeyTerror,2024-11-19T*:*:*,2024-12-03T*:*:*,,,true,,TurkeyTerror Event
+LegacyOfCrassus,2024-01-09T*:*:*,2024-01-23T*:*:*,,,true,,Legacy of Crassus Second Release (Modified for dates 2024)
+EggcitingDefense,2024-09-24T*:*:*,2024-10-08T*:*:*,,,true,,Siege of Sulfur Defense Second Release (Modified for dates 2024)
+FuryOfTheSpriggan,2024-07-02T*:*:*,2024-07-16T*:*:*,,,true,,Fury of the Spriggan Second Release (Modified for dates 2024)
 EventKill,*-01-01T*:*:*,*-03-31T*:*:*,,,,,For Diamond Gypsum Events (JuniperBag)
 EventDarkness,*-04-01T*:*:*,*-06-30T*:*:*,,,,,For Diamond Gypsum Events (RitualBag)
 EventGather,*-07-01T*:*:*,*-09-30T*:*:*,,,,,For Diamond Gypsum Events (BagofEarthGifts)
@@ -22,3 +22,13 @@ Minutely,*-*-*T*:*:00,,,,,@objective_minutely_description,Once per minute schedu
 Hourly,*-*-*T*:00:00,,,,,@objective_hourly_description,Hourly schedule
 Daily,*-*-*TDailyCooldown,,,,,@objective_daily_description,Daily schedule - resets at daily cooldown config time
 Weekly,,,WeeklyCooldown,,,@objective_weekly_description,Weekly schedule - resets at weekly cooldown config time
+Admiral,2025-08-05T*:*:*,2025-08-12T*:*:*,,,,,Admiral First Release (For dates in 2025)
+Empress,2025-09-09T*:*:*,2025-09-16T*:*:*,,,,,Empress First Release (For dates in 2025)
+FireNaga,2025-07-15T*:*:*,2025-07-22T*:*:*,,,,,Fire Naga First Release (For dates in 2025)
+LotusScarab,2025-06-17T*:*:*,2025-06-24T*:*:*,,,,,Lotus Scarab First Release (For dates in 2025)
+Mammoth,2025-05-20T*:*:*,2025-05-27T*:*:*,,,,,Mammoth First Release (For dates in 2025)
+RabbitSeason,2025-03-25T*:*:*,2025-04-08T*:*:*,,,true,,
+Admiral2,2025-12-30T*:*:*,2026-01-06T*:*:*,,,,,Admiral Second Release (For dates in 2025)
+FireNaga2,2025-12-02T*:*:*,2025-12-09T*:*:*,,,,,Fire Naga Second Release (For dates in 2025)
+LotusScarab2,2025-11-04T*:*:*,2025-11-11T*:*:*,,,,,Lotus Scarab Second Release (For dates in 2025)
+Mammoth2,2025-10-07T*:*:*,2025-10-14T*:*:*,,,,,Mammoth Second Release (For dates in 2025)

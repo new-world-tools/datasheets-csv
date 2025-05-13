@@ -415,7 +415,7 @@ TaskID,Type,FailOnCondition,StayActive,RequiredLevel,TargetQty,ItemName,ItemDrop
 1624_0501_d_02_03_Achievement_AkhetPyramidUnlock_Upper,TaskUnlockAchievement,,,,1,16_AkhetPyramidUnlock_Upper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 1624_0501_d_03_container_pyramidAdiana,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@1624_0501_powerofthegods_gotoAdiana,,,,,,,,,,,,,,,1624_0501_d_03_SwapIn_AdianaAkhet,1624_0501_d_03_TalkTo_AdianaAkhet_SE,1624_0501_d_03_DialogueAchievement_AdianaAkhet,1624_0501_d_03_SwapOut_AdianaAkhet,
 1624_0501_d_03_SwapIn_AdianaAkhet,TaskUnlockAchievement,,,,1,SwapActive_9902_BSMSQ_Adiana_On,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
-1624_0501_d_03_TalkTo_AdianaAkhet_SE,TaskConversationTopic,,,,,9902_BSMSQ_Adiana,,,,,,,,,,,,,,,,,,Topic_9902_0501_AdianaAkhetTalkTo,,,,,,,,,,,,,,,,,,,,,,@12_Default_Task_TalkTo,,,,,,,,,,,,,,,,,,,
+1624_0501_d_03_TalkTo_AdianaAkhet_SE,TaskConversationTopic,,,,,9902_BSMSQ_Adiana,,,,,,,,,,,,,,,,,,Topic_9902_0501_AdianaAkhetTalkTo,,,,,,,,,,,,,,,,,,,,,,@12_Default_Task_TalkTo,,,1,,,,,,,,,,,,,,,,
 1624_0501_d_03_DialogueAchievement_AdianaAkhet,TaskUnlockAchievement,,,,1,16_BSMSQ_Adiana_Akhet_Dialogue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 1624_0501_d_03_SwapOut_AdianaAkhet,TaskLockAchievement,,,,1,SwapActive_9902_BSMSQ_Adiana_On,,,,,,,,,,,,true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 1624_0501_d_03_01_Interact_16_AdianaAkhet_SE,TaskGameEvent,,,,1,,,,,,,,,,,,,,,,,,IO_16_AdianaAkhet_SE,,,16_AdianaAkhet_SE_Interact,,,,,,,,,,,,,,,,,,,,@1624_0501_powerofthegods_gotoAdiana,,5501.1294 8796.5947 222.2976,1,,,,,,,,,,,,,,,,

@@ -2,6 +2,7 @@ AfkModeId,ResetMinMove,ScaleAfkTimerAmount,UpdatePlayerPopulationCheckDelaySecon
 Default,0.01,1,10,900,1200
 Disabled,0,1,10,0,0
 3v3Arena,1,1,10,180,300
+3v3ArenaRound,1,1,10,15,30
 OutpostRush,1,1,10,180,300
 Raid,1,1,10,180,300
 War,1,1,10,180,300

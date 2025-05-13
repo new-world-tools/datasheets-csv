@@ -4,7 +4,7 @@ LotusScarab_Horn,Unarmed,,,,Bullet,Light,Thrust,,,,,false,0.35,1,1,1,1,1,20,15,2
 LotusScarab_Slash_Right,Unarmed,,,,Bullet,Heavy,Slash,,,,,false,0.45,1,1,2,2,2,20,15,20,-1,2,0,0.8,-1,2,0,0.8,0,0,0,0.8,0,0.25,,1,Small,Small,Small,3,0.25,1,1,0,0.1625,0.325
 LotusScarab_Slash_Left,Unarmed,,,,Bullet,Heavy,Slash,,,,,false,0.45,1,1,2,2,2,20,15,20,1,2,0,0.8,1,2,0,0.8,0,0,0,0.8,0,0.25,,1,Small,Small,Small,3,0.25,1,1,0,0.1625,0.325
 LotusScarab_BodySlam,Unarmed,,,,Bullet,Heavy,Strike,,,,,false,0.45,1,1,4,4,4,40,35,40,2,3,0,0.8,2,3,0,0.8,0,0,0,0.8,0,0.6,,2,Small,Small,Small,3,1,1,1,0,0.1625,0.325
-LotusScarab_BodySlam_Shockwave,Unarmed,,,,Bullet,Heavy,Strike,,,,,false,0.55,1,1,2,2,2,20,15,20,0,2,0,0.8,0,2,0,0.8,0,0,0,0.8,0,0.4,,1,Small,Small,Small,3,0.5,1,1,0,0.1625,0.325
+LotusScarab_BodySlam_Shockwave,Unarmed,,,,Bullet,Heavy,Strike,,,,,false,0.55,1,1,4,4,4,40,35,40,0,2,0,0.8,0,2,0,0.8,0,0,0,0.8,0,0.4,,1,Small,Small,Small,3,0.5,1,1,0,0.1625,0.325
 LotusScarab_Charge,Unarmed,,,,Bullet,Heavy,Strike,,,,,false,0.8,1,1,3,3,3,30,25,30,2,3,0,0.8,2,3,0,0.8,0,0,0,0.8,0,0.4,,2,Small,Small,Small,3,0.4,1,1,0,0.1625,0.325
 LotusScarab_Move,Unarmed,,,,Bullet,Light,Strike,,,,,false,0.2,1,1,2,2,2,30,25,30,2,3,0,0.8,2,3,0,0.8,0,0,0,0.8,0,0.25,,2,Small,Small,Small,3,0.4,1,1,0,0.1625,0.325
 LotusScarab_Sunspots,AncientMagic,true,,,Bullet,Magic,Fire,,,,,false,0.1,1,1,0,0,0,10,10,10,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0.25,,1,Small,Small,Small,3,0.3,1,1,0,0.1625,0.325

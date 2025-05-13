@@ -1,0 +1,7 @@
+WorldEncounterID,ExpectedParticipantCount,AffectedCreatureTypes,Notes,ScalingFactorMin,ScalingFactorMax,FunctionCoefficient,MaxHealthMod
+WB_Mammoth_FL_Mahantaram,10,All,,1,4,0.67,Linear
+WB_Brute_CK_AdmiralBrute,10,All,,1,4,0.67,Linear
+WB_Scarab_BS_LotusScarab,10,All,,1,4,0.67,Linear
+WB_Naga_GC_NagaFire,10,All,,1,4,0.67,Linear
+WB_Dynasty_ER_Empress,10,All,,1,4,0.67,Linear
+WB_Spriggan,6,All,,0.5,5,0.67,Linear

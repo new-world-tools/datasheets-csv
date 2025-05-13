@@ -82,3 +82,9 @@ wfxo_Firestaff.shared.Targeting,Required
 Hercyne_Expedition.Water_Ball_Hand.magic_water_in_hand,Required
 cFX_npc_Hercyne_Typhon.Typhon_BuffingHowl_KillMinions,Normal
 cFX_npc_Hercyne_Typhon.Typhon_BuffingHowl_Leech,High
+cfx_npc_Broodmother_Medusa.Sleep_AOE,Required
+Hercyne_Expedition.Water_Impact_AOE,High
+wfx_rune_ability_detonate.denotation_warning,High
+wfx_rune_ability_stone_skin.stoneskin_01,High
+wfx_rune_ability_stone_skin.stoneskin_02,High
+wfx_rune_ability_stone_skin.stoneskin_03,High

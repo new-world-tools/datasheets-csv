@@ -2,3 +2,4 @@ TrackedStatID,StatType,Score,MustWin
 WinOutpostRushBy750,CompleteOutpostRush,750,true
 WinOutpostRush,CompleteOutpostRush,,true
 PlayOutpostRush,CompleteOutpostRush,,
+WinOutpostRushBy500,CompleteOutpostRush,500,true

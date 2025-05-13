@@ -1,5 +1,5 @@
 ActivityCrc,ActivityType,DurationSec,Teams,MinLevel,MaxLevel,FactionType,MinDistance,MaxDistance,AllowInSanctuary,AllowInFtue,AllowInWarPrep,AllowInWar,AllowInArena,AllowInFFA,AllowAcceptWhilePvpFlagged,DisallowInGameModes,DisallowedWaterDepths
-Duel,1,10,2,10,,,,20,false,false,false,false,false,false,true,"Dungeon,OutpostRush,Duel,Arena3v3,","Deep,"
-Trade,2,10,,,,,,10,true,false,true,false,false,false,true,"OutpostRush,Duel,Arena3v3,",
-MusicalPerformance,3,10,,,,,,10,true,false,true,false,false,false,true,"Dungeon,OutpostRush,Duel,Arena3v3,",
-Shard,4,10,,,,,,1000,true,true,true,false,false,false,false,"Dungeon,OutpostRush,Duel,Arena3v3,",
+Duel,1,10,2,10,,,,20,false,false,false,false,false,false,true,"Dungeon,OutpostRush,Duel,Arena3v3,CaptureTheFlag,OutpostRush_NoPerks,BattleRoyale,","Deep,"
+Trade,2,10,,,,,,10,true,false,true,false,false,false,true,"OutpostRush,Duel,Arena3v3,CaptureTheFlag,OutpostRush_NoPerks,BattleRoyale,",
+MusicalPerformance,3,10,,,,,,10,true,false,true,false,false,false,true,"Dungeon,OutpostRush,Duel,Arena3v3,CaptureTheFlag,OutpostRush_NoPerks,BattleRoyale,",
+Shard,4,10,,,,,,1000,true,true,true,false,false,false,false,"Dungeon,OutpostRush,Duel,Arena3v3,CaptureTheFlag,OutpostRush_NoPerks,BattleRoyale,",

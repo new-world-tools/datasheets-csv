@@ -1,0 +1,9 @@
+EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExpAmount,CurrencyReward,RewardsNotes,ItemReward,ItemRewardQty,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionTokens,FactionInfluenceAmount,FactionInfluenceSrc,AzothReward,AzothRewardChance,WhisperID,AchievementId,IgnoreEconomyTracker,EntitlementId,PVPXP,RemoveStatusEffectCategories,EmitTelemetry
+90_SS2_Quest01_Success,,1,MSQ+,,,34420,4650,,TSkillLeveling1_S8,,,,,,,,,,0,1,,,,,,,true
+90_SS2_Quest01a_Success,,1,MSQ+,,,34420,4650,,TSkillLeveling1_S8,,,,,,,,,,0,1,,,,,,,true
+90_SS2_Quest02_Success,,15,MSQ+,,,112540,6750,,TSkillLeveling2_S8,,,,,,,,,,50,1,,,,,,,true
+90_SS2_Quest03_Success,,25,MSQ+,,,417790,8250,,TSkillLeveling3_S8,,,,,,,,,,50,1,,,,,,,true
+90_SS2_Quest04_Success,,45,MSQ+,,,1282678,11250,,TSkillLeveling4_S8,,,,,,,,,,50,1,,,,,,,true
+90_SS2_Quest05_Success,,60,MSQ+,,,0,13500,,TSkillLeveling5_S8,,,,,,,,,,100,1,,,,,,,true
+90_SS2_Quest06_Success,,65,MSQ+,,,0,14250,,,,,,,,,,,,100,1,,,,,,,true
+90_SS2_Quest07_Success,,65,MSQ+,,,0,14250,,,,,,,,,,,,100,1,,,,,,,true

@@ -1,0 +1,16 @@
+DamageID,WeaponCategory,IgnoreInvulnerable,NoReaction,SurfaceImpactEffect,AttackType,DamageType,IsRanged,StatusEffect,EffectOnlyOnDamage,DeflectDamageID,CanCrit,DmgCoef,DmgCoefHead,DmgCoefCrit,PowerLevel,BlockPowerLevel,CritPowerLevel,HitStun,BlockHitStun,CritHitStun,ImpactDistanceX,ImpactDistanceY,ImpactDistanceZ,ImpactDecayRate,CritImpactDistanceX,CritImpactDistanceY,CritImpactDistanceZ,CritImpactDecayRate,BlockImpactDistanceX,BlockImpactDistanceY,BlockImpactDistanceZ,BlockImpactDecayRate,AddDmg,StaggerDmgModifier,CritStaggerDmgModifier,StaggerResistModifier,CameraShakeID,CritCameraShakeID,ImpactRating,BlockStaminaDmgMod,BlockAbsorptionModifier,LOSCheckVerticalAngleOffset,stunBreakoutIncrementer,DamageGuildAndGroup,HitRuneCharge,HitBlockedRuneCharge
+Slash_L,Unarmed,0,0,Bullet,Light,Slash,,,,Deflect_Default,false,0.7,1,1,0,1,0,10,5,10,0,0.8,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.15,1,0,,,0.1625,0.325
+Slash_R,Unarmed,0,0,Bullet,Light,Slash,,,,Deflect_Default,false,0.7,1,1,0,1,0,10,5,10,0,0.8,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.15,1,0,,,0.1625,0.325
+Burrow,Unarmed,0,0,Bullet,Heavy,Strike,,,,Deflect_Default,false,1.15,1,1,3,3,3,40,40,40,0,5,0,0.8,0,5,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.4,1,0,,,0.1625,0.325
+Hurl_Boulder,Unarmed,1,0,Bullet,Heavy,Strike,,,,Deflect_Default,false,1.15,1,1,4,4,4,10,5,10,0,8,0,0.8,0,8,0,0.8,0,8,0,0.8,0,0.3,0.3,1,Small,Small,3,0.8,1,0,,,0.1625,0.325
+Hurl_Boulder_NPC,Unarmed,1,0,Bullet,Heavy,Strike,,,,Deflect_Default,false,1,1,1,4,4,4,10,5,10,0,12,0,0.8,0,12,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.8,1,0,,true,0.1625,0.325
+Massive_AOE_Structure,Unarmed,1,0,Bullet,Heavy,Slash,,,,Deflect_Default,false,1000,1000,1,0,1,0,10,5,10,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.3,1,0,,true,0.1625,0.325
+Massive_AOE,Unarmed,1,0,Bullet,Heavy,Nature,,,,Deflect_Default,false,100,100,1,4,4,4,10,5,10,0,10,0,0.8,0,10,0,0.8,0,10,0,0.8,0,0.3,0.3,1,Small,Small,3,10,1,0,,,0.1625,0.325
+Overhead_Smash,Unarmed,0,0,Bullet,Heavy,Strike,,,,Deflect_Default,false,1.35,1.5,1,5,5,4,40,40,40,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,5,1,0,,,0.1625,0.325
+AOE_Pool,Unarmed,0,0,Bullet,Light,Nature,,,,Deflect_Default,false,0.5,1,1,0,0,0,10,5,10,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.3,1,0,,,0.1625,0.325
+Siren_Scream,Unarmed,0,0,Bullet,Heavy,Nature,,,,Deflect_Default,false,1.15,1,1,4,4,4,20,20,20,0,6,0,0.8,0,6,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.6,1,0,,,0.1625,0.325
+Projectile_Shot,Unarmed,0,0,Bullet,Light,Strike,true,AI_Disease,true,Deflect_Default,false,0.35,1,1,3,1,0,10,5,10,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.4,1,0,,,0.1625,0.325
+Homing_Projectile,Unarmed,0,0,Bullet,Heavy,Nature,,,,Deflect_Default,false,0.3,1,1,0,1,0,10,5,10,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.5,1,0,,,0.1625,0.325
+Apply_Poison,Unarmed,1,1,Bullet,Light,Nature,,AI_Naga_AngryEarth_Channel_Poison,false,Deflect_Default,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Small,Small,0,0,0,0,,,0.1625,0.325
+Fall,Fall,1,1,Bullet,,Falling,,,,,false,1,1,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,0,0,1,,,,0.1625,0.325
+Reaction_Breakout,Fall,1,1,Bullet,,Falling,,,,,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Small,Small,1,,,,,,0.1625,0.325

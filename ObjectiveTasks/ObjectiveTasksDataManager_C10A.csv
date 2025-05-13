@@ -102,7 +102,7 @@ C10A_Q4_Container_Main,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 C10A_Q4_Container_Partial_01,PartialTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@C10A_Q4_Container_01,,,,,,,,,,,,,,,C10A_Q4_ChestA,C10A_Q4_ChestDummy,C10A_Q4_Container_Partial_02,C10A_Q4_DummyPin_01,C10A_Q4_Container_WaveEnemies
 C10A_Q4_ChestA,TaskGameEvent,,,100,10A_Q4_ChestA,,,,,,,,,,,,,,,IO_10A_Q4_ChestA,,,10A_Q4_ChestA_Interact,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 C10A_Q4_ChestDummy,TaskGameEvent,,,3,10A_Q4_ChestDummy,,,,,,,,,,,,,,,IO_10A_Q4_ChestDummy,,,10A_Q4_ChestDummy_Interact,,,,,,,,,,,,,,,,,,,,,,,1,,true,,,,,,,,,,,,,,
-C10A_Q4_DummyPin_01,TaskTriggerArea,,,1,,,,,,,,,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,,,,6500.405 415.538,1,,,,,,,,,,,,,,,,
+C10A_Q4_DummyPin_01,TaskTriggerArea,,,1,,,,,,,,,,,,,,,,,,Enter,,,,,,,,,,,,,,,,,,,,,,,6468.6025 287.6467 39.3862,1,,,,,,,,,,,,,,,,
 C10A_Q4_Container_WaveEnemies,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,C10A_Q4_Kill_Swordsman,C10A_Q4_Kill_Axe,C10A_Q4_Kill_Spear,C10A_Q4_Kill_Blunderbuss,C10A_Q4_Kill_Wraith
 C10A_Q4_Kill_Swordsman,TaskKillContribution,,,100,,,,,,,,,,,,,,,,,,,CK_Spectral_Lost_1hSword_Q4_WaveEvent,,,,,,,,,,,,,,,,,,,,,,,1,,true,,,,,,,,,,,,,,
 C10A_Q4_Kill_Axe,TaskKillContribution,,,100,,,,,,,,,,,,,,,,,,,CK_Spectral_Lost_2hAxe_Q4_WaveEvent,,,,,,,,,,,,,,,,,,,,,,,1,,true,,,,,,,,,,,,,,

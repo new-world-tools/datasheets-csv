@@ -87,7 +87,7 @@ MSQ_0021_ForgeStaffB_interact,,0,MSQ-,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 MSQ_0021_ForgeStaffC_interact,,0,MSQ-,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 MSQ_0021_ForgeStaffD_interact,,0,MSQ-,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 MSQ_0021_ForgeStaffAnimTest_interact,,0,MSQ-,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
-MSQ_0022_AmrineMachine_interact,,0,MSQ-,,,0,0,,MSQ_Heartgem,,,,,0,,,,,0,0,,,,,,,true
+MSQ_0022_AmrineMachine_interact,,0,MSQ-,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 MSQ_0023_AmrineTempleAltar_interact,,0,MSQ-,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 MSQ_0024_FightingPitDoor_interact,,0,MSQ-,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true
 MSQ_0025_AmrineAzothBarrier_interact,,0,MSQ-,,,0,0,,,,,,,0,,,,,0,0,,,,,,,true

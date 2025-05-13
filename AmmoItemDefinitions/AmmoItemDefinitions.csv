@@ -25,6 +25,7 @@ Shaman_Lightning_Bolt,Shot,1,1,Characters/SpellSlices/Undead_Shaman_Lightning_Pr
 Poison_AI_Arrow,Arrow,1,1,Items/Weapons/poison_ai_arrow,Play_Arrow_WhizzBys,
 AI_Swamp_Beast_Throwable,Arrow,1,1,Items/Weapons/AI/ai_brute_throwable,Play_Arrow_WhizzBys,
 AI_Swamp_Beast_Throwable_Boss,Arrow,1,1,Items/Weapons/AI/ai_brute_throwable_boss,Play_Arrow_WhizzBys,
+AI_Swamp_Beast_Throwable_Boss_Avarice,Arrow,1,1,Characters/TrialBoss/Avarice/AI_Brute_Throwable_Boss_Avarice,Play_Arrow_WhizzBys,
 AI_Swamp_Prowler_Hatchet,Arrow,1,1,Items/Weapons/AI/ai_swamp_prowler_hatchet,Play_Arrow_WhizzBys,
 AI_Arrow_Piercing_Shot,Arrow,1,1,Items/Weapons/AI/ai_arrow_piercing_Shot,Play_Arrow_WhizzBys,
 AI_Swamp_Archer_Trap,Arrow,1,1,Items/Weapons/AI/ai_swamp_archer_trap_projectile,Play_Arrow_WhizzBys,

@@ -53,3 +53,11 @@ CraftGS725,Craft,,,,725,,,,,,,,,,,,
 CraftPrismaticResources,Craft,,"PrismaticScarab,IngotT53,LeatherT53,ClothT53,TimberT53,BlockT53",,,,,,,,,,,,,,
 CraftWithApex,Craft,DoubloonAntique05,,,,,,,,,,,,,,,
 CraftEtherealSS,Craft,,,,,,SeasonalEthereal,,,,,,,,,,SeasonalServer
+CraftNamedReplica,Craft,,,,,,,,,,,,,,"DungeonNamedReplicas_FLXpac,DungeonNamedReplicas",,
+CraftPotionT4,Craft,,,4,,,Potion,,,,,,,,,,
+CraftTrinketT5,Craft,,,5,,,Jewelry,,,,,,,,,,
+CraftMutatorNamedReplica,Craft,,,,,,,,,,,,,,,UniqueMutatorReps,
+CraftHeartrune,Craft,,,,,,HeartGem,,,,,,,,,,
+CraftRaidNamedReplica,Craft,,,,,,,,,,,,,,,RaidMateria,
+CraftHeartruneGS700,Craft,,,,625,,HeartGem,,,,,,,,,,
+CraftSS8Caches,Craft,,,,,,,,,,,,,,AdventurerCaches,,SeasonalWorldS8

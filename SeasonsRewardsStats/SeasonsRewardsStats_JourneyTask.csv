@@ -5,3 +5,4 @@ CompleteTasksChapter2,CompleteJourneyTask,,,Chapter,2,true
 CompleteTasksChapter3,CompleteJourneyTask,,,Chapter,3,true
 CompleteTasksChapter4,CompleteJourneyTask,,,Chapter,4,true
 CompleteTaskAnyChapter,CompleteJourneyTask,,,Chapter,,true
+CompleteTaskAnyChapterSS,CompleteJourneyTask,,,SeasonalServerChapter,,true

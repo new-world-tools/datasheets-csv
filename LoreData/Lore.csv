@@ -1473,11 +1473,6 @@ Expedition_Title_02_02,Default,@Expedition_Title_02_02,@Expedition_Subtitle_02_0
 00_Aeternum_Chapter_27,Chapter,@00_Aeternum_Chapter_27,,,,Topic_00_Aeternum,25,lyshineui/images/loreimages/journal/ANewWorld.png,,,,,,,
 00_Aeternum_Title_27_01,Default,@00_Aeternum_Title_27_01,@00_Aeternum_Subtitle_27_01,@00_Aeternum_Body_27_01,Lore_unlock_00_Aeternum_Title_27_01,00_Aeternum_Chapter_27,1,,,,,,,,
 00_Aeternum_Title_27_03,Default,@00_Aeternum_Title_27_03,@00_Aeternum_subtitle_27_03,@00_Aeternum_Body_27_03,Lore_unlock_00_Aeternum_Title_27_03,00_Aeternum_Chapter_27,2,,,,End of MSQ,,,,Myrkguard Cathedral
-TalesofExpeditions_Chapter_11,Chapter,@TalesofExpeditions_Chapter_11,,,,Topic_TalesofExpeditions,11,,,,,,,,
-TalesofExpeditions_Title_11_01,Default,@TalesofExpeditions_Title_11_01,@TalesofExpeditions_Subtitle_11_01,@TalesofExpeditions_Body_11_01,Lore_unlock_TalesofExpeditions_Title_11_01,TalesofExpeditions_Chapter_11,1,,,,,,,,
-TalesofExpeditions_Title_11_02,Default,@TalesofExpeditions_Title_11_02,@TalesofExpeditions_Subtitle_11_02,@TalesofExpeditions_Body_11_02,Lore_unlock_TalesofExpeditions_Title_11_02,TalesofExpeditions_Chapter_11,2,,,,,,,,
-TalesofExpeditions_Title_11_03,Default,@TalesofExpeditions_Title_11_03,@TalesofExpeditions_Subtitle_11_03,@TalesofExpeditions_Body_11_03,Lore_unlock_TalesofExpeditions_Title_11_03,TalesofExpeditions_Chapter_11,3,,,,,,,,
-TalesofExpeditions_Title_11_04,Default,@TalesofExpeditions_Title_11_04,@TalesofExpeditions_Subtitle_11_04,@TalesofExpeditions_Body_11_04,Lore_unlock_TalesofExpeditions_Title_11_04,TalesofExpeditions_Chapter_11,4,,,,,,,,
 Expedition_Chapter_01,Chapter,@Expedition_Chapter_01,,,,Topic_00_Aeternum,5,lyshineui/images/loreimages/journal/CorruptedGrimoirePages.png,,,,,,,
 Expedition_Title_01_02,Default,@Expedition_Title_01_02,@Expedition_Subtitle_01_02,@Expedition_Body_01_02,Lore_Unlock_Expedition_Title_01_02,Expedition_Chapter_01,1,,,,,,,,
 Expedition_Title_01_03,Default,@Expedition_Title_01_03,@Expedition_Subtitle_01_03,@Expedition_Body_01_03,Lore_Unlock_Expedition_Title_01_03,Expedition_Chapter_01,2,,,,,,,,

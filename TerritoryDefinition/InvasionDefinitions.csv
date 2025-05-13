@@ -1,2 +1,2 @@
-TerritoryID,NameLocalizationKey,IsPOI,POITag,CanPlaceCamp
-6000,@objective_darkness_invasion,true,Invasion,false
+TerritoryID,NameLocalizationKey,IsPOI,POITag,CanPlaceCamp,CanPlacePvPCamp
+6000,@objective_darkness_invasion,true,Invasion,false,false

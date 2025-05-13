@@ -1,0 +1,4 @@
+ConversationStateId,ConversationType,DefaultDialogue,IsInitialState,RequiredLevel,RequiredFaction,RequiredFactionCooldown,ForceConversationOpen,RequiredAchievement,TopicId1,RequiredActiveObjectiveId,RequiredActiveTaskId
+NPC_04636_State_0,Conversation,@NPC_04636_State_0_DefaultDialogue,true,0,None,NotInCooldown,false,,,,
+NPC_04636_State_2,Conversation,@NPC_04636_State_2_DefaultDialogue,false,0,None,NotInCooldown,false,SS2_Quest_10_Complete,,,
+NPC_04636_State_3,Conversation,@NPC_04636_State_3_DefaultDialogue,false,0,None,NotInCooldown,false,,NPC_04636_State_3_Topic_0,Quest_03200,Quest_03200_Task_5

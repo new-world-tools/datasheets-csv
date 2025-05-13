@@ -171,3 +171,8 @@ Emote_LizardRun,Emote_Walk_Lizard,ui_Emote_LizardRun_name,ui_Emote_LizardRun_des
 Emote_Wings,Emote_Wings,ui_Emote_Wings_name,ui_Emote_Wings_description,Other,@Emote_Wings,ascend,wings,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_celebrationWaveWalk.dds,,,,,
 Emote_CrabWalk,Emote_Walk_Crab,ui_Emote_CrabWalk_name,ui_Emote_CrabWalk_description,Other,@Emote_CrabWalk,turtle,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_BreakdancingCrabWalk.dds,,,,,
 Emote_Mantrum,Emote_Mantrum,ui_Emote_Mantrum_name,ui_Emote_Mantrum_description,Other,@Emote_Mantrum,groundbrawl,brawl,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Mantrum.dds,,,,,
+Emote_BarbershopExit,Emote_No,ui_none,ui_none,None,@Emote_BarbershopExit,,,0,0,1,0,,1,,,,,,
+Emote_BrushShoulder,Emote_BrushShoulder,ui_Emote_BrushShoulder_name,ui_Emote_BrushShoulder_description,Other,@Emote_BrushShoulder,brushshoulder,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Unarmed_BrushShoulder.dds,,,,,Season_7
+Emote_Walk_MyrkMarch,Emote_Walk_MyrkMarch,ui_Emote_Walk_MyrkMarch_name,ui_Emote_Walk_MyrkMarch_description,Other,@Emote_Walk_MyrkMarch,walkmarch,march,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_MyrkMarch.dds,,,,,Season_7
+Emote_Walk_NinjaRun,Emote_Walk_NinjaRun,ui_Emote_Walk_NinjaRun_name,ui_Emote_Walk_NinjaRun_description,Other,@Emote_Walk_NinjaRun,walkninja,ninja,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Unarmed_NinjaRun.dds,,,,,
+Emote_TouchGrass,Emote_TouchGrass,ui_Emote_TouchGrass_name,ui_Emote_TouchGrass_description,Other,@Emote_TouchGrass,touchgrass,,1,0,1,0,,1,LyShineUI/Images/Icons/Emotes/emote_TouchGrass.dds,,,,,Season_7

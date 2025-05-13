@@ -1,5 +1,6 @@
-TrackedStatID,StatType,ItemGS,ItemClass,ItemRarity,ExcludeItemClass,TargetID
-EquipItem_Artifact,EquipItem,700,Artifact,,,
-EquipItem_700GS,EquipItem,700,,,,
-EquipItem_MountAttachmentEpic,EquipItem,,MountAttachment,3,,
-EquipItem_S5Artifact,EquipItem,,,,,"Artifact_Set2_HeavyHands,Artifact_Set2_HeavyLegs,Artifact_Set2_MediumChest,Artifact_Set2_LightFeet,Artifact_Set2_1hThrowingAxe,Artifact_Set2_2hGreatAxe,Artifact_Set2_2hSpear,Artifact_Set2_Amulet1"
+TrackedStatID,StatType,ItemGS,ItemClass,ItemClassEquippedMinCount,ItemRarity,ExcludeItemClass,TargetID,RequiredWorldTag
+EquipItem_Artifact,EquipItem,700,Artifact,,,,,
+EquipItem_700GS,EquipItem,700,,,,,,
+EquipItem_MountAttachmentEpic,EquipItem,,MountAttachment,,3,,,
+EquipItem_S5Artifact,EquipItem,,,,,,"Artifact_Set2_HeavyHands,Artifact_Set2_HeavyLegs,Artifact_Set2_MediumChest,Artifact_Set2_LightFeet,Artifact_Set2_1hThrowingAxe,Artifact_Set2_2hGreatAxe,Artifact_Set2_2hSpear,Artifact_Set2_Amulet1",
+EquipAllArtifactSS,EquipItem,,Artifact,10,,,,

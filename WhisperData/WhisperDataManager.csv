@@ -90,10 +90,10 @@ whisper_test_03,GAME_EVENT,,Whisper_Timeline_01,15,,Play_SFX_Whisper_Start_03,Pl
 99D_Thorpe_VoicedLoreNote_03,GAME_EVENT,,,15,,,,,Play_lore_99D_Thorpe_VoicedLoreNote_03,,99D_Thorpe_VoicedLoreNote_03,false,
 99D_Thorpe_VoicedLoreNote_04,GAME_EVENT,,,15,,,,,Play_lore_99D_Thorpe_VoicedLoreNote_04,,99D_Thorpe_VoicedLoreNote_04,false,
 99D_Thorpe_VoicedLoreNote_05,GAME_EVENT,,,15,,,,,Play_lore_99D_Thorpe_VoicedLoreNote_05,,99D_Thorpe_VoicedLoreNote_05,false,
-99E_Myrddin_VoicedLoreNote_01,GAME_EVENT,,,34,,,,,Play_npc_14_Edengrove_Body_01_01,,99E_Myrddin_VoicedLoreNote_01,false,
+99E_Myrddin_VoicedLoreNote_01,GAME_EVENT,,,34,,,,,Play_lore_14_Edengrove_Body_01_01,,99E_Myrddin_VoicedLoreNote_01,false,
 99E_Myrddin_VoicedLoreNote_02,GAME_EVENT,,Whisper_Timeline_99E_Myrddin_VoicedLoreNote_02,15,,,,,Play_lore_14_Edengrove_Body_01_02,,99E_Myrddin_VoicedLoreNote_02,false,
-99E_Myrddin_VoicedLoreNote_03,GAME_EVENT,,,33,,,,,Play_npc_14_Edengrove_Body_01_03,,99E_Myrddin_VoicedLoreNote_03,false,
-99E_Myrddin_VoicedLoreNote_04,GAME_EVENT,,Whisper_Timeline_99E_Myrddin_VoicedLoreNote_04,37,,,,,Play_npc_14_Edengrove_Body_01_04,,99E_Myrddin_VoicedLoreNote_04,false,
+99E_Myrddin_VoicedLoreNote_03,GAME_EVENT,,,33,,,,,Play_lore_14_Edengrove_Body_01_03,,99E_Myrddin_VoicedLoreNote_03,false,
+99E_Myrddin_VoicedLoreNote_04,GAME_EVENT,,Whisper_Timeline_99E_Myrddin_VoicedLoreNote_04,37,,,,,Play_lore_14_Edengrove_Body_01_04,,99E_Myrddin_VoicedLoreNote_04,false,
 99E_Myrddin_VoicedLoreNote_05,GAME_EVENT,,Whisper_Timeline_99E_Myrddin_VoicedLoreNote_05,54,,,,,Play_lore_14_Edengrove_Body_01_05,,99E_Myrddin_VoicedLoreNote_05,false,
 99E_Isabella_whisper_EG_01,GAME_EVENT,,Whisper_Timeline_99E_Isabella_whisper_EG_01,9,,Play_SFX_Whisper_Start_03,Play_SFX_Whispers_TailOut,whispers_isabela,Play_whisp_99E_Isabella_Whisper_01,,99E_Isabella_whisper_EG_01,true,whisper_vfx_01
 99E_Isabella_whisper_EG_02,GAME_EVENT,,Whisper_Timeline_99E_Isabella_whisper_EG_02,13,,Play_SFX_Whisper_Start_03,Play_SFX_Whispers_TailOut,whispers_isabela,Play_whisp_99E_Isabella_Whisper_02,,99E_Isabella_whisper_EG_02,true,whisper_vfx_01

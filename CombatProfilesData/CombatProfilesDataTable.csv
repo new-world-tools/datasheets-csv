@@ -1,11 +1,11 @@
 WeaponName,ProfileType,ProfileName,CameraLockProfileName
-2HAxe,Weapon,Axe2HGeneric,2HAxeCameraLock
+2HAxe,Weapon,Axe2HGeneric,Axe2HCameraLock
 Blunderbuss,Weapon,BlunderbussGeneric,BlunderbussCameraLock
 Bow,Weapon,BowGeneric,BowCameraLock
 FireStaff,Weapon,FireStaffGeneric,FireStaffCameraLock
 Flail,Weapon,FlailGeneric,FlailCameraLock
 GreatSword,Weapon,GreatSwordGeneric,GreatSwordCameraLock
-2HHammer,Weapon,Hammer2HGeneric,2HHammerCameraLock
+2HHammer,Weapon,Hammer2HGeneric,Hammer2HCameraLock
 Hatchet,Weapon,HatchetGeneric,HatchetCameraLock
 IceMagic,Weapon,IceMagicGeneric,IceMagicCameraLock
 LifeStaff,Weapon,LifeStaffGeneric,LifeStaffCameraLock

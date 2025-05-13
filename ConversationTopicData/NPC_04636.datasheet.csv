@@ -1,0 +1,2 @@
+ConversationTopicId,PlayerPrompt,NPCResponse,RequiredLevel,RequiredFaction,RequiredFactionCooldown
+NPC_04636_State_3_Topic_0,@NPC_04636_State_3_Topic_0_PlayerPrompt,@NPC_04636_State_3_Topic_0_NPCResponse,0,None,NotInCooldown

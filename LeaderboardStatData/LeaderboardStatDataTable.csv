@@ -333,6 +333,8 @@ WeekExpeditionTime,,pc,Week,ExpeditionClearTime,Min,expedition-clear-time,,Exped
 SeasonExpeditionTime,,pc,Season,ExpeditionClearTime,Min,expedition-clear-time,,Expedition,Group,
 MonthBossTrialCompletionSandworm,,pc,Month,GameEvent,Sum,boss-trial-completions,,SandwormEliteTrial_Reward,Character,
 SeasonBossTrialCompletionSandworm,,pc,Season,GameEvent,Sum,boss-trial-completions,,SandwormEliteTrial_Reward,Character,
+MonthRaidCompletionsHercyne,,pc,Month,GameEvent,Sum,boss-trial-completions,,HercyneRaid_Reward,Character,
+SeasonRaidCompletionsHercyne,,pc,Season,GameEvent,Sum,boss-trial-completions,,HercyneRaid_Reward,Character,
 InfluenceRaceFactionModifiedInfluence,,pc,Week,PvpOpenWorldModifiedInfluenceEarned,Sum,influence-race-modified-influence,,OpenWorldPvp,Global,
 InfluenceRaceCompanyModifiedInfluence,,pc,Week,PvpOpenWorldModifiedInfluenceEarned,Sum,influence-race-company-modified-influence,,OpenWorldPvp,Company,
 InfluenceRaceCaptures,,pc,Week,PvpControlPointCaptures,Sum,influence-race-control-point-captures,,OpenWorldPvp,Global,

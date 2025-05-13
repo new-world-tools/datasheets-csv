@@ -1,0 +1,16 @@
+DamageID,WeaponCategory,IgnoreInvulnerable,NoReaction,IsRanged,SurfaceImpactEffect,AttackType,DamageType,StatusEffect,EffectOnlyOnDamage,EffectWhenNotBlocked,DeflectDamageID,CanCrit,DmgCoef,DmgCoefHead,DmgCoefCrit,PowerLevel,BlockPowerLevel,CritPowerLevel,HitStun,BlockHitStun,CritHitStun,ImpactDistanceX,ImpactDistanceY,ImpactDistanceZ,ImpactDecayRate,BlockImpactDistanceX,BlockImpactDistanceY,BlockImpactDistanceZ,BlockImpactDecayRate,CritImpactDistanceX,CritImpactDistanceY,CritImpactDistanceZ,CritImpactDecayRate,AddDmg,StaggerDmgModifier,CritStaggerDmgModifier,StaggerResistModifier,TargetCameraShakeID,CritTargetCameraShakeID,ImpactRating,BlockStaminaDmgMod,BlockAbsorptionModifier,StunBreakoutIncrement,UseAttackerPosForReaction,HitRuneCharge,HitBlockedRuneCharge
+Broken_1H_Stab,Knife,0,0,0,Bullet,Light,Thrust,,true,true,Deflect_Default,false,0.4,0.6,,1,0,0,5,0,0,0,1,0,0.78,0,0,0,0.78,0,1,0,0.78,0,1,,1,Small,Small,3,0.28,1,0,,0.1625,0.325
+ExhumeLinens_Spellcast,,0,0,1,Bullet,,Arcane,AI_MummifiedCorpse_ExhumeLinensRoot,false,false,Deflect_Default,false,0,0,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,Small,Small,3,0,0,0,,0,0
+SharedCremation_SelfIgnitionSE,,0,0,0,,,,AI_MummifiedCorpse_SharedCremationSelf,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SharedCremation_Ignition,,0,0,0,Bullet,Light,Fire,,,,Deflect_Default,true,0.05,1.8,2,2,0,1,15,0,0,0,2.5,0,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SharedCremation_Aura,,0,1,0,Bullet,Light,Fire,,,,Deflect_Default,true,1,1,1.2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NoDamage,,0,1,0,,,,,,,Deflect_Default,true,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mummy_1H_TinyStab,Knife,0,0,0,Bullet,Light,Thrust,,true,true,Deflect_Default,false,0.25,0.6,,1,0,0,5,0,0,0,1,0,0.78,0,0,0,0.78,0,1,0,0.78,0,1,,1,Small,Small,3,0.28,1,0,,0.1625,0.325
+Kick,,0,0,0,Bullet,Heavy,Strike,,true,true,Deflect_Default,false,0.05,0.6,,2,1,2,10,0,0,0,2,0.8,0.78,0,0,0,0.78,0,1,0,0.78,0,1,,1,Small,Small,3,3,1,0,,0.1625,0.325
+SharedCremation_SelfIgnitionSEClearR2,,0,1,0,,,,AI_MummifiedCorpse_SharedCremationSelfClear,,,,,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SharedCremation_SelfIgnitionSEClearR3,,0,1,0,,,,AI_MummifiedCorpse_SharedCremationSelfClear,,,,,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SharedCremation_SelfIgnitionSEClearR4,,0,1,0,,,,AI_MummifiedCorpse_SharedCremationSelfClear,,,,,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SharedCremation_SelfIgnitionSEClearStaggerR3,,0,1,0,,,,AI_MummifiedCorpse_SharedCremationSelfClear,,,,,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SharedCremation_SelfIgnitionSEClearStaggerR4,,0,1,0,,,,AI_MummifiedCorpse_SharedCremationSelfClear,,,,,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fall,Fall,1,1,,Bullet,,Falling,,,,,,1,1,,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,0,0,1,,,0.1625,0.325
+Reaction_Breakout,Fall,1,1,,Bullet,,Falling,,,,,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,10,Small,Small,1,,1,1,,0.1625,0.325

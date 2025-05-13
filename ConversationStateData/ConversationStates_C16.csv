@@ -232,7 +232,7 @@ ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,ForceConvers
 1657_02_Tamouthis,Linear_Objective,false,@NPC_Default_Dialogue_1657_02_Tamouthis,,,,,16_Side_17,,,,,,,,,,,,,,,,,,,,,,,,,,
 1658_00_Mihri,Linear_Objective,true,@NPC_Default_Dialogue_1658_00_Mihri_a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1659_00_Anna,Linear_Objective,true,@NPC_Default_Dialogue_1659_00_Anna_a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1659_01_Anna,Linear_Objective,false,@NPC_Default_Dialogue_1659_01_Anna_a,,,62,,,,,,16_Side_19_HelpWarden,,,,,,,,,,,,,,,,,,,,,,
+1659_01_Anna,Linear_Objective,false,@NPC_Default_Dialogue_1659_01_Anna_a,,,60,,,,,,16_Side_19_HelpWarden,,,,,,,,,,,,,,,,,,,,,,
 1659_02_Anna,Linear_Objective,false,@NPC_Default_Dialogue_1659_02_Anna_a,,,,,16_Side_30,,,,,,,,,,,,,,,,,,,,,,,,,,
 1660_00_Paubastis,Linear_Objective,true,@NPC_Default_Dialogue_1660_00_Paubastis,,,,,,,,,16_Side_20_HelpBastet,,,,,,,,,,,,,,,,,,,,,,
 1660_01_Paubastis,Linear_Objective,false,@NPC_Default_Dialogue_1660_01_Paubastis,,,,,16_Side_20,,,,,,,,,,,,,,,,,,,,,,,,,,

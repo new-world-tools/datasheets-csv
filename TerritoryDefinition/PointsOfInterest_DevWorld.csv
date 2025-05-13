@@ -1,4 +1,4 @@
-TerritoryID,NameLocalizationKey,BaseStructureLimit,MaxStructureLimit,TerritoryScore,IsPOI,MapIcon,CompassIcon,DiscoveryRadius,IsDiscoverable,IsChartable,DefaultAchievement,OutpostId,Debug,LootTags,DiscoveredAchievement,ChartedAchievement,POITag,AudioGroup,AudioState,AudioBank,CanPlaceCamp,DevName,VitalsCategory,LevelRange,Containers,TooltipBackground,GameMode,EventId
-100000,@ui_poi_devworld_farm,,,,true,,,150,true,true,2,,,,,,devworld_farm,POI_State,farm,Farm,false,DevWorld Farm,,,2,,,
-100001,@ui_poi_devworld_cave,,,,true,,,150,true,true,2,,,,,,devworld_cave,POI_State,cave,TropicalCave,false,Dev World Cave,,,3,,,
-100002,@ui_poi_devworld_spawns,,,,true,,,150,true,true,2,,,,,,devworld_spawns,POI_State,farm,Farm,false,DevWorld Spawns,,,0,,,
+TerritoryID,NameLocalizationKey,BaseStructureLimit,MaxStructureLimit,TerritoryScore,IsPOI,MapIcon,CompassIcon,DiscoveryRadius,IsDiscoverable,IsChartable,DefaultAchievement,OutpostId,Debug,LootTags,DiscoveredAchievement,ChartedAchievement,POITag,AudioGroup,AudioState,AudioBank,CanPlaceCamp,CanPlacePvPCamp,DevName,VitalsCategory,LevelRange,Containers,TooltipBackground,GameMode,EventId
+100000,@ui_poi_devworld_farm,,,,true,,,150,true,true,2,,,,,,devworld_farm,POI_State,farm,Farm,false,false,DevWorld Farm,,,2,,,
+100001,@ui_poi_devworld_cave,,,,true,,,150,true,true,2,,,,,,devworld_cave,POI_State,cave,TropicalCave,false,false,Dev World Cave,,,3,,,
+100002,@ui_poi_devworld_spawns,,,,true,,,150,true,true,2,,,,,,devworld_spawns,POI_State,farm,Farm,false,false,DevWorld Spawns,,,0,,,

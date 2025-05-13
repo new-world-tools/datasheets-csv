@@ -46,7 +46,9 @@ TaskID,Type,FailOnCondition,StayActive,RequiredLevel,TargetQty,ItemName,ItemDrop
 06A_MSQ_03_VisitMarket_bard_IGC_Watched,TaskUnlockAchievement,,,,1,Watched_IGC_BardSingingWW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 06A_MSQ_03_VisitMarket_bard_swapIn,TaskUnlockAchievement,,,,1,SwapActive_0612_StillwaterRoseWW_01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 06A_MSQ_03_VisitMarket_talkBard,TaskConversationTopic,,,,,0612_StillwaterRose_p01,,,,,,,,,,,,,,,,,0612_TalkBard,,,,,,,,,,,,,,,,,,,,,,@0612_MSQ_03_VaultTutorial_TalkBard_Desc,,,,,,,,,,,,,,,,,,,
-06A_MSQ_05_FixWindmills_container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,06A_MSQ_05_FixWindmills_talk_Saatvik,06A_MSQ_05_FixWindmills_swap_container,06A_MSQ_05_FixWindmills_interact_container,06A_MSQ_05_FixWindmills_CartTrigger,06A_MSQ_05_FixWindmills_interact_cart
+06A_MSQ_05_FixWindmills_container,ConsecutiveTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,06A_MSQ_05_FixWindmills_reset_container,06A_MSQ_05_FixWindmills_swap_container,06A_MSQ_05_FixWindmills_interact_container,06A_MSQ_05_FixWindmills_CartTrigger,06A_MSQ_05_FixWindmills_interact_cart
+06A_MSQ_05_FixWindmills_reset_container,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,06A_MSQ_05_FixWindmills_swapSaatvik02On_reset,06A_MSQ_05_FixWindmills_talk_Saatvik,,,
+06A_MSQ_05_FixWindmills_swapSaatvik02On_reset,TaskUnlockAchievement,,,,1,SwapActive_06_SaatvikAgrawal_B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
 06A_MSQ_05_FixWindmills_talk_Saatvik,TaskConversationTopic,,,,,06_SaatvikAgrawal02,,,,true,,withered_farm_1_40102,,,,,,,,,,,06_SaatvikAgrawal_Windmills,,,,,,,,,,,,,,,,,,,,,,@06A_MSQ_05_FixWindmills_talk_Saatvik,,,,,,,,,,,,,,,,,,,
 06A_MSQ_05_FixWindmills_swap_container,SimpleTaskContainer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,06A_MSQ_05_FixWindmills_swapMarcel01Off,06A_MSQ_05_FixWindmills_swapMarcel02On,,,
 06A_MSQ_05_FixWindmills_swapMarcel01Off,TaskUnlockAchievement,,,,1,SwapActive_06_MarcelDupont_A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,
