@@ -21,6 +21,6 @@ FlawlessArenaVictory,GameEvent,,,Arena3v3_Win_3_Round,,,
 QuestGameEvent,GameEvent,,"Quest,Quest+,Quest-,MSQ-,MSQ,MSQ+",,,,
 CompleteAnyArtifact,GameEvent,,,SeasonJourneyCompleteArtifact,,,
 ParticipateInfluenceRaceSS,GameEvent,,,"InfluenceRace_Lose_Reward,InfluenceRace_Attacker_Win_Reward,InfluenceRace_Defender_Win_Reward",SeasonalServer,,
-DefeatWurmBossPristine,GameEvent,,,SandwormEliteTrial_Reward,,,true
+DefeatWurmBossPristine,GameEvent,,,SandwormEliteTrial_Reward,SeasonalWorldS8,,true
 ParticipateInfluenceRaceDepraved,GameEvent,,,"InfluenceRace_Lose_Reward,InfluenceRace_Attacker_Win_Reward,InfluenceRace_Defender_Win_Reward",,"Status_SeasonalServer_DeathFunctionality_1,Status_SeasonalServer_DeathFunctionality_2,Status_SeasonalServer_DeathFunctionality_3,Status_SeasonalServer_DeathFunctionality_4,Status_SeasonalServer_DeathFunctionality_5,Status_SeasonalServer_DeathFunctionality_6",
 CompleteAnyArtifactSS,GameEvent,,,SeasonJourneyCompleteArtifact,SeasonalServer,,

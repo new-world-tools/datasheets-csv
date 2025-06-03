@@ -89,6 +89,6 @@ KillWorldBoss65,Kill,,WorldBoss,65,,,,,,,,,,
 KillHercyneBossHatchet,Kill,"Hercyne_Broodmother,Hercyne_Typhon,Hercyne_Echidna",,,,HatchetAbilityTable,,,,,,,,
 KillHercyneBossPristine,Kill,"Hercyne_Broodmother,Hercyne_Typhon,Hercyne_Echidna",,,,,,,,,,,,true
 KillPlayerDepraved,Kill,,Player,,,,,,,,,,"Status_SeasonalServer_DeathFunctionality_1,Status_SeasonalServer_DeathFunctionality_2,Status_SeasonalServer_DeathFunctionality_3,Status_SeasonalServer_DeathFunctionality_4,Status_SeasonalServer_DeathFunctionality_5,Status_SeasonalServer_DeathFunctionality_6",
-KillEchidnaPristine,Kill,Hercyne_Echidna,,,,,,,,,,,,true
-KillTyphonPristine,Kill,Hercyne_Typhon,,,,,,,,,,,,true
-KillBroodmotherPristine,Kill,Hercyne_Broodmother,,,,,,,,,,,,true
+KillEchidnaPristine,Kill,Hercyne_Echidna,,,,,,,,,,SeasonalWorldS8,,true
+KillTyphonPristine,Kill,Hercyne_Typhon,,,,,,,,,,SeasonalWorldS8,,true
+KillBroodmotherPristine,Kill,Hercyne_Broodmother,,,,,,,,,,SeasonalWorldS8,,true
