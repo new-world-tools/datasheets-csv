@@ -3,5 +3,5 @@ Hub,,*,,100,10,true,Prevents any event from overlapping and no more than 100 eve
 TestRule-1,Test,,,4,,,
 TestRule-2,Test2,,,4,,,
 TestRule-3,Test3,,,,10,,
-WorldBoss-hub,WorldBoss,*,,10,,true,Prevents more than 10 WorldBoss events active on a hub at a time
+WorldBoss-hub,WorldBoss,*,,150,10,,"Preventsmorethan150WorldBosseventsactiveonahubatatime,andpreventsWorldBosseventsoverlapping"
 Darkness-hub,DarknessEvent,*,,50,,true,Prevents more than 50 Darkness events active on a hub at a time

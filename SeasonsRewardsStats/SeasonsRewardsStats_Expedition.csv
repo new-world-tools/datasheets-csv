@@ -29,3 +29,6 @@ CompleteM3ExpeditionFlawlessly,CompleteExpedition,,,3,,,,true,,,
 CompleteCutlassKeysRaid,CompleteExpedition,RaidCutlassKeys00,,,,,,,,,
 CompleteM3ExpeditionPristine,CompleteExpedition,,,3,,,,,,true,SeasonalWorldS8
 CompleteExpeditionMax3,CompleteExpedition,,,,3,,,,,,SeasonalWorldS8
+CompleteMutatedExpeditionWithGoldRank,CompleteExpedition,,,,,,GOLD,,,,
+CompleteM3ExpeditionWithGoldRank,CompleteExpedition,,,3,,,GOLD,,,,
+CompleteM3ExpeditionFlawlesslyWithGoldRank,CompleteExpedition,,,3,,,GOLD,true,,,

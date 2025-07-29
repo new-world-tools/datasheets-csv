@@ -1,0 +1,41 @@
+NPAId,ReqAchievementConditional,ObjectiveFlow
+*NPA_UnitTest_ReqAchCond_1,debug_11,
+*NPA_UnitTest_ReqAchCond_2,!debug_11,
+*NPA_UnitTest_ReqAchCond_3,*NPA_UnitTest_ReqAchCond_1,
+*NPA_UnitTest_ReqAchCond_4,!*NPA_UnitTest_ReqAchCond_1,
+*NPA_UnitTest_ReqAchCond_5,debug_12,
+*NPA_UnitTest_ReqAchCond_6,!debug_12,
+*NPA_UnitTest_ReqAchCond_7,*NPA_UnitTest_ReqAchCond_5,
+*NPA_UnitTest_ReqAchCond_8,!*NPA_UnitTest_ReqAchCond_5,
+*NPA_UnitTest_ReqAchCond_9,debug_11 && debug_12,
+*NPA_UnitTest_ReqAchCond_10,debug_11 && *NPA_UnitTest_ReqAchCond_5,
+*NPA_UnitTest_ReqAchCond_11,*NPA_UnitTest_ReqAchCond_1 && *NPA_UnitTest_ReqAchCond_5,
+*NPA_UnitTest_ReqAchCond_12,*NPA_UnitTest_ReqAchCond_1 && debug_12,
+*NPA_UnitTest_ReqAchCond_13,!debug_11 || !debug_12,
+*NPA_UnitTest_ReqAchCond_14,!debug_11 || *NPA_UnitTest_ReqAchCond_8,
+*NPA_UnitTest_ReqAchCond_15,*NPA_UnitTest_ReqAchCond_4 || *NPA_UnitTest_ReqAchCond_8,
+*NPA_UnitTest_ReqAchCond_16,*NPA_UnitTest_ReqAchCond_4 || debug_12,
+*NPA_UnitTest_ObjFlow_1,,u:Quest_08015
+*NPA_UnitTest_ObjFlow_2,,u:Quest_08015:a
+*NPA_UnitTest_ObjFlow_3,,u:Quest_08015/Quest_08015_Task_1
+*NPA_UnitTest_ObjFlow_4,,u:Quest_08015/Quest_08015_Task_1:a
+*NPA_UnitTest_ObjFlow_5,,u:Quest_08015/Quest_08015_Task_1:c
+*NPA_UnitTest_ObjFlow_6,,u:Quest_08015/Quest_08015_Task_2
+*NPA_UnitTest_ObjFlow_7,,u:Quest_08015/Quest_08015_Task_2:a
+*NPA_UnitTest_ObjFlow_8,,u:Quest_08015/Quest_08015_Task_2:c
+*NPA_UnitTest_ObjFlow_9,,u:Quest_08015:r
+*NPA_UnitTest_ObjFlow_10,,u:Quest_08015:c
+*NPA_UnitTest_ObjFlow_11,,"u:Quest_08015,l:Quest_08015/Quest_08015_Task_2,u:Quest_08015:r,l:Quest_08015:c"
+*NPA_UnitTest_ObjFlow_12,,"u:Quest_08015/Quest_08015_Task_1,l:Quest_08015/Quest_08015_Task_2,u:Quest_08015/Quest_08015_Task_2:c,l:Quest_08015:c"
+*NPA_UnitTest_ObjFlow_13,,"u:Quest_08015,l:Quest_08015:c,u:Quest_08016,l:Quest_08016:c"
+*NPA_UnitTest_ObjFlow_14,,"u:Quest_08015/Quest_08015_Task_1,l:Quest_08015/Quest_08015_Task_2,u:Quest_08016/Quest_08016_Task_1,l:Quest_08016/Quest_08016_Task_2,u:Quest_08016:c"
+*NPA_UnitTest_ObjFlow_15,debug_11,u:Quest_08015
+*NPA_UnitTest_ObjFlow_16,debug_11,u:Quest_08015:a
+*NPA_UnitTest_ObjFlow_17,debug_11,u:Quest_08015/Quest_08015_Task_1
+*NPA_UnitTest_ObjFlow_18,debug_11,u:Quest_08015/Quest_08015_Task_1:a
+*NPA_UnitTest_ObjFlow_19,debug_11,u:Quest_08015/Quest_08015_Task_1:c
+*NPA_UnitTest_ObjFlow_20,debug_11,u:Quest_08015/Quest_08015_Task_2
+*NPA_UnitTest_ObjFlow_21,debug_11,u:Quest_08015/Quest_08015_Task_2:a
+*NPA_UnitTest_ObjFlow_22,debug_11,u:Quest_08015/Quest_08015_Task_2:c
+*NPA_UnitTest_ObjFlow_23,debug_11,u:Quest_08015:r
+*NPA_UnitTest_ObjFlow_24,debug_11,u:Quest_08015:c

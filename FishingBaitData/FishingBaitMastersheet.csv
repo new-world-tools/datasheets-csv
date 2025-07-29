@@ -1,4 +1,5 @@
 Id,FishRarityRollModifier,FishSizeRollModifier,SummerFishRarityRollModifier,RequiredWaterTags,ActiveAtDawn,ActiveAtDaytime,ActiveAtDusk,ActiveAtNight,LootTableId,TimeToNibbleSecondsMultiplier
+BaitMaudlinbugT1,0,0,2,"Fresh,Salt",true,true,true,true,FishingSummerMedley,0.2
 BaitFreshMeatT1,0,1.5,0,Fresh,true,true,true,true,,0.2
 BaitFreshWoodliceT2,0.7,0,0,Fresh,true,true,true,true,,0.2
 BaitFreshFireflyT3,0.9,0,0,Fresh,true,true,true,true,,0.2

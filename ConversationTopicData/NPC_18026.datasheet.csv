@@ -1,2 +1,2 @@
-ConversationTopicId,RequiredLevel,RequiredFaction,RequiredFactionCooldown
-NPC_18026_State_1_Topic_0,0,None,NotInCooldown
+ConversationTopicId,PlayerPrompt,NPCResponse,RequiredLevel,RequiredFaction,RequiredFactionCooldown
+NPC_18026_State_1_Topic_0,@NPC_18026_State_1_Topic_0_playerPrompt,@NPC_18026_State_1_Topic_0_NPCResponse,0,None,NotInCooldown

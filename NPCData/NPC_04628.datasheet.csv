@@ -1,2 +1,2 @@
-NPCId,GenericName,Title
-NPC_04628,@NPC_04628_name,@NPC_04628_title
+NPCId,GenericName,Title,ConversationStateId1
+NPC_04628,@NPC_04628_name,@NPC_04628_title,NPC_04628_State_0

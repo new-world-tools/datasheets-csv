@@ -77,3 +77,13 @@ MountRace_ScaleTest_1,,true,true,600,,MNT_Race_Tour_BrimstoneSands,
 MountRace_ScaleTest_2,,true,true,600,,MNT_Race_Tour_BrimstoneSands,
 MountRace_ScaleTest_1_Short,,true,true,600,,MNT_Race_Tour_BrimstoneSands,
 MountRace_ScaleTest_2_Short,,true,true,600,,MNT_Race_Tour_BrimstoneSands,
+17ZQ_QuickCourse_MarAmar_Werewolf,,true,,19,,,Chasing W in Mar Amar
+17ZQ_QuickCourse_Silkfoot_Aster,,true,,30,,,Racing A near lake W of Esagila
+17ZQ_QuickCourse_Esagila_Aurien,,true,,30,,,Catching Ar at Esagila
+17ZQ_QuickCourse_Tularest_Benedikte,,true,,30,,,Catching B at Esagila
+DW_Rally_1,,true,true,,,MNT_Race_Rally_BrimstoneSands,
+DW_Rally_2,,true,true,20,,MNT_Race_Rally_BrimstoneSands,
+DW_Rally_3,,true,true,20,,MNT_Race_Tour_BrimstoneSands,
+DW_Rally_4,,true,true,20,,MNT_Race_Tour_BrimstoneSands,
+DW_Rally_5,,true,true,20,,MNT_Race_Tour_BrimstoneSands,
+DW_ Rally_6,,true,true,20,,,

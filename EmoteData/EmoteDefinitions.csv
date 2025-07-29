@@ -176,3 +176,5 @@ Emote_BrushShoulder,Emote_BrushShoulder,ui_Emote_BrushShoulder_name,ui_Emote_Bru
 Emote_Walk_MyrkMarch,Emote_Walk_MyrkMarch,ui_Emote_Walk_MyrkMarch_name,ui_Emote_Walk_MyrkMarch_description,Other,@Emote_Walk_MyrkMarch,walkmarch,march,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_MyrkMarch.dds,,,,,Season_7
 Emote_Walk_NinjaRun,Emote_Walk_NinjaRun,ui_Emote_Walk_NinjaRun_name,ui_Emote_Walk_NinjaRun_description,Other,@Emote_Walk_NinjaRun,walkninja,ninja,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Unarmed_NinjaRun.dds,,,,,
 Emote_TouchGrass,Emote_TouchGrass,ui_Emote_TouchGrass_name,ui_Emote_TouchGrass_description,Other,@Emote_TouchGrass,touchgrass,,1,0,1,0,,1,LyShineUI/Images/Icons/Emotes/emote_TouchGrass.dds,,,,,Season_7
+Emote_CatPaw,Emote_CatPaw,ui_Emote_CatPaw_name,ui_Emote_CatPaw_description,Other,@Emote_CatPaw,catpaw,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_CatPaw.dds,,,,,Season_7
+Emote_NewspaperBonk,Emote_NewspaperBonk,ui_Emote_NewspaperBonk_name,ui_Emote_NewspaperBonk_description,Other,@Emote_NewspaperBonk,newspaperbonk,newspaper,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_newspaperbonk.dds,,,,,Season_7

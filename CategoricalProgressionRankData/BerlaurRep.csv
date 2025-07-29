@@ -1,0 +1,6 @@
+Rank,DisplayName,MaximumInfluence,RequiredLevel,InfluenceCost,CurrencyCost,AzothCost,SanityCheck,GameEventId,EntitlementId
+0,@affinity_rank_berlaur_1,3000,10,0,0,0,,,
+1,@affinity_rank_berlaur_2,11000,20,0,0,0,true,,
+2,@affinity_rank_berlaur_3,26000,35,0,0,0,true,,
+3,@affinity_rank_berlaur_4,49000,50,0,0,0,true,,
+4,@affinity_rank_berlaur_5,85000,60,0,0,0,true,,

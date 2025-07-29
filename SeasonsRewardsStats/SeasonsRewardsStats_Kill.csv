@@ -92,3 +92,10 @@ KillPlayerDepraved,Kill,,Player,,,,,,,,,,"Status_SeasonalServer_DeathFunctionali
 KillEchidnaPristine,Kill,Hercyne_Echidna,,,,,,,,,,SeasonalWorldS8,,true
 KillTyphonPristine,Kill,Hercyne_Typhon,,,,,,,,,,SeasonalWorldS8,,true
 KillBroodmotherPristine,Kill,Hercyne_Broodmother,,,,,,,,,,SeasonalWorldS8,,true
+KillAngryEarth60,Kill,,AngryEarth,60,,,,,,,,,,
+KillAngryEarthNamedElite65,Kill,,AngryEarth,65,,,,,,"Named,Elite",,,,
+KillNamedEbonscale,Kill,,,,,,,"ebonscalereach1,ebonscalereach2,ebonscalereach3,ebonscalereach4,ebonscalereach5,ebonscalereach6,ebonscalereach7,ebonscalereach8",,Named,,,,
+KillPlayerMagicWeapon,Kill,,Player,,,"FireMagicAbilityTable,LifeMagicAbilityTable,IceMagicAbilityTable,VoidGauntletAbilityTable",,,,,,,,
+KillCorruptedBrimstoneL65,Kill,,Corrupted,65,,,,"brimstonesands1,brimstonesands2,brimstonesands3,brimstonesands4,brimstonesands5,brimstonesands6,brimstonesands7,brimstonesands8,brimstonesands9,brimstonesands10",,,,,,
+KillElite65CutlassKeys,Kill,,,65,,,,"windswardshores1,windswardshores2,windswardshores3,windswardshores4,windswardshores5,windswardshores6,windswardshores7,windswardshores8,windswardshores9,windswardshores7FFA,windswardshores9FFA,windswardshores2_v2,windswardshores6_v2,windswardshores8_v2",,Elite,,,,
+KillingBlowOnEnemyInCTF,Kill,,Player,,,,,,CaptureTheFlag,,true,,,

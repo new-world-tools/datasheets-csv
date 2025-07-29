@@ -1,0 +1,6 @@
+Rank,DisplayName,MaximumInfluence,RequiredLevel,InfluenceCost,CurrencyCost,AzothCost,SanityCheck,GameEventId
+0,@affinity_rank_upyr_1,15000,,,,,,
+1,@affinity_rank_upyr_2,30000,,,,,,
+2,@affinity_rank_upyr_3,45000,,,,,,
+3,@affinity_rank_upyr_4,75000,,,,,,
+4,@affinity_rank_upyr_5,150000,,,,,,

@@ -11,3 +11,4 @@ Sandworm_BodySweep_L,Unarmed,0,0,,Bullet,Unarmed,Heavy,Strike,,,,,,,false,1,1,1,
 Sandworm_BodySweep_R,Unarmed,0,0,,Bullet,Unarmed,Heavy,Strike,,,,,,,false,1,1,1,4,3,5,40,35,40,0,3,0.2,0.8,0,0,0,0.8,0,0,0,0.8,0,1,,0,0,0,0,3,1.25,1,Large_short,Small,Large_short,1,0.1625,0.325
 Sandworm_Chomp,Blunt_AI,0,0,,Bullet,Unarmed,Heavy,Strike,,,,,,,false,2,1,1,4,3,3,40,35,30,0,4,0.2,0.8,0,0,0,0.8,0,0,0,0.8,0,1,,0,0,0,0,3,1.25,1,Large_short,Small,Large_short,1,0.1625,0.325
 Sandworm_Bite,Blunt_AI,0,0,,Bullet,Unarmed,Heavy,Strike,,,,,,,false,2,1,1,5,3,3,25,35,30,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,1,,0,0,0,0,3,0.8,1,Large_short,Small,Large_short,1,0.1625,0.325
+Sandworm_Initial_Emerge,Blunt_AI,0,0,,Bullet,Unarmed,Heavy,Strike,,,,,,,false,1,1,1,4,3,3,40,35,30,0,15,1.5,0.8,0,0,0,0.8,0,0,0,0.8,0,1,,0,0,0,0,3,0.8,1,Large_short,Small,Large_short,1,0.1625,0.325

@@ -1,0 +1,7 @@
+ChapterId,ChapterType,ChapterTypeIndex,ChapterIndex,ChapterTaskCount,ChapterRewardId,ChapterNameOverride
+Season9Chapter1,Chapter,1,1,4,S9_Journey_Ch01_Complete,
+Season9Chapter2,Chapter,1,2,5,S9_Journey_Ch02_Complete,
+Season9Chapter3,Chapter,1,3,5,S9_Journey_Ch03_Complete,
+Season9Chapter4,Chapter,1,4,6,S9_Journey_Ch04_Complete,
+Season9Chapter5,Chapter,1,5,7,S9_Journey_Ch05_Complete,
+Season9Challenge,Challenge,1,6,10,,

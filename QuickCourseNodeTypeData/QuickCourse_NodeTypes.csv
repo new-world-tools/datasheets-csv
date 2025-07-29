@@ -15,5 +15,7 @@ Foot_Race_Finish,5,true,0,slices/QuickCourses/QuickCourse_Checkpoint.dynamicslic
 Foot_Race_Checkpoint2,5,true,2,slices/QuickCourses/QuickCourse_Checkpoint.dynamicslice,Play_UI_AcceptObjective
 Foot_Race_Checkpoint5,5,true,5,slices/QuickCourses/QuickCourse_Checkpoint.dynamicslice,Play_UI_AcceptObjective
 Foot_Race_Checkpoint10,5,true,10,slices/QuickCourses/QuickCourse_Checkpoint.dynamicslice,Play_UI_AcceptObjective
+Foot_Race_Checkpoint15,5,true,15,slices/QuickCourses/QuickCourse_Checkpoint.dynamicslice,Play_UI_AcceptObjective
+Foot_Race_Checkpoint20,5,true,20,slices/QuickCourses/QuickCourse_Checkpoint.dynamicslice,Play_UI_AcceptObjective
 Food_Race_Start,5,true,0,slices/QuickCourses/Food_Course_Start.dynamicslice,Play_UI_AcceptObjective
 Food_Race_Finish,5,true,0,slices/QuickCourses/QuickCourse_Finish.dynamicslice,

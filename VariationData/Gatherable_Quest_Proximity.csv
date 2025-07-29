@@ -215,4 +215,3 @@ MSQ_Chapter_Banner_1_Proximity,,,,,GameEvent_Proximity,15,15,15,,,,,,,,,,,,,,IO_
 06A_MSQ_09_ClueA,,,,,06A_MSQ_09_ClueA,7,9,0,,,,cFX_Loot.Loot_Quest_Small,,,,cFX_Loot.Loot_Quest_Small_Depleted,,,,,,IO_06A_MSQ_09_ClueA,true,,,10,,
 06A_MSQ_09_ClueB,,,,,06A_MSQ_09_ClueB,7,9,0,,,,cFX_Loot.Loot_Quest_Small,,,,cFX_Loot.Loot_Quest_Small_Depleted,,,,,,IO_06A_MSQ_09_ClueB,true,,,10,,
 06A_MSQ_09_ClueC,,,,,06A_MSQ_09_ClueC,7,9,0,,,,cFX_Loot.Loot_Quest_Small,,,,cFX_Loot.Loot_Quest_Small_Depleted,,,,,,IO_06A_MSQ_09_ClueC,true,,,10,,
-Chandelier_Trigger,,,,,Chandelier_01,3,5,0,,,,env_gimmicks.HitPoint,,env_gimmicks.Hit_Sparks,,,,,,,,,false,,,5,,Territory_Dunwood

@@ -11,3 +11,7 @@ GatherT52ResourceNode,Gather,"OreT52,WoodT52,FiberT52,RawhideT52",5,Resource,,tr
 GatherCKPvPChest,Gather,,,,,true,,"10ws_DoubloonChestPvP_Small,10ws_DoubloonChestPvP_Medium,10ws_DoubloonChestPvP_Large"
 GatherCKPvPDoubloon,Gather,CK_PVPResource_DoubloonToken,,,,,,
 GatherCKPvPBuriedTreasure,Gather,CK_PVEResource_DoubloonToken,,,,true,,LootLargeT3ElitePOI_CutlassTreasure
+GatherOre,Gather,,,Resource,Resource+Ore,,Mining,
+GatherOreT4,Gather,,4,Resource,Resource+Ore,,Mining,
+GatherOreT5,Gather,,5,Resource,Resource+Ore,,Mining,
+GatherT52Ore,Gather,OreT52,5,Resource,,,Mining,

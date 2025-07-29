@@ -8,4 +8,4 @@ EliteTrial,@ui_pugfinder_activity_elite_trials_name,@ui_pugfinder_activity_elite
 Raid,@ui_pugfinder_activity_raids_name,@ui_pugfinder_activity_raids_desc,lyshineui/images/pugfinder/PugFinder_Raid.dds,false,6,20,,true,true,,,,,
 SoulTrial,@ui_pugfinder_activity_solo_trials_name,@ui_pugfinder_activity_solo_trials_desc,lyshineui/images/pugfinder/PugFinder_SoulTrial.dds,false,,,,,,lyshineui/images/pugfinder/SoulTrialIconSmall.dds,lyshineui/images/pugfinder/SoulTrialIcon.dds,@ui_pugfinder_activity_solo_trials_random_name,@ui_pugfinder_activity_solo_trials_subtext,@ui_pugfinder_activity_solo_trials_description
 CaptureTheFlag,@ctf_gamemode_name,@ctf_gamemode_description,lyshineui/images/pugfinder/PugFinder_CTF.png,true,,,,,,lyshineui/images/pugfinder/PugFinder_CTF.png,lyshineui/images/pugfinder/PugFinder_CTF.png,,,
-OutpostRush_NoPerks,@ui_opr_no_perks_title,@ui_pugfinder_activity_opr_no_perks_desc,lyshineui/images/pugfinder/PugFinder_OPR.dds,true,,,,,,,,,,
+OutpostRush_NoPerks,@ui_opr_no_perks_title,@ui_pugfinder_activity_opr_no_perks_desc,lyshineui/images/pugfinder/PugFinder_OPR_Perkless.dds,true,,,,,,,,,,

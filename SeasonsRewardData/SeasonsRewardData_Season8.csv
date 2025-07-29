@@ -295,7 +295,7 @@ S8_Journey_SSCh01_T02,292,Journey,,EntitlementTitle_Season8SS_JourneyTask2,,2000
 S8_Journey_SSCh01_T03,293,Journey,,EntitlementTitle_Season8SS_JourneyTask3,,1000,,,TRUE,,
 S8_Journey_SSCh01_T04,294,Journey,,EntitlementTitle_Season8SS_JourneyTask4,,1000,,,TRUE,,
 S8_Journey_SSCh01_T05,295,Journey,,EntitlementTitle_Season8SS_JourneyTask5,,1000,,,TRUE,,
-S8_Journey_SSCh01_Complete,296,Chapter,SS8_Ch1_Reward_Box,EntitlementTitle_Season8SS_JourneyChapter1,EntDisplay_SS8_Ch1_Reward_Box,4500,,,TRUE,SeasonalWorldS8,TRUE
+S8_Journey_SSCh01_Complete,296,Chapter,SS8_Ch1_Reward_Box,entHouse_HousingItem_Buff_SeasonalServer_Season8_T1,EntDisplay_SS8_Ch1_Reward_Box,4500,,,TRUE,SeasonalWorldS8,TRUE
 S8_Journey_SSCh02_T01,297,Journey,,,,2000,,,TRUE,,
 S8_Journey_SSCh02_T02,298,Journey,,,,2000,,,TRUE,,
 S8_Journey_SSCh02_T03,299,Journey,,,,2000,,,TRUE,,

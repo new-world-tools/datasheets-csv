@@ -1,4 +1,5 @@
 CostID,StaminaCost,Category
 Block,100,Blocking
+Empty_Stamina,100000000,
 Stamina_Delay,0,
 Low_Stamina_Check,5,
