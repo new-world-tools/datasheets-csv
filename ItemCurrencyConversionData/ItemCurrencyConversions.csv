@@ -30,8 +30,6 @@ M_MediumChest_MarauderRank1_v2,MediumChest_MarauderRank1_v2,,,,,,,1,0,1,28,Marau
 M_MediumHands_MarauderRank1_v2,MediumHands_MarauderRank1_v2,,,,,,,1,0,1,29,MarauderTokens,Marauder,0,200,500,,,,,,,,0,0,,false
 M_MediumLegs_MarauderRank1_v2,MediumLegs_MarauderRank1_v2,,,,,,,1,0,1,30,MarauderTokens,Marauder,0,300,1000,,,,,,,,0,0,,false
 M_MediumFeet_MarauderRank1_v2,MediumFeet_MarauderRank1_v2,,,,,,,1,0,1,31,MarauderTokens,Marauder,0,125,500,,,,,,,,0,0,,false
-M_ShotT2,ShotT2,,,,,,,1,0,1,32,MarauderTokens,Marauder,0,5,50,,,,,,,,0,0,,false
-M_ArrowT2,ArrowT2,,,,,,,1,0,1,33,MarauderTokens,Marauder,0,5,50,,,,,,,,0,0,,false
 M_HoldingRuneT2,HoldingRuneT2,,,,,,,1,0,1,34,MarauderTokens,Marauder,0,1000,25000,,,,,,,,0,0,,false
 M_MarauderSeal_Soldier,MarauderSeal_Soldier,,,,,,,1,0,1,35,MarauderTokens,Marauder,0,10,0,,,,,,,,0,0,,false
 M_MarauderSeal_Ranger,MarauderSeal_Ranger,,,,,,,1,0,1,36,MarauderTokens,Marauder,0,10,0,,,,,,,,0,0,,false
@@ -270,6 +268,11 @@ M_Aptitude_Crate_Harvesting,rewardpostcapharvestingt3_b,,,,,,,1,0,1,86,MarauderT
 M_Aptitude_Crate_Logging,rewardpostcaploggingt3_b,,,,,,,1,0,1,87,MarauderTokens,Marauder,5,50000,500000,,,,,,,82800,0,0,,false
 M_Aptitude_Crate_Mining,rewardpostcapminingt3_b,,,,,,,1,0,1,88,MarauderTokens,Marauder,5,50000,500000,,,,,,,82800,0,0,,false
 M_Aptitude_Crate_Fishing,rewardpostcapfishingt3_b,,,,,,,1,0,1,89,MarauderTokens,Marauder,5,50000,500000,,,,,,,82800,0,0,,false
+M_Skin_Chest_MaraFF2025_Box,Skin_Chest_MaraFF2025_Box,,,,,,,1,0,1,90,MarauderTokens,Marauder,5,50000,750000,,,,,,,,0,0,,false
+M_Skin_Head_MaraFF2025_Box,Skin_Head_MaraFF2025_Box,,,,,,,1,0,1,91,MarauderTokens,Marauder,5,50000,750000,,,,,,,,0,0,,false
+M_Skin_Legs_MaraFF2025_Box,Skin_Legs_MaraFF2025_Box,,,,,,,1,0,1,92,MarauderTokens,Marauder,5,50000,500000,,,,,,,,0,0,,false
+M_Skin_Feet_MaraFF2025_Box,Skin_Feet_MaraFF2025_Box,,,,,,,1,0,1,93,MarauderTokens,Marauder,5,50000,500000,,,,,,,,0,0,,false
+M_Skin_Gloves_MaraFF2025_Box,Skin_Gloves_MaraFF2025_Box,,,,,,,1,0,1,94,MarauderTokens,Marauder,5,50000,500000,,,,,,,,0,0,,false
 M_hercyneraidinductor,hercyneraidinductor,,,,,,,1,0,1,95,MarauderTokens,Marauder,5,250000,2500000,,,,,,,604800,0,0,,false
 C_1hLongsword_CovenantRank1_v2,1hLongsword_CovenantRank1_v2,,,,,,,1,0,1,1,CovenantTokens,Covenant,0,400,2000,,,,,,,,0,0,,false
 C_2hWarhammer_CovenantRank1_v2,2hWarhammer_CovenantRank1_v2,,,,,,,1,0,1,2,CovenantTokens,Covenant,0,625,3000,,,,,,,,0,0,,false
@@ -302,8 +305,6 @@ C_MediumChest_CovenantRank1_v2,MediumChest_CovenantRank1_v2,,,,,,,1,0,1,28,Coven
 C_MediumHands_CovenantRank1_v2,MediumHands_CovenantRank1_v2,,,,,,,1,0,1,29,CovenantTokens,Covenant,0,200,500,,,,,,,,0,0,,false
 C_MediumLegs_CovenantRank1_v2,MediumLegs_CovenantRank1_v2,,,,,,,1,0,1,30,CovenantTokens,Covenant,0,300,1000,,,,,,,,0,0,,false
 C_MediumFeet_CovenantRank1_v2,MediumFeet_CovenantRank1_v2,,,,,,,1,0,1,31,CovenantTokens,Covenant,0,125,500,,,,,,,,0,0,,false
-C_ShotT2,ShotT2,,,,,,,1,0,1,32,CovenantTokens,Covenant,0,5,50,,,,,,,,0,0,,false
-C_ArrowT2,ArrowT2,,,,,,,1,0,1,33,CovenantTokens,Covenant,0,5,50,,,,,,,,0,0,,false
 C_HoldingRuneT2,HoldingRuneT2,,,,,,,1,0,1,34,CovenantTokens,Covenant,0,1000,25000,,,,,,,,0,0,,false
 C_CovenantSeal_Soldier,CovenantSeal_Soldier,,,,,,,1,0,1,35,CovenantTokens,Covenant,0,10,0,,,,,,,,0,0,,false
 C_CovenantSeal_Ranger,CovenantSeal_Ranger,,,,,,,1,0,1,36,CovenantTokens,Covenant,0,10,0,,,,,,,,0,0,,false
@@ -542,6 +543,11 @@ C_Aptitude_Crate_Harvesting,rewardpostcapharvestingt3_b,,,,,,,1,0,1,86,CovenantT
 C_Aptitude_Crate_Logging,rewardpostcaploggingt3_b,,,,,,,1,0,1,87,CovenantTokens,Covenant,5,50000,500000,,,,,,,82800,0,0,,false
 C_Aptitude_Crate_Mining,rewardpostcapminingt3_b,,,,,,,1,0,1,88,CovenantTokens,Covenant,5,50000,500000,,,,,,,82800,0,0,,false
 C_Aptitude_Crate_Fishing,rewardpostcapfishingt3_b,,,,,,,1,0,1,89,CovenantTokens,Covenant,5,50000,500000,,,,,,,82800,0,0,,false
+C_Skin_Chest_CoveFF2025_Box,Skin_Chest_CoveFF2025_Box,,,,,,,1,0,1,90,CovenantTokens,Covenant,5,50000,750000,,,,,,,,0,0,,false
+C_Skin_Head_CoveFF2025_Box,Skin_Head_CoveFF2025_Box,,,,,,,1,0,1,91,CovenantTokens,Covenant,5,50000,750000,,,,,,,,0,0,,false
+C_Skin_Legs_CoveFF2025_Box,Skin_Legs_CoveFF2025_Box,,,,,,,1,0,1,92,CovenantTokens,Covenant,5,50000,500000,,,,,,,,0,0,,false
+C_Skin_Feet_CoveFF2025_Box,Skin_Feet_CoveFF2025_Box,,,,,,,1,0,1,93,CovenantTokens,Covenant,5,50000,500000,,,,,,,,0,0,,false
+C_Skin_Gloves_CoveFF2025_Box,Skin_Gloves_CoveFF2025_Box,,,,,,,1,0,1,94,CovenantTokens,Covenant,5,50000,500000,,,,,,,,0,0,,false
 C_hercyneraidinductor,hercyneraidinductor,,,,,,,1,0,1,95,CovenantTokens,Covenant,5,250000,2500000,,,,,,,604800,0,0,,false
 S_1hLongsword_SyndicateRank1_v2,1hLongsword_SyndicateRank1_v2,,,,,,,1,0,1,1,SyndicateTokens,Syndicate,0,400,2000,,,,,,,,0,0,,false
 S_2hWarhammer_SyndicateRank1_v2,2hWarhammer_SyndicateRank1_v2,,,,,,,1,0,1,2,SyndicateTokens,Syndicate,0,625,3000,,,,,,,,0,0,,false
@@ -574,8 +580,6 @@ S_MediumChest_SyndicateRank1_v2,MediumChest_SyndicateRank1_v2,,,,,,,1,0,1,28,Syn
 S_MediumHands_SyndicateRank1_v2,MediumHands_SyndicateRank1_v2,,,,,,,1,0,1,29,SyndicateTokens,Syndicate,0,200,500,,,,,,,,0,0,,false
 S_MediumLegs_SyndicateRank1_v2,MediumLegs_SyndicateRank1_v2,,,,,,,1,0,1,30,SyndicateTokens,Syndicate,0,300,1000,,,,,,,,0,0,,false
 S_MediumFeet_SyndicateRank1_v2,MediumFeet_SyndicateRank1_v2,,,,,,,1,0,1,31,SyndicateTokens,Syndicate,0,125,500,,,,,,,,0,0,,false
-S_ShotT2,ShotT2,,,,,,,1,0,1,32,SyndicateTokens,Syndicate,0,5,50,,,,,,,,0,0,,false
-S_ArrowT2,ArrowT2,,,,,,,1,0,1,33,SyndicateTokens,Syndicate,0,5,50,,,,,,,,0,0,,false
 S_HoldingRuneT2,HoldingRuneT2,,,,,,,1,0,1,34,SyndicateTokens,Syndicate,0,1000,25000,,,,,,,,0,0,,false
 S_SyndicateSeal_Soldier,SyndicateSeal_Soldier,,,,,,,1,0,1,35,SyndicateTokens,Syndicate,0,10,0,,,,,,,,0,0,,false
 S_SyndicateSeal_Ranger,SyndicateSeal_Ranger,,,,,,,1,0,1,36,SyndicateTokens,Syndicate,0,10,0,,,,,,,,0,0,,false
@@ -665,7 +669,7 @@ S_MediumHands_SyndicateRank3_v2,MediumHands_SyndicateRank3_v2,,,,,,,1,0,1,31,Syn
 S_MediumLegs_SyndicateRank3_v2,MediumLegs_SyndicateRank3_v2,,,,,,,1,0,1,32,SyndicateTokens,Syndicate,2,5000,4000,,,,,,,,0,0,,false
 S_MediumFeet_SyndicateRank3_v2,MediumFeet_SyndicateRank3_v2,,,,,,,1,0,1,33,SyndicateTokens,Syndicate,2,2000,2000,,,,,,,,0,0,,false
 S_HoldingRuneT4,HoldingRuneT4,,,,,,,1,0,1,34,SyndicateTokens,Syndicate,2,5000,100000,,,,,,,,0,0,,false
-S_FactionChisel3,FactionChisel3,,,,,,,1,0,1,35,SyndicateTokens,Syndicate,2,2000,8000,,,,,,,,0,0,,false
+S_FactionChisel3,FactionChisel3,,,,,,,1,0,1,35,SyndicateTokens,Syndicate,2,2000,15000,,,,,,,,0,0,,false
 S_DyeB167,DyeB167,,,,,,,1,0,1,36,SyndicateTokens,Syndicate,2,300,1000,,,,,,,,0,0,,false
 S_GemSocketPinsT1,GemSocketPinsT1,,,,,,,1,0,1,37,SyndicateTokens,Syndicate,2,300,10000,,,,,,,,0,0,,false
 S_GreaterMastery_LoggingXP,GreaterMastery_LoggingXP,,,,,,,1,0,1,38,SyndicateTokens,Syndicate,2,4000,10000,,,,,,,86400,0,0,,false
@@ -814,6 +818,11 @@ S_Aptitude_Crate_Harvesting,rewardpostcapharvestingt3_b,,,,,,,1,0,1,86,Syndicate
 S_Aptitude_Crate_Logging,rewardpostcaploggingt3_b,,,,,,,1,0,1,87,SyndicateTokens,Syndicate,5,50000,500000,,,,,,,82800,0,0,,false
 S_Aptitude_Crate_Mining,rewardpostcapminingt3_b,,,,,,,1,0,1,88,SyndicateTokens,Syndicate,5,50000,500000,,,,,,,82800,0,0,,false
 S_Aptitude_Crate_Fishing,rewardpostcapfishingt3_b,,,,,,,1,0,1,89,SyndicateTokens,Syndicate,5,50000,500000,,,,,,,82800,0,0,,false
+S_Skin_Chest_SyndFF2025_Box,Skin_Chest_SyndFF2025_Box,,,,,,,1,0,1,90,SyndicateTokens,Syndicate,5,50000,750000,,,,,,,,0,0,,false
+S_Skin_Head_SyndFF2025_Box,Skin_Head_SyndFF2025_Box,,,,,,,1,0,1,91,SyndicateTokens,Syndicate,5,50000,750000,,,,,,,,0,0,,false
+S_Skin_Legs_SyndFF2025_Box,Skin_Legs_SyndFF2025_Box,,,,,,,1,0,1,92,SyndicateTokens,Syndicate,5,50000,500000,,,,,,,,0,0,,false
+S_Skin_Feet_SyndFF2025_Box,Skin_Feet_SyndFF2025_Box,,,,,,,1,0,1,93,SyndicateTokens,Syndicate,5,50000,500000,,,,,,,,0,0,,false
+S_Skin_Gloves_SyndFF2025_Box,Skin_Gloves_SyndFF2025_Box,,,,,,,1,0,1,94,SyndicateTokens,Syndicate,5,50000,500000,,,,,,,,0,0,,false
 S_hercyneraidinductor,hercyneraidinductor,,,,,,,1,0,1,95,SyndicateTokens,Syndicate,5,250000,2500000,,,,,,,604800,0,0,,false
 PotionCleanseFTW,PotionCleanseFTW,,,,,,,1,0,3,3,Battle_Token,Battle_Token,0,20,0,,,,,,,,0,0,,false
 PotionHasteFTW,PotionHasteFTW,,,,,,,1,0,1,4,Battle_Token,Battle_Token,0,20,0,,,,,,,,0,0,,false
