@@ -2,7 +2,7 @@ DamageID,WeaponCategory,IgnoreInvulnerable,NoReaction,IsRanged,SurfaceImpactEffe
 Basic_Shot,Bow,0,0,true,Bullet,Light,Thrust,,,,Deflect_Default,false,0.175,1,1,0,1,0,10,5,10,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,0,Small,1,0.1,1,0,0.1625,0.325
 Heavy_Shot,Bow,0,0,true,Bullet,Light,Thrust,,,,Deflect_Default,false,0.4,1,1,2,2,2,25,20,25,0,4,0,0.8,0,4,0,0.8,0,4,0,0.8,0,0,0,Small,1,1.2,1,0,0.1625,0.325
 Grenade,Bow,0,1,true,Bullet,Heavy,Thrust,,,,Deflect_Default,false,0,1,1,0,1,0,15,10,15,0,4,0,0.8,0,4,0,0.8,0,0,0,0.8,0,0,0,Small,1,1,1,1,0.1625,0.325
-Grenade_Explosion,Bow,0,0,,Bullet,Heavy,Strike,,,,Deflect_Default,false,0.75,1,1,0,0,0,15,10,15,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,0,Small,4,1,1,1,0.1625,0.325
+Grenade_Explosion,Bow,0,0,,Bullet,Heavy,Strike,,,,Deflect_Default,false,0.45,1,1,0,0,0,15,10,15,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0,0,Small,4,1,1,1,0.1625,0.325
 Mine_Explosion,Bow,0,1,,Bullet,Heavy,Strike,,AI_Evil_Knight_Mine_Burn,true,Deflect_Default,false,0,1,1,0,0,0,20,15,20,0,0,0,0,0,0,0,0,0,0,0,0.8,1,0,0,Small,4,1,1,1,0.1625,0.325
 Deflect_Default,Unarmed,1,0,,,,Standard,,,,,,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,1,0,0.8,0,0,0,0,0,0,0,Small,0,0.45,1,1,0.1625,0.325
 Fall,Fall,1,1,,Bullet,,Falling,,,,,,1,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Small,0,1,1,1,0.1625,0.325

@@ -32,3 +32,4 @@ Trap,@Trap_VitalsName,1,Trap
 Trap_Bear,@Trap_Bear_VitalsName,1,Trap_Bear
 DefendAlly_AzothSapling,@DefendAlly_AzothSapling_VitalsName,60,SiegeWeaponLarge_Ally
 DefendAlly_PowderKeg,@DefendAlly_PowderKeg_VitalsName,55,SiegeWeaponLarge_Ally
+DefendAlly_VarlaamDevice,@DefendAlly_VarlaamDevice_VitalsName,66,SiegeWeaponLarge_AllyBossBar

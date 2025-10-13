@@ -386,5 +386,6 @@ OR_Platform,@OR_Platform_MasterName,,,1,,,,0,0,0,,30000,0,,0,0,0,false,Low,Small
 OR_Bridge,@OR_Bridge_MasterName,,,1,,,,0,0,0,,30000,0,,0,0,0,false,Low,Small,,,,3,OutpostRushWood,OutpostRushOre,,,40,40,,,,,,,,,,,,0.3,,0.1,0.2,0.3,0.3,0.3,0.3,0.3,0.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,
 Defend_Sapling,@Defend_Sapling_MasterName,,,1,,,,0,0,0,,70000,0,,0,0,0,false,Low,Large,,,,10,ClaimCharterT1,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Defend_PowderKeg,@Defend_PowderKeg_MasterName,,,1,,,,0,0,0,,75000,0,,0,0,0,false,Low,Large,,,,10,ClaimCharterT1,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Defend_Varlaam,@Defend_Varlaam_MasterName,,,1,,,,0,0,0,,75000,0,,0,0,0,false,Low,Large,,,,10,ClaimCharterT1,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Season_01_Spriggan_Event_Flame_Brazier,@Season_01_Spriggan_Event_Flame_Brazier_MasterName,,,1,,,,0,0,0,,20000,0,,0,0,0,false,Low,Small,,,,3,WoodT5,,,,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Puzzle_PowderKeg,Weapon Relic,,,1,,,,0,0,0,,65000,0,,0,0,0,false,Low,Large,,,,10,ClaimCharterT1,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

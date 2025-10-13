@@ -26,3 +26,4 @@ ParticipateInfluenceRaceDepraved,GameEvent,,,"InfluenceRace_Lose_Reward,Influenc
 CompleteAnyArtifactSS,GameEvent,,,SeasonJourneyCompleteArtifact,SeasonalServer,,
 PlayCTF,GameEvent,,,"CaptureTheFlag_T2,CaptureTheFlag_T3,CaptureTheFlag_T4",,,
 WinCTF,GameEvent,,,CaptureTheFlag_T4,,,
+InteractCatacombsPowerup,GameEvent,,,Catacombs_Powerup_Tracking,,,

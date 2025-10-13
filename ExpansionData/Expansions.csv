@@ -1,3 +1,3 @@
 ExpansionId,DisplayName,Icon,MaxDisplayLevel,MaxCraftGS,MaxEquipGS,MaxTradeskillLevel,EntitlementId
 None,@ui_newworld,lyshineui/images/icons/newworld/logoNewWorldCondensed,60,625,625,200,
-Expansion2023,@expansion_1_name,lyshineui/images/icons/newworld/icon_expansion_1,65,700,725,250,Ent_Xpack_RiseOfTheAngryEarth_Owner
+Expansion2023,@expansion_1_name,lyshineui/images/icons/newworld/icon_expansion_1,70,700,800,250,Ent_Xpack_RiseOfTheAngryEarth_Owner

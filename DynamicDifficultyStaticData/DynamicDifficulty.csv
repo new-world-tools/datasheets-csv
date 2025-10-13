@@ -1,0 +1,7 @@
+DynamicDifficultyId,GameModeIds,DifficultyTier,StatusEffect_1,StatusEffect_1_Potency_Catacombs,StatusEffect_1_Potency_Catacombs-,StatusEffect_1_Potency_Catacombs+,StatusEffect_1_Potency_CatacombsMiniBoss,StatusEffect_1_Potency_CatacombsBoss,StatusEffect_2,StatusEffect_2_Potency_Catacombs,StatusEffect_2_Potency_Catacombs-,StatusEffect_2_Potency_Catacombs+,StatusEffect_2_Potency_CatacombsMiniBoss,StatusEffect_2_Potency_CatacombsBoss
+Catacomb_0,Catacombs,0,,,,,,,,,,,,
+Catacomb_1,Catacombs,1,Mut_HealthScale,75,75,75,75,75,Mut_DamageScale,75,75,75,75,75
+Catacomb_2,Catacombs,2,Mut_HealthScale,150,150,150,150,150,Mut_DamageScale,150,150,150,150,150
+Catacomb_3,Catacombs,3,Mut_HealthScale,250,250,250,250,250,Mut_DamageScale,250,250,250,250,250
+Catacomb_4,Catacombs,4,Mut_HealthScale,375,375,375,375,375,Mut_DamageScale,375,375,375,375,375
+Catacomb_5,Catacombs,5,Mut_HealthScale,600,600,600,600,600,Mut_DamageScale,600,600,600,600,600

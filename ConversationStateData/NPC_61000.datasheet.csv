@@ -1,0 +1,4 @@
+ConversationStateId,ConversationType,DefaultDialogue,IsInitialState,RequiredLevel,RequiredFaction,RequiredFactionCooldown,ForceConversationOpen,LinearObjectiveId1,RequiredAchievement
+NPC_61000_State_0,Conversation,@NPC_61000_State_0_DefaultDialogue,true,0,None,NotInCooldown,false,,
+NPC_61000_State_1,Conversation,@NPC_61000_State_1_DefaultDialogue,false,60,None,NotInCooldown,false,Quest_61000,17_MSQ_10
+NPC_61000_State_2,Conversation,@NPC_61000_State_2_DefaultDialogue,false,65,None,NotInCooldown,false,Quest_61001,17_MSQ_12 && 17_61000_Complete

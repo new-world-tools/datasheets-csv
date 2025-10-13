@@ -1,0 +1,10 @@
+MissionWeightId,SlotNumber,Bucket,MissionGoalType,Weight
+TestSlot1_1,1,Affinity,Hunt,2
+TestSlot1_2,1,Affinity,Loot,2
+TestSlot1_3,1,Affinity,Mission,2
+TestSlot2_1,2,Affinity,Hunt,2
+TestSlot2_2,2,Affinity,Loot,2
+TestSlot2_3,2,Affinity,Mission,2
+TestSlot3_1,3,Affinity,Hunt,2
+TestSlot3_2,3,Affinity,Loot,2
+TestSlot3_3,3,Affinity,Mission,2

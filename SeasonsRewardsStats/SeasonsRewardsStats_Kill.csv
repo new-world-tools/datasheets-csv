@@ -99,3 +99,7 @@ KillPlayerMagicWeapon,Kill,,Player,,,"FireMagicAbilityTable,LifeMagicAbilityTabl
 KillCorruptedBrimstoneL65,Kill,,Corrupted,65,,,,"brimstonesands1,brimstonesands2,brimstonesands3,brimstonesands4,brimstonesands5,brimstonesands6,brimstonesands7,brimstonesands8,brimstonesands9,brimstonesands10",,,,,,
 KillElite65CutlassKeys,Kill,,,65,,,,"windswardshores1,windswardshores2,windswardshores3,windswardshores4,windswardshores5,windswardshores6,windswardshores7,windswardshores8,windswardshores9,windswardshores7FFA,windswardshores9FFA,windswardshores2_v2,windswardshores6_v2,windswardshores8_v2",,Elite,,,,
 KillingBlowOnEnemyInCTF,Kill,,Player,,,,,,CaptureTheFlag,,true,,,
+KillLost60,Kill,,Lost,60,,,,,,,,,,
+KillLost65Nighthaven,Kill,,Lost,65,,,,"dunwood1,dunwood2,dunwood3,dunwood4,dunwood5,dunwood6,dunwood7,dunwood8,dunwood9,dunwood10",,,,,,
+KillLost75Nighthaven,Kill,,Lost,70,,,,"dunwood1,dunwood2,dunwood3,dunwood4,dunwood5,dunwood6,dunwood7,dunwood8,dunwood9,dunwood10",,,,,,
+KillCatacombsBoss,Kill,,Catacombs_Boss,,,,,,,,,,,

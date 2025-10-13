@@ -1,0 +1,13 @@
+WarboardStatID,InGameStat,EndGameStat
+BossesKilled,true,true
+NamedEnemiesKilled,true,true
+ChestsOpened,true,true
+Extracted,true,true
+SilversExtracted,true,true
+CrownsExtracted,true,true
+ChestsOpenedSilvers,true,true
+ChestsOpenedCrowns,true,true
+BossesSilvers,true,true
+BossesCrowns,true,true
+NamedEnemiesSilvers,true,true
+NamedEnemiesCrowns,true,true

@@ -1,1 +1,7 @@
-ConversationStateId,ConversationType,DefaultDialogue,IsInitialState,RequiredLevel,RequiredFaction,RequiredFactionCooldown,ForceConversationOpen,TopicId1,RequiredAchievement,RequiredActiveTaskId,LinearObjectiveId1
+ConversationStateId,ConversationType,DefaultDialogue,IsInitialState,RequiredLevel,RequiredFaction,RequiredFactionCooldown,ForceConversationOpen,TopicId1,RequiredAchievement,RequiredActiveObjectiveId,RequiredActiveTaskId,LinearObjectiveId1
+NPC_28002_State_0,Conversation,@NPC_28002_State_0_DefaultDialogue,true,0,None,NotInCooldown,false,,,,,
+NPC_28002_State_1,Conversation,@NPC_28002_State_1_DefaultDialogue,false,0,None,NotInCooldown,false,NPC_28002_State_1_Topic_0,17_IQ_01,Quest_28002,Quest_28002_Task_20,
+NPC_28002_State_2,Conversation,@NPC_28002_State_2_DefaultDialogue,false,0,None,NotInCooldown,false,,17_IQ_02,,,Quest_28003
+NPC_28002_State_3,Conversation,@NPC_28002_State_3_DefaultDialogue,false,0,None,NotInCooldown,false,,17_IQ_03,,,Quest_28004
+NPC_28002_State_4,Conversation,@NPC_28002_State_4_DefaultDialogue,false,0,None,NotInCooldown,false,,17_IQ_04,,,Quest_28005
+NPC_28002_State_5,Conversation,@NPC_28002_State_5_DefaultDialogue,false,0,None,NotInCooldown,false,,17_IQ_05,,,Quest_28006

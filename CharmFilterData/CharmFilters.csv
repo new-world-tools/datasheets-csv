@@ -1,0 +1,17 @@
+FilterId,SortOrder,DisplayName,ItemClass
+Sword,1,@charmfilter_sword,Sword+Melee+Weapon+EquippableMainHand
+Shield,2,@charmfilter_shield,Weapon+EquippableOffHand+Shield
+Rapier,3,@charmfilter_rapier,Rapier+Melee+Weapon+EquippableMainHand
+Hatchet,4,@charmfilter_hatchet,Hatchet+Melee+Weapon+EquippableMainHand
+Flail,5,@charmfilter_flail,Flail+Melee+Weapon+EquippableMainHand
+Spear,6,@charmfilter_spear,Weapon+EquippableTwoHand+Spear+Melee
+GreatAxe,7,@charmfilter_greataxe,Weapon+EquippableTwoHand+2HAxe+Melee
+WarHammer,8,@charmfilter_warhammer,Weapon+EquippableTwoHand+2HHammer+Melee
+Greatsword,9,@charmfilter_greatsword,Weapon+EquippableTwoHand+GreatSword+Melee
+Bow,10,@charmfilter_bow,Weapon+EquippableTwoHand+Bow+Ranged
+Musket,11,@charmfilter_musket,Weapon+EquippableTwoHand+Musket+Ranged
+Blunderbuss,12,@charmfilter_blunderbuss,Weapon+EquippableTwoHand+Blunderbuss+Ranged
+FireStaff,13,@charmfilter_firestaff,Weapon+EquippableMainHand+FireStaff+Magic
+LifeStaff,14,@charmfilter_lifestaff,Weapon+EquippableMainHand+LifeStaff+Magic
+IceGauntlet,15,@charmfilter_icegauntlet,Weapon+EquippableMainHand+IceMagic+Magic
+VoidGauntlet,16,@charmfilter_voidgauntlet,Weapon+EquippableMainHand+VoidGauntlet+Magic

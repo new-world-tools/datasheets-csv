@@ -1,0 +1,18 @@
+DamageID,WeaponCategory,IgnoreInvulnerable,NoReaction,IsRanged,SurfaceImpactEffect,AttackType,DamageType,Affixes,StatusEffect,EffectOnlyOnDamage,CanCrit,DmgCoef,DmgCoefHead,DmgCoefCrit,PowerLevel,BlockPowerLevel,CritPowerLevel,HitStun,BlockHitStun,CritHitStun,ImpactDistanceX,ImpactDistanceY,ImpactDistanceZ,ImpactDecayRate,BlockImpactDistanceX,BlockImpactDistanceY,BlockImpactDistanceZ,BlockImpactDecayRate,CritImpactDistanceX,CritImpactDistanceY,CritImpactDistanceZ,CritImpactDecayRate,AddDmg,ImpactRating,StaggerDmgModifier,CritStaggerDmgModifier,StaggerResistModifier,StunBreakoutIncrement,BlockAbsorptionModifier,StaminaDmg,BlockStaminaDmgMod,TargetCameraShakeID,BlockTargetCameraShakeID,CritTargetCameraShakeID,HitRuneCharge,HitBlockedRuneCharge
+BASIC ATTACKS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.1625,0.325
+Aggressor_LightAttack_Right,sword,0,0,,Bullet,Light,Slash,,,,false,0.3,0.1,0.1,0,0,0,10,10,10,0,0.5,0,0.8,0,0,0,0.8,0,0.5,0,0,0,1,0.15,0,0,0,1,0,0.15,Small,Small,Small,0.1625,0.325
+Aggressor_LightAttack_Left,sword,0,0,,Bullet,Light,Slash,,,,false,0.3,0.1,0.1,0,0,0,10,10,10,0,0.5,0,0.8,0,0,0,0.8,0,0.5,0,0,0,1,0.15,0,0,0,1,0,0.15,Small,Small,Small,0.1625,0.325
+Aggressor_LightAttack_GA_01,sword,0,0,,Bullet,Heavy,Slash,,,,false,0.3,0.1,0.1,0,0,0,15,10,15,0,0.75,0,0.8,0,0,0,0.8,0,0.75,0,0,0,1,0.2,0,1,0,1,0,0.15,Small,Small,Small,0.1625,0.325
+Aggressor_LightAttack_GA_02,sword,0,0,,Bullet,Heavy,Slash,,,,false,0.3,0.1,0.1,0,0,0,15,15,15,0,0.75,0,0.8,0,0,0,0.8,0,0.75,0,0,0,1,0.2,0,1,0,1,0,0.15,Small,Small,Small,0.1625,0.325
+Aggressor_CastSpell_ShieldStab,Shield,0,0,,Bullet,Heavy,Arcane,,,,false,0.7,0.1,0.1,2,1,2,25,20,25,0,1.5,0,0.8,0,0,0,0.8,0,1.5,0,0,0,1,0.4,0,1,1,1,0,0.4,Large,Large,Large,0.1625,0.325
+Aggressor_CastSpell_SoulSurge,Shield,0,0,,Bullet,Heavy,Arcane,,,,false,0.5,0.1,0.1,2,2,2,25,20,25,0,3,0,0.8,0,0,0,0.8,0,3,0,0,0,1,0.7,0,1,1,1,0,0.5,Large,Large,Small,0.1625,0.325
+Aggressor_HeavyAttack_ShieldBash,Shield,0,0,,Bullet,Heavy,Thrust,,,,false,0.5,0.1,0.1,2,2,2,25,20,25,0,1.5,0,0.8,0,0,0,0.8,0,1.5,0,0,0,1,0.4,0,1,1,1,0,0.4,Small,Small,Small,0.1625,0.325
+Deflect_Default,Unarmed,1,0,,,,Strike,,,,false,0,0,0,2,2,2,0,0,0,0,1,0,0.8,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0.15,Large,Small,Large,0.1625,0.325
+Reaction_Breakout,Fall,1,1,,Bullet,Light,Falling,,,,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,Large,Small,Small,0.1625,0.325
+Reaction_Breakout_Attack,sword,0,0,,Bullet,Heavy,Slash,,,,false,0.7,0.1,0.1,3,3,3,35,30,35,0,1.5,0,0.8,0,0,0,2,0,1.5,0,0,0,1,0.7,0,10,1,1,0,0.7,Large,Small,Small,0.1625,0.325
+Reaction_Breakout_Attack02,sword,0,0,,Bullet,Heavy,Slash,,,,false,0.7,0.1,0.1,3,3,3,35,30,35,0,1.5,0,0.8,0,0,0,2,0,1.5,0,0,0,1,0.7,0,10,1,1,0,0.7,Large,Small,Small,0.1625,0.325
+Fall,Fall,1,1,,Bullet,,Falling,,,,,1,0,0,2,2,2,25,25,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,Small,Small,Small,0.1625,0.325
+Aggressor_Grit_StaggerResist,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,1,0,0,Small,Small,Small,0.1625,0.325
+Aggressor_HeavyAttack_Uppercut,sword,0,0,,Bullet,Heavy,Slash,,,,false,0.5,0.1,0.1,2,2,2,25,20,25,0,1,0,0.8,0,0,0,0.8,0,1,0,0,0,1,40,0,1,1,1,0,0.4,Large,Small,Small,0.1625,0.325
+Aggressor_HeavyAttack_ShieldStab,Shield,0,0,,Bullet,Heavy,Thrust,,,,false,0.7,0.1,0.1,2,1,2,25,20,25,0,1.5,0,0.8,0,0,0,0.8,0,1.5,0,0,0,1,0.4,0,1,1,1,0,0.7,Large,Large,Large,0.1625,0.325
+Aggressor_HeavyAttack_AOESoulSurge,Shield,0,0,true,Bullet,Magic,Arcane,,,,false,0.5,0.1,0.1,2,2,2,25,20,25,0,3,0,0.8,0,0,0,0.8,0,3,0,0,0,1,0.7,0,10,1,1,0,1,Large,Large,Small,0.1625,0.325

@@ -55,3 +55,6 @@ FactionIntro_Syndicate_Recruitment_Success,,17,Quest-,,,0,0,,FactionEnlistmentBo
 98_S_04_ciphercryptic_success,,65,Quest,,,3770,11875,,,,,,,,,,,,10,1,,,,,,,true
 98_C_0405_RankUp_success,,65,Quest,,,2520,11875,,,,,,,,,,,,10,1,,,,,,,true
 98_C_04_thepathtodarkness_success,,65,Quest,,,3770,11875,,,,,,,,,,,,10,1,,,,,,,true
+Event_IoN_FactionMission_Item1_Interact,,0,Quest-,,,0,0,,,,,,,,,,,,,0,,,,,,,true
+Event_IoN_FactionMission_Item2_Interact,,0,Quest-,,,0,0,,,,,,,,,,,,,0,,,,,,,true
+Event_IoN_FactionMission_Item3_Interact,,0,Quest-,,,0,0,,,,,,,,,,,,,0,,,,,,,true

@@ -1,0 +1,8 @@
+Tier,ScalingStart,DisplayName
+S,0.0091,@ui_tierS
+A,0.0081,@ui_tierA
+B,0.0071,@ui_tierB
+C,0.0061,@ui_tierC
+D,0.0051,@ui_tierD
+E,0.0031,@ui_tierE
+F,0.001,@ui_tierF

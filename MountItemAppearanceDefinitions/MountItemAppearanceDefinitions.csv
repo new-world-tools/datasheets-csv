@@ -46,3 +46,7 @@ MountAttachmentItem_Skin_ZombieHand_Setting,true,None,false,,,,,,,false,,,,,,,,"
 MountAttachmentItem_Skin_SeaGlassLights_Setting,true,None,false,,,,,,,false,,,,,,,,"0.08,0,-0.2","0.0,10.0,0.0","1.0,1.0,1.0","-0.08,0,-0.2","0.0,10.0,0.0","1.0,1.0,1.0",,
 MountAttachmentItem_Skin_RugStack_Setting,true,None,false,,,,,,,false,,,,,,,,"0.0,0,-0.2","0.0,0.0,10.0","1.0,1.0,1.0","-0.0,0,-0.2","0.0,0.0,10.0","1.0,1.0,1.0",,
 MountAttachmentItem_Skin_WarDrums_Setting,true,None,false,,,,,,,false,,,,,,,,"0.08,0,-0.2","0.0,10.0,0.0","1.0,1.0,1.0","-0.08,0,-0.2","0.0,10.0,0.0","1.0,1.0,1.0",,
+MountAttachmentItem_Skin_TargetDummy_Setting,true,None,false,,,,,,,false,,,,,,,,"0.0,0.0,0.0","0.0,0.0,0.0",,"0.0,0.0,0.0","0.0,0.0,0.0",,,
+MountAttachmentItem_Skin_GarlicHerbs_Setting,true,None,false,,,,,,,false,,,,,,,,"0.0,0.0,-0.2","0.0,0.0,0.0",,"0.0,0.0,-0.2","0.0,0.0,0.0",,,
+MountAttachmentItem_Skin_MemoryFlagon_Setting,true,None,false,,,,,,,false,,,,,,,,"0.0,0.0,-0.2","90,0.0,0.0",,"0.0,0.0,-0.2","90,0.0,0.0",,,
+MountAttachmentItem_Skin_ParcelBag_Setting,true,None,false,,,,,,,false,,,,,,,,"0.0,0.0,-0.2","90,0.0,0.0",,"0.0,0.0,-0.2","90,0.0,0.0",,,

@@ -76,3 +76,10 @@ MountOffRoadDashSpeedMod,0,0
 MountSummonTimeMod,0,0
 FallDamageMod,0,0
 MountBonusEncumbranceMod,0,0
+BaseDamage,0,0
+CooldownReduction,0,0
+ReviveSpeed,0,0
+BeingRevivedSpeed,0,0
+ReviveHealthGainedInPctOfMaxHealth,0,0
+ReviveHealthGivenInPctOfMaxHealth,0,0
+AoeSpellRadiusScaling,0,0

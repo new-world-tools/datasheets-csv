@@ -1,0 +1,14 @@
+DamageTypeId,NegativeStartValue,LowerLimit,PositiveStartValue,UpperLimit,DiminishmentRate
+Sample_DamageType,-0.02,-1,0.02,1,1
+ABSStandard,-0.3,-1,0.3,1,1.2
+ABSSiege,-0.3,-1,0.3,1,1.2
+ABSStrike,-0.3,-1,0.3,1,1.2
+ABSSlash,-0.3,-1,0.3,1,1.2
+ABSThrust,-0.3,-1,0.3,1,1.2
+ABSArcane,-0.3,-1,0.3,1,1.2
+ABSIce,-0.3,-1,0.3,1,1.2
+ABSNature,-0.3,-1,0.3,1,1.2
+ABSFire,-0.3,-1,0.3,1,1.2
+ABSLightning,-0.3,-1,0.3,1,1.2
+ABSCorruption,-0.3,-1,0.3,1,1.2
+ABSAcid,-0.3,-1,0.3,1,1.2

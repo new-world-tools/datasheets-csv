@@ -1,0 +1,2 @@
+NPCId,GenericName,Title,ConversationStateId1,ConversationStateId2,ConversationStateId3
+NPC_20003,@NPC_20003_name,@NPC_20003_title,NPC_20003_State_0,NPC_20003_State_1,NPC_20003_State_2

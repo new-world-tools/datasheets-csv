@@ -1,0 +1,5 @@
+ConversationStateId,ConversationType,DefaultDialogue,IsInitialState,RequiredLevel,RequiredFaction,RequiredFactionCooldown,ForceConversationOpen,ConversationService1
+NPC_20007_State_0,Conversation,@NPC_20007_State_0_DefaultDialogue,true,0,None,NotInCooldown,false,
+NPC_20007_State_1,Conversation,@NPC_20007_State_1_DefaultDialogue,false,65,Covenant,NotInCooldown,false,Faction_Board
+NPC_20007_State_2,Conversation,@NPC_20007_State_2_DefaultDialogue,false,0,Maruaders,NotInCooldown,false,
+NPC_20007_State_3,Conversation,@NPC_20007_State_3_DefaultDialogue,false,0,Syndicate,NotInCooldown,false,

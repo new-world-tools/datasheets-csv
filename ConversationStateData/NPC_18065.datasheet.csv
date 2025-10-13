@@ -1,0 +1,3 @@
+ConversationStateId,ConversationType,DefaultDialogue,IsInitialState,RequiredLevel,RequiredFaction,RequiredFactionCooldown,ForceConversationOpen,LinearObjectiveId1,RequiredAchievement
+NPC_18065_State_0,Conversation,@NPC_18065_State_0_DefaultDialogue,true,0,None,NotInCooldown,false,,
+NPC_18065_State_1,Conversation,@NPC_18065_State_1_DefaultDialogue,false,65,None,NotInCooldown,false,Quest_18033,17_MSQ_03

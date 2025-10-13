@@ -22,7 +22,7 @@ Emote_FistBump,Emote_FistBump,ui_emote_FistBump,ui_emote_FistBump_description,De
 Emote_Whistle,Emote_Whistle,ui_emote_Whistle,ui_emote_Whistle_description,Friendly,@emote_whistle,whistle,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Whistle.dds,,,,,
 Emote_ThumbsSide,Emote_ThumbsSide,ui_emote_Thumbs_Sideways,ui_emote_Thumbs_Sideways_description,Decisions,@emote_thumbsside,undecided,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_ThumbsSide.dds,,,,,
 Emote_ThumbsUp,Emote_ThumbsUp,ui_emote_Thumbs_Up,ui_emote_Thumbs_Up_description,Decisions,@emote_thumbsup,thumbsup,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_ThumbsUp.dds,,,,,
-Emote_ThumbsDown,Emote_ThumbsDown,ui_emote_Thumbs_Down,ui_emote_Thumbs_Down_description,Decisions,@emote_thumbsdown,thumbsdown,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_ThumbsDown.dds,,,,,
+Emote_ThumbsDown,Emote_ThumbsDown,ui_emote_Thumbs_Down,ui_emote_Thumbs_Down_description,Decisions,@emote_thumbsdown,thumbsdown,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_ThumbsDown.dds,,,,,Season_7
 Emote_Cry1,Emote_Cry1,ui_emote_Cry_1,ui_emote_Cry_1_description,Emotion,@emote_cry1,cry,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Cry1.dds,,,,,
 Emote_Impatient,Emote_Impatient,ui_emote_Impatient,ui_emote_Impatient_description,Direction,@emote_impatient,waiting,wait,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Impatient.dds,,,,,
 Emote_CoinToss,Emote_CoinToss,ui_emote_Coin_Toss,ui_emote_Coin_Toss_description,Decisions,@emote_cointoss,cointoss,coinflip,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_CoinToss.dds,,,,,
@@ -174,6 +174,7 @@ Emote_Mantrum,Emote_Mantrum,ui_Emote_Mantrum_name,ui_Emote_Mantrum_description,O
 Emote_BarbershopExit,Emote_No,ui_none,ui_none,None,@Emote_BarbershopExit,,,0,0,1,0,,1,,,,,,
 Emote_BrushShoulder,Emote_BrushShoulder,ui_Emote_BrushShoulder_name,ui_Emote_BrushShoulder_description,Other,@Emote_BrushShoulder,brushshoulder,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Unarmed_BrushShoulder.dds,,,,,Season_7
 Emote_Walk_MyrkMarch,Emote_Walk_MyrkMarch,ui_Emote_Walk_MyrkMarch_name,ui_Emote_Walk_MyrkMarch_description,Other,@Emote_Walk_MyrkMarch,walkmarch,march,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_MyrkMarch.dds,,,,,Season_7
+Emote_GleamiteMining,Emote_GleamiteMining,ui_Emote_GleamiteMining_name,ui_Emote_GleamiteMining_description,Other,@Emote_GleamiteMining,minegleamite,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Unarmed_GleamiteMining.dds,,,,,Season_7
 Emote_Walk_NinjaRun,Emote_Walk_NinjaRun,ui_Emote_Walk_NinjaRun_name,ui_Emote_Walk_NinjaRun_description,Other,@Emote_Walk_NinjaRun,walkninja,ninja,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_Unarmed_NinjaRun.dds,,,,,
 Emote_TouchGrass,Emote_TouchGrass,ui_Emote_TouchGrass_name,ui_Emote_TouchGrass_description,Other,@Emote_TouchGrass,touchgrass,,1,0,1,0,,1,LyShineUI/Images/Icons/Emotes/emote_TouchGrass.dds,,,,,Season_7
 Emote_CatPaw,Emote_CatPaw,ui_Emote_CatPaw_name,ui_Emote_CatPaw_description,Other,@Emote_CatPaw,catpaw,,1,0,1,0,,1,lyshineui/images/icons/emotes/emote_CatPaw.dds,,,,,Season_7

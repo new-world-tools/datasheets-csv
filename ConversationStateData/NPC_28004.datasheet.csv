@@ -1,1 +1,3 @@
 ConversationStateId,ConversationType,DefaultDialogue,TopicId1,IsInitialState,RequiredLevel,RequiredAchievement,RequiredActiveObjectiveId,RequiredActiveTaskId,RequiredFaction,RequiredFactionCooldown,ForceConversationOpen
+NPC_28004_State_0,Conversation,@NPC_28004_State_0_DefaultDialogue,NPC_28004_State_0_Topic_0,false,0,17_IQ_03,Quest_28004,Quest_28004_Task_14,None,NotInCooldown,false
+NPC_28004_State_1,Conversation,@NPC_28004_State_1_DefaultDialogue,,true,0,,,,None,NotInCooldown,false

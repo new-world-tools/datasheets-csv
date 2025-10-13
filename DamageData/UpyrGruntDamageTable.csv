@@ -1,0 +1,13 @@
+DamageID,WeaponCategory,IgnoreInvulnerable,NoReaction,SurfaceImpactEffect,AttackType,DamageType,IsRanged,Affixes,StatusEffect,EffectOnlyOnDamage,DeflectDamageID,CanCrit,DmgCoef,DmgCoefHead,DmgCoefCrit,PowerLevel,BlockPowerLevel,CritPowerLevel,HitStun,BlockHitStun,CritHitStun,ImpactDistanceX,ImpactDistanceY,ImpactDistanceZ,ImpactDecayRate,CritImpactDistanceX,CritImpactDistanceY,CritImpactDistanceZ,CritImpactDecayRate,BlockImpactDistanceX,BlockImpactDistanceY,BlockImpactDistanceZ,BlockImpactDecayRate,AddDmg,StaggerDmgModifier,CritStaggerDmgModifier,StaggerResistModifier,CameraShakeID,CritCameraShakeID,ImpactRating,BlockStaminaDmgMod,BlockAbsorptionModifier,LOSCheckVerticalAngleOffset,HitRuneCharge,HitBlockedRuneCharge
+Headbutt,Blunt_AI,0,0,Bullet,Heavy,Siege,,,,,Deflect_Default,false,1,1,1,1,1,1,10,5,10,0,2,0,0.8,0,2,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.6,1,0,0.1625,0.325
+Slash,Blunt_AI,0,0,Bullet,Light,Slash,,,,,Deflect_Default,false,0.5,1,1,0,1,0,10,5,10,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.1,1,0,0.1625,0.325
+Slash_Light,Blunt_AI,0,0,Bullet,Light,Slash,,,,,Deflect_Default,false,0.35,1,1,0,1,0,10,5,10,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.3,0.3,1,Small,Small,3,0.1,1,0,0.1625,0.325
+Bite,Blunt_AI,0,0,Bullet,Light,Slash,,,,,Deflect_Default,false,0.6,1,1,0,1,0,10,5,10,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.6,0.6,1,Small,Small,3,0.3,1,0,0.1625,0.325
+ArmoredApproach,Unarmed,0,0,Bullet,Light,Slash,,,,,Deflect_Default,false,0,0,0,0,0,0,0,0,0,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,0.6,0.6,100,Small,Small,3,0.3,1,0,0.1625,0.325
+Overhead_Slash,Blunt_AI,0,0,Bullet,Heavy,Slash,,,,,Deflect_Default,false,0.8,1,1,2,2,2,15,15,15,0,2,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.8,0.8,1,Small,Small,3,0.8,1,0,0.1625,0.325
+NecroPhlegm,Unarmed,0,0,Bullet,Light,Strike,true,,AI_Disease,,Deflect_Default,false,0.5,0.5,0.5,0,0,0,10,5,10,0,1,0,0.8,0,1,0,0.8,0,0,0,0.8,0,0.8,0.8,1,Small,Small,3,0.8,1,16,0.1625,0.325
+BattleScreech,Unarmed,0,0,Bullet,Light,Strike,,,AI_Weaken,true,Deflect_Default,false,0.5,0.5,0.5,2,1,2,10,5,10,0,3.5,0,0.8,0,3.5,0,0.8,0,0,0,0.8,0,0.8,0.8,1,Small,Small,3,0.8,1,16,0.1625,0.325
+Lunge,Blunt_AI,0,0,Bullet,Heavy,Slash,,,,,Deflect_Default,false,1,1,1,3,3,3,30,25,30,0,3,0,0.8,0,3,0,0.8,0,0,0,0.8,0,0.9,0.9,1,Small,Small,3,0.8,1,0,0.1625,0.325
+Bite_Additive,Blunt_AI,0,0,Bullet,Light,Slash,,,,,Deflect_Default,false,0.8,1,1,0,3,0,0,0,0,0,0,0,0.8,0,0,0,0.8,0,0,0,0,0,0.6,0.6,1,Small,Small,3,0.3,1,0,0.1625,0.325
+Fall,Fall,1,1,Bullet,,Falling,,,,,,false,1,1,1,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,0,0,1,,0.1625,0.325
+Reaction_Breakout,Fall,1,1,Bullet,,Falling,,,,,,false,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Small,Small,1,,,,0.1625,0.325

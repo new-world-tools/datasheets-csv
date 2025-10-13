@@ -1,0 +1,4 @@
+ConversationStateId,ConversationType,DefaultDialogue,IsInitialState,RequiredLevel,RequiredFaction,RequiredFactionCooldown,ForceConversationOpen,LinearObjectiveId1,RequiredAchievement
+NPC_28014_State_0,Conversation,@NPC_28014_State_0_DefaultDialogue,true,0,None,NotInCooldown,false,,
+NPC_28014_State_1,Conversation,@NPC_28014_State_1_DefaultDialogue,false,0,None,NotInCooldown,false,Quest_28008,17_MSQ_16
+NPC_28014_State_2,Conversation,@NPC_28014_State_2_DefaultDialogue,false,0,None,NotInCooldown,false,,17_SQ_CreepyDoll_28008

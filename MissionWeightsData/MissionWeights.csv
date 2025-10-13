@@ -1,26 +1,26 @@
-MissionWeightId,SlotNumber,IsPvpSlot,MissionGoalType,Weight
-RAID_slot_1,1,,Raid,9000
-EXPEDITION_RAID_slot_1,1,,Log,8000
-LOOT_slot_1,1,,Loot,1
-HUNT_slot_1,1,,Hunt,1
-BREACH_slot_1,1,,Craft,6000
-LOOT_slot_2,2,,Loot,9000
-EXPEDITION_LOOT_slot_2,2,,Harvest,1500
-RAID_slot_2,2,,Raid,1
-HUNT_slot_2,2,,Hunt,1
-EXPEDITION_RAID_slot_2,2,,Log,8000
-HUNT_slot_3,3,,Hunt,2000
-WEAPON_slot_3,3,,Mine,3000
-EXPEDITION_RAID_slot_3,3,,Log,6000
-EXPEDITION_LOOT_slot_3,3,,Harvest,5000
-RAID_slot_3,3,,Raid,1
-LOOT_slot_3,3,,Loot,1
-PVP_INTERCEPT_slot 1,1,true,Intercept,10000
-PVP_CONTROL_slot_1,1,true,Espionage,10000
-PVP_WARCAMP_slot_1,1,true,Control,10000
-PVP_CONTROL_slot_2,2,true,Espionage,10000
-PVP_WARCAMP_slot_2,2,true,Control,10000
-PVP_INTERCEPT_slot 2,2,true,Intercept,10000
-PVP_WARCAMP_slot_3,3,true,Control,10000
-PVP_INTERCEPT_slot 3,3,true,Intercept,10000
-PVP_CONTROL_slot_3,3,true,Espionage,10000
+MissionWeightId,SlotNumber,Bucket,MissionGoalType,Weight
+RAID_slot_1,1,FactionPvE,Raid,9000
+EXPEDITION_RAID_slot_1,1,FactionPvE,Log,8000
+LOOT_slot_1,1,FactionPvE,Loot,1
+HUNT_slot_1,1,FactionPvE,Hunt,1
+BREACH_slot_1,1,FactionPvE,Craft,6000
+LOOT_slot_2,2,FactionPvE,Loot,9000
+EXPEDITION_LOOT_slot_2,2,FactionPvE,Harvest,1500
+RAID_slot_2,2,FactionPvE,Raid,1
+HUNT_slot_2,2,FactionPvE,Hunt,1
+EXPEDITION_RAID_slot_2,2,FactionPvE,Log,8000
+HUNT_slot_3,3,FactionPvE,Hunt,2000
+WEAPON_slot_3,3,FactionPvE,Mine,3000
+EXPEDITION_RAID_slot_3,3,FactionPvE,Log,6000
+EXPEDITION_LOOT_slot_3,3,FactionPvE,Harvest,5000
+RAID_slot_3,3,FactionPvE,Raid,1
+LOOT_slot_3,3,FactionPvE,Loot,1
+PVP_INTERCEPT_slot 1,1,FactionPvP,Intercept,10000
+PVP_CONTROL_slot_1,1,FactionPvP,Espionage,10000
+PVP_WARCAMP_slot_1,1,FactionPvP,Control,10000
+PVP_CONTROL_slot_2,2,FactionPvP,Espionage,10000
+PVP_WARCAMP_slot_2,2,FactionPvP,Control,10000
+PVP_INTERCEPT_slot 2,2,FactionPvP,Intercept,10000
+PVP_WARCAMP_slot_3,3,FactionPvP,Control,10000
+PVP_INTERCEPT_slot 3,3,FactionPvP,Intercept,10000
+PVP_CONTROL_slot_3,3,FactionPvP,Espionage,10000

@@ -36,3 +36,9 @@ SeasonsRewards,minor,25,@SeasonsRewards_Name,LyShineUI/Images/SeasonsRewards/Ico
 SeasonsJourney,minor,25,@SeasonsJourney_Name,LyShineUI/Images/SeasonsRewards/Icon_Unlock_SeasonJourney_bg.dds,,@seasonsjourney_tooltip,,,
 HorseUnlock,minor,20,@Mount_Horse_Unlock,LyShineUI/Images/Icons/ProgressionMilestones/mountUnlock.dds,,@Mount_Horse_Tooltip,@9401_BefriendHorse_title,Expansion2023,
 Artifacts1,major,65,@Artifacts1_Name,LyShineUI/Images/Icons/ProgressionMilestones/weaponSlot.dds,LyShineUI/Images/glory/milestoneRewards/milestoneReward_weapon1.dds,@Artifacts1_Tooltip,,Expansion2023,Located in PBA
+GypsumKiln,minor,60,@ui_kiln,LyShineUI/Images/Icons/ProgressionMilestones/gypsumKiln.dds,,@ui_kiln_desc,,,Located in PBA
+Catacombs,minor,65,@dungeon_catacombs_title,LyShineUI/Images/Icons/ProgressionMilestones/catacombs.dds,,@dungeon_catacombs_description,,,Located in PBA
+Raids,minor,65,@ui_pugfinder_activity_raids_name,LyShineUI/Images/Icons/ProgressionMilestones/raids.dds,,@ui_pugfinder_activity_raids_desc,,,Located in PBA
+SoulTrials,minor,65,@ui_pugfinder_activity_solo_trials_name,LyShineUI/Images/Icons/ProgressionMilestones/soultrial.dds,,@ui_pugfinder_activity_solo_trials_description,,,Located in PBA
+CTF,minor,60,@ctf_gamemode_name,LyShineUI/Images/Icons/ProgressionMilestones/ctf.dds,,@ctf_gamemode_description,,,Located in PBA
+Territory8,territory,65,@Dunwood,,,,,,Located in PBA

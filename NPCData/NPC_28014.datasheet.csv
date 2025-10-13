@@ -1,0 +1,2 @@
+NPCId,GenericName,Title,InteractOptionDisplayNameOverride,ConversationStateId1,ConversationStateId2,ConversationStateId3
+NPC_28014,@NPC_28014_name,@NPC_28014_title,Talk to .:\YOUR >BEST ./\FRIEND*,NPC_28014_State_0,NPC_28014_State_1,NPC_28014_State_2

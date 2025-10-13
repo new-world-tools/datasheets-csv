@@ -36,3 +36,4 @@ ConversationStateId,ConversationType,IsInitialState,DefaultDialogue,ForceConvers
 1349_PartyGuest_05_01,Linear_Objective,false,@NPC_1349_PartyGuest_05_DefaultDialogue_01,,,,,13_Summer_05_2023,,,,,,,,,,,,,1349_PartyGuest_05_TaskTopic,,,,,,,,,,,,
 1349_PartyGuest_05_02,Linear_Objective,false,@NPC_1349_PartyGuest_05_DefaultDialogue_02,,,,,FinishBeekeeperTask_2023,,,,,,,,,,,,,,,,,,,,,,,,,
 1349_PartyGuest_05_03,Linear_Objective,false,@NPC_1349_PartyGuest_05_DefaultDialogue_03,,,,,SwapActive_1349_PartyGuest_05_01_on_2023,,,,,,,,,,,,,,,,,,,,,,,,,
+17_CatacombStore_00,Conversation,true,@NPC_28010_State_0_DefaultDialogue,,,,,,,,,,,,,,,,,,,,,,,,,,,,Open_Shop,,

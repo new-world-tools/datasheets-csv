@@ -1,0 +1,2 @@
+ConversationStateId,ConversationType,DefaultDialogue,ConversationService1,IsInitialState,RequiredLevel,RequiredFaction,RequiredFactionCooldown,ForceConversationOpen
+NPC_20008_State_0,Conversation,@NPC_20008_State_0_DefaultDialogue,Inn,true,0,None,NotInCooldown,false

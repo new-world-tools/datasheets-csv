@@ -1,1 +1,2 @@
 NPCId,GenericName,Title,InteractOptionDisplayNameOverride,ConversationStateId1,ConversationStateId2
+NPC_28003,@NPC_28003_name,@NPC_28003_title,Touch,NPC_28003_State_0,NPC_28003_State_1

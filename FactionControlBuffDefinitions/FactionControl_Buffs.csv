@@ -25,3 +25,4 @@ Chance_Consumable_Not_Used,false,0.1,@ui_chance_consumable_not_used_name,@ui_cha
 Road_Movement_Speed_Bonus,false,0,,,"Notapprovedforuse,considerremovingifwillnotbereworked"
 Faction_Store_Discount_Modifier,false,0.05,@ui_faction_store_discount_modifier_name,@ui_faction_store_discount_modifier_desc,Percentage decrease to costs for objects in the faction store
 Free_Camping,false,1,@ui_free_camping_name,@ui_free_camping_desc,Enables free camping (no resource requirement)
+Azoth_FastTravel_GeneralCost_Reduction2,false,1,@ui_azoth_fasttravel_generalcost_reduction_name,@ui_azoth_fasttravel_generalcost_reduction_desc,Implemented as a reduction of the azoth base travel cost used in calculating total cost (set by stack config 'javelin.housing.fast-travel-settlement-cost')

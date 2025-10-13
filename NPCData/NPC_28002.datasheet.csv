@@ -1,1 +1,2 @@
 NPCId,GenericName,Title,ConversationStateId1,ConversationStateId2,ConversationStateId3,ConversationStateId4,ConversationStateId5,ConversationStateId6
+NPC_28002,@NPC_28002_name,@NPC_28002_title,NPC_28002_State_0,NPC_28002_State_1,NPC_28002_State_2,NPC_28002_State_3,NPC_28002_State_4,NPC_28002_State_5

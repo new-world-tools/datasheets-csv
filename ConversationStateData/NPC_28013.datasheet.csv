@@ -1,0 +1,4 @@
+ConversationStateId,ConversationType,DefaultDialogue,IsInitialState,RequiredLevel,RequiredFaction,RequiredFactionCooldown,ForceConversationOpen,LinearObjectiveId1,RequiredAchievement
+NPC_28013_State_0,Conversation,@NPC_28013_State_0_DefaultDialogue,true,0,None,NotInCooldown,false,,
+NPC_28013_State_1,Conversation,@NPC_28013_State_1_DefaultDialogue,false,0,None,NotInCooldown,false,Quest_28009,17_MSQ_10
+NPC_28013_State_2,Conversation,@NPC_28013_State_2_DefaultDialogue,false,0,None,NotInCooldown,false,,17_SQ_GraveRob_28009
