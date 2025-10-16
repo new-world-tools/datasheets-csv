@@ -900,9 +900,9 @@ S_MediumChest_SyndicateRank6_3,MediumChest_SyndicateRank6_3,,,,,,,1,0,1,96,Syndi
 S_MediumHands_SyndicateRank6_3,MediumHands_SyndicateRank6_3,,,,,,,1,0,1,97,SyndicateTokens,Syndicate,5,17250,96000,,,,,,,,0,0,,false
 S_MediumLegs_SyndicateRank6_3,MediumLegs_SyndicateRank6_3,,,,,,,1,0,1,98,SyndicateTokens,Syndicate,5,29250,192000,,,,,,,,0,0,,false
 S_MediumFeet_SyndicateRank6_3,MediumFeet_SyndicateRank6_3,,,,,,,1,0,1,99,SyndicateTokens,Syndicate,5,11700,96000,,,,,,,,0,0,,false
-S_RuneSpinningSwordsT4A,RuneSpinningSwordsT4A,,,,,,,1,0,1,100,SyndicateTokens,Syndicate,5,150000,2000000,,,,,,,,0,0,,false
-S_RuneSpinningSwordsT4B,RuneSpinningSwordsT4B,,,,,,,1,0,1,101,SyndicateTokens,Syndicate,5,150000,2000000,,,,,,,,0,0,,false
-S_RuneSpinningSwordsT4C,RuneSpinningSwordsT4C,,,,,,,1,0,1,102,SyndicateTokens,Syndicate,5,150000,2000000,,,,,,,,0,0,,false
+S_RuneSpinningSwordsT4A,RuneSpinningSwordsT4A,,,,,,,1,0,1,100,SyndicateTokens,Syndicate,5,150000,200000,,,,,,,,0,0,,false
+S_RuneSpinningSwordsT4B,RuneSpinningSwordsT4B,,,,,,,1,0,1,101,SyndicateTokens,Syndicate,5,150000,200000,,,,,,,,0,0,,false
+S_RuneSpinningSwordsT4C,RuneSpinningSwordsT4C,,,,,,,1,0,1,102,SyndicateTokens,Syndicate,5,150000,200000,,,,,,,,0,0,,false
 S_ClothingHead_AlchemistT52,ClothingHead_AlchemistT52,,,,,,,1,0,1,103,SyndicateTokens,Syndicate,5,85000,500000,,,,,,,,0,0,,false
 S_Mentor_LoggingXP,Mentor_LoggingXP,,,,,,,1,0,1,104,SyndicateTokens,Syndicate,5,10000,200000,,,,,,,82800,0,0,,false
 S_Mentor_HarvestingXP,Mentor_HarvestingXP,,,,,,,1,0,1,105,SyndicateTokens,Syndicate,5,10000,200000,,,,,,,82800,0,0,,false

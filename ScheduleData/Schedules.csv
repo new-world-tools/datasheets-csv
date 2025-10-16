@@ -12,7 +12,7 @@ EventChest,*-10-01T*:*:*,*-12-31T*:*:*,,,,,,,For Diamond Gypsum Events (Conceale
 FortunesOfTheBold,2023-08-16T*:*:*,2023-08-30T*:*:*,,,false,,,,For C2C event Fortunes of the Bold (Rafflebones)
 EventSummer,2024-06-04T*:*:*,2024-07-02T*:*:*,,,true,,frontendv2_summermedely,coatlicue/Frontend,Summer Medleyfaire
 EventHalloween,2025-10-28T13:00:00,2025-11-17T07:30:00,,,true,,,,Nightveil Hollow
-EventWinter,2025-12-17T06:30:00,2026-01-20T12:30:00,,,true,,NW_Frontend_WinterConv,coatlicue/NW_Frontend_Base,Winter Convergence
+EventWinter,,,,,true,,NW_Frontend_WinterConv,coatlicue/NW_Frontend_Base,Winter Convergence
 EventSpring,2024-04-09T*:*:*,2024-05-01T*:*:*,,,true,,frontendv2_springtide,coatlicue/Frontend,Springtide Bloom
 EventLunarNewYear,2024-02-06T*:*:*,2024-02-20T*:*:*,,,false,,,,Lunar New Year
 EventLunarNewYear_Rotation01,,,Sunday,Tuesday,false,,,,"Tribute run rotation: S,M,T for Skysong Temple"
