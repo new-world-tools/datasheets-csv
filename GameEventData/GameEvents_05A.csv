@@ -1,1 +1,57 @@
 EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExpAmount,CurrencyReward,RewardsNotes,ItemReward,ItemRewardQty,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionTokens,FactionInfluenceAmount,FactionInfluenceSrc,AzothReward,AzothRewardChance,WhisperId,AchievementId,IgnoreEconomyTracker,EntitlementId,PVPXP,RemoveStatusEffectCategories,EmitTelemetry
+05A_MSQ_01_success,,65,Quest,,,3770,11875,New MSQ,RW_PVEResource_Token,1,,,,600,,,,,50,1,,,,,,,true
+05A_MSQ_02_success,,65,Quest,,,3770,11875,New MSQ,RW_PVEResource_Token,1,,,,600,,,,,50,1,,,,,,,true
+05A_MSQ_03_success,,65,Quest,,,3770,11875,New MSQ,RW_PVEResource_Token,1,,,,600,,,,,50,1,,,,,,,true
+05A_SQ_01_success,,65,Quest,,,3770,11875,Side Quest,RW_PVEResource_Token,1,,,,600,,,,,50,1,,,,,,,true
+05A_SQ_02_success,,65,Quest,,,3770,11875,Side Quest,RW_PVEResource_Token,1,,,,600,,,,,50,1,,,,,,,true
+05A_SQ_03_success,,65,Quest,,,3770,11875,Side Quest,RW_PVEResource_Token,1,,,,600,,,,,50,1,,,,,,,true
+05A_SQ_04_success,,65,Quest,,,3770,11875,Side Quest,RW_PVEResource_Token,1,,,,600,,,,,50,1,,,,,,,true
+05A_SQ_05_success,,65,Quest,,,3770,11875,Side Quest,RW_PVEResource_Token,1,,,,600,,,,,50,1,,,,,,,true
+05A_SQ_06_success,,65,Quest,,,3770,11875,Side Quest,RW_PVEResource_Token,1,,,,600,,,,,50,1,,,,,,,true
+05A_SQ_07_success,,65,Quest,,,3770,11875,Side Quest,RW_PVEResource_Token,1,,,,600,,,,,50,1,,,,,,,true
+05A_EQ_01_success,,65,Quest+,,,4530,16625,L65 Dungeon,1hShield_SQRewardReekwaterT5,,,,,800,,,,,100,1,,,,,,,true
+05A_WQ_01_success,,65,Quest,,,3770,11875,Weekly quest,RW_PVEResource_Token,5,,,,600,,,,,50,1,,,,,,,true
+05A_WQ_02_success,,65,Quest,,,3770,11875,Weekly quest,RW_PVEResource_Token,5,,,,600,,,,,50,1,,,,,,,true
+05A_RSQ_01_success,,65,Quest,,,3770,11875,Repeatable - no item,RW_PVEResource_Token,1,,,,600,,,,,50,1,,,,,,,true
+05A_RSQ_02_success,,65,Quest,,,3770,11875,Repeatable - no item,RW_PVEResource_Token,1,,,,600,,,,,50,1,,,,,,,true
+05A_RSQ_03_success,,65,Quest,,,3770,11875,Repeatable - no item,RW_PVEResource_Token,1,,,,600,,,,,50,1,,,,,,,true
+05A_RSQ_04_success,,65,Quest,,,3770,11875,Repeatable - no item,RW_PVEResource_Token,1,,,,600,,,,,50,1,,,,,,,true
+05A_RSQ_05_success,,65,Quest,,,3770,11875,Repeatable - no item,RW_PVEResource_Token,1,,,,600,,,,,50,1,,,,,,,true
+05A_RSQ_06_success,,65,Quest,,,3770,11875,Repeatable - no item,RW_PVEResource_Token,1,,,,600,,,,,50,1,,,,,,,true
+05A_RSQ_07_success,,65,Quest,,,3770,11875,Repeatable - no item,RW_PVEResource_Token,1,,,,600,,,,,50,1,,,,,,,true
+05A_MSQ_DamagedHeartgem_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0501_BlightNodule_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0502_CrystalCluster_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0503_DryadAltar_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0503_DryadAltar_WaveParticipant,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0503_DryadAltar_WaveComplete,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0504_AncientBookcase_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0505_TowerMural_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0506_RelicPile_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0507_AncientRubble_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0507_AncientRubble_WaveParticipant,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0507_AncientRubble_WaveComplete,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0508_HeartDevice_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0509_StoneTablet_00_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0509_StoneTablet_01_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0509_StoneTablet_02_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0509_StoneTablet_03_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0510_AncientMap_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0511_PowderkegA_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0511_PowderkegA_WaveParticipant,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0511_PowderkegA_WaveComplete,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0512_PowderkegB_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0512_PowderkegB_WaveParticipant,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0512_PowderkegB_WaveComplete,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0513_LighthouseLure_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0513_LighthouseLure_WaveParticipant,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0513_LighthouseLure_WaveComplete,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0514_StoneWallTablet_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0517_AncientTowerDoor_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0518_SirenMachine_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0519_EmptyAzothPowerSource_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0520_StygianChannelSegmentA_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0520_StygianChannelSegmentB_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0520_StygianChannelSegmentC_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0520_StygianChannelSegmentD_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
+0521_WyrdwoodSeedPod_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true

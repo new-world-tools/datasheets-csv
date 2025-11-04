@@ -1,29 +1,4 @@
 EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExpAmount,CurrencyReward,RewardsNotes,ItemReward,ItemRewardQty,GearScoreRange,CategoricalProgressionId,CategoricalProgressionReward,TerritoryStanding,FactionReputation,FactionTokens,FactionInfluenceAmount,FactionInfluenceSrc,AzothReward,AzothRewardChance,WhisperId,AchievementId,IgnoreEconomyTracker,EntitlementId,PVPXP,RemoveStatusEffectCategories,EmitTelemetry
-0502_0101_ancientscholar_success,,58,Quest,,,3520,11000,,CRX_RewardContainerT5_Headgear_60,,,,,600,,,,,50,1,,,,,,,true
-0504_0101_anexpandingthreat_success,,58,Quest+,,,4220,15400,,CRX_RewardContainerT5_Weapons_60,,,,,800,,,,,100,1,,,,,,,true
-0504_0102_defianceanddoubt_success,,58,Quest-,,,2820,4400,,CRX_RewardContainerT5_Footwear_60,,,,,400,,,,,25,1,,,,,,,true
-0524_0101_ahungerforfreedom_success,,58,Quest-,,,2820,4400,,CRX_RewardContainerT5_Chestwear_60,,,,,400,,,,,25,1,,,,,,,true
-0503_0101_onfloralfauna_success,,58,Quest,,,3520,11000,,CRX_RewardContainerT5_Weapons_60,,,,,600,,,,,50,1,,,,,,,true
-0505_0101_pruningandirrigation_success,,58,Quest,,,3520,11000,,CRX_RewardContainerT5_Handwear_60,,,,,600,,,,,50,1,,,,,,,true
-0502_0102_hopespringseternal_success,,59,Quest+,,,4270,15575,,CRX_RewardContainerT5_Legwear_60,,,,,800,,,,,100,1,,,,,,,true
-0502_0103_pathsunseen_success,,59,Quest,,,3560,11125,,CRX_RewardContainerT5_Weapons_60,,,,,600,,,,,50,1,,,,,,,true
-0524_0102_queensgambit_success,,59,Quest+,,,4270,15575,,CRX_RewardContainerT5_Chestwear_60,,,,,800,,,,,100,1,,,,,,,true
-0505_0102_downstreameffects_success,,59,Quest+,,,4270,15575,,CRX_RewardContainerT5_Headgear_60,,,,,800,,,,,100,1,,,,,,,true
-0503_0201_excisingtheblightedroot_success,,59,Quest+,,,4270,15575,,CRX_RewardContainerT5_Weapons_60,,,,,800,,,,,100,1,,,,,,,true
-0502_0104_anatomyoftheheart_success,,60,Quest+,,,4310,15750,,Earring_SQRewardReekwaterT5,,,,,800,,,,,100,1,,,,,,,true
-0502_0105_seekandhide_success,,60,Quest,,,3590,11250,,2hWarhammer_SQRewardReekwaterT5,,,,,600,,,,,50,1,,,,,,,true
-0511_0101_aguardiansplight_success,,60,Quest+,,,4310,15750,Custom,LightHead_SQRewardReekwaterT5,,,,,800,,,,,100,1,,,,,,,true
-0524_0103_shiveringtimbers_success,,60,Quest+,,,4310,15750,,Ring_SQRewardReekwaterT5,,,,,800,,,,,100,1,,,,,,,true
-0504_0201_wordsofpower_success,,60,Quest,,,3590,11250,,Amulet_SQRewardReekwaterT5,,,,,600,,,,,50,1,,,,,,,true
-0504_0202_aplansdeconstruction_success,,60,Quest+,,,4310,15750,Custom,1hThrowingAxe_SQRewardReekwaterT5,,,,,800,,,,,100,1,,,,,,,true
-0503_0202_burdenofatonement_success,,60,Quest+,,,4310,15750,,LightFeet_SQRewardReekwaterT5,,,,,800,,,,,100,1,,,,,,,true
-0503_0203_wardensofthegreen_success,,60,Quest+,,,4310,15750,Custom,Earring2_SQRewardReekwaterT5,,,,,800,,,,,100,1,,,,,,,true
-0504_0401_thequeenisdead_success,,65,Quest+,,,4530,16625,Custom,2hBow_SQRewardReekwaterT5,,,,,800,,,,,100,1,,,,,,,true
-0510_0101_longlivethequeen_success,,65,Quest+,,,4530,16625,Repeatable - no item,,,,,,800,,,,,100,1,,,,,,,true
-0503_0301_theeternalpool_success,,65,Quest+,,,4530,16625,Custom,1hLongsword_SQRewardReekwaterT5,,,,,800,,,,,100,1,,,,,,,true
-0505_0103_thedryadpromenade_success,,65,Quest+,,,4530,16625,Repeatable - no item,,,,,,800,,,,,100,1,,,,,,,true
-0502_0106_primevalcyclops_success,,65,Quest+,,,20000,16625,L65 Dungeon,1hShield_SQRewardReekwaterT5,,,,,800,,,,,100,1,,,,,,,true
-0511_0101_aguardiansplight_failure,,0,Quest+,,,0,0,,,,,,,,,,,,,1,,,,,,,true
 0511_0201_UmbrasReach_success,,60,Quest+,,,4310,15750,Legendary Weapon,1hGauntletVoid_UmbrasReachT5,,,,,,,,,,100,1,,,,,,,true
 0511_0202_UmbrasReach_inbrightestlight_success,,60,Quest+,,,4310,15750,,,,,,,,,,,,100,1,,,,,,,true
 0511_0203_UmbrasReach_stygianchannel_success,,60,Quest+,,,4310,15750,,,,,,,,,,,,100,1,,,,,,,true
@@ -33,39 +8,4 @@ EventID,GameEventType,Level,CreatureType,RewardModifier,Reward Type,UniversalExp
 0511_0207_UmbrasReach_powerofthevoid_success,,60,Quest+,,,4310,15750,,,,,,,,,,,,100,1,,,,,,,true
 0511_0208_UmbrasReach_duskyfocus_success,,60,Quest+,,,4310,15750,,,,,,,,,,,,100,1,,,,,,,true
 0511_0209_UmbrasReach_holdbackthenight_success,,60,Quest+,,,4310,15750,,,,,,,,,,,,100,1,,,,,,,true
-0501_BlightNodule_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0502_CrystalCluster_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0503_DryadAltar_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0503_DryadAltar_WaveParticipant,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0503_DryadAltar_WaveComplete,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0504_AncientBookcase_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0505_TowerMural_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0506_RelicPile_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0507_AncientRubble_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0507_AncientRubble_WaveParticipant,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0507_AncientRubble_WaveComplete,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0508_HeartDevice_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0509_StoneTablet_00_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0509_StoneTablet_01_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0509_StoneTablet_02_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0509_StoneTablet_03_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0510_AncientMap_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0511_PowderkegA_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0511_PowderkegA_WaveParticipant,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0511_PowderkegA_WaveComplete,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0512_PowderkegB_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0512_PowderkegB_WaveParticipant,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0512_PowderkegB_WaveComplete,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0513_LighthouseLure_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0513_LighthouseLure_WaveParticipant,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0513_LighthouseLure_WaveComplete,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0514_StoneWallTablet_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0517_AncientTowerDoor_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0518_SirenMachine_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0519_EmptyAzothPowerSource_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0520_StygianChannelSegmentA_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0520_StygianChannelSegmentB_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0520_StygianChannelSegmentC_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0520_StygianChannelSegmentD_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
-0521_WyrdwoodSeedPod_interact,,0,Quest-,,,0,0,,,,,,,,,,,,0,0,,,,,,,true
 0525_EXP_AncientHearts_success,,60,Quest+,,,4310,13090,,CRX_RepeatableReward_Lazarus,,,,,375,,,,,30,1,,,,,,,true

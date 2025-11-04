@@ -1,0 +1,4 @@
+ConversationStateId,ConversationType,DefaultDialogue,IsInitialState,RequiredLevel,RequiredFaction,RequiredFactionCooldown,ForceConversationOpen,LinearObjectiveId1,RequiredAchievement
+NPC_04293_State_0,Conversation,@NPC_04293_State_0_DefaultDialogue,true,0,None,NotInCooldown,false,,
+NPC_04293_State_1,Conversation,@NPC_04293_State_1_DefaultDialogue,false,65,None,NotInCooldown,false,Quest_18004,05A_MSQ_03
+NPC_04293_State_2,Conversation,@NPC_04293_State_2_DefaultDialogue,false,65,None,NotInCooldown,false,Quest_02792,05A_SQ_01

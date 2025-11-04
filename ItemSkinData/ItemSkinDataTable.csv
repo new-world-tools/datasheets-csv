@@ -2615,3 +2615,8 @@ Skin_2hLifeStaff_MemoryWeapon,2672,1,,EquippableMainHand,LifeStaff,,Skin_2hLifeS
 Skin_2hVoidGauntlet_MemoryWeapon,2673,1,,EquippableMainHand,VoidGauntlet,,Skin_2hVoidGauntlet_MemoryWeapon,,false
 Skin_2hIceGauntlet_MemoryWeapon,2674,1,,EquippableMainHand,IceMagic,,Skin_2hIceGauntlet_MemoryWeapon,,false
 Skin_1hFlail_MemoryWeapon,2675,1,,EquippableMainHand,Flail,,Skin_1hFlail_MemoryWeapon,,false
+Skin_Chest_MushroomRaider,2676,1,,EquippableChest,,,Skin_Chest_MushroomRaider,MushroomRaider,false
+Skin_Head_MushroomRaider,2677,1,,EquippableHead,,,Skin_Head_MushroomRaider,MushroomRaider,false
+Skin_Legs_MushroomRaider,2678,1,,EquippableLegs,,,Skin_Legs_MushroomRaider,MushroomRaider,false
+Skin_Feet_MushroomRaider,2679,1,,EquippableFeet,,,Skin_Feet_MushroomRaider,MushroomRaider,false
+Skin_Gloves_MushroomRaider,2680,1,,EquippableHands,,,Skin_Gloves_MushroomRaider,MushroomRaider,false

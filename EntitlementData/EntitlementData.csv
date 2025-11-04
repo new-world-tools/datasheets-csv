@@ -3335,3 +3335,9 @@ Entitlement_Skin_2hLifeStaff_MemoryWeapon,3530,true,,,,,ItemSkin,Skin_2hLifeStaf
 Entitlement_Skin_2hVoidGauntlet_MemoryWeapon,3531,true,,,,,ItemSkin,Skin_2hVoidGauntlet_MemoryWeapon,,,,,,
 Entitlement_Skin_2hIceGauntlet_MemoryWeapon,3532,true,,,,,ItemSkin,Skin_2hIceGauntlet_MemoryWeapon,,,,,,
 Entitlement_Skin_1hFlail_MemoryWeapon,3533,true,,,,,ItemSkin,Skin_1hFlail_MemoryWeapon,,,,,,
+Entitlement_Skin_Chest_MushroomRaider,3534,true,,,,,ItemSkin,Skin_Chest_MushroomRaider,,,,,,
+Entitlement_Skin_Head_MushroomRaider,3535,true,,,,,ItemSkin,Skin_Head_MushroomRaider,,,,,,
+Entitlement_Skin_Legs_MushroomRaider,3536,true,,,,,ItemSkin,Skin_Legs_MushroomRaider,,,,,,
+Entitlement_Skin_Feet_MushroomRaider,3537,true,,,,,ItemSkin,Skin_Feet_MushroomRaider,,,,,,
+Entitlement_Skin_Gloves_MushroomRaider,3538,true,,,,,ItemSkin,Skin_Gloves_MushroomRaider,,,,,,
+Ent_Mount_MTX_turkey_skeleton,3539,true,@ui_mounts_MTX_1_skeletonturkey_name,@ui_mounts_MTX_1_skeletonturkey_description,,,Mount,Mount_MTX_2_Turkey_Skeleton,,,,,,Ent_Xpack_RiseOfTheAngryEarth_Owner

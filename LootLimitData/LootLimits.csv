@@ -336,4 +336,4 @@ Artifact_Set3_1hThrowingAxe,false,0,0,1,0,0,0,,,,Artifact_Set3_1hThrowingAxe,tru
 Artifact_Set3_2hWarhammer,false,0,0,1,0,0,0,,,,Artifact_Set3_2hWarhammer,true,0.1
 Artifact_Set3_2hGreatSword,false,0,0,1,0,0,0,,,,Artifact_Set3_2hGreatSword,true,0.2
 Artifact_Set3_2hBow,false,0,0,1,0,0,0,,,,Artifact_Set3_2hBow,true,0.2
-UmbralCurrency,true,0,0,4000,604800,604800,604800,,,,,,
+UmbralCurrency,true,0,0,5000,604800,604800,604800,,,,,,

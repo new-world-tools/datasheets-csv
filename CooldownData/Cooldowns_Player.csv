@@ -91,3 +91,9 @@ Ability_Flail_Burst,16,0,Flail
 Ability_Flail_Charge,25,0,Flail
 Ability_Flail_Trip,18,0,Flail
 Ability_Flail_DefensiveStrike,22,0,Flail
+Ability_Dagger_Flurry,15,0,Dagger
+Ability_Dagger_DoubleStab,30,0,Dagger
+Ability_Dagger_DashSlice,15,0,Dagger
+Ability_Dagger_Ambush,20,0,Dagger
+Ability_Dagger_Throw,15,0,Dagger
+Ability_Dagger_Stealth,30,0,Dagger

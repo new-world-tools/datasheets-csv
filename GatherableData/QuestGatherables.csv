@@ -500,6 +500,7 @@ MSQ_Beach_Damned_Monolith,@MSQ_Beach_Damned_Monolith_DisplayName,None,None,,Empt
 98_Covenant_03_Candle_03,@98_Covenant_03_Candle_DisplayName,None,None,,Empty,,200,300,,,,2,false,NoToolNecessary,false,98_Covenant_03_Candle_03_interact,,,,,true,true,,,,,,,false,,,,,,,,,,
 98_Syndicate_03_Well_01,@98_Syndicate_03_Well_A_DisplayName,Handcrafting,None,,Empty,,200,300,None,,,5,false,NoToolNecessary,true,98_Syndicate_03_Well_A_Interact,,,,,false,false,,,,,,,false,,,,,,,,,,
 98_Syndicate_03_Well_02,@98_Syndicate_03_Well_B_DisplayName,Handcrafting,None,,Empty,,200,300,None,,,5,false,NoToolNecessary,true,98_Syndicate_03_Well_B_Interact,,,,,false,false,,,,,,,false,,,,,,,,,,
+05A_MSQ_DamagedHeartgem,@05A_MSQ_DamagedHeartgem_DisplayName,Handcrafting,None,,Empty,,200,300,None,,,2,false,NoToolNecessary,false,05A_MSQ_DamagedHeartgem_interact,,,,,true,true,,,,,,,false,,,,,,,,,,
 17_MSQ_StackCrates,@17_MSQ_StackCrates_DisplayName,None,None,,Empty,,200,300,None,,,2,false,NoToolNecessary,false,17_MSQ_StackCrates_Interact,,,,,true,true,,,,,,,false,,,,,,,,,,
 17_MSQ_BoardWindowA,@17_MSQ_BoardWindow_DisplayName,Handcrafting,None,Interact_Carpentry,Empty,,200,300,None,,,2,false,NoToolNecessary,false,17_MSQ_BoardWindowA_Interact,,,,,true,true,,,,,,,false,,,,,,,,,,
 17_MSQ_BoardWindowB,@17_MSQ_BoardWindow_DisplayName,Handcrafting,None,Interact_Carpentry,Empty,,200,300,None,,,2,false,NoToolNecessary,false,17_MSQ_BoardWindowB_Interact,,,,,true,true,,,,,,,false,,,,,,,,,,

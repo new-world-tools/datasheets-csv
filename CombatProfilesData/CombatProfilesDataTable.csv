@@ -2,6 +2,7 @@ WeaponName,ProfileType,ProfileName,CameraLockProfileName
 2HAxe,Weapon,Axe2HGeneric,Axe2HCameraLock
 Blunderbuss,Weapon,BlunderbussGeneric,BlunderbussCameraLock
 Bow,Weapon,BowGeneric,BowCameraLock
+Dagger,Weapon,DaggerGeneric,DaggerCameraLock
 FireStaff,Weapon,FireStaffGeneric,FireStaffCameraLock
 Flail,Weapon,FlailGeneric,FlailCameraLock
 GreatSword,Weapon,GreatSwordGeneric,GreatSwordCameraLock

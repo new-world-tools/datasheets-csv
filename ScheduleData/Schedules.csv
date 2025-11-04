@@ -18,6 +18,7 @@ EventLunarNewYear,2024-02-06T*:*:*,2024-02-20T*:*:*,,,false,,,,Lunar New Year
 EventLunarNewYear_Rotation01,,,Sunday,Tuesday,false,,,,"Tribute run rotation: S,M,T for Skysong Temple"
 EventLunarNewYear_Rotation02,,,Wednesday,Thursday,false,,,,"Tribute run rotation: W,H for Serenity Outpost"
 EventLunarNewYear_Rotation03,,,Friday,Saturday,false,,,,"Tribute run rotation: F,S for Imperial Palace"
+EventNightHaven_Frontend,2025-10-01T*:*:*,2027-10-01T*:*:*,,,true,,NW_Frontend_NightHaven,coatlicue/NW_Frontend_Base,Nighthaven frontend level
 Minutely,*-*-*T*:*:00,,,,,@objective_minutely_description,,,Once per minute schedule
 Hourly,*-*-*T*:00:00,,,,,@objective_hourly_description,,,Hourly schedule
 Daily,*-*-*TDailyCooldown,,,,,@objective_daily_description,,,Daily schedule - resets at daily cooldown config time

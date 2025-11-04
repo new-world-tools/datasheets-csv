@@ -1,6 +1,7 @@
 NPAId,ReqAchievementConditional,ObjectiveFlow,ReqStatusEffectId
-*SwapActive_18064_Charon,,u:Quest_18008,
-*SwapActive_18034_Morgaine,,"u:Quest_18008,l:Quest_18009/Quest_18009_Task_1:c",
+*SwapActive_18064_Charon,17_PQ_Vector_Start,,
+*SwapActive_18034_Morgaine,17_PQ_Vector_Start&&!*SwapActive_18034_Morgaine_off,,
+*SwapActive_18034_Morgaine_off,,u:Quest_18009/Quest_18009_Task_1:c,
 *SwapActive_18035_Morgaine,,"u:Quest_18009/Quest_18009_Task_1,l:Quest_18013",
 *SwapActive_18028_Lynette,,"u:Quest_18009/Quest_18009_Task_1,l:Quest_18010/Quest_18010_Task_6",
 *SwapActive_18059_Lynette,,"u:Quest_18010/Quest_18010_Task_6:c,l:Quest_18010/Quest_18010_Task_4:c",
