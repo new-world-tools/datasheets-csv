@@ -1,0 +1,4 @@
+ConversationStateId,ConversationType,DefaultDialogue,IsInitialState,RequiredLevel,RequiredFaction,RequiredFactionCooldown,ForceConversationOpen,RequiredAchievement,RequiredActiveObjectiveId,RequiredActiveTaskId
+NPC_16174_State_0,Conversation,@NPC_16174_State_0_DefaultDialogue,true,0,None,NotInCooldown,false,,,
+NPC_16174_State_1,Conversation,@NPC_16174_State_1_DefaultDialogue,false,0,None,NotInCooldown,false,DA_17ZQ_lynetteracedonce,Quest_16032,Quest_16032_Task_13
+NPC_16174_State_3,Conversation,@NPC_16174_State_3_DefaultDialogue,false,0,None,NotInCooldown,false,,Quest_16032,Quest_16032_Task_13

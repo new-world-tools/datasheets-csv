@@ -1,0 +1,3 @@
+ConversationStateId,ConversationType,DefaultDialogue,IsInitialState,RequiredLevel,RequiredFaction,RequiredFactionCooldown,ForceConversationOpen,LinearObjectiveId1,RequiredAchievement
+NPC_16161_State_0,Conversation,@NPC_16161_State_0_DefaultDialogue,true,0,None,NotInCooldown,false,,
+NPC_16161_State_1,Conversation,@NPC_16161_State_1_DefaultDialogue,false,0,None,NotInCooldown,false,Quest_16026,17_ZQU_S5 && 17_ZQU_RU2PushReqTmp

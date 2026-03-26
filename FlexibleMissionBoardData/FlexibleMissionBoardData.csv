@@ -1,1 +1,3 @@
 FlexibleMissionBoardId,MissionBoardName,ReputationId,MissionObjectiveType,MissionWeightsBucket,MaxDisplayableMissionsCount,DailyRewardModifierId,DailyBonusesCount,MissionRefreshIntervalMinutes,DisplayNpcShopButton,RankNameColor,ReputationBarRankIcon,WalletDisplayProgression
+UpyrMissionBoard,Upyr Mission board,UpyrReputation,Mission,Affinity,6,AffinityMissionBonus,7,10,true,#FF46A2,,UpyrCurrency
+BerlaurMissionBoard,Berlaur Mission Board,BerlaurReputation,Mission,Affinity,6,AffinityMissionBonus,7,10,true,#FF46A2,,BerlaurCurrency

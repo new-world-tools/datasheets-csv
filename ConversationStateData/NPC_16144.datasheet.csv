@@ -1,0 +1,3 @@
+ConversationStateId,ConversationType,DefaultDialogue,IsInitialState,RequiredLevel,RequiredFaction,RequiredFactionCooldown,ForceConversationOpen,LinearObjectiveId1,RequiredAchievement
+NPC_16144_State_0,Conversation,@NPC_16144_State_0_DefaultDialogue,true,0,None,NotInCooldown,false,,
+NPC_16144_State_1,Conversation,@NPC_16144_State_1_DefaultDialogue,false,0,None,NotInCooldown,false,Quest_16022,17_ZQU_S2

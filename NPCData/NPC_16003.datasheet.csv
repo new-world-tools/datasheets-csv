@@ -1,0 +1,2 @@
+NPCId,GenericName,Title,InteractOptionDisplayNameOverride,ConversationStateId1,ConversationStateId2,ConversationStateId3,ConversationStateId4,ConversationStateId5
+NPC_16003,@NPC_16003_name,@NPC_16003_title,Listen to Speech,NPC_16003_State_0,NPC_16003_State_1,NPC_16003_State_2,NPC_16003_State_4,NPC_16003_State_3

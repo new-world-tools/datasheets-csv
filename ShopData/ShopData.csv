@@ -3,6 +3,8 @@ TestShop,Syndicate,Amazon Games,LyShineUI\Images\frontend\image_logo_newworld_ce
 CovenantShop,Syndicate,@ui_shop_syndicate_name,lyshineui/images/crests/foregrounds/icon_faction_fg_3_small.dds,,,,,,,,,,true,@ui_shop_faction_reputation_tooltip,true,,,CovenantTokens,,,,,
 MaraudersShop,Marauders,@ui_shop_marauders_name,lyshineui/images/crests/foregrounds/icon_faction_fg_2_small.dds,,,,,,,,,,true,@ui_shop_faction_reputation_tooltip,true,,,MarauderTokens,,,,,
 SyndicateShop,Syndicate,@ui_shop_covenant_name,lyshineui/images/crests/foregrounds/icon_faction_fg_1_small.dds,,,,,,,,,,true,@ui_shop_faction_reputation_tooltip,true,,,SyndicateTokens,,,,,
+UpyrShop,UpyrReputation,@ui_shop_upyr_name,,,,,true,true,true,,,,true,@ui_shop_upyr_reputation_tooltip,,,,UpyrCurrency,,,,,
+BerlaurShop,BerlaurReputation,@ui_shop_berlaur_name,,,,,true,true,true,,,,true,@ui_shop_berlaur_reputation_tooltip,,,,BerlaurCurrency,,,,,
 CatacombsShop,CatacombsShop,@ui_shop_catacombs_name,,LyShineUI\Images\Icons\WorldMap\catacomb.png,,,true,true,true,,LyShineUI\Images\Map\tooltipImages\mapTooltip_catacomb.png,@ui_shop_maptooltip_description,false,,true,,,CatacombsCurrency_Crowns,CatacombsCurrency_Silvers,,,,
 WinterConvergenceShop,EventProgress,@ui_shop_winter_convergence_name,,,,,,,,,,,true,@ui_shop_seasonal_event_reputation_tooltip,true,,,,,,WCToken,WCPToken,
 SumerMedleyfaireShop,SummerEventProgress,@ui_shop_summer_medleyfaire_name,,,,,,,,,,,true,@ui_shop_seasonal_event_reputation_tooltip,true,,,,,,SummerMedley_Token,SummerMedley_PremiumToken,

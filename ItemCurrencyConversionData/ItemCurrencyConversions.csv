@@ -1211,3 +1211,13 @@ CS_Entitlement_Skin_Head_CatacombsWitchHeavy,,Entitlement_Skin_Head_CatacombsWit
 CS_Entitlement_Skin_Legs_CatacombsWitchHeavy,,Entitlement_Skin_Legs_CatacombsWitchHeavy,,,,,,1,0,1,53,CatacombsShop,CatacombsCurrency_Silvers,0,,,CatacombsCurrency_Crowns,10,,,,,,0,0,,false
 CS_Entitlement_Skin_Feet_CatacombsWitchHeavy,,Entitlement_Skin_Feet_CatacombsWitchHeavy,,,,,,1,0,1,54,CatacombsShop,CatacombsCurrency_Silvers,0,,,CatacombsCurrency_Crowns,10,,,,,,0,0,,false
 CS_Entitlement_Skin_Gloves_CatacombsWitchHeavy,,Entitlement_Skin_Gloves_CatacombsWitchHeavy,,,,,,1,0,1,55,CatacombsShop,CatacombsCurrency_Silvers,0,,,CatacombsCurrency_Crowns,10,,,,,,0,0,,false
+UpyrShop_MinorMastery_LoggingXP,MinorMastery_LoggingXP,,,,,,,1,0,1,0,UpyrReputation,UpyrReputation,0,,,UpyrCurrency,100,,,,,,0,0,,false
+UpyrShop_MinorMastery_HarvestingXP,MinorMastery_HarvestingXP,,,,,,,1,0,1,1,UpyrReputation,UpyrReputation,0,,,UpyrCurrency,100,,,,,,0,0,,false
+UpyrShop_MinorMastery_MiningXP,MinorMastery_MiningXP,,,,,,,1,0,1,2,UpyrReputation,UpyrReputation,0,,,UpyrCurrency,100,,,,,,0,0,,false
+UpyrShop_MinorMastery_SkinningXP,MinorMastery_SkinningXP,,,,,,,1,0,1,3,UpyrReputation,UpyrReputation,0,,,UpyrCurrency,100,,,,,,0,0,,false
+UpyrShop_MinorMastery_FishingXP,MinorMastery_FishingXP,,,,,,,1,0,1,4,UpyrReputation,UpyrReputation,0,,,UpyrCurrency,100,,,,,,0,0,,false
+BerlaurShop_MinorMastery_LoggingXP,MinorMastery_LoggingXP,,,,,,,1,0,1,0,BerlaurReputation,BerlaurReputation,0,,,BerlaurCurrency,100,,,,,,0,0,,false
+BerlaurShop_MinorMastery_HarvestingXP,MinorMastery_HarvestingXP,,,,,,,1,0,1,1,BerlaurReputation,BerlaurReputation,0,,,BerlaurCurrency,100,,,,,,0,0,,false
+BerlaurShop_MinorMastery_MiningXP,MinorMastery_MiningXP,,,,,,,1,0,1,2,BerlaurReputation,BerlaurReputation,0,,,BerlaurCurrency,100,,,,,,0,0,,false
+BerlaurShop_MinorMastery_SkinningXP,MinorMastery_SkinningXP,,,,,,,1,0,1,3,BerlaurReputation,BerlaurReputation,0,,,BerlaurCurrency,100,,,,,,0,0,,false
+BerlaurShop_MinorMastery_FishingXP,MinorMastery_FishingXP,,,,,,,1,0,1,4,BerlaurReputation,BerlaurReputation,0,,,BerlaurCurrency,100,,,,,,0,0,,false

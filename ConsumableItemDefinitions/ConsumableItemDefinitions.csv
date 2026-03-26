@@ -583,4 +583,5 @@ SerumRegen_BattleRoyale,SerumRegen,1,25,0,0,1,,,,,,,,,,,,,,,,,,,Potion,,40,Survi
 PotionMana_BattleRoyale,PotionManaT5,1,0,0,0,1,,,,,,,,,,,,,,,,,,,Potion,,15,PotionMana,,,
 Ethereal_MountFood,Status_Mount_GrantRidingXP_5Levels,1,,,,,,,,,MountFoodUtility,,,,,,,,,,,,,,MountItem,,15,,,Mount_FoodDailyXP_Limit,true
 Catacombs_Potion_RemoveErosion,Catacombs_AbsorbErosion,,,,,,,,,,,,,,,,,,,,,,,,Potion,,3,,,,
+17ZQ_DevilsTongue,,,,,,,,,,,,,,,,,,,,,,,,,WeaponOil,,,,,,
 PotionFoolSightT5,17DW_FoolSightPotion,1,1800,0,0,1,,,,,,,,,,,,,,,,,,,Potion,,,,,,

@@ -1,0 +1,4 @@
+NPCId,GenericName,Title,ConversationStateId1,AffinityReputationId,ShopId,MissionBoardId
+NPC_28011,@NPC_28011_name,@NPC_28011_title,NPC_28011_State_0,"UpyrReputation
+",UpyrShop,"UpyrMissionBoard
+"

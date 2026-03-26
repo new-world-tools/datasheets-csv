@@ -1,0 +1,2 @@
+NPCId,GenericName,Title,ConversationStateId1,AffinityReputationId,ShopId,MissionBoardId
+NPC_28012,@NPC_28012_name,@NPC_28012_title,NPC_28012_State_0,BerlaurReputation,BerlaurShop,BerlaurMissionBoard

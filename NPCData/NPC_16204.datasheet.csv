@@ -1,0 +1,2 @@
+NPCId,GenericName,Title,InteractOptionDisplayNameOverride,ConversationStateId1,ConversationStateId2
+NPC_16204,@NPC_16204_name,@NPC_16204_title,Examine Stump,NPC_16204_State_0,NPC_16204_State_1
