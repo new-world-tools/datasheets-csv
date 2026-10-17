@@ -1,5 +1,5 @@
 AfkModeId,ResetMinMove,ScaleAfkTimerAmount,UpdatePlayerPopulationCheckDelaySeconds,WarnSeconds,DisconnectSeconds
-Default,0.01,1,10,900,1200
+Default,0.01,1,10,82800,86400
 Disabled,0,1,10,0,0
 3v3Arena,1,1,10,180,300
 3v3ArenaRound,1,1,10,15,30
